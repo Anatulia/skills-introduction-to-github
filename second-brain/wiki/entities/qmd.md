@@ -21,8 +21,12 @@ in the [[llm-wiki-pattern]]. Runs **100% on-device**.
   queries into variations (original weighted 2×).
 - **Interfaces:** CLI (`qmd search` / `vsearch` / `query`) and an **MCP server**
   (stdio + HTTP) for agent integration.
+- **Install:** Node/Bun CLI — `npm install -g @tobilu/qmd`.
 - **Role in the brain:** the search layer used when `index.md` alone isn't enough
-  as the wiki grows. **Next tool to integrate (Step 2).**
+  as the wiki grows. **Step 2 — integration prepared.** Setup guide:
+  `tools/qmd-setup.md`; one-shot indexer: `tools/qmd-index.sh`. MCP wiring for
+  Claude Code documented (plugin marketplace `tobi/qmd`). Run on the Mac/PC where
+  files live (not the ephemeral remote session).
 
 ## Connections
 - Core tool of: [[llm-wiki-pattern]]

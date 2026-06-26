@@ -18,3 +18,11 @@
   andrej-karpathy + community-projects-overview).
 - data gaps: memex page unverified (Wikipedia 403); projectbrain.md unreachable (403).
 - index.md updated → 1 source, 10 pages.
+
+## [2026-06-26] tooling | qmd (Step 2 prepared)
+- added tools/qmd-setup.md (verified install/usage from qmd README) and
+  tools/qmd-index.sh (one-shot collection add + embed).
+- updated entity [[qmd]] with install + integration notes.
+- to run on Mac/PC (not the ephemeral remote env): install @tobilu/qmd,
+  ./second-brain/tools/qmd-index.sh, then qmd search/vsearch/query; MCP via
+  `claude plugin marketplace add tobi/qmd`.
