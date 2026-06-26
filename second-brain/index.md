@@ -5,6 +5,8 @@
 
 _Last updated: 2026-06-26_
 
+> 📊 Live views: see [[dashboard]] (requires Dataview in Obsidian).
+
 ## Entities
 _(people, projects, tools, companies, places, books…)_
 

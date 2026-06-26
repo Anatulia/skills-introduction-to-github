@@ -20,6 +20,8 @@ Obsidian plugin that treats the vault as a **queryable database** — used in th
 - Output: dynamic tables, filtered lists, grouped views, task compilations.
 - **Role in the brain:** our pages already carry frontmatter (title/type/tags/
   sources) — Dataview can auto-generate views like "all entities by tag".
+  **Step 3 — integrated.** Live views in `dashboard.md`; setup in
+  `tools/dataview-setup.md`.
 
 ## Connections
 - Companion tool of: [[llm-wiki-pattern]]

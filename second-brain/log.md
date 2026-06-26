@@ -26,3 +26,10 @@
 - to run on Mac/PC (not the ephemeral remote env): install @tobilu/qmd,
   ./second-brain/tools/qmd-index.sh, then qmd search/vsearch/query; MCP via
   `claude plugin marketplace add tobi/qmd`.
+
+## [2026-06-26] tooling | Dataview (Step 3 integrated)
+- added dashboard.md (live Dataview views: by type, entities, concepts,
+  syntheses, by-source, recently-updated, maintenance/orphans list).
+- added tools/dataview-setup.md (install + vault-root note + frontmatter deps).
+- linked dashboard from index.md; updated entity [[obsidian-dataview]].
+- renders only in Obsidian with the plugin; code blocks on GitHub (expected).
