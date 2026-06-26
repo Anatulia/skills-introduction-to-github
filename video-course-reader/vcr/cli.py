@@ -30,8 +30,13 @@ def build_parser() -> argparse.ArgumentParser:
                    help="Secondi massimi senza screenshot (copre slide statiche).")
 
     g = p.add_argument_group("trascrizione")
+    g.add_argument("--engine", default="faster-whisper",
+                   choices=["faster-whisper", "sherpa"],
+                   help="Motore ASR. 'sherpa' usa modelli da GitHub "
+                        "(utile dietro proxy che bloccano HuggingFace).")
     g.add_argument("--whisper-model", default="medium",
-                   help="tiny|base|small|medium|large-v3.")
+                   help="faster-whisper: tiny|base|small|medium|large-v3. "
+                        "sherpa: tiny|base|small|medium.")
     g.add_argument("--language", default=None,
                    help="Codice lingua (es. 'it'); default autodetect.")
     g.add_argument("--device", default="auto", help="auto|cpu|cuda.")
@@ -55,6 +60,7 @@ def main(argv: list[str] | None = None) -> int:
         scene_threshold=args.scene_threshold,
         min_gap=args.min_gap,
         max_gap=args.max_gap,
+        engine=args.engine,
         whisper_model=args.whisper_model,
         language=args.language,
         device=args.device,

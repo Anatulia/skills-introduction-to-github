@@ -23,6 +23,17 @@ video.mp4
    → output: corso.md / corso.html / corso.json + cartella frames/
 ```
 
+### Motori di trascrizione
+
+| Motore | Modelli da | Quando usarlo | Timestamp |
+|--------|-----------|---------------|-----------|
+| `faster-whisper` (default) | HuggingFace | locale o rete che consente HF; qualità migliore | per frase |
+| `sherpa` | GitHub Releases | dietro proxy/policy che bloccano HuggingFace | blocchi da 30s |
+
+> La qualità della trascrizione dipende molto dall'audio: una registrazione
+> pulita (microfono, webinar) rende benissimo; un audio rumoroso/ripreso a mano
+> può produrre frasi incerte a prescindere dal modello.
+
 ### Perché scene-detection e non "ogni N secondi"
 
 Per i corsi slide-based catturare a intervallo fisso genera decine di
@@ -56,6 +67,10 @@ python -m vcr webinar.mp4 -o out --language it --whisper-model large-v3
 
 # solo trascrizione + screenshot, niente AI esterna
 python -m vcr lezione.mp4 --no-vision --no-ocr
+
+# motore alternativo: modelli da GitHub invece di HuggingFace
+# (utile dietro proxy/policy di rete che bloccano HuggingFace)
+python -m vcr lezione.mp4 --engine sherpa --whisper-model small --language it
 
 # più sensibile ai cambi scena, screenshot più fitti
 python -m vcr lezione.mp4 --scene-threshold 0.20 --min-gap 2

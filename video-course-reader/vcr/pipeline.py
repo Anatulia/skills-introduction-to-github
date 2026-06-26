@@ -16,6 +16,7 @@ class Config:
     min_gap: float = 4.0
     max_gap: float = 60.0
     # transcribe
+    engine: str = "faster-whisper"   # "faster-whisper" | "sherpa"
     whisper_model: str = "medium"
     language: str | None = None
     device: str = "auto"
@@ -40,9 +41,9 @@ def run(cfg: Config, log=print) -> dict:
     )
     log(f"      → {len(kfs)} screenshot estratti.")
 
-    log("2/4  Trascrizione audio (faster-whisper)…")
+    log(f"2/4  Trascrizione audio ({cfg.engine})…")
     segments = transcribe.transcribe(
-        cfg.video, model_size=cfg.whisper_model,
+        cfg.video, engine=cfg.engine, model_size=cfg.whisper_model,
         language=cfg.language, device=cfg.device,
     )
     log(f"      → {len(segments)} segmenti di parlato.")

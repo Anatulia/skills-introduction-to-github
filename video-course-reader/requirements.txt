@@ -1,5 +1,7 @@
-# Trascrizione locale (obbligatorio per l'audio)
-faster-whisper>=1.0.0
+# Trascrizione — scegli almeno un motore:
+faster-whisper>=1.0.0   # default; modelli da HuggingFace
+sherpa-onnx>=1.10.0     # alternativa; modelli da GitHub (proxy che bloccano HF)
+numpy>=1.24.0           # richiesto dal motore sherpa
 
 # Lettura visiva — OPZIONALI
 Pillow>=10.0.0          # gestione immagini per l'OCR
