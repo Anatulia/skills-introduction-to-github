@@ -33,3 +33,14 @@
 - added tools/dataview-setup.md (install + vault-root note + frontmatter deps).
 - linked dashboard from index.md; updated entity [[obsidian-dataview]].
 - renders only in Obsidian with the plugin; code blocks on GitHub (expected).
+
+## [2026-06-26] ingest | Engage & Attract — Segnali Non Verbali (video proprio)
+- source: sources/engage-attract-segnali-non-verbali-slides.md (PDF 20 slide,
+  testo estratto con pdfminer; YouTube non accessibile da remoto → usate le slide).
+- new cluster "comunicazione non verbale" (separato dal cluster LLM-Wiki).
+- touched: comunicazione-non-verbale (hub), segnali-di-gradimento,
+  segnali-di-rifiuto, segnali-di-scarico-tensionale, engage-attract-video (5 pagine).
+- flag ambiguità registrate: braccia incrociate (rifiuto/protezione),
+  deglutizione (tensione/rifiuto) — cross-linkate tra le pagine.
+- gaps: nome canale + URL video da confermare; eventuale script vocale più ricco.
+- index.md → 2 sources, 15 pagine.
