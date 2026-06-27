@@ -21,14 +21,23 @@ if [ "$branch" = "HEAD" ]; then
   exit 1
 fi
 
-# Niente da fare se il working tree è pulito.
-if git diff --quiet && git diff --cached --quiet && [ -z "$(git status --porcelain)" ]; then
-  echo "✅ Niente da committare: working tree pulito sul branch '$branch'."
-else
+# Ci sono modifiche da committare?
+if [ -n "$(git status --porcelain)" ]; then
   msg="${1:-wip: sync automatico $(date '+%Y-%m-%d %H:%M:%S')}"
   git add -A
   git commit -m "$msg"
   echo "📝 Commit creato: $msg"
+else
+  # Working tree pulito: ci sono commit locali non ancora pushati?
+  if upstream="$(git rev-parse --abbrev-ref --symbolic-full-name @{u} 2>/dev/null)"; then
+    unpushed="$(git rev-list --count "$upstream"..HEAD)"
+    if [ "$unpushed" -eq 0 ]; then
+      echo "✅ Niente da fare: nessuna modifica e nulla da pushare sul branch '$branch'."
+      exit 0
+    fi
+    echo "ℹ️  Working tree pulito ma ci sono $unpushed commit da pushare."
+  fi
+  # (Se non c'è ancora un upstream, proseguo per crearlo con il push.)
 fi
 
 # Push con un retry semplice in caso di problemi di rete temporanei.
