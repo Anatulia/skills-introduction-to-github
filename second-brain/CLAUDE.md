@@ -73,6 +73,8 @@ Plus two navigation files at the root of `second-brain/`:
 ## 4. Operations
 
 ### Ingest (add a source)
+0. Check `_inbox/` for dropped files to process; after ingesting, move each to
+   `_inbox/_done/`.
 1. Save the raw material into `sources/` (never edit it afterward).
 2. Read it; tell the human the key takeaways.
 3. Create/update the relevant **entity** and **concept** pages. A single source
