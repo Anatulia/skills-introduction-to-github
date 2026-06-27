@@ -44,3 +44,8 @@
   deglutizione (tensione/rifiuto) — cross-linkate tra le pagine.
 - gaps: nome canale + URL video da confermare; eventuale script vocale più ricco.
 - index.md → 2 sources, 15 pagine.
+
+## [2026-06-26] enrich | canale @AntonioGuarnieri_Analogista
+- nuova entità antonio-guarnieri-analogista (canale YouTube dell'utente).
+- collegata a engage-attract-video (campo "Canale") e comunicazione-non-verbale.
+- index.md → 16 pagine. Gap chiuso: nome canale.

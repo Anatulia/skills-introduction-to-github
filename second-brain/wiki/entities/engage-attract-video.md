@@ -14,7 +14,7 @@ Video didattico **di proprietà dell'utente** (canale proprio) sulla
 
 ## Dati
 - **Titolo:** Engage & Attract — Comunicazione Non Verbale / Segnali Non Verbali
-- **Canale:** _(da confermare — è il canale dell'utente)_
+- **Canale:** [[antonio-guarnieri-analogista]] (@AntonioGuarnieri_Analogista)
 - **URL YouTube:** https://youtu.be/lVKMnVw3bUg
   _(non accessibile dall'ambiente remoto: 403 anti-bot su IP datacenter)_
 - **Materiale:** slide "Engage__Attract__Segnali_Non_Verbali_Rev01.key"
@@ -29,7 +29,6 @@ Classifica i segnali del corpo in tre famiglie + il principio avanti/indietro:
 - Tema: [[comunicazione-non-verbale]]
 
 ## Open questions / da arricchire
-- Nome del canale e link definitivo.
 - Eventuale script/voce-fuori-campo del video (più ricco delle sole slide).
 
 ## Sources

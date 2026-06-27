@@ -20,7 +20,8 @@ _(people, projects, tools, companies, places, books…)_
 - [[okf-harness]] — community project: local-first CLI on Google's OKF portable format.
 
 ### Cluster · Comunicazione / contenuti propri
-- [[engage-attract-video]] — video proprio sulla comunicazione non verbale (canale dell'utente).
+- [[antonio-guarnieri-analogista]] — canale YouTube dell'utente (@AntonioGuarnieri_Analogista).
+- [[engage-attract-video]] — video sulla comunicazione non verbale.
 
 ## Concepts
 _(ideas, themes, abstractions…)_
@@ -42,4 +43,4 @@ _(comparisons, overviews, filed-back answers…)_
 
 ---
 
-**Stats:** 2 sources · 15 wiki pages (8 entities · 6 concepts · 1 synthesis)
+**Stats:** 2 sources · 16 wiki pages (9 entities · 6 concepts · 1 synthesis)
