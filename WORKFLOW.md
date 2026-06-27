@@ -46,6 +46,31 @@ Oppure usa lo script pronto:
 2. **Stesso nome di branch** per lo stesso lavoro, su entrambi i dispositivi.
 3. **`git pull` prima di iniziare** — parti sempre dall'ultimo stato.
 
+## Autosync su Mac (ogni 6 minuti + alla chiusura)
+
+### Periodico ogni 6 minuti
+Installazione una tantum (usa launchd, nativo di macOS):
+```bash
+./scripts/install-mac-autosync.sh
+```
+Da quel momento il lavoro viene committato e pushato da solo ogni 6 minuti
+(e una volta anche al login). Per disattivarlo:
+```bash
+./scripts/install-mac-autosync.sh uninstall
+```
+
+### Push finale quando chiudi la sessione del terminale
+Aggiungi questa riga al tuo `~/.zshrc` (sostituisci il percorso del repo):
+```bash
+trap '"$HOME/percorso/skills-introduction-to-github/scripts/sync.sh" "sync chiusura sessione" >/dev/null 2>&1' EXIT
+```
+Così, ogni volta che chiudi quella finestra/tab del terminale, parte un
+ultimo `sync.sh` che salva tutto.
+
+> **Auth in background:** perché il push automatico funzioni senza chiedere
+> password, fai almeno un push manuale (HTTPS → il token resta nel keychain),
+> oppure usa una chiave SSH senza passphrase / caricata nel keychain.
+
 ## Branch di lavoro attuali
 
 | Branch | Contenuto |
