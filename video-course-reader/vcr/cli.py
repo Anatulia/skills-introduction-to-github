@@ -31,12 +31,13 @@ def build_parser() -> argparse.ArgumentParser:
 
     g = p.add_argument_group("trascrizione")
     g.add_argument("--engine", default="faster-whisper",
-                   choices=["faster-whisper", "sherpa"],
+                   choices=["faster-whisper", "sherpa", "openai"],
                    help="Motore ASR. 'sherpa' usa modelli da GitHub "
-                        "(utile dietro proxy che bloccano HuggingFace).")
+                        "(utile dietro proxy che bloccano HuggingFace); "
+                        "'openai' usa l'API (whisper-1, richiede OPENAI_API_KEY).")
     g.add_argument("--whisper-model", default="medium",
                    help="faster-whisper: tiny|base|small|medium|large-v3. "
-                        "sherpa: tiny|base|small|medium.")
+                        "sherpa: tiny|base|small|medium. openai: whisper-1.")
     g.add_argument("--language", default=None,
                    help="Codice lingua (es. 'it'); default autodetect.")
     g.add_argument("--device", default="auto", help="auto|cpu|cuda.")

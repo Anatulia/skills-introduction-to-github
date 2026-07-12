@@ -1,12 +1,13 @@
 """Trascrizione audio con timestamp.
 
-Due motori intercambiabili:
-  - "faster-whisper" (default): qualità migliore, ma scarica i modelli da
-    HuggingFace. Ideale in locale o dove l'egress verso HF è consentito.
+Tre motori intercambiabili:
+  - "faster-whisper" (default): gira in locale, scarica i modelli da
+    HuggingFace. Qualità dipende dalla dimensione del modello.
   - "sherpa": sherpa-onnx Whisper, con modelli ospitati su GitHub Releases.
-    Funziona anche dietro proxy che bloccano HuggingFace (es. ambienti cloud
-    con policy di rete restrittiva). Trascrive a blocchi di 30s (limite del
-    Whisper offline di sherpa-onnx): i timestamp hanno granularità 30s.
+    Funziona anche dietro proxy che bloccano HuggingFace. Timestamp a 30s.
+  - "openai": API OpenAI (whisper-1, verbose_json con timestamp per segmento).
+    Qualità alta e veloce; richiede OPENAI_API_KEY. L'audio viene compresso e
+    inviato a spezzoni al servizio (contenuti dell'utente, per uso personale).
 """
 from __future__ import annotations
 
@@ -42,6 +43,8 @@ def transcribe(
     model_dir: str | None = None,
 ) -> list[Segment]:
     """Trascrive l'audio del video con il motore scelto."""
+    if engine == "openai":
+        return _transcribe_openai(video, language=language, model=model_size)
     if engine == "sherpa":
         return _transcribe_sherpa(
             video, size=model_size, language=language, model_dir=model_dir
@@ -49,6 +52,112 @@ def transcribe(
     return _transcribe_faster_whisper(
         video, model_size=model_size, language=language, device=device
     )
+
+
+# ----------------------------- motore OpenAI ------------------------------ #
+
+def _load_openai_key() -> str:
+    """Legge OPENAI_API_KEY dall'ambiente o da un file .env nella cwd o nella
+    root del progetto. Ritorna la chiave o solleva un errore chiaro."""
+    key = os.environ.get("OPENAI_API_KEY")
+    if key:
+        return key
+    here = os.path.dirname(os.path.abspath(__file__))
+    for env_path in (".env", os.path.join(here, "..", ".env")):
+        try:
+            for line in open(env_path):
+                line = line.strip()
+                if line.startswith("OPENAI_API_KEY="):
+                    return line.split("=", 1)[1].strip().strip('"').strip("'")
+        except OSError:
+            continue
+    raise RuntimeError(
+        "OPENAI_API_KEY non trovata. Impostala nell'ambiente o in un file .env."
+    )
+
+
+def _split_audio_chunks(video: str, out_dir: str, chunk_s: int = 900) -> list[str]:
+    """Estrae l'audio in mp3 mono 16k e lo divide in spezzoni da `chunk_s`
+    secondi (default 15 min: ben sotto il limite di 25 MB dell'API). Ritorna
+    i path degli spezzoni in ordine."""
+    ffmpeg = require_tool("ffmpeg")
+    pattern = os.path.join(out_dir, "chunk_%04d.mp3")
+    run([
+        ffmpeg, "-y", "-i", video, "-vn", "-ac", "1", "-ar", "16000",
+        "-c:a", "libmp3lame", "-q:a", "5",
+        "-f", "segment", "-segment_time", str(chunk_s), pattern,
+    ])
+    return sorted(
+        os.path.join(out_dir, f) for f in os.listdir(out_dir)
+        if f.startswith("chunk_") and f.endswith(".mp3")
+    )
+
+
+# Esempio ben punteggiato: Whisper imita lo stile del prompt, quindi questo
+# induce l'output a usare maiuscole e punteggiatura (altrimenti a volte
+# restituisce testo tutto minuscolo e senza punti).
+_PUNCT_PROMPT = {
+    "it": ("Benvenuti in questa lezione. Oggi parliamo di business online, "
+           "prodotti digitali e mindset. Vediamo insieme come funziona."),
+    "en": ("Welcome to this lesson. Today we talk about online business, "
+           "digital products and mindset. Let's see how it works."),
+}
+
+
+def _capitalize_sentences(text: str, cap_next: bool) -> tuple[str, bool]:
+    """Rimette la maiuscola dopo . ! ? … (whisper-1 a volte lascia minuscolo
+    l'inizio frase). `cap_next` è lo stato in ingresso (True se la frase deve
+    iniziare in maiuscola): va mantenuto TRA i segmenti, perché un segmento
+    può iniziare a metà frase. Ritorna (testo_corretto, cap_next_aggiornato)."""
+    out = []
+    for ch in text:
+        if cap_next and ch.isalpha():
+            out.append(ch.upper())
+            cap_next = False
+        else:
+            out.append(ch)
+        if ch in ".!?…":
+            cap_next = True
+    return "".join(out), cap_next
+
+
+def _transcribe_openai(
+    video: str, language: str | None, model: str = "whisper-1", chunk_s: int = 900
+) -> list[Segment]:
+    try:
+        from openai import OpenAI
+    except ImportError as e:  # pragma: no cover
+        raise RuntimeError("openai non installato. Esegui: pip install openai") from e
+
+    # whisper-1 è l'unico con timestamp per segmento (verbose_json).
+    if model not in ("whisper-1",):
+        model = "whisper-1"
+
+    prompt = _PUNCT_PROMPT.get((language or "").lower())
+    client = OpenAI(api_key=_load_openai_key())
+    out: list[Segment] = []
+    cap_next = True  # stato maiuscole mantenuto attraverso segmenti e spezzoni
+    with tempfile.TemporaryDirectory() as tmp:
+        chunks = _split_audio_chunks(video, tmp, chunk_s=chunk_s)
+        for i, path in enumerate(chunks):
+            offset = i * chunk_s
+            with open(path, "rb") as f:
+                resp = client.audio.transcriptions.create(
+                    model=model, file=f, language=language or None,
+                    response_format="verbose_json",
+                    **({"prompt": prompt} if prompt else {}),
+                )
+            for seg in getattr(resp, "segments", None) or []:
+                raw = (seg.text or "").strip()
+                if not raw:
+                    continue
+                text, cap_next = _capitalize_sentences(raw, cap_next)
+                out.append(Segment(
+                    start=float(seg.start) + offset,
+                    end=float(seg.end) + offset,
+                    text=text,
+                ))
+    return out
 
 
 def _transcribe_faster_whisper(
