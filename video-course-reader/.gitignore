@@ -3,3 +3,11 @@
 __pycache__/
 *.pyc
 output/
+
+# Ambienti e artefatti locali
+.venv/
+*.webm
+*.wav
+*.png
+sess.json
+output_test/

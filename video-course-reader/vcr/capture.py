@@ -14,11 +14,20 @@ Login senza consegnare credenziali a nessuno:
      mano, poi premi Invio nel terminale. Lo stato (cookie) viene salvato in
      --storage-state. Le credenziali le digiti solo tu, restano sul tuo PC.
   2. Le esecuzioni successive riusano quello stato: niente più login.
+
+Audio:
+  La registrazione video di Playwright cattura solo i fotogrammi, mai
+  l'audio. Per avere anche l'audio serve un dispositivo di loopback (es.
+  BlackHole su macOS) impostato come Uscita audio di sistema; questo modulo
+  lo cattura in parallelo con `ffmpeg`/avfoundation e lo unisce al video a
+  fine registrazione. Se non viene trovato nessun dispositivo di loopback,
+  la registrazione prosegue senza audio (comportamento precedente).
 """
 from __future__ import annotations
 
 import glob
 import os
+import subprocess
 import time
 
 
@@ -41,10 +50,76 @@ def _find_chromium() -> str | None:
 
 def _launch(p, headless: bool):
     exe = _find_chromium()
-    kwargs = {"headless": headless}
+    kwargs = {
+        "headless": headless,
+        "args": [
+            # Su macOS, con l'audio service nel proprio processo sandboxato
+            # Chromium a volte non riesce ad aprire il device CoreAudio reale
+            # (l'audio "suona" secondo la pagina ma non esce mai davvero).
+            # Tenerlo nel processo principale risolve.
+            "--disable-features=AudioServiceOutOfProcess",
+            "--autoplay-policy=no-user-gesture-required",
+        ],
+    }
     if exe:
         kwargs["executable_path"] = exe
     return p.chromium.launch(**kwargs)
+
+
+def _find_audio_device(name_substr: str = "BlackHole") -> str | None:
+    """Cerca un dispositivo audio avfoundation il cui nome contiene
+    `name_substr` (es. il loopback BlackHole) e ne ritorna l'indice."""
+    try:
+        proc = subprocess.run(
+            ["ffmpeg", "-f", "avfoundation", "-list_devices", "true", "-i", ""],
+            capture_output=True, text=True, timeout=15,
+        )
+    except (FileNotFoundError, subprocess.TimeoutExpired):
+        return None
+    import re
+
+    in_audio_section = False
+    for line in proc.stderr.splitlines():
+        if "AVFoundation audio devices" in line:
+            in_audio_section = True
+            continue
+        if in_audio_section and name_substr.lower() in line.lower():
+            m = re.search(r"\[(\d+)\]", line)
+            if m:
+                return m.group(1)
+    return None
+
+
+def _start_audio_capture(audio_path: str, device_index: str, duration: float):
+    """Avvia in background la cattura audio dal dispositivo avfoundation
+    indicato (file .wav grezzo). Ritorna il Popen, o None se ffmpeg non è
+    disponibile."""
+    try:
+        return subprocess.Popen(
+            [
+                "ffmpeg", "-y", "-f", "avfoundation", "-i", f":{device_index}",
+                "-t", str(duration), "-c:a", "pcm_s16le", audio_path,
+            ],
+            stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL,
+        )
+    except FileNotFoundError:
+        return None
+
+
+def _mux_video_audio(video_path: str, audio_path: str, out_path: str) -> bool:
+    """Unisce video e audio in `out_path` (.webm, audio Opus). Ritorna True
+    se riuscito."""
+    try:
+        result = subprocess.run(
+            [
+                "ffmpeg", "-y", "-i", video_path, "-i", audio_path,
+                "-c:v", "copy", "-c:a", "libopus", "-shortest", out_path,
+            ],
+            capture_output=True, timeout=120,
+        )
+    except (FileNotFoundError, subprocess.TimeoutExpired):
+        return False
+    return result.returncode == 0 and os.path.exists(out_path)
 
 
 def login_and_save_state(url: str, storage_state: str) -> None:
@@ -73,14 +148,22 @@ def capture_replay(
     width: int = 1280,
     height: int = 720,
     play_selectors: tuple[str, ...] = (
-        "button[aria-label*='play' i]",
-        ".vjs-big-play-button",
+        "button[data-plyr='play']",       # Plyr (es. embed Bunny Stream) — indipendente dalla lingua
+        ".plyr__control--overlaid",
+        "button[aria-label*='play' i]",   # variante inglese
+        ".vjs-big-play-button",           # video.js
         "button.play",
         "video",
     ),
     headless: bool = True,
+    audio_device: str | None = "auto",
 ) -> str:
     """Registra `duration` secondi del replay in un file video (webm).
+
+    Se `audio_device` è "auto" (default), cerca un dispositivo di loopback
+    (BlackHole) e cattura anche l'audio in parallelo, unendolo al video a
+    fine registrazione. Passa un indice avfoundation per forzare un
+    dispositivo specifico, o None per disattivare la cattura audio.
 
     Ritorna il path del video prodotto. Il file webm è direttamente
     utilizzabile da `vcr` (ffmpeg lo legge senza problemi).
@@ -89,6 +172,17 @@ def capture_replay(
 
     out_dir = os.path.dirname(os.path.abspath(out_video)) or "."
     os.makedirs(out_dir, exist_ok=True)
+
+    if audio_device == "auto":
+        audio_device = _find_audio_device()
+    if audio_device and headless:
+        # Chromium headless non emette audio sul dispositivo di sistema:
+        # per catturare l'audio serve la finestra visibile.
+        print("Audio attivo: passo a browser visibile (headless non emette audio).",
+              flush=True)
+        headless = False
+    audio_tmp = os.path.join(out_dir, "_capture_audio_tmp.wav")
+    audio_proc = _start_audio_capture(audio_tmp, audio_device, duration) if audio_device else None
 
     with sync_playwright() as p:
         browser = _launch(p, headless=headless)
@@ -100,23 +194,26 @@ def capture_replay(
         )
         page = context.new_page()
         page.goto(url, wait_until="domcontentloaded")
+        page.wait_for_timeout(4000)  # tempo per caricare eventuali player in iframe
 
-        # Prova ad avviare la riproduzione.
-        for sel in play_selectors:
+        # Il player può essere nella pagina principale o in un iframe (es.
+        # embed Bunny Stream/Vimeo/Wistia): prova su tutti i frame.
+        for fr in page.frames:
+            for sel in play_selectors:
+                try:
+                    el = fr.query_selector(sel)
+                    if el:
+                        el.click(timeout=2000)
+                        break
+                except Exception:
+                    continue
+            # Fallback: forza play su tutti i <video> del frame.
             try:
-                el = page.query_selector(sel)
-                if el:
-                    el.click(timeout=2000)
-                    break
+                fr.eval_on_selector_all(
+                    "video", "els => els.forEach(v => { v.muted=false; v.play&&v.play(); })"
+                )
             except Exception:
-                continue
-        # Fallback: forza play su tutti i <video>.
-        try:
-            page.eval_on_selector_all(
-                "video", "els => els.forEach(v => { v.muted=false; v.play&&v.play(); })"
-            )
-        except Exception:
-            pass
+                pass
 
         time.sleep(duration)
 
@@ -127,6 +224,21 @@ def capture_replay(
 
     if not src or not os.path.exists(src):
         raise RuntimeError("Registrazione non prodotta: controlla URL/login/selettori.")
+
+    if audio_proc is not None:
+        audio_proc.wait(timeout=30)
+        if os.path.exists(audio_tmp) and os.path.getsize(audio_tmp) > 0:
+            muxed_ok = _mux_video_audio(src, audio_tmp, out_video)
+            os.remove(audio_tmp)
+            if muxed_ok:
+                if os.path.abspath(src) != os.path.abspath(out_video):
+                    os.remove(src)
+                return out_video
+            print("Avviso: muxing audio fallito, uso il video senza audio.", flush=True)
+        else:
+            print("Avviso: nessun audio catturato (dispositivo silenzioso?), "
+                  "uso il video senza audio.", flush=True)
+
     if os.path.abspath(src) != os.path.abspath(out_video):
         os.replace(src, out_video)
     return out_video
@@ -150,6 +262,11 @@ def main(argv: list[str] | None = None) -> int:
                    help="Apre un browser visibile per il login manuale e salva "
                         "lo stato in --storage-state, poi esce.")
     p.add_argument("--show", action="store_true", help="Browser visibile (non headless).")
+    p.add_argument("--no-audio", action="store_true",
+                   help="Disattiva la cattura audio (registra solo video).")
+    p.add_argument("--audio-device", default=None,
+                   help="Indice dispositivo avfoundation da usare per l'audio "
+                        "(default: auto-rileva un dispositivo BlackHole).")
     args = p.parse_args(argv)
 
     if args.login:
@@ -159,9 +276,11 @@ def main(argv: list[str] | None = None) -> int:
         login_and_save_state(args.url, args.storage_state)
         return 0
 
+    audio_device = None if args.no_audio else (args.audio_device or "auto")
     out = capture_replay(
         args.url, args.out, duration=args.duration,
         storage_state=args.storage_state, headless=not args.show,
+        audio_device=audio_device,
     )
     print(f"Registrato: {out}")
     print(f"Ora elaboralo:  python -m vcr {out} -o output --language it")
