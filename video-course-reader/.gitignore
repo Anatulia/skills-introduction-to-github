@@ -11,3 +11,4 @@ output/
 *.png
 sess.json
 output_test/
+profile/

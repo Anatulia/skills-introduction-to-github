@@ -48,22 +48,33 @@ def _find_chromium() -> str | None:
     return None
 
 
+_LAUNCH_ARGS = [
+    # Su macOS, con l'audio service nel proprio processo sandboxato
+    # Chromium a volte non riesce ad aprire il device CoreAudio reale
+    # (l'audio "suona" secondo la pagina ma non esce mai davvero).
+    # Tenerlo nel processo principale risolve.
+    "--disable-features=AudioServiceOutOfProcess",
+    "--autoplay-policy=no-user-gesture-required",
+]
+
+
 def _launch(p, headless: bool):
     exe = _find_chromium()
-    kwargs = {
-        "headless": headless,
-        "args": [
-            # Su macOS, con l'audio service nel proprio processo sandboxato
-            # Chromium a volte non riesce ad aprire il device CoreAudio reale
-            # (l'audio "suona" secondo la pagina ma non esce mai davvero).
-            # Tenerlo nel processo principale risolve.
-            "--disable-features=AudioServiceOutOfProcess",
-            "--autoplay-policy=no-user-gesture-required",
-        ],
-    }
+    kwargs = {"headless": headless, "args": list(_LAUNCH_ARGS)}
     if exe:
         kwargs["executable_path"] = exe
     return p.chromium.launch(**kwargs)
+
+
+def _launch_persistent(p, profile_dir: str, headless: bool, **context_kwargs):
+    """Apre un contesto con profilo su disco: il login fatto una volta lì
+    dentro resta valido tra le esecuzioni (cookie e token si auto-rinnovano
+    come in un browser normale, a differenza dello snapshot storage_state)."""
+    exe = _find_chromium()
+    kwargs = {"headless": headless, "args": list(_LAUNCH_ARGS), **context_kwargs}
+    if exe:
+        kwargs["executable_path"] = exe
+    return p.chromium.launch_persistent_context(profile_dir, **kwargs)
 
 
 def _find_audio_device(name_substr: str = "BlackHole") -> str | None:
@@ -122,6 +133,28 @@ def _mux_video_audio(video_path: str, audio_path: str, out_path: str) -> bool:
     return result.returncode == 0 and os.path.exists(out_path)
 
 
+def _ensure_logged_in(page, url: str) -> None:
+    """Se la piattaforma ha rediretto alla pagina di login, prova il re-login
+    automatico cliccando il submit del modulo, che il password manager del
+    profilo persistente precompila da solo (le credenziali le ha salvate
+    l'utente nel browser al primo login; qui non vengono mai lette né scritte).
+    """
+    if "fcom_action=auth" not in page.url:
+        return
+    btn = page.query_selector("button:has-text('Accedi'), input[type=submit]")
+    if not btn:
+        print("Avviso: pagina di login senza modulo precompilato riconoscibile; "
+              "serve un login manuale (--login).", flush=True)
+        return
+    print("Sessione scaduta: re-login automatico dal modulo precompilato…", flush=True)
+    btn.click()
+    page.wait_for_timeout(8000)
+    if "fcom_action=auth" in page.url:
+        # il redirect automatico non è scattato: riprova ad aprire la lezione
+        page.goto(url, wait_until="domcontentloaded")
+        page.wait_for_timeout(4000)
+
+
 def login_and_save_state(url: str, storage_state: str) -> None:
     """Apre un browser visibile per il login manuale e salva lo stato."""
     from playwright.sync_api import sync_playwright
@@ -140,11 +173,33 @@ def login_and_save_state(url: str, storage_state: str) -> None:
     print(f"Stato salvato in {storage_state}")
 
 
+def login_persistent(url: str, profile_dir: str) -> None:
+    """Apre un browser visibile con profilo su disco per il login manuale.
+
+    A differenza di login_and_save_state, il login resta valido tra le
+    esecuzioni finché la piattaforma non lo revoca (i token si rinnovano
+    da soli come in un browser normale): di norma non va più ripetuto.
+    """
+    from playwright.sync_api import sync_playwright
+
+    with sync_playwright() as p:
+        context = _launch_persistent(p, profile_dir, headless=False)
+        page = context.pages[0] if context.pages else context.new_page()
+        page.goto(url, wait_until="domcontentloaded")
+        input(
+            "\n>> Fai il login nel browser aperto (una volta sola: resterà "
+            "memorizzato), poi torna qui e premi INVIO... "
+        )
+        context.close()
+    print(f"Profilo salvato in {profile_dir}: il login verrà riusato automaticamente.")
+
+
 def capture_replay(
     url: str,
     out_video: str,
     duration: float,
     storage_state: str | None = None,
+    profile_dir: str | None = None,
     width: int = 1280,
     height: int = 720,
     play_selectors: tuple[str, ...] = (
@@ -185,16 +240,24 @@ def capture_replay(
     audio_proc = _start_audio_capture(audio_tmp, audio_device, duration) if audio_device else None
 
     with sync_playwright() as p:
-        browser = _launch(p, headless=headless)
-        context = browser.new_context(
-            storage_state=storage_state if storage_state and os.path.exists(storage_state) else None,
-            viewport={"width": width, "height": height},
-            record_video_dir=out_dir,
-            record_video_size={"width": width, "height": height},
-        )
+        record_opts = {
+            "viewport": {"width": width, "height": height},
+            "record_video_dir": out_dir,
+            "record_video_size": {"width": width, "height": height},
+        }
+        if profile_dir:
+            browser = None
+            context = _launch_persistent(p, profile_dir, headless=headless, **record_opts)
+        else:
+            browser = _launch(p, headless=headless)
+            context = browser.new_context(
+                storage_state=storage_state if storage_state and os.path.exists(storage_state) else None,
+                **record_opts,
+            )
         page = context.new_page()
         page.goto(url, wait_until="domcontentloaded")
         page.wait_for_timeout(4000)  # tempo per caricare eventuali player in iframe
+        _ensure_logged_in(page, url)
 
         # Il player può essere nella pagina principale o in un iframe (es.
         # embed Bunny Stream/Vimeo/Wistia): prova su tutti i frame.
@@ -219,7 +282,8 @@ def capture_replay(
 
         video = page.video
         context.close()  # finalizza la registrazione
-        browser.close()
+        if browser is not None:
+            browser.close()
         src = video.path() if video else None
 
     if not src or not os.path.exists(src):
@@ -257,10 +321,14 @@ def main(argv: list[str] | None = None) -> int:
     p.add_argument("-d", "--duration", type=float, default=60,
                    help="Secondi da registrare (per un test tienilo basso).")
     p.add_argument("--storage-state", default=None,
-                   help="File JSON con la sessione loggata (vedi --login).")
+                   help="File JSON con la sessione loggata (vedi --login). "
+                        "Preferisci --profile-dir: non scade.")
+    p.add_argument("--profile-dir", default=None,
+                   help="Cartella profilo browser persistente: il login fatto lì "
+                        "resta valido tra le esecuzioni (consigliato).")
     p.add_argument("--login", action="store_true",
                    help="Apre un browser visibile per il login manuale e salva "
-                        "lo stato in --storage-state, poi esce.")
+                        "la sessione (in --profile-dir o --storage-state), poi esce.")
     p.add_argument("--show", action="store_true", help="Browser visibile (non headless).")
     p.add_argument("--no-audio", action="store_true",
                    help="Disattiva la cattura audio (registra solo video).")
@@ -270,8 +338,12 @@ def main(argv: list[str] | None = None) -> int:
     args = p.parse_args(argv)
 
     if args.login:
+        if args.profile_dir:
+            login_persistent(args.url, args.profile_dir)
+            return 0
         if not args.storage_state:
-            print("ERRORE: --login richiede --storage-state PATH", flush=True)
+            print("ERRORE: --login richiede --profile-dir DIR (o --storage-state PATH)",
+                  flush=True)
             return 2
         login_and_save_state(args.url, args.storage_state)
         return 0
@@ -279,8 +351,8 @@ def main(argv: list[str] | None = None) -> int:
     audio_device = None if args.no_audio else (args.audio_device or "auto")
     out = capture_replay(
         args.url, args.out, duration=args.duration,
-        storage_state=args.storage_state, headless=not args.show,
-        audio_device=audio_device,
+        storage_state=args.storage_state, profile_dir=args.profile_dir,
+        headless=not args.show, audio_device=audio_device,
     )
     print(f"Registrato: {out}")
     print(f"Ora elaboralo:  python -m vcr {out} -o output --language it")
