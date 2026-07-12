@@ -8,6 +8,9 @@ Pillow>=10.0.0          # gestione immagini per l'OCR
 pytesseract>=0.3.10     # OCR (richiede il binario `tesseract` di sistema)
 anthropic>=0.40.0       # descrizione vision via Claude (richiede ANTHROPIC_API_KEY)
 
+# Cattura di replay via browser — OPZIONALE (solo se il corso non è scaricabile)
+playwright>=1.40.0      # poi: playwright install chromium
+
 # Dipendenze di SISTEMA (non installabili via pip):
 #   ffmpeg, ffprobe   -> estrazione frame e scene-detection
 #   tesseract-ocr     -> OCR (con pacchetto lingua: tesseract-ocr-ita)

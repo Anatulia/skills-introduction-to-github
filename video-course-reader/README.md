@@ -82,6 +82,31 @@ Per la descrizione vision serve la variabile d'ambiente:
 export ANTHROPIC_API_KEY=sk-ant-...
 ```
 
+## Corsi non scaricabili (replay nel browser)
+
+Se il corso è un **replay che gira solo nel browser** (WebinarJam, player in
+iframe, stream protetto) e non hai un file, puoi **registrare la scheda** mentre
+il replay va in play, poi elaborare il video con `vcr`.
+
+> ⚠️ Va eseguito **dove il sito è raggiungibile e sei loggato** — di norma il
+> tuo computer. Non funziona in ambienti la cui policy di rete blocca l'host del
+> corso. Le credenziali le digiti **solo tu**, nel tuo browser: non passano da
+> nessun'altra parte.
+
+```bash
+pip install playwright && playwright install chromium
+
+# 1) una tantum: login manuale, salva la sessione
+python -m vcr.capture "https://…/replay/…" --login --storage-state sess.json
+
+# 2) registra un test breve (60s) e poi elabora
+python -m vcr.capture "https://…/replay/…" -o cap.webm -d 60 --storage-state sess.json
+python -m vcr cap.webm -o output --language it
+```
+
+Per un corso lungo si registra a segmenti (es. 20–30 min) e si concatenano i
+video prima di elaborarli.
+
 ## Degradazione elegante
 
 | Componente            | Se manca…                          | Effetto |
