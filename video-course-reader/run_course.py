@@ -26,7 +26,9 @@ def main() -> int:
         lessons = json.load(f)
 
     only = {int(a) for a in sys.argv[1:]} if len(sys.argv) > 1 else None
-    todo = [l for l in lessons if l.get("url") and l.get("duration")]
+    # tutte le lezioni con URL: quelle con `duration` sono video, le altre
+    # sono lezioni testuali/hub di materiali (gestite senza scaricare video).
+    todo = [l for l in lessons if l.get("url")]
     if only:
         todo = [l for l in todo if l["n"] in only]
 
@@ -46,20 +48,29 @@ def main() -> int:
             continue
 
         try:
-            if not os.path.exists(video):
-                print(f"[{n}] download… ({l['title']})", flush=True)
+            if not l.get("duration"):
+                # lezione senza video: testo della pagina + materiali allegati
+                print(f"[{n}] lezione testuale (testo + materiali)… ({l['title']})", flush=True)
                 subprocess.run(
-                    [sys.executable, "-m", "vcr.download", url, "-o", video,
-                     "--profile-dir", PROFILE, "--height", "720"],
+                    [sys.executable, "-m", "vcr.textlesson", url, "-o", out_dir,
+                     "--profile-dir", PROFILE, "--title", l["title"]],
                     cwd=ROOT, check=True,
                 )
-            print(f"[{n}] elaborazione (openai)…", flush=True)
-            subprocess.run(
-                [sys.executable, "-m", "vcr", video, "-o", out_dir,
-                 "--language", "it", "--engine", "openai", "--no-vision",
-                 "--title", l["title"]],
-                cwd=ROOT, check=True,
-            )
+            else:
+                if not os.path.exists(video):
+                    print(f"[{n}] download… ({l['title']})", flush=True)
+                    subprocess.run(
+                        [sys.executable, "-m", "vcr.download", url, "-o", video,
+                         "--profile-dir", PROFILE, "--height", "720"],
+                        cwd=ROOT, check=True,
+                    )
+                print(f"[{n}] elaborazione (openai)…", flush=True)
+                subprocess.run(
+                    [sys.executable, "-m", "vcr", video, "-o", out_dir,
+                     "--language", "it", "--engine", "openai", "--no-vision",
+                     "--title", l["title"]],
+                    cwd=ROOT, check=True,
+                )
             done.append(n)
             print(f"[{n}] OK -> {out_dir}", flush=True)
         except subprocess.CalledProcessError as e:
