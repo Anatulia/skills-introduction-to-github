@@ -49,3 +49,9 @@
 - nuova entità antonio-guarnieri-analogista (canale YouTube dell'utente).
 - collegata a engage-attract-video (campo "Canale") e comunicazione-non-verbale.
 - index.md → 16 pagine. Gap chiuso: nome canale.
+
+## [2026-07-16] cleanup | rimosso il cluster di test "comunicazione non verbale"
+- rimosse le pagine di test (Engage & Attract / segnali non verbali / canale Antonio
+  Guarnieri): erano solo una prova per validare il workflow di ingest.
+- il brain torna focalizzato sul nucleo LLM-Wiki. index.md → 1 source, 10 pagine.
+- (recuperabili dalla storia git se servissero in futuro).
