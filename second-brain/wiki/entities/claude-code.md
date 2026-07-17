@@ -3,7 +3,7 @@ title: Claude Code
 type: entity
 created: 2026-07-17
 updated: 2026-07-17
-sources: [vignali-agenti-ai-guida-intro, vignali-team-di-agenti-ai, vignali-secondo-cervello-obsidian]
+sources: [vignali-agenti-ai-guida-intro, vignali-team-di-agenti-ai, vignali-secondo-cervello-obsidian, vignali-azienda-agentica-video]
 tags: [tool, ai-agent-harness, anthropic]
 ---
 
@@ -32,6 +32,11 @@ computer, non nel cloud (`vignali-agenti-ai-guida-intro`).
   profonda tra i due.
 - Supporta **skill** (file `.claude/skills/`, SOP riutilizzabili — vedi
   [[ai-skills-sop]]) e task/routine programmate (cron locale, trigger remoto).
+- Supporta **subagenti** definiti in `.claude/agents/*.md` (frontmatter YAML:
+  name, description, tools) con perimetri di contesto chiusi e permessi
+  minimi per agente; `settings.json` per allow/deny sulle operazioni; comando
+  `/agents` per elencarli; `@file` per referenziare file senza ricerca —
+  base dell'[[azienda-agentica]] (`vignali-azienda-agentica-video`).
 - Usato da [[dario-vignali]] come harness centrale connesso a Gmail,
   Calendar, Notion, Stripe, Drive, Active Campaign, YouTube Studio,
   Granola, TranscriptAPI, Firecrawl via MCP.

@@ -3,7 +3,7 @@ title: Dario Vignali
 type: entity
 created: 2026-07-17
 updated: 2026-07-17
-sources: [vignali-agenti-ai-guida-intro, vignali-team-di-agenti-ai, vignali-secondo-cervello-obsidian, vignali-business-newsletter, vignali-mente-in-ordine-identita]
+sources: [vignali-agenti-ai-guida-intro, vignali-team-di-agenti-ai, vignali-secondo-cervello-obsidian, vignali-business-newsletter, vignali-mente-in-ordine-identita, vignali-azienda-agentica-video]
 tags: [person, entrepreneur, marketing, ai-agents]
 ---
 
@@ -36,6 +36,10 @@ guide lunghe su agenti AI, Obsidian e crescita personale/business.
   vedi [[identity-dopamine-loop]].
 - Usa Claude Code come harness principale, Granola per trascrizione call,
   Superwhisper per dettatura, TranscriptAPI per transcript YouTube.
+- Con [[pietro-virgilito]] sta sviluppando una startup che usa **più di 150
+  agenti AI** al posto di ~10 sviluppatori full-time; insieme hanno
+  pubblicato il video-corso sull'[[azienda-agentica]]
+  (`vignali-azienda-agentica-video`).
 
 ## Connections
 - Autore delle guide: [[ai-agent-loop]], [[context-engineering]],

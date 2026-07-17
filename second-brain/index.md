@@ -18,6 +18,7 @@ _(people, projects, tools, companies, places, books…)_
 - [[eidetic]] — community project: AI-agent memory with drift detection; Claude Code hooks.
 - [[okf-harness]] — community project: local-first CLI on Google's OKF portable format.
 - [[dario-vignali]] — imprenditore (Marketers/Business Genetics); autore del metodo "vault" AI.
+- [[pietro-virgilito]] — esperto cybersecurity; partner tecnico di Vignali (azienda agentica, 150+ agenti).
 - [[claude-code]] — Anthropic agent harness; centrale nel sistema di Vignali.
 - [[obsidian]] — app di note-taking locale; il "vault" del second brain di Vignali.
 - [[substack]] — piattaforma newsletter/blog/social usata da Vignali.
@@ -34,6 +35,7 @@ _(ideas, themes, abstractions…)_
 - [[markdown-vault-second-brain]] — metodo Vignali: vault Obsidian come contesto vivo dell'agente.
 - [[newsletter-growth-strategy]] — metodo Vignali per crescita/monetizzazione newsletter.
 - [[identity-dopamine-loop]] — loop identità-dopamina e "reality bubble" (crescita personale).
+- [[azienda-agentica]] — orchestratore + subagenti a minimi privilegi; probabilistico vs deterministico.
 
 ## Syntheses
 _(comparisons, overviews, filed-back answers…)_
@@ -44,4 +46,4 @@ _(comparisons, overviews, filed-back answers…)_
 
 ---
 
-**Stats:** 6 sources · 23 wiki pages (11 entities · 9 concepts · 3 syntheses)
+**Stats:** 7 sources · 25 wiki pages (12 entities · 10 concepts · 3 syntheses)

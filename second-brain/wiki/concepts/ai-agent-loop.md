@@ -42,6 +42,7 @@ una volta e si ferma (`vignali-agenti-ai-guida-intro`).
 - Implementato su: [[claude-code]]
 - Richiede: [[context-engineering]], [[mcp-protocol]]
 - Reso ripetibile da: [[ai-skills-sop]]
+- Scalato ad architettura aziendale in: [[azienda-agentica]]
 - Concetto affine (agente che mantiene una base di conoscenza persistente)
   a [[llm-wiki-pattern]] — vedi confronto in [[vignali-vault-vs-llm-wiki-pattern]]
 

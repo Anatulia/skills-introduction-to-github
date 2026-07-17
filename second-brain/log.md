@@ -76,3 +76,15 @@
 - gap noto: `vignali-business-newsletter` si interrompe a metà (solo la parte
   gratuita del post originale era nel .docx) — recuperabile in un ingest futuro.
 - index.md → 6 sources, 23 pagine (11 entità · 9 concetti · 3 sintesi).
+
+## [2026-07-17] ingest | Video-corso "Azienda agentica con Claude Code" (Vignali + Virgilito)
+- source: sources/vignali-azienda-agentica-video.md (trascrizione ~1h24m estratta
+  con il sistema vcr dell'utente: video-course-reader-repo/.../output_youtube/corso.md).
+- nuove pagine: concetto azienda-agentica (orchestratore + subagenti, probabilistico
+  vs deterministico, minimi privilegi, isolamento contesto, incrementalità),
+  entità pietro-virgilito (2 pagine nuove).
+- arricchite: dario-vignali (startup 150+ agenti), claude-code (subagenti
+  .claude/agents, settings.json, /agents, @file), ai-agent-loop (connessione).
+- complementare alle 5 guide Substack: quelle coprono il sistema personale
+  (vault/skill/contesto), questa l'architettura multi-agente aziendale.
+- index.md → 7 sources, 25 pagine (12 entità · 10 concetti · 3 sintesi).
