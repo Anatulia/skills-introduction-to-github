@@ -55,3 +55,24 @@
   Guarnieri): erano solo una prova per validare il workflow di ingest.
 - il brain torna focalizzato sul nucleo LLM-Wiki. index.md → 1 source, 10 pagine.
 - (recuperabili dalla storia git se servissero in futuro).
+
+## [2026-07-17] ingest | Guide di Dario Vignali (Obsidian + Agenti AI), da Dropbox
+- sources: sources/vignali-agenti-ai-guida-intro.md, vignali-team-di-agenti-ai.md,
+  vignali-secondo-cervello-obsidian.md, vignali-business-newsletter.md,
+  vignali-mente-in-ordine-identita.md (5 .docx da Dropbox
+  `Migrazione-PC-INCICO-2026-07/05-Personale/Personale/Analogista/Guida di Dario
+  Vignali per Osidian+Agenti/`; il file "Crea il tuo secondo cervello..." era 5.3MB,
+  sopra il limite di estrazione Dropbox — scaricato e convertito localmente con
+  `textutil` macOS).
+- nuovo cluster "Dario Vignali / agenti AI": entità dario-vignali, claude-code,
+  obsidian, substack; concetti ai-agent-loop, context-engineering, mcp-protocol,
+  ai-skills-sop, markdown-vault-second-brain, newsletter-growth-strategy,
+  identity-dopamine-loop; sintesi dario-vignali-ai-agent-guides-overview,
+  vignali-vault-vs-llm-wiki-pattern (13 pagine nuove).
+- connessione chiave: il metodo "vault" di Vignali (Obsidian + Claude Code come
+  contesto persistente) converge indipendentemente sullo stesso principio del
+  [[llm-wiki-pattern]] di Karpathy — nessun riferimento incrociato tra i due nelle
+  fonti. Aggiornata la pagina llm-wiki-pattern con backlink alla sintesi comparativa.
+- gap noto: `vignali-business-newsletter` si interrompe a metà (solo la parte
+  gratuita del post originale era nel .docx) — recuperabile in un ingest futuro.
+- index.md → 6 sources, 23 pagine (11 entità · 9 concetti · 3 sintesi).

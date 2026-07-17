@@ -2,7 +2,7 @@
 title: LLM Wiki Pattern
 type: concept
 created: 2026-06-26
-updated: 2026-06-26
+updated: 2026-07-17
 sources: [karpathy-llm-wiki-gist]
 tags: [pattern, knowledge-management, agents, core]
 ---
@@ -39,6 +39,13 @@ an implementation of it.
 ## Open questions
 - What concrete directory layout works best? (Gist is intentionally abstract.)
 - How to keep the schema (`CLAUDE.md`) from drifting as the brain grows?
+
+## Related independent implementations
+- [[markdown-vault-second-brain]] — Dario Vignali's "vault" method (Obsidian +
+  Claude Code) converges independently on the same architecture (persistent,
+  interlinked local Markdown as agent context vs RAG/cloud apps), with a more
+  operational/verticalized scope (tasks, delegation, content pipelines).
+  Full comparison: [[vignali-vault-vs-llm-wiki-pattern]].
 
 ## Sources
 - `karpathy-llm-wiki-gist`
