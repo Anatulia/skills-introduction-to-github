@@ -120,6 +120,28 @@ def download_hls(manifest_url: str, out_path: str, height: int | None = 720,
     return out_path
 
 
+def download_frame_hires(manifest_url: str, t: float, out_path: str,
+                          height: int = 1080,
+                          referer: str = "https://iframe.mediadelivery.net/") -> str:
+    """Estrae UN SOLO fotogramma al tempo `t` dalla variante HLS più
+    definita (<= `height`), senza scaricare l'intero video: ffmpeg fa un
+    seek diretto sull'indice HLS e legge solo i segmenti attorno a `t`
+    (qualche centinaio di KB, non l'intera lezione). Usato da `vcr.upgrade`
+    per i frame con testo/grafici che l'OCR a bassa risoluzione non riesce
+    a leggere bene (vedi `describe.needs_higher_res`).
+    """
+    out_dir = os.path.dirname(os.path.abspath(out_path)) or "."
+    os.makedirs(out_dir, exist_ok=True)
+    src = _select_variant(manifest_url, height, referer)
+    cmd = ["ffmpeg", "-y", "-referer", referer,
+           "-ss", f"{t:.3f}", "-i", src,
+           "-frames:v", "1", "-q:v", "2", out_path]
+    result = subprocess.run(cmd, capture_output=True, text=True, timeout=120)
+    if result.returncode != 0 or not os.path.exists(out_path):
+        raise RuntimeError(f"Estrazione frame hi-res fallita (t={t}):\n{result.stderr[-1500:]}")
+    return out_path
+
+
 def main(argv: list[str] | None = None) -> int:
     import argparse
 

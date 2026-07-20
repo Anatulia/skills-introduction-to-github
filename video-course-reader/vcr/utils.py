@@ -58,4 +58,5 @@ class Keyframe:
     image_path: str      # path al file estratto
     reason: str          # "scene" | "periodic" | "start"
     ocr_text: str = ""
+    ocr_confidence: float = 0.0   # media confidenza tesseract [0-100], 0 = non calcolata
     description: str = ""
