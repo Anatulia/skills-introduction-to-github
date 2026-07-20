@@ -1,0 +1,559 @@
+{
+  "title": "Come usarlo in modo intermedio",
+  "sections": [
+    {
+      "keyframe": {
+        "index": 0,
+        "time": 0.0,
+        "timestamp": "00:00:00",
+        "image": "frame_0000.jpg",
+        "reason": "start",
+        "ocr_text": "cioe womsece DCO > 1 cisude > ri aope > adi conto > nd output > all pins > nd preci > 18 temo) 4 gignoro 29 claude Workspace code-morkspace E CLAUDE md 18 21 \"MMsrs/rattaete/Desttop/elade vorkspace/context/” Li cho =_MILLS—* Li ls -1 */Users/rattaele/Desktop/cloute vorispace/.claude/seit1/* rn Bash List content and sk encore» augience. ns Entesonona Rend atene. Rondi conan Rend chi-sono. Read Libri Read servizi. Read stite.n Though for os ‘Tutto caricato. Sono pronto ad altari, Rafael. Cosa facciamo oggi?",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 0.23999999463558197,
+          "end": 7.199999809265137,
+          "text": "Ora che abbiamo visto come farlo in modo semplice, quindi senza nessuna particolare competenza,"
+        },
+        {
+          "start": 7.199999809265137,
+          "end": 11.65999984741211,
+          "text": "nessuna particolare tecnica, ma semplicemente dialogando con Cloud Code e facendogli capire"
+        },
+        {
+          "start": 11.65999984741211,
+          "end": 15.520000457763672,
+          "text": "che prima abbiamo fatto una ricerca, poi abbiamo fatto una pianificazione, poi abbiamo"
+        },
+        {
+          "start": 15.520000457763672,
+          "end": 20.780000686645508,
+          "text": "eseguito, vediamo invece lo step intermedio, prima di arrivare a quello finale che è l'approccio"
+        },
+        {
+          "start": 20.780000686645508,
+          "end": 24.100000381469727,
+          "text": "che uso io, perché magari potete scegliere voi di utilizzare uno diverso da quello che"
+        },
+        {
+          "start": 24.100000381469727,
+          "end": 29.139999389648438,
+          "text": "uso io. Qualcuno si potrebbe chiedere, soprattutto dopo aver visto la lezione precedente,"
+        },
+        {
+          "start": 29.139999389648438,
+          "end": 34.099998474121094,
+          "text": "bravo, ma se questa cosa è così importante, se questa cosa addirittura è consigliata"
+        },
+        {
+          "start": 34.099998474121094,
+          "end": 41.13999938964844,
+          "text": "nella documentazione di Cloud Code ufficiale, ma perché non c'è un modo standard di fare"
+        },
+        {
+          "start": 41.13999938964844,
+          "end": 47.540000915527344,
+          "text": "questa cosa? E in realtà un modo standard di farlo c'è. E come si fa? Si fa abilitando"
+        },
+        {
+          "start": 47.540000915527344,
+          "end": 52.220001220703125,
+          "text": "la modalità pianificazione. Vi ricordate che noi abbiamo visto in una delle primissime"
+        },
+        {
+          "start": 52.220001220703125,
+          "end": 56.81999969482422,
+          "text": "lezioni di questo corso che qua ci sono una serie di pulsantini qua sotto, ok? Questo"
+        },
+        {
+          "start": 56.81999969482422,
+          "end": 61.540000915527344,
+          "text": "ci permette di allegare file, questo ci permette di, diciamo, chiamare una serie di comandi,"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 1,
+        "time": 60.0,
+        "timestamp": "00:01:00",
+        "image": "frame_0001.jpg",
+        "reason": "periodic",
+        "ocr_text": "rsone Bash List content and site irectoris 18 21 MMlsers/rattaete/Desttop/elade vorkspace/context/ Li cche \"MILLS\" i ls -1 \"/isers/raffaele/Desktop/clouse vorispace/.claide/stil1/* entesonosni Read ssience. mi Rond coni.nd Rendi chi-sono.nd Resa Libri Read serviziini Read stite.si Thowght for 05 si Tutto caricato. Sono pronto ad ltart Raffa! 11; RAI ott comodo Ettore (Era gh) ®- Trintina ® Account & usage. Toggle fast mode",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 61.540000915527344,
+          "end": 68.0199966430664,
+          "text": "andare a cambiare il modello e così via. E qua avevamo i famosi permessi, quindi chiedimi"
+        },
+        {
+          "start": 68.0199966430664,
+          "end": 72.86000061035156,
+          "text": "le modifiche, modifichi automaticamente e così via. Ce n'è una, che è questa qua,"
+        },
+        {
+          "start": 72.86000061035156,
+          "end": 78.58000183105469,
+          "text": "che si chiama proprio Plan Mode, dove ci dice Cloud will explore the code and present a"
+        },
+        {
+          "start": 78.58000183105469,
+          "end": 85.77999877929688,
+          "text": "plan before editing. Quindi Cloud si guarderà il codice, ci propone un piano prima di procedere"
+        },
+        {
+          "start": 85.77999877929688,
+          "end": 91.86000061035156,
+          "text": "con l'editing. Allora, qua ho fatto una precisazione e adesso ve lo faccio vedere in azione, questo"
+        },
+        {
+          "start": 91.86000061035156,
+          "end": 97.18000030517578,
+          "text": "Plan Mode, vi faccio vedere cosa succede, ma vi dico perché non lo uso e perché mi"
+        },
+        {
+          "start": 97.18000030517578,
+          "end": 101.77999877929688,
+          "text": "sono fatto il mio Plan Mode. Quindi perché ho preso questo concetto, che quindi Cloud"
+        },
+        {
+          "start": 101.77999877929688,
+          "end": 107.37999725341797,
+          "text": "ha già interno, ma me lo sono cambiato leggermente. Perché? Perché questa funzionità è pensata"
+        },
+        {
+          "start": 107.37999725341797,
+          "end": 113.13999938964844,
+          "text": "in maniera specifica per il codice e funziona molto bene con il codice. Ho visto che scricchiola"
+        },
+        {
+          "start": 113.13999938964844,
+          "end": 117.18000030517578,
+          "text": "un pochino quando lo andiamo ad utilizzare in contesti non di codice. Quindi io adesso"
+        },
+        {
+          "start": 117.18000030517578,
+          "end": 122.58000183105469,
+          "text": "rifarò lo stesso esempio, in modo tale che i tre tipi di approcci che vi faccio vedere"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 2,
+        "time": 120.0,
+        "timestamp": "00:02:00",
+        "image": "frame_0002.jpg",
+        "reason": "periodic",
+        "ocr_text": "causa vorispace cuauve worxsrace = (CO e stan > sd ce ra 24 cont ni cup ni pon ni preci > iero 39 claude workspace code morkspace è CLAUDE ma 18 -i MAIsers/rattaete/Desktop/elose vorispace/context/* Li cho \"MILLS\" is -1 \"/isers/raffaele/Desktop/claute sorispace/.claide/seil1/* tant rstane > entesono.na Read since. ni Rond conti. Rendi chi-sono.nd Rendi Libri. Read servizi.ni Read sites Though fer os ‘Tutto caricato, Sono pronto ad altari, Rafael. Csa facciamo oggi?",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 122.58000183105469,
+          "end": 127.69999694824219,
+          "text": "sono sullo stesso task, in modo tale che possiamo vederlo proprio in azione. Quindi nel caso"
+        },
+        {
+          "start": 127.69999694824219,
+          "end": 132.02000427246094,
+          "text": "che sto analizzando io, ho un podcast, ho tanti transcript, da questi transcript voglio"
+        },
+        {
+          "start": 132.02000427246094,
+          "end": 137.02000427246094,
+          "text": "scrivere un articolo, quindi devi andare a spulciare e così via. E le situazioni vostre"
+        },
+        {
+          "start": 137.02000427246094,
+          "end": 140.89999389648438,
+          "text": "saranno simili, perché saranno situazioni, non ci sono dei file di codice, ma ci saranno"
+        },
+        {
+          "start": 141.5800018310547,
+          "end": 148.74000549316406,
+          "text": "documenti, presentazioni, preventivi, trascrizioni, report, white paper, ebook, libri e così via."
+        },
+        {
+          "start": 148.74000549316406,
+          "end": 155.6999969482422,
+          "text": "Quindi non c'è il codice inteso proprio come lo intende CodeCode, quindi con pezzi di codice"
+        },
+        {
+          "start": 155.6999969482422,
+          "end": 160.05999755859375,
+          "text": "che si richiamano tra di loro, che hanno dipendenza tra di loro, linguaggi che si devono integrare"
+        },
+        {
+          "start": 160.05999755859375,
+          "end": 165.5800018310547,
+          "text": "e così via. Però vediamolo comunque all'opera. Abilito Plan Mode e gli do direttamente il"
+        },
+        {
+          "start": 165.74000549316406,
+          "end": 170.74000549316406,
+          "text": "prompt. Questa volta me lo sono scritto prima giusto per velocizzare un pochino. Gli dico,"
+        },
+        {
+          "start": 170.74000549316406,
+          "end": 175.4600067138672,
+          "text": "vedete questo è molto simile a quello di prima. Ho un'esigenza, un podcast dove intervisto"
+        },
+        {
+          "start": 175.4600067138672,
+          "end": 179.02000427246094,
+          "text": "un ospite a settimana, vorrei provare a scrivere un articolo su un argomento che è stato toccato"
+        },
+        {
+          "start": 179.02000427246094,
+          "end": 183.25999450683594,
+          "text": "da più ospiti in più puntate. Mi serve che tu esplori le puntate registrate fino ad ora"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 3,
+        "time": 180.0,
+        "timestamp": "00:03:00",
+        "image": "frame_0003.jpg",
+        "reason": "periodic",
+        "ocr_text": "cinuse voispace ) 18 claude > ii anos > adi conto > ad output nd pins ni project tere 28 -a MMera/raffaete/Desktop/ claude vorkapace/context/* i echo \"—GKILLS—\" GE a 1 \"/lbera/raffaele/Desktop/claude vorkapce/.cisuae/seil/* 4 glignore ii 9 claude Workspace code-morkspace conoti.ni 6 CLAUDE ma chiesono nd rsvne @ Gineh List contest and kl irctoios Read sione. Red costi. Rendi chron. Read Libri. Rond servizi. Road sten Tutto carat. Sono pronto ad aiutati, Raffaele. Cosa facciamo oggi? ho questa esigenza: ho un podeast dove Intervisto un ospito a settimana e vorei provare a scrivere un È articolo su un argomento che è stato toccato da più ospitin più puntate. _[ mi serve che tu espior puntato registrato fino ad ra e che tod riferimenti a un certo argomento. potrebbe essere che un ospite l'ha solo accennato, che con un tro invece è l ema principal e con tr ancora potrebbe essere stato trattato slo per una 0 due domande Ul primo argomento che voglio ti controll l'impatto dell'tligenza artfile sula produttività i aziona e ufficio +0 Ta rom MB",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 183.25999450683594,
+          "end": 187.97999572753906,
+          "text": "e che trovi i riferimenti a un certo argomento. Potrebbe essere che un ospite l'ha solo accennato,"
+        },
+        {
+          "start": 187.97999572753906,
+          "end": 191.5,
+          "text": "che con un altro invece il tema principale, con altri potrebbe essere stato trattato per"
+        },
+        {
+          "start": 191.5,
+          "end": 195.66000366210938,
+          "text": "una o due domande. Il primo argomento che voglio che tu controlli è l'impatto dell'intelligenza"
+        },
+        {
+          "start": 195.66000366210938,
+          "end": 199.97999572753906,
+          "text": "artificiale sulla produttività in azienda e in ufficio. E qua però gli do direttamente il task"
+        },
+        {
+          "start": 199.97999572753906,
+          "end": 204.4600067138672,
+          "text": "completo. Cioè, mentre prima ci siamo fermati, gli ho detto mi raccomando non scrivere l'articolo,"
+        },
+        {
+          "start": 204.4600067138672,
+          "end": 208.6999969482422,
+          "text": "fai solo la ricerca e poi dopo gli abbiamo detto adesso però fammi solo un piano. Invece qua gli"
+        },
+        {
+          "start": 208.6999969482422,
+          "end": 213.3800048828125,
+          "text": "dico tutto. Mi serve un articolo di duemila parole e più, con il mio stile e il mio tono,"
+        },
+        {
+          "start": 213.3800048828125,
+          "end": 217.77999877929688,
+          "text": "così se ne andrà a prendere diciamo nei file di contesto. Voglio che ci siano dentro tre,"
+        },
+        {
+          "start": 217.77999877929688,
+          "end": 222.3000030517578,
+          "text": "quattro citazioni precise prese dal podcast e che negli altri casi vengano comunque citate"
+        },
+        {
+          "start": 222.3000030517578,
+          "end": 226.5,
+          "text": "le persone che hanno detto un concetto. Anche se solo un punto di partenza per poi elaborarlo."
+        },
+        {
+          "start": 226.5,
+          "end": 231.86000061035156,
+          "text": "Ad esempio, come ha detto Matteo Valiotta a proposito di x, y e z. Quindi questo è il"
+        },
+        {
+          "start": 231.86000061035156,
+          "end": 237.6999969482422,
+          "text": "compito finito, preciso, mentre prima invece l'abbiamo dovuto separare noi perché era la"
+        },
+        {
+          "start": 237.6999969482422,
+          "end": 243.10000610351562,
+          "text": "versione grezza dell'approccio pianifica, cioè dell'approccio esplora pianifica e segui. Invece"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 4,
+        "time": 240.0,
+        "timestamp": "00:04:00",
+        "image": "frame_0004.jpg",
+        "reason": "periodic",
+        "ocr_text": "i) tar > ai anos > adi conto svn ni up sa pre: è tineh List contest and kl irctoies ni projects DES 18 1 \"MUters/raffante/Desktop/clase vorkapnce/context/* Ki cho \"—GKILLS—* GE a -1 */ibera/ratfaele/Desktop/claude vorkapace/.claude/skil/* 4 glignore Ceca I laude workspace code-morkspace cannitond 6 CLAUDE md ent-sonond Read servizi.ni Rond stite.ni Thought or 0a Tutto carat. Sono pronto ad altari, Raffaele. Cosa facciamo oggi? primo argomento che voglio tu contri è impatto dllintligenza artificiale sua produttività in azienda e ufficio mi serve un articolo di 2000+ parole, con mi sile elmi tono. voglio che c siano dentro 3-4 citazioni precise prese cal podcast 0 che negli alri casi vengano. comungue citato le persone che hanno detto un concetto, anche se è solo un punto di partenza per poi otaboraro ‘ad esempio “Come ha detto Matteo Allotta a proposito di..* I +0 2 piece. (I",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 243.10000610351562,
+          "end": 249.5800018310547,
+          "text": "qua adesso lo fa la funzionalità. Siccome siamo in plan mode gli dico tutto e quando do invio non"
+        },
+        {
+          "start": 249.5800018310547,
+          "end": 254.77999877929688,
+          "text": "sta andando a eseguire. Quindi se qua non fosse stato selezionato plan mode, lui probabilmente"
+        },
+        {
+          "start": 254.77999877929688,
+          "end": 258.8999938964844,
+          "text": "avrebbe subito iniziato a scrivere l'articolo. O meglio, avrebbe fatto la ricerca e poi avrebbe"
+        },
+        {
+          "start": 258.8999938964844,
+          "end": 264.29998779296875,
+          "text": "subito scritto l'articolo. Adesso invece cosa mi dice? Inizio esplorando la struttura del podcast"
+        },
+        {
+          "start": 264.29998779296875,
+          "end": 268.29998779296875,
+          "text": "per capire dove sono i transcript e quante puntate ci sono. Quindi adesso farà tutta la fase di"
+        },
+        {
+          "start": 268.29998779296875,
+          "end": 274.17999267578125,
+          "text": "ricerca iniziale che deve fare inevitabilmente e poi dopo mi inizierà a proporre un piano. Qua ci"
+        },
+        {
+          "start": 274.17999267578125,
+          "end": 278.2200012207031,
+          "text": "metterà un pochino perché c'è tutta la fase che deve leggere le puntate, quindi diciamo ve lo taglio"
+        },
+        {
+          "start": 278.2200012207031,
+          "end": 282.5799865722656,
+          "text": "e vi faccio vedere. Aspettate sta dicendo ci sono 36 puntate, vediamo la struttura del progetto, il"
+        },
+        {
+          "start": 282.5799865722656,
+          "end": 287.2200012207031,
+          "text": "formato dei transcript. Aspetto giusto qualche secondo, poi metto in pausa così vi faccio vedere"
+        },
+        {
+          "start": 287.2200012207031,
+          "end": 295.0199890136719,
+          "text": "direttamente cosa fa avanti. Vedete sta procedendo, mi dice ho capito la struttura, ci sono"
+        },
+        {
+          "start": 295.0199890136719,
+          "end": 299.94000244140625,
+          "text": "36 puntate, una decina di candidati forti sul tema, quindi ho già trovato puntate che sono"
+        },
+        {
+          "start": 299.94000244140625,
+          "end": 304.6600036621094,
+          "text": "verticale sul tema, ma il tema può emergere anche in altre puntate. Qua l'ha capito dal titolo"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 5,
+        "time": 300.0,
+        "timestamp": "00:05:00",
+        "image": "frame_0005.jpg",
+        "reason": "periodic",
+        "ocr_text": "CUvDE WORISPACE OERETT: > i ciaude na > ri aops > adi contest > adi output > all pins > a prope > 18 temo) projects poscast/transcriot + atigrore I laude workspace.code-morkspace è CLAUDE md Tnavghi tor 0s Buona base: c sono circa 36 puntate. Vedlam la struttura del progetto el formato del ranseript. ho questa esigenza: ho un podeast dove ntenvisto un ospite a settimana vorei revae a serivere un articolo su un argoment che è stato toccato da più spit n più puntate Bash nspoct podeast proci structure and ranserit sizes 19 Mitra) at aete/Desktop/ claude vorkspnce/profects/poscast® 4 ts i Ta Li ind 2>/GEv/nu echo \"VORICINT TRMISCRIFT\"1 We e transeript/e.nd 2>/000) Trova Rena contert.nd Read puntate. ni Ora capisco la struttura 6 puntato, dl candidate fort ul tema (Vincenzo Esposito dî Microsoft, Emilano Colangeli Giovani Cavaliere, Andrea Giuldor, Vittorio Scarano, Matto Alta, Lisa Carrada, ecc). Ma l tema può omorgero nche in puntato dedicato ad ao, quindi vanno cercati ut 36 transrit Vediamo prima formato di un transcrip pr itrule bene la ricerca Road 2025-19-24-attes-aliotta.ni Thinking. - 450 tokene Transmuting",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 304.6600036621094,
+          "end": 310.6600036621094,
+          "text": "semplicemente, quindi dal titolo ha capito delle cose. Poi dice guardi in alcuni casi ci sono i"
+        },
+        {
+          "start": 310.6600036621094,
+          "end": 315.739990234375,
+          "text": "transcript, ho trovato che ci sono degli errori di trascrizione e questo è rilevante per le citazioni"
+        },
+        {
+          "start": 315.739990234375,
+          "end": 321.17999267578125,
+          "text": "precise. Ora lancio la ricerca su tutti e 36 transcript divisi in tre gruppi paralleli, quindi"
+        },
+        {
+          "start": 321.17999267578125,
+          "end": 326.29998779296875,
+          "text": "anche in questo caso cosa sta facendo? Sta lanciando dei sub-agent, quindi divide la cosa,"
+        },
+        {
+          "start": 326.29998779296875,
+          "end": 334.3399963378906,
+          "text": "fa partire degli agenti, vedete agente A che fa cerca produttività AI in gruppo A, adesso partirà"
+        },
+        {
+          "start": 334.3399963378906,
+          "end": 339.5799865722656,
+          "text": "anche l'agente B e l'agente C, così andrà più veloce nel fare questa ricerca. Anche in questa"
+        },
+        {
+          "start": 339.5799865722656,
+          "end": 344.4599914550781,
+          "text": "modalità a un certo punto mi chiede delle domande, quindi diciamo qua ha finito la ricerca, mi dice"
+        },
+        {
+          "start": 344.4599914550781,
+          "end": 350.3800048828125,
+          "text": "ho un quadro completo di tutti i transcript, il materiale è ricchissimo, ecco chi lo usa come"
+        },
+        {
+          "start": 350.3800048828125,
+          "end": 356.29998779296875,
+          "text": "tema centrale, ecco chi lo da come spunto e così via, quindi mi dice a questo punto diciamo quale"
+        },
+        {
+          "start": 356.29998779296875,
+          "end": 361.3800048828125,
+          "text": "angolo vorresti dare all'articolo, la falsa produttività, esecutori a manager di agenti,"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 6,
+        "time": 360.0,
+        "timestamp": "00:06:00",
+        "image": "frame_0006.jpg",
+        "reason": "periodic",
+        "ocr_text": "deco cine vorispace 28 pon start hO questa esigenza: ho un podeast dove Intervsto un ospite a settimana e vorei provare a scrivere un articolo su un argomento che è tato vocato da più spit in più punt Toma centrale sezione forte: Vincenzo Esposito (CEO Microsoft Itala, cas conti a RON), Giorgi Pagliara (agenti, “manager di agent), Luca Barboni ( baneici sono dentro l'azienda, sui processi, Gian Segato (Antrole, lastrazione del avro d'ufico), Pero Savastano (delega intelligente), Giovanni Cavallero l 5 domande, PMI) Andrea Gluloderi (paradosso dll prouttività), Emiliano Colangeli (automazione del nn-core ratention, Faderia Brancale (70% di ffciontamento, cosa dolegae), Matte Alta, Lucano Fri (a osecuore a designer), Luca Carrda (a pigrizia il mit dll produttività), Nessandro De Concin, Guseppe Ragazzi. Spunti contrappunto: Andrea Colamadic (significato e atrofia cognitiva, Francesco Ogglano (+24% di articl), vano DI Basi Nicola Trgione (brare I tempo del medio), Armando Bisogno (manovalanza vs valor), Enkk (quantità vs qualità), Massimiano Dona, Vittorio Scarano, Giovanna Panucci 75% d processi miglrat), Marcelo Asca. Fuori tema: Cristanin, Taddeo, Romagnoli, Perfetti, Padovese, Morar, Stranges, Mark The Hammer, Girardi, Bozzi. Più che sufficiente per un pezzo da 2000+ pol. Prima di Scrivere piano, mì serve una col decisione da o (la più important); l'angolo dell'aricoo. * Askiserquestion pont tl materiale converge su alcuni il fort Quale angolo/tesi vuoi dar all'articolo? (Tutti useranno 3-4 tazioni precise + menzioni nominali degli tr ospiti, e Includeranno comunque i casì concreti aziendali) La falsa produttività Tera e ant-ypo, motto nto al: usar AI pr fre più cone pù n retta è ua nppoa La produtiità vera è Raro ‘empo perl Lavoro di Valore e di relazione lol di bottiglia è fida, non! 09 Incorpora anche cambio gi olo cani azien come sezioni. 0a esecutori a manager dl agenti Flo corale sl cambio di mestre: lavoro ufficio venta orcstrare agenti I (Pagliara, Segno, Sawastno, ic. Chi no i trasforma rest cito. Teglio più uu el avro i vantaggio è dentro, no fuori ‘Tago sendale/PMi concreto: dova Ares vale reale (process interi non vetrina}, ci Micro rembo]Caangl, el vaio compettv ra chi part prima © Chi no Pi ‘Buainoss e sdozi other",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 361.3800048828125,
+          "end": 367.2200012207031,
+          "text": "il vantaggio è dentro non fuori, diciamo che mi piace il primo, anche qua la scelta è fatta"
+        },
+        {
+          "start": 367.2200012207031,
+          "end": 371.8599853515625,
+          "text": "abbastanza random, giusto per farvi vedere che vado avanti, però per farvi capire che anche in"
+        },
+        {
+          "start": 371.8599853515625,
+          "end": 377.2200012207031,
+          "text": "questo caso, quindi con questa modalità, quindi con il plan mode abilitato, senza che io gliela"
+        },
+        {
+          "start": 377.2200012207031,
+          "end": 382.0199890136719,
+          "text": "abbia detto, siccome il plan mode Cloud Code mi inizia a fare delle domande quando si trova di"
+        },
+        {
+          "start": 382.0199890136719,
+          "end": 388.29998779296875,
+          "text": "fronte a dei dubbi, quindi ci potrebbe essere un bivio, potrebbe andare in una direzione o un'altra,"
+        },
+        {
+          "start": 388.29998779296875,
+          "end": 393.1000061035156,
+          "text": "quindi anche qui ovviamente metto pausa, vi faccio direttamente le parti interessanti. Perfetto,"
+        },
+        {
+          "start": 393.1000061035156,
+          "end": 398.0199890136719,
+          "text": "dopo qualche altro secondo mi dice mi metto a lavorare sul piano, quindi ho scelto l'angolo"
+        },
+        {
+          "start": 398.0199890136719,
+          "end": 403.82000732421875,
+          "text": "che mi ha proposto, ti scrivo il piano, mi dice il piano è pronto, te lo riassumo così e me"
+        },
+        {
+          "start": 403.82000732421875,
+          "end": 410.17999267578125,
+          "text": "l'ha messo qui, vedete questo è proprio il piano, quindi ready for review e qua mi dice accetta il"
+        },
+        {
+          "start": 410.17999267578125,
+          "end": 416.260009765625,
+          "text": "piano, accettalo ma fai delle modifiche oppure continuo a pianificare e qua diciamo mi ha"
+        },
+        {
+          "start": 416.260009765625,
+          "end": 422.94000244140625,
+          "text": "proposto il piano che vorrebbe fare, ok? Quindi diciamo c'è l'articolo, ci sono le citazioni,"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 7,
+        "time": 420.0,
+        "timestamp": "00:07:00",
+        "image": "frame_0007.jpg",
+        "reason": "periodic",
+        "ocr_text": "3 > cinudo vorkipnce ho questa esigenza: ho un podeast deve intervisto un ospite a settimana e verrei provare a scrivere Your questions have Been ansueredì \"IL materiale converge su alcuni FI forti. Qu Thought for 20 Perfetto, angolo scelto: \"La falsa produttività. Servo piano. Wi ho-questa-estpenza-bo-groovy-iazo0. nd Piano: articolo La falsa prosuttività dal podcast Mar's Next ti piano è pronto, Te o riassumo: scriverò un articolo da circa 2200-2400 parole con angolo \"La falsa produttività”, sabato in projoets/pogcastoutout. User 3-4 citazioni precise (veri mano su transcrip, con pulzi leggera degli errori whisper) e menzioni nominati er li tri spit. Claude Plan ho-questa-esigenz-ho-groswy-kazo. nd Accept this plan? Selet txt in th provi 0 add commants e- a veg Piano: articolo \"La falsa produttività dl podcast What's Next x *D tolgo intercalari ripetizioni del parato, mantenendo parole e senso. Le citazioni restano fedeli ma leggibili. Ogn citazione attribuita con nome e ruolo dell'ospite. Struttura dell'articolo (-2200-2400 parole) 1. Gancio — mito “con 'Al faccio in 5 minuti quello che prima richiedeva ore”. Scena da Unkacin (citazione Andrea Giulldori su anti di produzione di massa). Domanda: ma è davvero produttività? La trappola della falsa produttività — quantità qualità. n (pù roba # iù roba bene), Giuliodori (fallocia dell velocità, Foderica Brancale (Al accelra ciò che non funziona), Giovanni Cavaliere (officienza vs efficacia), Luisa Carrada (mito della produttività sui tosti). . La produttività era: liberare tempo per l valore — automazione del on-core. Emillano Colangei (lol virtuoso libera-tempo - cliente > retention), Matteo Alotta automatizzar ripetitivo per dare tempo alle persone), Luciano Flridi (da esecutore a dsigne), vano DI Basi e Nicola Trigione (liberare tompo dl medico), Massimiliano Dona (tempo pera relazione), Gian Segato (meno \"come sÌ fa”, iù relazione umana). il paradosso del tempo liberato Fiordi tempo rsparmisto lo ributto dentro per accelerare ancora, Andrea Colamedici (mi lbero ma po scroll; atrofia cognitiva, custodire a fatica sana) la pigrizia: Luisa Carrada, Francesco Marino pigrizia di pensier), Luca Barboni (se deleghi tutto rest uguale da 5 an). vero collo di bottiglia: il mindset, non tool — Alessandro De Concini (non spegnere ll cervello; vietare GPT è inutle), Vincenzo Esposito (vince chi ha iniziato prima, non chi ha il model migliore; divario competitivo, casi Brembo/Baci Milano), Giovanni Cavaliere (le 5 domande, first principles), Luca Barboni (‘0% del beneficio è interno, sistemare | processi prima), Piero Savastano (delega calata), da esecutori a “manager i agent* (Giorgio Pagliara, Gian Segato) Cosa tenere per noi —l iscrimine tra cosa delegare e cosa no Fedi (dologa ripetitivo, tieni ciò che dà valore; umano-prima-poi-AI, Gli allena | muscoli mental; contet > prompt), Armando Bisogno (la valore, cambia la metrica), Luca Barboni (serve competenza per Chiusura — Sintesi la produttività vera non è quanto produci",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 422.94000244140625,
+          "end": 429.5400085449219,
+          "text": "c'è dove mi salverebbe il file, la verifica finale e così via. A questo punto io non gli do l'invio"
+        },
+        {
+          "start": 429.6600036621094,
+          "end": 434.05999755859375,
+          "text": "per fargli accettare il piano e per fargli scrivere l'articolo, perché tanto il pezzo finale è quello"
+        },
+        {
+          "start": 434.05999755859375,
+          "end": 438.260009765625,
+          "text": "dell'esecuzione, è quello che ci interessa di meno, quello che volevo farvi vedere è questo"
+        },
+        {
+          "start": 438.260009765625,
+          "end": 445.4200134277344,
+          "text": "step intermedio, ok? Quindi dove la pianificazione non la facciamo manualmente, ok? In modo grezzo"
+        },
+        {
+          "start": 445.4200134277344,
+          "end": 450.70001220703125,
+          "text": "dicendo voglio che tu faccia un piano e così via, ma usiamo la funzionità plan e otteniamo questo."
+        },
+        {
+          "start": 450.70001220703125,
+          "end": 455.0199890136719,
+          "text": "Ora che abbiamo capito questo e vedete perché era fondamentale anche la lezione precedente,"
+        },
+        {
+          "start": 455.0199890136719,
+          "end": 460.4599914550781,
+          "text": "nella prossima lezione vi faccio vedere invece questa roba qua, ma leggermente modificata,"
+        },
+        {
+          "start": 460.4599914550781,
+          "end": 467.8599853515625,
+          "text": "fatta diciamo con un approccio mio personalizzato che trovo molto più preciso sul lavoro che non"
+        },
+        {
+          "start": 467.8599853515625,
+          "end": 470.739990234375,
+          "text": "è un lavoro di codice ma un lavoro su documenti di altro tipo."
+        }
+      ]
+    }
+  ]
+}

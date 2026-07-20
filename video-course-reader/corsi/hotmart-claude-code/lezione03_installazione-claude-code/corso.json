@@ -1,0 +1,1174 @@
+{
+  "title": "Installazione Claude Code",
+  "sections": [
+    {
+      "keyframe": {
+        "index": 0,
+        "time": 0.0,
+        "timestamp": "00:00:00",
+        "image": "frame_0000.jpg",
+        "reason": "start",
+        "ocr_text": "X Claude Code Docs engish @ Search 2K 33 ASKAI | Claude Developer Patform Gettingatarted | BuikdwithClaude Code | Deployment | Administration Configuration Reference | AgentSOK | WhatsNew | Resources Getting started GETTING STARTED = Onthis page Overvien Quickstart Before you begin Sio Welcome to Claude Code! Step Install Claude Code Changetog Step2iLoginto youraccount. This quickstart guide will have you using Al-powered coding assistance in a few minutes. By the Step Start your rst session cea endi you'll understand how to use Claude Code for common development tasks. Step Ask your ist question Step 5: Mal your first code chan How Claude Code works vini se tend Clude Code Before youbegin Step di Use Gitwfth Claude Code Step7.Fixa bugoradda feature Explore the claude directory Make sure you have: ‘tape: Test out other common Explore te context window: workflow A terminal or command prompt open Essential commands es Grande Cao * If you've never used the terminal before, check out the terminal Protipa for beginners Store Instructions and memories A code project to work with What net? Permission modes. A Claude subscription (Pro, Max, Team, or Enterprise), Claude Console account, or access Sergio through a supported cloud provider Common worktlows Best practices ‘© This guide covers the termina! CLI Claude Code s also avallable on the web, asa desktop app, in US Cod and etBraln DES, Sick adi C/CO with GRHub Action and Giab. oe all Piatorms andintogrations can) Grervion Remota Control ‘ala question Chace Cod n the web",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 0.3199999928474426,
+          "end": 3.319999933242798,
+          "text": "E adesso invece vediamo come installare Cloud Code."
+        },
+        {
+          "start": 3.319999933242798,
+          "end": 8.079999923706055,
+          "text": "L'installazione di Cloud Code e anche il suo utilizzo iniziale potrebbe sembrare un pochino"
+        },
+        {
+          "start": 8.079999923706055,
+          "end": 13.479999542236328,
+          "text": "complicato perché ci serve il terminale e il terminale è questa roba qua, questa schermatina"
+        },
+        {
+          "start": 13.479999542236328,
+          "end": 19.979999542236328,
+          "text": "nera con testo bianco, in stile Matrix, che spaventa sempre qualcuno e io so che molte"
+        },
+        {
+          "start": 19.979999542236328,
+          "end": 23.31999969482422,
+          "text": "persone non si sono avvicinate a Cloud Code a causa del terminale."
+        },
+        {
+          "start": 23.31999969482422,
+          "end": 28.299999237060547,
+          "text": "Prima cosa, non vi spaventate perché in questo corso lo utilizzeremo pochissimo perché più"
+        },
+        {
+          "start": 28.299999237060547,
+          "end": 32.939998626708984,
+          "text": "avanti vi faccio vedere che in realtà possiamo anche scavalcare il terminale e usare altro"
+        },
+        {
+          "start": 32.939998626708984,
+          "end": 38.779998779296875,
+          "text": "che è un pochino più comodo, un pochino anche meno spaventoso dal punto di vista dell'interfaccia,"
+        },
+        {
+          "start": 38.779998779296875,
+          "end": 39.779998779296875,
+          "text": "un po' più facile."
+        },
+        {
+          "start": 39.779998779296875,
+          "end": 44.5,
+          "text": "Seconda cosa importante da dire però, prendete confidenza con il terminale perché non è"
+        },
+        {
+          "start": 44.5,
+          "end": 49.70000076293945,
+          "text": "uno strumento terribile, è un luogo nel quale diamo dei comandi e possiamo fare delle cose."
+        },
+        {
+          "start": 49.70000076293945,
+          "end": 50.70000076293945,
+          "text": "Quali cose?"
+        },
+        {
+          "start": 50.70000076293945,
+          "end": 57.220001220703125,
+          "text": "Installare delle app, creare dei file, modificare dei file, lanciare delle app, dei tool e così"
+        },
+        {
+          "start": 57.220001220703125,
+          "end": 58.220001220703125,
+          "text": "via."
+        },
+        {
+          "start": 58.2599983215332,
+          "end": 61.58000183105469,
+          "text": "Un'app molto potente nel quale possiamo fare diverse cose."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 1,
+        "time": 60.0,
+        "timestamp": "00:01:00",
+        "image": "frame_0001.jpg",
+        "reason": "periodic",
+        "ocr_text": "© © © (A Questi Claude code De x + € 3 e 3 code claude. comidocs/eniauiistart X Claude Code Docs engish Q Search XK 39 ASKAI |. Claude Developer Platform Gettingstarted | Bulk with Claude Code | Deployment Administration Configuration Reference AgentSDK | What&New Resources Welcome to Claude Code! Getting started This quickstart guide will ave you using Al-powered coding assistance in a few minutes. By the Sr ‘end you'Il understand how to use Claude Code for common development tasks. quin cas iui : fore you begin a Malo sure ou have: He Gina Coda war: * Aterminalorcommandoramotonen. © @ © Mirattacio—2sh— 12030 rattaetseserverino = x Extend Claude Code Explore the claude directory Explore te context window Use Claude Code Store instructions and memories Permission modes Common worktione est pracicee Li Stepl:Inst: Pittore and intagration Toinstai val overvien Remote Contro ‘Aska question Claude Cod on the web = Onthis page Before you begin Step install Claude Code Stop2:Loginto you account Steps: Start your firstsssion Stop Ask your rst question Step: Make your rst code change —x e Code fenture",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 61.58000183105469,
+          "end": 67.94000244140625,
+          "text": "E terza cosa importante, comunque un poco di praticità, con il terminale la dovete"
+        },
+        {
+          "start": 67.94000244140625,
+          "end": 73.81999969482422,
+          "text": "prendere perché il terminale è utilizzatissimo in ambito AI, soprattutto quando ci spostiamo"
+        },
+        {
+          "start": 73.81999969482422,
+          "end": 78.0199966430664,
+          "text": "verso questi usi un pochino più agentici, non dico nemmeno avanzati perché questi non"
+        },
+        {
+          "start": 78.0199966430664,
+          "end": 80.0999984741211,
+          "text": "sono usi avanzati."
+        },
+        {
+          "start": 80.0999984741211,
+          "end": 82.41999816894531,
+          "text": "Allora, l'installazione come si fa?"
+        },
+        {
+          "start": 82.41999816894531,
+          "end": 87.05999755859375,
+          "text": "Dovete dare un comando fondamentalmente, andate nella documentazione ufficiale di Cloud"
+        },
+        {
+          "start": 87.05999755859375,
+          "end": 89.41999816894531,
+          "text": "Server, perché magari nel momento in cui sto registrando, nel momento in cui lo vedete"
+        },
+        {
+          "start": 89.41999816894531,
+          "end": 93.37999725341797,
+          "text": "voi è cambiato qualcosina, quindi questo comando che io copio e incollo in questo momento"
+        },
+        {
+          "start": 93.37999725341797,
+          "end": 95.0199966430664,
+          "text": "potrebbe essere leggermente diverso."
+        },
+        {
+          "start": 95.0199966430664,
+          "end": 100.05999755859375,
+          "text": "Però, diciamo, c'è sia il comando per Mac sia il comando per Windows, attenzione perché"
+        },
+        {
+          "start": 100.05999755859375,
+          "end": 105.33999633789062,
+          "text": "in Windows sono due comandi in base al tipo di terminale che utilizzate."
+        },
+        {
+          "start": 105.33999633789062,
+          "end": 112.0199966430664,
+          "text": "Questo è il comando per Mac oppure per Linux, quindi vado qua nel mio bel terminale, lo"
+        },
+        {
+          "start": 112.0199966430664,
+          "end": 119.86000061035156,
+          "text": "incollo e poi do invio, eccoci qua, do invio e parte l'installazione, ok?"
+        },
+        {
+          "start": 119.86000061035156,
+          "end": 123.66000366210938,
+          "text": "Questa è semplicemente la fase di installazione, non vi preoccupate perché anche se è una"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 2,
+        "time": 120.0,
+        "timestamp": "00:02:00",
+        "image": "frame_0002.jpg",
+        "reason": "periodic",
+        "ocr_text": "®© © |A Queste: Claude Code a x + È > © #5 code claude. com[docs/en/auicktart Claude Code Docs engish Q Search xk 3) ASkAI | Claude Developer Platform Gettingstarted | Bulk with Claude Code | Deployment Administration | Configuration | Reference AgentSDK | WhatSNew | Resources Getting started ra Overview Step :Install Claude Code Before you begin quiciatai [© @ @ Mirattoolecuri-fsSL 0 -/claude/downicade/ciaude-2:1104-darwin-arm64 htps/storage.googiaapis comflaude-.. Step install laude Code Chang 'grfrnenirin = curi sit e/o iintzia| dei Step2iLoginto youraccount. Step: Stat your first session ssaa Step di Ask your first question Step st Make your first code change How Claude Cod Step ci Use Git with Claude Code Extend Claude Cl Step7.Fhxa bug rada feature Expiore the ciau ‘Step e: Test aut other common Explore the cont workfione Essential commands Use Claude Code Protips for beginners Store ietruction What next Gettinghelp Permission mode Common worklis Best practices Prectema animazione: Iyousee The token 'Gk' is not a valid statonent separator , youre in PowerShell,not Overvien ‘CIMD. Use the PowerShell command above instead. Your prompt shows. PS! C:\\| when youte in Remote Contro ska question Cla Code n the web",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 123.66000366210938,
+          "end": 129.6199951171875,
+          "text": "cosa che non avete mai fatto, è di solito installate le cose facendo doppio clic o trascinandolo"
+        },
+        {
+          "start": 129.6199951171875,
+          "end": 136.5399932861328,
+          "text": "in una cartella, questo comando non fa qualcosa di molto simile, no, va semplicemente a prendere"
+        },
+        {
+          "start": 136.5399932861328,
+          "end": 141.33999633789062,
+          "text": "sul sito di Cloud, non vado nel tecnico, ma va a prendere sul sito di Cloud uno script"
+        },
+        {
+          "start": 141.4199981689453,
+          "end": 145.89999389648438,
+          "text": "di installazione e vi fa l'installazione in locale, tutto qua, ok?"
+        },
+        {
+          "start": 145.89999389648438,
+          "end": 150.6999969482422,
+          "text": "Veramente tutto qua, non vi preoccupate anche se in questo momento questa cosa non la capite,"
+        },
+        {
+          "start": 150.6999969482422,
+          "end": 152.5399932861328,
+          "text": "non è fondamentale, l'installazione è molto facile."
+        },
+        {
+          "start": 152.5399932861328,
+          "end": 157.82000732421875,
+          "text": "Io questo link ve lo lascio, così voi potete partire da questo link e poi eseguire il comando,"
+        },
+        {
+          "start": 157.82000732421875,
+          "end": 159.77999877929688,
+          "text": "diciamo, aggiornato."
+        },
+        {
+          "start": 159.77999877929688,
+          "end": 163.5800018310547,
+          "text": "Nel frattempo, mentre l'installazione va avanti, perché qua ci mette ancora qualche secondo,"
+        },
+        {
+          "start": 163.5800018310547,
+          "end": 167.05999755859375,
+          "text": "mentre l'installazione va avanti c'è una cosa importante da dirvi."
+        },
+        {
+          "start": 167.3000030517578,
+          "end": 172.22000122070312,
+          "text": "Per utilizzare Cloud Code dovete ovviamente avere un abbonamento a Cloud."
+        },
+        {
+          "start": 172.22000122070312,
+          "end": 177.25999450683594,
+          "text": "Prima si poteva avere solo quegli abbonamenti costosi, quelli da 100, 200, quello aziendale"
+        },
+        {
+          "start": 177.25999450683594,
+          "end": 178.25999450683594,
+          "text": "e così via."
+        },
+        {
+          "start": 178.25999450683594,
+          "end": 180.3000030517578,
+          "text": "Oggi si può avere anche con l'abbonamento quello base, ok?"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 3,
+        "time": 180.0,
+        "timestamp": "00:03:00",
+        "image": "frame_0003.jpg",
+        "reason": "periodic",
+        "ocr_text": "Claude Code Docs ensish Q Search xk 5 ASkAI | Claude Developer Platform Gettingstarted | Bulk th Claude Code | Deployment Administration | Configuration | Reference AgentSDK | What&New._ Resources Getting startodi = Onthis page Overviene ‘Step2logn Before you begin tep 2: Login to youraccount Quickstant Step Install Claude Code Claude Code requires an account to use. When you start n interactive session with the StepziLoginto your account laude command, yov'l need to log in: Step 3: Start your first session Changelog Core concepts z Step 4: ask your frst question Step st Make your first code change How Claude Code works # You'll be prompted to log in on first use Step ci Use Git with Claude Code Extend Claude Code Step7.Fhxa bug or addia feature Egeo nari ‘Posi Stepe: Test out other common Explore the context window # Follow the pronpts to log in with your. account workflons Essential commands 2 Vee Gana Cose; You can login using any of these account types: Protips for beglaners bat next? * Claude Pro, Max, Team, or Enterprise (recommended) Gettinghelp +. Claude Console (API access with pre-paîd credit). On first login, a \"Claude Code” Workspace Is automatically created in the Console for centralized cost tracking. Amazon Bedrock, Google Vertex AI, or Microsoft Foundry (enterprise cloud providers) Store Instructions and memories Permission modes Common workflows Best practices Platform and integratione. Once logged in, your credentials are stored and you won't need to log n again. To switch accounts later, use the /login command. Overvien Remote Control ‘Aska question Chad Cad n the web",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 180.3000030517578,
+          "end": 185.94000244140625,
+          "text": "Che credo costi una ventina, non ricordo bene, quindi partite anche con quello e poi una"
+        },
+        {
+          "start": 185.94000244140625,
+          "end": 191.17999267578125,
+          "text": "volta che lo utilizzerete, lo amerete, capirete perché vale la pena fare l'abbonamento."
+        },
+        {
+          "start": 191.17999267578125,
+          "end": 196.5,
+          "text": "Volendo, vi aggiungo questa cosa, anche se non avete l'abbonamento potete pagare semplicemente"
+        },
+        {
+          "start": 196.94000244140625,
+          "end": 203.66000366210938,
+          "text": "le API, praticamente pagate, diciamo, l'utilizzo, ok, a consumo, mettiamola così, una sorta"
+        },
+        {
+          "start": 203.66000366210938,
+          "end": 204.94000244140625,
+          "text": "di pagamento a consumo."
+        },
+        {
+          "start": 204.94000244140625,
+          "end": 209.94000244140625,
+          "text": "Io ve lo sconsiglio soprattutto nella fase iniziale perché non avete magari ancora praticità"
+        },
+        {
+          "start": 209.94000244140625,
+          "end": 215.4199981689453,
+          "text": "di quanto spesso state usando lo strumento e quindi di quanto potete consumare e magari"
+        },
+        {
+          "start": 215.4199981689453,
+          "end": 219.13999938964844,
+          "text": "va arrivando un pagamento troppo grande e non ne vale la pena."
+        },
+        {
+          "start": 219.13999938964844,
+          "end": 224.13999938964844,
+          "text": "Quindi vi fate il vostro abbonamento da 20 e qualcosa e state tranquilli, fate, diciamo,"
+        },
+        {
+          "start": 224.13999938964844,
+          "end": 225.13999938964844,
+          "text": "fate quello."
+        },
+        {
+          "start": 225.13999938964844,
+          "end": 229.4600067138672,
+          "text": "Ecco qua, l'installazione l'abbiamo fatta, come vedete, diciamo, dura una manciata di"
+        },
+        {
+          "start": 229.4600067138672,
+          "end": 230.4600067138672,
+          "text": "secondi."
+        },
+        {
+          "start": 230.4600067138672,
+          "end": 234.6199951171875,
+          "text": "Il terminale qua ci dice una cosa, ci dice, guarda, io te l'ho installato dentro questa"
+        },
+        {
+          "start": 234.6199951171875,
+          "end": 241.3000030517578,
+          "text": "cartellina, solo che questa cartellina non è nel tuo path, anche qua non vado nel dettaglio."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 4,
+        "time": 240.0,
+        "timestamp": "00:04:00",
+        "image": "frame_0004.jpg",
+        "reason": "periodic",
+        "ocr_text": "© © © |A Queistt Cd code e x + © > © *E code claude. comdocs/eniauicktart X Claude Code Docs engish Q Search xk 3) ASkAI | Claude Developer Platform Gettingatarted | Buikdwith Claude Code | Deployment | Administration | Configuration | Reference | AgentSOK | WhatsNew | Resources Getting started CARRA Overvien da Before ou begin quekstan © © @ Marattocio 25h 120130 Step install Claude Code Vrattaele@serverino x curi SSL https://clade.ai/install.ih | bash tep 2: Log into your account changelog Cani uu Step2iLoginto your account “ Claude Code successtuliy inetalledi Gore concepts vernioni 21,196 Step di Ask your first question Step Start your first session oestione «2. Step si Make your first code chan cm a Coltnie Location: «/Aoca1/bin/claudo 5: Make ye ve Steps: Use Gi lt Claude Code, Extend Claude Code Next: Run claude help to per started Step7.Fixa bugor ada feature Explore the claude directory SS = Nativo instaation edita but -/<iocal/bin fe not in your PA. pui Step ei Test aut other common Explore the context window cho port PATHS\"SHOME/ oca /bin:SPATV?! >> </<zahre Ba source /.zshrc morkfione Essential commands RI instatiation complete! Use Claude Code Pro tipa for beginners ratfaelseserverino = x Store Instructions and memories Whats next? Getting help Permission modes Common worktlows Best practices Platforms and integratione. Once logged in, your credentials are stored and you won't need to log in again. To switch accounts later, use the /togin command. Overvion Remote Control Aska question. Claude Code on the web",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 241.3000030517578,
+          "end": 246.74000549316406,
+          "text": "In pratica ci dice, guarda, devi dare un comando aggiuntivo, altrimenti non puoi usare Cloud."
+        },
+        {
+          "start": 246.74000549316406,
+          "end": 251.74000549316406,
+          "text": "Se io qua in questo momento, per esempio, do il comando Cloud, vedete, mi dice non lo"
+        },
+        {
+          "start": 251.74000549316406,
+          "end": 253.3800048828125,
+          "text": "trovo, non c'è il comando Cloud."
+        },
+        {
+          "start": 253.3800048828125,
+          "end": 257.739990234375,
+          "text": "In realtà Cloud è installato, solo che lui non sa, il terminale non sa in che cartella"
+        },
+        {
+          "start": 257.739990234375,
+          "end": 259.4599914550781,
+          "text": "l'abbiamo installato, ok?"
+        },
+        {
+          "start": 259.4599914550781,
+          "end": 262.1000061035156,
+          "text": "Sto semplificando tanto per farvi capire."
+        },
+        {
+          "start": 262.1000061035156,
+          "end": 265.260009765625,
+          "text": "Quindi se siete più esperti questa parte qua è molto semplificata."
+        },
+        {
+          "start": 265.260009765625,
+          "end": 266.260009765625,
+          "text": "Quindi cosa facciamo?"
+        },
+        {
+          "start": 266.260009765625,
+          "end": 272.4599914550781,
+          "text": "Ci copiamo quest'altro comando, lo copio e lo incollo qua nel terminale e do invio,"
+        },
+        {
+          "start": 272.4599914550781,
+          "end": 273.4599914550781,
+          "text": "ok?"
+        },
+        {
+          "start": 273.4599914550781,
+          "end": 276.9800109863281,
+          "text": "In questo momento dovrebbe essere disponibile il comando Cloud e lo proviamo subito."
+        },
+        {
+          "start": 276.9800109863281,
+          "end": 282.1400146484375,
+          "text": "Scrivo di nuovo Cloud, invio e adesso invece Cloud sta partendo, vedete?"
+        },
+        {
+          "start": 282.1400146484375,
+          "end": 283.1400146484375,
+          "text": "Ecco qua."
+        },
+        {
+          "start": 283.8999938964844,
+          "end": 286.70001220703125,
+          "text": "E' partito Cloud e questo è il primo avvio dello strumento che abbiamo fatto."
+        },
+        {
+          "start": 286.70001220703125,
+          "end": 292.0199890136719,
+          "text": "Quindi noi adesso, per utilizzare Cloud, passiamo dal terminale."
+        },
+        {
+          "start": 292.0199890136719,
+          "end": 296.29998779296875,
+          "text": "Non vi preoccupate perché tra un attimino proprio vi faccio vedere che in realtà non"
+        },
+        {
+          "start": 296.29998779296875,
+          "end": 299.5799865722656,
+          "text": "passeremo dal terminale, noi lo useremo in modo molto più semplice, però per far vedere"
+        },
+        {
+          "start": 299.5799865722656,
+          "end": 302.70001220703125,
+          "text": "che l'abbiamo installato e che funziona, ok?"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 5,
+        "time": 300.0,
+        "timestamp": "00:05:00",
+        "image": "frame_0005.jpg",
+        "reason": "periodic",
+        "ocr_text": "® OO A Questi Claude code De x + È > @ #5 code claude. com[docs/eniauicktart Claude Code Docs english Q Search XK %) AskAi | Claude Developer Platform Gettingstarted | Bulk with Claude Code _ Deployment. Administration | Configuration ‘Agent SDK. What!sNew Resources Getting started pu ina pese Qvervion Before you begin qucistani © O © MI ratsio— ciaude = 120190 Step tInstali Claude Code changelog StepziLoginto your account Step i Start your first session core concepts Step 4 Ask your first question Stop Sk Make your first code change How Claude Code works Step 6: Use Gt wlth Claude Code, Extend Claude Code Lotia get atarted. Choose the text style that 1ooks best with your terminal To change this acer, run /these tape Test aut other common Stop7.Fhxa bugor ada feature Explore the claude directory Explore the context window workfions, Lig nodo. . Dark nodo colorblinfrienaiy) Essential commands Light node (colorblind- friendly) Use Claude Code Dark nodo (ASI colors only) Pro tips for beginners Light mode (ANSI colors only) Wihats next? tunetion greet0) Gettinghelp son mode TameleIgi setto, rit ne i ame dla, Cini Store Instructions and memories Common worktlows Best practices Frectrntaancimegragione Once logged in, your credentials are stored and you won't need to log in again. To switch accounts later, use the. /login: command. Overvien Remote Contro! Aska questo. Claude Cod n the web",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 302.70001220703125,
+          "end": 309.29998779296875,
+          "text": "Quindi qua ci dice, allora la prima cosa che devi fare è scegli lo stile, come lo vuoi,"
+        },
+        {
+          "start": 309.29998779296875,
+          "end": 310.7799987792969,
+          "text": "dark mode, light mode, vedete?"
+        },
+        {
+          "start": 310.7799987792969,
+          "end": 314.5799865722656,
+          "text": "Quindi lo vuoi in stile scuro, in stile chiaro, puoi scegliere le varie modalità."
+        },
+        {
+          "start": 314.5799865722656,
+          "end": 319.1000061035156,
+          "text": "Io uso tutto in stile dark, quindi metto dark, ma voi qua ovviamente ve lo personalizzate"
+        },
+        {
+          "start": 319.1000061035156,
+          "end": 320.1000061035156,
+          "text": "come volete."
+        },
+        {
+          "start": 320.1000061035156,
+          "end": 325.17999267578125,
+          "text": "Ovviamente nel momento in cui voi vedete questo corso potrebbe essere cambiato, perché magari"
+        },
+        {
+          "start": 325.17999267578125,
+          "end": 329.5,
+          "text": "siete alla versione successiva di Cloud, quindi magari vi fa una domanda diversa, questo per"
+        },
+        {
+          "start": 329.5,
+          "end": 332.94000244140625,
+          "text": "capirci è la fase di configurazione iniziale, ok?"
+        },
+        {
+          "start": 332.94000244140625,
+          "end": 333.94000244140625,
+          "text": "Veramente tutto qua."
+        },
+        {
+          "start": 333.94000244140625,
+          "end": 338.6600036621094,
+          "text": "E qua ci sta dicendo come vuoi accedere a Cloud, hai tre metodi, sono quelli che vi"
+        },
+        {
+          "start": 338.6600036621094,
+          "end": 344.260009765625,
+          "text": "ho detto prima, con il tuo abbonamento, utilizzando le API, quindi dal consumo, oppure la terza"
+        },
+        {
+          "start": 344.260009765625,
+          "end": 345.94000244140625,
+          "text": "con piattaforme di terze parti."
+        },
+        {
+          "start": 345.94000244140625,
+          "end": 350.3399963378906,
+          "text": "Voi sicuramente non utilizzerete la terza, perché è quella molto più avanzata, complessa"
+        },
+        {
+          "start": 350.3399963378906,
+          "end": 355.5,
+          "text": "e probabilmente se state guardando questo corso non fate un utilizzo così avanzato."
+        },
+        {
+          "start": 355.5,
+          "end": 361.29998779296875,
+          "text": "Quello che molti di voi faranno è la prima, quindi con il mio account, quindi voglio loggarmi"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 6,
+        "time": 360.0,
+        "timestamp": "00:06:00",
+        "image": "frame_0006.jpg",
+        "reason": "periodic",
+        "ocr_text": "© © © |A Queste Claude Code De x + © > © * codeclaude.com/docs/en/quickstart X Claude Code Docs engish Q Search XK 3} ASkAI | Claude Developer Platform Gettingatarted | Buikdwith Claude Code | Deployment | Administration | Configuration | Reference | AgentSOK | WhatsNew Resources Getting started ra Overvien PTT Before you begin quicistai © @ © MI rattvie— ciavde 120130 Step tIntali Claude Code ein o lado cosi 118 top 2:Lagintoyouracccun Changelog satana i Step 2: Start your rst session Core concepts Step Ask your ist question Stop 5: Male your first code chan How Claude Code works ine ia Step 6: Use Glt with Claude Code Extend Claude Code Stop7: Fica bugoradd a feature Explore the claude directory ‘Step ei Test aut other common Explore the context window workflow, Essential commands Claude Code can be used with your Claude subscription or bilIcd based on API usage through your Console account. Use Claude Code Protips for begianere Select login methodì Wine? Store instructions and memor > 1, Claude account with subscription ; Pro, Max, Tesn, cr Enterprise setting hei Permission modes 2. Anthropie Console account API Uaspe bitLinO Soli Common workilons 3, Are party platform > soszon Bedrock, Microsoft Foundry, or Vortex AT Best practices Platforms and integratione. Once logged in, your credentials are stored and you won't need to login again. To switch accounts later, use the /login command. Overvien Remote Contro ska question. Claude Code n the web",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 361.29998779296875,
+          "end": 362.9800109863281,
+          "text": "dentro Cloud Code con il mio account."
+        },
+        {
+          "start": 362.9800109863281,
+          "end": 363.9800109863281,
+          "text": "Cosa faccio?"
+        },
+        {
+          "start": 364.3800048828125,
+          "end": 372.2200012207031,
+          "text": "Si apre la schermata, diciamo, di Cloud, che adesso mi fa fare il login, fondamentalmente"
+        },
+        {
+          "start": 372.2200012207031,
+          "end": 377.29998779296875,
+          "text": "Cloud dal terminale mi porta sul sito e dice ok adesso fammi vedere quindi che sei veramente"
+        },
+        {
+          "start": 377.29998779296875,
+          "end": 378.29998779296875,
+          "text": "tu."
+        },
+        {
+          "start": 378.29998779296875,
+          "end": 382.260009765625,
+          "text": "Fai login e quando hai fatto login io ti faccio usare Cloud dentro il terminale, quindi"
+        },
+        {
+          "start": 382.260009765625,
+          "end": 386.1000061035156,
+          "text": "adesso qua diciamo farò una piccola pausa, perché metti i miei dati di accesso e poi"
+        },
+        {
+          "start": 386.1000061035156,
+          "end": 387.1000061035156,
+          "text": "riprendo."
+        },
+        {
+          "start": 387.1000061035156,
+          "end": 393.1400146484375,
+          "text": "Ho fatto il login nel mio account, adesso Cloud Web, una volta che mi sono loggato mi"
+        },
+        {
+          "start": 393.29998779296875,
+          "end": 399.4599914550781,
+          "text": "dice guarda Cloud Code vuole fare questa connessione, quindi vuole collegarsi al tuo account, diciamo"
+        },
+        {
+          "start": 399.4599914550781,
+          "end": 400.4599914550781,
+          "text": "di Cloud."
+        },
+        {
+          "start": 400.4599914550781,
+          "end": 404.5400085449219,
+          "text": "Autorizza questa cosa, voi fate autorizza e dopo avete finito."
+        },
+        {
+          "start": 404.5400085449219,
+          "end": 411.1400146484375,
+          "text": "Da questo momento in poi, diciamo, la chat di Cloud, quindi per capirci quello da cui"
+        },
+        {
+          "start": 411.1400146484375,
+          "end": 415.4200134277344,
+          "text": "accedete al sito web è, diciamo, lo stesso account è collegato a quello del terminale."
+        },
+        {
+          "start": 415.4200134277344,
+          "end": 419.70001220703125,
+          "text": "Quindi vedete che in questo momento dice sei loggato come Raffaele Gaito, quindi adesso"
+        },
+        {
+          "start": 419.70001220703125,
+          "end": 421.0199890136719,
+          "text": "diciamo sono dentro."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 7,
+        "time": 420.0,
+        "timestamp": "00:07:00",
+        "image": "frame_0007.jpg",
+        "reason": "periodic",
+        "ocr_text": "®© Od Quciste- Claude Code De. x.) Cine Pittor + È > © piatformclaude.comfoauth/codelsuccess?app=claude-code O @ © Ri rattuole claude — 120x230 leon to Ciad Coda v21.104 togped in Login successful: Press Enter to continue.",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 421.3399963378906,
+          "end": 426.6600036621094,
+          "text": "Se faccio invio, in questo momento sto utilizzando Cloud Code, vedete questo è il terminale"
+        },
+        {
+          "start": 426.6600036621094,
+          "end": 430.6199951171875,
+          "text": "per capirci, quindi non vi confondete con il browser che c'è dietro."
+        },
+        {
+          "start": 430.6199951171875,
+          "end": 436.70001220703125,
+          "text": "Mi dice note di sicurezza, uno, ti ricordo che Cloud può fare degli errori, questo ovviamente"
+        },
+        {
+          "start": 436.70001220703125,
+          "end": 441.8599853515625,
+          "text": "vale sempre, gli errori li fa Gpt, li fa Copilot, li fa Grok, li fa Gemina, li fanno"
+        },
+        {
+          "start": 441.8599853515625,
+          "end": 442.8599853515625,
+          "text": "tutti quanti."
+        },
+        {
+          "start": 442.8599853515625,
+          "end": 447.0199890136719,
+          "text": "E poi dice attenzione, visto che ci possono essere dei rischi di prompt injection, fai"
+        },
+        {
+          "start": 447.0199890136719,
+          "end": 449.5799865722656,
+          "text": "attenzione al codice che utilizzi."
+        },
+        {
+          "start": 449.5799865722656,
+          "end": 454.5799865722656,
+          "text": "Ok, questa è una cosa che vi ripeterò spesso nel corso di questo corso, dobbiamo sempre"
+        },
+        {
+          "start": 454.5799865722656,
+          "end": 455.8999938964844,
+          "text": "fare molta, molta attenzione."
+        },
+        {
+          "start": 455.8999938964844,
+          "end": 462.1400146484375,
+          "text": "Anche qua diamo invio e qua mi dice che tipo di impostazione vuoi utilizzare."
+        },
+        {
+          "start": 462.1400146484375,
+          "end": 467.17999267578125,
+          "text": "Quindi, diciamo, se voi sapete quali sono le impostazioni che volete per andare nel"
+        },
+        {
+          "start": 467.17999267578125,
+          "end": 470.8999938964844,
+          "text": "dettaglio e ve lo potete fare, altrimenti dite guarda, usami le impostazioni default"
+        },
+        {
+          "start": 470.8999938964844,
+          "end": 473.6600036621094,
+          "text": "e voglio iniziare a utilizzare direttamente Cloud."
+        },
+        {
+          "start": 473.6600036621094,
+          "end": 478.260009765625,
+          "text": "E qua mi dice la cartella nella quale vuole lavorare."
+        },
+        {
+          "start": 478.4599914550781,
+          "end": 483.82000732421875,
+          "text": "Dice allora, io in questo momento mi trovo nella cartella users slash Raffaele."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 8,
+        "time": 480.0,
+        "timestamp": "00:08:00",
+        "image": "frame_0008.jpg",
+        "reason": "periodic",
+        "ocr_text": "© © di Queist- Cade Code De x Ciad ito DE È > @ *: piatformclaude comfoauth/codelsuccess?app=claude-code © @ @ Ri rattoeio— claude — 120030 Rccessing vorkapace: Posersfrattaete Quick safety check: Is this a project you created or one you trust? (Lika your om code, a well-inom open source BEBfict, or work fron your team). IF not, take a monent to review at's in this folder Tirst. Clause code: Il be able t0 resd, edit, and escuto files here, Security guida 3 3e Yes, 1 enver this folder 2: N05 este Enter to confirm + Eac to cancel",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 483.82000732421875,
+          "end": 484.82000732421875,
+          "text": "Perché?"
+        },
+        {
+          "start": 484.82000732421875,
+          "end": 486.5799865722656,
+          "text": "Perché ho aperto il terminale e ho dato subito il comando."
+        },
+        {
+          "start": 486.5799865722656,
+          "end": 490.3800048828125,
+          "text": "Mi dice, guarda che tu, se mi dai accesso a questa cartella, io in questa cartella posso"
+        },
+        {
+          "start": 490.3800048828125,
+          "end": 491.3800048828125,
+          "text": "fare tutto."
+        },
+        {
+          "start": 491.3800048828125,
+          "end": 495.29998779296875,
+          "text": "Posso scrivere file, posso cancellare file, posso rinominarle e così via."
+        },
+        {
+          "start": 495.29998779296875,
+          "end": 496.82000732421875,
+          "text": "Ti fidi di questa cosa?"
+        },
+        {
+          "start": 496.82000732421875,
+          "end": 497.82000732421875,
+          "text": "Vuoi procedere?"
+        },
+        {
+          "start": 497.82000732421875,
+          "end": 501.6199951171875,
+          "text": "Qua la risposta è no, perché dobbiamo creare una cartella apposta per Cloud."
+        },
+        {
+          "start": 501.6199951171875,
+          "end": 504.2200012207031,
+          "text": "Questa è una cosa importantissima che faremo adesso."
+        },
+        {
+          "start": 504.2200012207031,
+          "end": 507.6199951171875,
+          "text": "Quindi qua gli diciamo no, exit e usciamo."
+        },
+        {
+          "start": 507.9800109863281,
+          "end": 509.17999267578125,
+          "text": "Perché sto facendo questo passaggio?"
+        },
+        {
+          "start": 509.17999267578125,
+          "end": 514.2999877929688,
+          "text": "Perché avrei potuto farlo prima, ma voglio farvi vedere che lui vi chiede l'autorizzazione."
+        },
+        {
+          "start": 514.2999877929688,
+          "end": 518.3400268554688,
+          "text": "Voi quando autorizzate Cloud a lavorare in una cartella, dentro quella cartella può"
+        },
+        {
+          "start": 518.3400268554688,
+          "end": 519.3400268554688,
+          "text": "fare tutto."
+        },
+        {
+          "start": 519.3400268554688,
+          "end": 522.1400146484375,
+          "text": "Quindi occhio a cosa c'è dentro quella cartella."
+        },
+        {
+          "start": 522.1400146484375,
+          "end": 523.1400146484375,
+          "text": "Ok?"
+        },
+        {
+          "start": 523.1400146484375,
+          "end": 525.8200073242188,
+          "text": "E un po' più avanti magari vedo pure dei suggerimenti per utilizzarla bene."
+        },
+        {
+          "start": 525.8200073242188,
+          "end": 526.8200073242188,
+          "text": "Quindi cosa facciamo?"
+        },
+        {
+          "start": 526.8200073242188,
+          "end": 534.4600219726562,
+          "text": "Sul desktop qua mi faccio una cartella, la chiamo Cloud Workspace."
+        },
+        {
+          "start": 534.4600219726562,
+          "end": 535.4600219726562,
+          "text": "Ok?"
+        },
+        {
+          "start": 535.780029296875,
+          "end": 541.3400268554688,
+          "text": "Facciamo che tutto quello che faremo da questo momento in poi è fatto dentro la cartella"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 9,
+        "time": 540.0,
+        "timestamp": "00:09:00",
+        "image": "frame_0009.jpg",
+        "reason": "periodic",
+        "ocr_text": "© ©» Quei Cau Code De x Cine ito si + È > @ *: piatformclaude comfoautt/codelsuccess?app=claude-code © @ © Mirattario sh 120x230 Tosers/rattaeta Quick safety check: Is this a project you created or one you trust? (Lika your om code, a well-inom open source Broject, OP work fron your team). IF not, tale a monent to review mut's in this folder first. Clause Code'I1 be able t0 resd, edit, and execute files here. Security guide 2, Vos, 1 trust this folder Zi dor ode Enter to confirm + Esc to cancel ratfaenogserverino = % Il",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 541.3400268554688,
+          "end": 542.3400268554688,
+          "text": "Cloud Workspace."
+        },
+        {
+          "start": 542.3400268554688,
+          "end": 548.1799926757812,
+          "text": "Quindi diciamo per il terminale, io in questo momento diciamo nella mia bella schermatina"
+        },
+        {
+          "start": 548.1799926757812,
+          "end": 555.9400024414062,
+          "text": "del terminale, devo entrare dentro Cloud Workspace e poi posso lanciare Cloud, perché so che"
+        },
+        {
+          "start": 555.9400024414062,
+          "end": 558.0599975585938,
+          "text": "sto utilizzando Cloud dentro quella cartella."
+        },
+        {
+          "start": 558.0599975585938,
+          "end": 562.0599975585938,
+          "text": "Di nuovo sembra complicatissimo, ma non vi preoccupate perché non lo è."
+        },
+        {
+          "start": 562.0599975585938,
+          "end": 565.1799926757812,
+          "text": "Come posso fare ad entrare dentro quella cartella?"
+        },
+        {
+          "start": 565.9000244140625,
+          "end": 572.780029296875,
+          "text": "Se quella cartella si trova sul desktop, quindi diciamo potrei fare così, potrei fare cd,"
+        },
+        {
+          "start": 572.780029296875,
+          "end": 581.8599853515625,
+          "text": "qua dove si trova desktop e poi gli dico Cloud, poi gli do l'autorizzazione Cloud Workspace."
+        },
+        {
+          "start": 581.8599853515625,
+          "end": 585.6199951171875,
+          "text": "Adesso lui in questo momento è entrato nella cartella Cloud Workspace."
+        },
+        {
+          "start": 585.6199951171875,
+          "end": 586.6199951171875,
+          "text": "Ok?"
+        },
+        {
+          "start": 586.6199951171875,
+          "end": 592.6199951171875,
+          "text": "Qua dentro adesso se lancio il comando Cloud, Cloud sta lavorando nella cartella Cloud Workspace."
+        },
+        {
+          "start": 592.6199951171875,
+          "end": 593.6199951171875,
+          "text": "Vedete?"
+        },
+        {
+          "start": 594.0599975585938,
+          "end": 598.97998046875,
+          "text": "Adesso sei nella cartella Users, Raffaele, Desktop, Cloud Workspace."
+        },
+        {
+          "start": 598.97998046875,
+          "end": 601.1799926757812,
+          "text": "Ti fidi a lavorare dentro questa cartella?"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 10,
+        "time": 600.0,
+        "timestamp": "00:10:00",
+        "image": "frame_0010.jpg",
+        "reason": "periodic",
+        "ocr_text": "© @ @ Ra cisuda workspace — ciaude — 10x30 Project, or work fron your tese). IT not, take a monent to review what's in this folder first. Clause Code! 1 be able to read, edit, and esecute files hero. Security guido 1. Yes, 1 trust this folder 3 Zi N07 este Enter to contitm + Exe to cancel (raffaelWGserverino = % cd Desktop/elaude\\ workspace IFartaelegserverino Clause workspaco % claude Accensing voriapace: Poners/rattaele/Dosktop/elaud vorkapace Quick sefery check: 10 this a project you erentad or ona you trust? (Like your cm code, a Broject, or work fran your team). IT not, ©oke a monone to reviom mat's in ts folder fi lau Css\" Be ble to es, eo, nd que file tere. Security guide da: yes, 1 trust tris folder BESS mali-inoen open source",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 601.1799926757812,
+          "end": 602.8200073242188,
+          "text": "Adesso gli posso dire yes."
+        },
+        {
+          "start": 602.8200073242188,
+          "end": 605.6599731445312,
+          "text": "Non vi preoccupate perché questa cosa la fate solo la prima volta."
+        },
+        {
+          "start": 605.6599731445312,
+          "end": 606.6599731445312,
+          "text": "Ok?"
+        },
+        {
+          "start": 606.6599731445312,
+          "end": 609.9400024414062,
+          "text": "E poi vi faccio vedere tra un attimo che tra l'altro noi non passeremo nemmeno dal terminale,"
+        },
+        {
+          "start": 609.9400024414062,
+          "end": 612.0999755859375,
+          "text": "ma passeremo da un'altra app, quindi sarà ancora più facile."
+        },
+        {
+          "start": 612.0999755859375,
+          "end": 616.219970703125,
+          "text": "Quindi mi dice sì, adesso io mi fido di questa cartella."
+        },
+        {
+          "start": 616.219970703125,
+          "end": 618.6599731445312,
+          "text": "Do invio, adesso sono dentro Cloud Code."
+        },
+        {
+          "start": 618.6599731445312,
+          "end": 619.97998046875,
+          "text": "Ora sono veramente entrato."
+        },
+        {
+          "start": 619.97998046875,
+          "end": 621.739990234375,
+          "text": "Vedete questa schermata qua?"
+        },
+        {
+          "start": 621.739990234375,
+          "end": 623.4600219726562,
+          "text": "Sono dentro Cloud Code."
+        },
+        {
+          "start": 623.4600219726562,
+          "end": 629.4199829101562,
+          "text": "Mi dice che sto utilizzando Opus 4.6 Con una finestra di un minio di contesto, che abbonamento"
+        },
+        {
+          "start": 629.4199829101562,
+          "end": 633.8599853515625,
+          "text": "ho, ho l'abbonamento Max, mi dice chi sono, Raffaele Gaito e anche la cartella dove sto"
+        },
+        {
+          "start": 633.8599853515625,
+          "end": 636.4600219726562,
+          "text": "lavorando, Desktop, Cloud Workspace."
+        },
+        {
+          "start": 636.4600219726562,
+          "end": 641.5399780273438,
+          "text": "Adesso questo terminale che prima sembrava difficilissimo, complicatissimo, una cosa mai"
+        },
+        {
+          "start": 641.5399780273438,
+          "end": 643.1799926757812,
+          "text": "vista prima, sapete che cos'è?"
+        },
+        {
+          "start": 643.1799926757812,
+          "end": 644.739990234375,
+          "text": "È una semplice chat."
+        },
+        {
+          "start": 644.739990234375,
+          "end": 647.1799926757812,
+          "text": "Da questo momento in poi, questa è come la chat."
+        },
+        {
+          "start": 647.4199829101562,
+          "end": 651.6199951171875,
+          "text": "È come la chat di quando siamo abituati ad utilizzare ChargPT Gemini oppure quella di"
+        },
+        {
+          "start": 651.6199951171875,
+          "end": 656.1799926757812,
+          "text": "Cloud Chat, solo che ha molte cose in più, molte funzionalità in più, perché diciamo"
+        },
+        {
+          "start": 656.1799926757812,
+          "end": 657.7000122070312,
+          "text": "appunto stiamo utilizzando Cloud Code."
+        },
+        {
+          "start": 657.7000122070312,
+          "end": 667.0999755859375,
+          "text": "Per esempio, se io qua dentro gli dico che modello di Cloud sei, invio, e questo è come"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 11,
+        "time": 660.0,
+        "timestamp": "00:11:00",
+        "image": "frame_0011.jpg",
+        "reason": "periodic",
+        "ocr_text": "© @ @ MM cisude worispace — + Claude Code — claude — 120x30 Project, Gr work fron your team). IF not, take a monent to review vhat's in this folder rirst. ciato Code! 1 be able to resd, esiti and evecute files hero. Security quise 3. Vos, 1 trust tha folder 3 2 N67 et Enter to confirm + Exe to cancel (raffaelegserverino = % cd Desktop/elaude\\ workspace IFaftaelegserserino Claude workspaco % cleuse \"itaca Goa vara ae Tipo dor pecting start Welcome back Raffaele! AGk Claude to creste. new ap or clone a repository mm =. n Salto fbesktop/elsude vorkspace 7107 arene",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 667.0999755859375,
+          "end": 670.5399780273438,
+          "text": "se io avessi aperto Cloud e gli avessi scritto che modello di Cloud sei."
+        },
+        {
+          "start": 670.5399780273438,
+          "end": 674.5399780273438,
+          "text": "Oppure no, quando vado dentro ChargPT e gli dico che tipo di ChargPT sei, mi dice sono"
+        },
+        {
+          "start": 674.6199951171875,
+          "end": 679.780029296875,
+          "text": "Cloud Opus 4.6 Con test Dominio di Token, il mio ID esatto è Cloud Opus 4.6."
+        },
+        {
+          "start": 679.780029296875,
+          "end": 682.5399780273438,
+          "text": "Cosa puoi fare per me?"
+        },
+        {
+          "start": 682.5399780273438,
+          "end": 687.4600219726562,
+          "text": "Questi sono degli esempi molto stupidi, giusto per farvi vedere che adesso questa è proprio"
+        },
+        {
+          "start": 687.4600219726562,
+          "end": 693.739990234375,
+          "text": "la chat di Cloud, solo molto più potente, perché siamo dentro Cloud Code, quindi un"
+        },
+        {
+          "start": 693.739990234375,
+          "end": 697.6199951171875,
+          "text": "ambiente diverso, questo passaggio è fondamentale."
+        },
+        {
+          "start": 697.6199951171875,
+          "end": 701.7000122070312,
+          "text": "E lui qua mi dice, guarda posso fare una serie di cose, sono specializzato in ingegneria"
+        },
+        {
+          "start": 701.7000122070312,
+          "end": 702.7000122070312,
+          "text": "del software."
+        },
+        {
+          "start": 702.7000122070312,
+          "end": 705.97998046875,
+          "text": "Vero, perché nasce come uno strumento per il software, ma noi in realtà lo useremo"
+        },
+        {
+          "start": 705.97998046875,
+          "end": 708.4199829101562,
+          "text": "per tutto il resto tranne che per il software."
+        },
+        {
+          "start": 708.4199829101562,
+          "end": 712.02001953125,
+          "text": "Infatti gli esempi che ci fa codice non ci interessa, ma questo sì."
+        },
+        {
+          "start": 712.02001953125,
+          "end": 716.8599853515625,
+          "text": "Lui dice posso leggere, creare e modificare file, esplorare e navigare codice, cercare"
+        },
+        {
+          "start": 716.8599853515625,
+          "end": 723.260009765625,
+          "text": "classi, posso fare analisi sul web, leggere immagini, pdf, proporre soluzioni, posso fare"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 12,
+        "time": 720.0,
+        "timestamp": "00:12:00",
+        "image": "frame_0012.jpg",
+        "reason": "periodic",
+        "ocr_text": "®© ©» Queisin- Cud code De x Cine ito + È > @ © piatformclaude comfoautt/codelsuccess?app=claude-code © @ @ i cisuda norkspace — x Identity Claude model version — claude — 120x30 \"seguire conandi nel terminale 7 Planteicare task conolessi passo per passo \" Schedulare agenti ricorrenti nitro teragiro con K0T (Clase 401, gie, ecc.) 7 Leggero e scrive notebook Supytor © Configurare tool e sabienei ai sviluppo 1n cosa posso alutarti ogpi?",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 723.260009765625,
+          "end": 727.6199951171875,
+          "text": "automazioni, integrare con API e così via."
+        },
+        {
+          "start": 727.6199951171875,
+          "end": 728.8599853515625,
+          "text": "In cosa posso aiutarti oggi?"
+        },
+        {
+          "start": 728.8599853515625,
+          "end": 731.5399780273438,
+          "text": "Vedete qua abbiamo una serie di cose che possiamo fare."
+        },
+        {
+          "start": 731.5399780273438,
+          "end": 734.3400268554688,
+          "text": "Quando vogliamo uscire facciamo exit, semplicemente."
+        },
+        {
+          "start": 734.3400268554688,
+          "end": 740.219970703125,
+          "text": "Siamo usciti da Cloud, siamo adesso di nuovo nel nostro terminale, ok?"
+        },
+        {
+          "start": 740.219970703125,
+          "end": 743.739990234375,
+          "text": "Con questo abbiamo concluso l'installazione di Cloud Code."
+        },
+        {
+          "start": 743.739990234375,
+          "end": 748.2999877929688,
+          "text": "Si fa una sola volta, sembra complicatissimo, in realtà è facile, vi ho guidato passo"
+        },
+        {
+          "start": 748.2999877929688,
+          "end": 749.2999877929688,
+          "text": "passo."
+        },
+        {
+          "start": 749.2999877929688,
+          "end": 751.4199829101562,
+          "text": "Adesso andiamo a vedere il passo successivo qual è."
+        }
+      ]
+    }
+  ]
+}

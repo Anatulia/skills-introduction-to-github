@@ -1,0 +1,905 @@
+{
+  "title": "Perché Claude Code è diverso da ciò che hai usato",
+  "sections": [
+    {
+      "keyframe": {
+        "index": 0,
+        "time": 0.0,
+        "timestamp": "00:00:00",
+        "image": "frame_0000.jpg",
+        "reason": "start",
+        "ocr_text": "@ Tola Edit Window Chat6PT vs Claude Code — Le 15 differenze chiave 3 r- Come lavora con i tuoi file Come ricorda e capisce il contesto Chat6PT Claude Code ChotePr Claude Code Vive nel broser Vive nel tuo computer Parte da zero ogni volta Ha il contesto del progetto Risposta in chat; devi copiarla Serive direttamente nei Ale Una conversazione alla volta Gestisce un intero vorkepace Un testo alla volta Piu Ale conterpormennerte Dinentica se la chat e lunga Legge i Ble solo quando servono Devi elle testo Legge | fui Ale deettanente S Output da formattare a mano Preduce le pronti Come si adatta a te (C Come ti organizza il lavoro È nathPT Claude Code Istruito sul tuo stle e toro Dei chiedere ogni volta Sl itizzeldi Claude Code Prisiai al 100% Un solo strumento Uta tanti tool iniene. cea E a det E va aubiente operativo Hon organizza vu Crea e manticre strutture \\",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 0.0,
+          "end": 7.0,
+          "text": "Voglio subito farvi vedere quali sono le differenze principali tra Cloud Code come strumento,"
+        },
+        {
+          "start": 7.0,
+          "end": 13.520000457763672,
+          "text": "come ambiente e invece l'utilizzo tradizionale dell'intelligenza artificiale generativa attraverso"
+        },
+        {
+          "start": 13.520000457763672,
+          "end": 20.1200008392334,
+          "text": "i chatbot. Io qua ho scritto CRGPT contro Cloud Code. Ovviamente CRGPT è giusto per"
+        },
+        {
+          "start": 20.1200008392334,
+          "end": 26.760000228881836,
+          "text": "farvi capire, ok? Ma non è che faccio riferimento a CRGPT, faccio riferimento a tutto quello"
+        },
+        {
+          "start": 26.760000228881836,
+          "end": 31.84000015258789,
+          "text": "che usavate prima di Cloud Code, quindi può essere CRGPT, anzi facciamo così, metto una"
+        },
+        {
+          "start": 31.84000015258789,
+          "end": 41.84000015258789,
+          "text": "nota, facciamo così, ho altri chatbot, così diciamo ve la ricordate questa cosa. Qui diciamo"
+        },
+        {
+          "start": 41.84000015258789,
+          "end": 49.79999923706055,
+          "text": "se voi al posto di CRGPT utilizzavate Gemini, utilizzavate Grok, utilizzavate non lo so,"
+        },
+        {
+          "start": 49.79999923706055,
+          "end": 54.7599983215332,
+          "text": "anche lo stesso Cloud ma dentro la chat o altri strumenti di questo tipo, la cosa che"
+        },
+        {
+          "start": 54.7599983215332,
+          "end": 58.52000045776367,
+          "text": "voglio far vedere innanzitutto è concettualmente le differenze quando andiamo ad utilizzare Cloud"
+        },
+        {
+          "start": 58.52000045776367,
+          "end": 62.880001068115234,
+          "text": "Code come ambiente, ok? Questa è una cosa importante che mi sentirete ripetere spesso."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 1,
+        "time": 60.0,
+        "timestamp": "00:01:00",
+        "image": "frame_0001.jpg",
+        "reason": "periodic",
+        "ocr_text": "@ Chrome Fie Edt View History Bookmarks. Profiles Tab Window | Help 0° Bu Ghino Rain a Chat6PT vs Claude Code — Le 15 differenze chiave (o altrì chatbot) 4 Chat6PT Claude Code ChotePr Claude Code come lavora con i tuoi file D) ) Come ricorda e capisce il contesto vive nel broser Vive rel tuo computer Parte da zero ogni volta Ha il contesto del progetto. Risposta in chat; deri copiarla Serive direttamente nei Ale Una conversazione alla volta Gestisce un intero vorkepace Un testo alla volta. Piu Ale contenporanennente Dinentica se la chat e lunga Legge i file solo quando servono Devi calle testo Legge i tuci Ne decitanerte _ Output da Rormattare a mano Produce le pronti Come sì adatta a te Claude Code Claude Code Istruito sul tuo stle e toro Sl itiizzebti Personalizzabile al 100% Un solo strumento Usa tanti tool insiene. E via dat E va aubiente operativo capisce al velo fior orqerizza lla Gre e mantiene strutture L",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 62.880001068115234,
+          "end": 67.55999755859375,
+          "text": "Non vi preoccupate perché la parte così diciamo con la teoria, non sono manco slide,"
+        },
+        {
+          "start": 67.55999755859375,
+          "end": 72.55999755859375,
+          "text": "sono diciamo degli appunti che ho messo, sarà molto poco, però secondo me alcuni concetti"
+        },
+        {
+          "start": 72.55999755859375,
+          "end": 76.5199966430664,
+          "text": "teorici è importante saperli, poi ci toffiamo subito nella pratica. Qua ho provato a dividerli"
+        },
+        {
+          "start": 76.5199966430664,
+          "end": 83.36000061035156,
+          "text": "un po' per macro categorie. Partiamo con come lavora con i file. CRGPT e altri strumenti,"
+        },
+        {
+          "start": 83.5199966430664,
+          "end": 87.55999755859375,
+          "text": "altri chatbot, quindi ogni volta che leggete CRGPT pensate anche ad altri, quindi se uno"
+        },
+        {
+          "start": 87.55999755859375,
+          "end": 93.76000213623047,
+          "text": "di voi viene da anni di Gemini, questo ragionamento vale pure per Gemini, vivono nel browser principalmente,"
+        },
+        {
+          "start": 93.76000213623047,
+          "end": 97.68000030517578,
+          "text": "poi è chiaro che abbiamo l'app da mobile, l'app che si può installare su desktop, però come"
+        },
+        {
+          "start": 97.68000030517578,
+          "end": 103.4800033569336,
+          "text": "strumenti vivono nel browser. La grossa differenza con Cloud Code, che vedremo tra un attimo appena"
+        },
+        {
+          "start": 103.4800033569336,
+          "end": 108.76000213623047,
+          "text": "lo installeremo invece, è che vive sul computer, quindi è installato fisicamente sulla vostra"
+        },
+        {
+          "start": 108.76000213623047,
+          "end": 115.31999969482422,
+          "text": "macchina, questa è la prima cosa importante. Di conseguenza CRGPT e altri tool del genere"
+        },
+        {
+          "start": 115.31999969482422,
+          "end": 120.5999984741211,
+          "text": "cosa fanno? Rispondono in chat e quindi tutto quello che noi poi dobbiamo fare dopo dobbiamo"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 2,
+        "time": 120.0,
+        "timestamp": "00:02:00",
+        "image": "frame_0002.jpg",
+        "reason": "periodic",
+        "ocr_text": "@ Chrome File Edit View History Bookmarks. Profiles Tab Window Help RI pacata Wintabonrd + 0, 0, 0, +, -, 2, A TNA LUI ve claude Code ini (o altrì chatbot) ChathPT vive nel browser Risposta in chat, devi copiarla Un testo alla volta Devi incollare il testo Output da Rormattare a mano Claude Code vive nel tuo computer Serive direttamente nei file Piu file contemporaneamente Legge ì tuoi file direttamente Produce File pronti Come sì adatta a te Le i An Cha: Parte da zero Una conversazio: Dimentica se la",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 120.5999984741211,
+          "end": 125.63999938964844,
+          "text": "copiare e incollare roba fuori dalla chat. Ovviamente adesso sono un pochino più avanzati"
+        },
+        {
+          "start": 125.63999938964844,
+          "end": 131.72000122070312,
+          "text": "perché ci generano degli artefatti, perché si possono collegare attraverso i connettori"
+        },
+        {
+          "start": 131.72000122070312,
+          "end": 137.47999572753906,
+          "text": "con il nostro Google Drive e così via, farci dei file da scaricare, però vivono dentro"
+        },
+        {
+          "start": 137.47999572753906,
+          "end": 143.16000366210938,
+          "text": "la chat. Invece quando andiamo ad utilizzare Cloud Code, siccome lavora in locale sulla macchina,"
+        },
+        {
+          "start": 143.16000366210938,
+          "end": 150.44000244140625,
+          "text": "tutto quello che fa è salvato direttamente in locale. CRGPT quindi ci può arrivare in qualche"
+        },
+        {
+          "start": 150.44000244140625,
+          "end": 155.52000427246094,
+          "text": "modo, perché mi fa il file Excel, poi io lo devo scaricare, me lo metto nella cartellina download"
+        },
+        {
+          "start": 155.52000427246094,
+          "end": 160.52000427246094,
+          "text": "e così via. Cloud Code ogni volta che fa qualcosa sta lavorando già sull'hard disk, sul nostro disco,"
+        },
+        {
+          "start": 160.52000427246094,
+          "end": 168.1199951171875,
+          "text": "sulla nostra macchina, ci troviamo i file. CRGPT è molto sequenziale, cioè facciamo una cosa alla volta,"
+        },
+        {
+          "start": 168.1199951171875,
+          "end": 173.8800048828125,
+          "text": "un file alla volta, una chat alla volta. Anche qui ci sono un po' di escamotage con i quali si"
+        },
+        {
+          "start": 173.8800048828125,
+          "end": 178.27999877929688,
+          "text": "riesce a fare più di una cosa per volta, però non nascono nativamente per quello. Invece con Cloud"
+        },
+        {
+          "start": 178.27999877929688,
+          "end": 183.32000732421875,
+          "text": "vedremo che si possono fare più sessioni in contemporanea, più file in contemporanea, diciamo è"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 3,
+        "time": 180.0,
+        "timestamp": "00:03:00",
+        "image": "frame_0003.jpg",
+        "reason": "periodic",
+        "ocr_text": "@ Chrome. File ge Edit View History Bookmarks Profiles. Tab- Window Help 0, 0, 0, +, -, 2, A NA LU 1 (o altrì chatbot) Se o ChathPT vive nel browser Risposta in chat, devi copiarla Un testo alla volta Devi incollare il testo Output da Rormattare a mano Claucle Code Cho: vive nel tuo computer Parte da zero Serive direttamente nei file Una conversazio: Piu file cosftemporaneamente Dimentica se la Legge ì tuoi file direttamente Produce file pronti Come sì adatta a te",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 183.32000732421875,
+          "end": 189.83999633789062,
+          "text": "molto più potente ed estendibile da questo punto di vista. E la questione della chat ovviamente"
+        },
+        {
+          "start": 189.83999633789062,
+          "end": 194.0,
+          "text": "vale anche al contrario, no? Qua ho detto devi copiarla, ma vale anche che devi incollare il"
+        },
+        {
+          "start": 194.0,
+          "end": 199.8800048828125,
+          "text": "testo. Invece Cloud Code, lavorando in locale, prende le cose direttamente dai nostri file,"
+        },
+        {
+          "start": 199.8800048828125,
+          "end": 207.0399932861328,
+          "text": "quindi abbiamo dieci preventivi che abbiamo fatto ai nostri clienti nei mesi scorsi, quando dobbiamo"
+        },
+        {
+          "start": 207.0399932861328,
+          "end": 212.0399932861328,
+          "text": "realizzare l'undicesimo lui va a leggere direttamente da questi preventivi, non dobbiamo trascinarli"
+        },
+        {
+          "start": 212.0399932861328,
+          "end": 217.39999389648438,
+          "text": "tutte le volte dentro le chat e dobbiamo fare copia e incolla di pezzi di testo. E poi diciamo"
+        },
+        {
+          "start": 217.39999389648438,
+          "end": 222.52000427246094,
+          "text": "c'è il GPT, tutto quello che dobbiamo prendere, se lo portiamo dentro PowerPoint, se lo portiamo"
+        },
+        {
+          "start": 222.52000427246094,
+          "end": 226.27999877929688,
+          "text": "dentro un file word, se lo portiamo dentro un documento di qualsiasi tipo, dobbiamo gestirlo"
+        },
+        {
+          "start": 226.27999877929688,
+          "end": 231.55999755859375,
+          "text": "manualmente. Cloud Code ovviamente ci dà dei file che sono già belli e pronti, possono essere PDF,"
+        },
+        {
+          "start": 231.55999755859375,
+          "end": 237.44000244140625,
+          "text": "possono essere varie cose, lo vedremo tra un attimo. Poi la parte di contesto, questa,"
+        },
+        {
+          "start": 237.44000244140625,
+          "end": 244.1199951171875,
+          "text": "vi prego, vi prego, vi prego, è la cosa più importante. Ovviamente mi rendo conto che all'inizio"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 4,
+        "time": 240.0,
+        "timestamp": "00:04:00",
+        "image": "frame_0004.jpg",
+        "reason": "periodic",
+        "ocr_text": "@ Chrome File Edit View History Bookmarks. Profiles Tab Window Help ° ga do + è) 0, 0, o. e — Le 15 differenze che Come ricorda e capisce il contesto Chat6PT Claude Code Parte da zero ogni volta Ha. il contesto del progetto Una. conversazione alla volta Gestisce un intero workspace Dimentica se la chat e lunga Legge i file solo quando servono Come tì organizza il lavoro",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 244.1199951171875,
+          "end": 248.44000244140625,
+          "text": "questo potrebbe essere un po' difficile, se qualcuno diciamo non ha praticità con questi"
+        },
+        {
+          "start": 248.44000244140625,
+          "end": 253.24000549316406,
+          "text": "concetti, fatemi mettere su guarda lo sfondo nero che mi piace di più, se uno non ha praticità con"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 5,
+        "time": 250.4,
+        "timestamp": "00:04:10",
+        "image": "frame_0005.jpg",
+        "reason": "scene",
+        "ocr_text": "inv È Soto R Siportimage.. Cmcosbitee a cod Come ricorda e capisce il contesto @ Findoncamas | Cm SEI î Chat6PT Claude Code © retncanee n da zero ogni volta Ha. il contesto del progetto © cano x follows nversazione alla volta Gestisce un intero workspace 60 Disconichat E signup ica se la chat e lunga Legge î file solo quando servono",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 253.24000549316406,
+          "end": 260.0400085449219,
+          "text": "questi concetti, ma questo, noterete, è la prima differenza enorme, grande, rispetto agli strumenti"
+        },
+        {
+          "start": 260.0400085449219,
+          "end": 264.5199890136719,
+          "text": "che avete utilizzato fino ad oggi. Quando lavoriamo in modalità tradizionale chat a quando passiamo"
+        },
+        {
+          "start": 264.5199890136719,
+          "end": 271.0799865722656,
+          "text": "con questi strumenti invece agentici. Già il GPT parte tutte le volte da zero, anche diciamo Cloud,"
+        },
+        {
+          "start": 271.20001220703125,
+          "end": 276.7200012207031,
+          "text": "anche Gemini, anche Cowork e altri strumenti, no, non Cowork, perdonatemi perché Cowork è molto più"
+        },
+        {
+          "start": 276.7200012207031,
+          "end": 281.44000244140625,
+          "text": "simile a Cloud Code, però partono quasi sempre da zero. Anche qui abbiamo alcune funzionalità,"
+        },
+        {
+          "start": 281.44000244140625,
+          "end": 286.0799865722656,
+          "text": "tipo il fatto che si possono mettere le custom instruction, si possono mettere, diciamo,"
+        },
+        {
+          "start": 286.0799865722656,
+          "end": 291.8399963378906,
+          "text": "possiamo abilitare la memoria e quindi non lo facciamo partire proprio da zero, però diciamo"
+        },
+        {
+          "start": 291.8399963378906,
+          "end": 297.67999267578125,
+          "text": "che il grosso lo prende da zero ogni volta che facciamo una nuova chat. Invece Cloud Code ha"
+        },
+        {
+          "start": 297.67999267578125,
+          "end": 302.3999938964844,
+          "text": "il contesto del progetto. Questa è una cosa importante, una delle differenze più grandi,"
+        },
+        {
+          "start": 302.3999938964844,
+          "end": 308.5199890136719,
+          "text": "e qua lo vedrete anche qualitativamente nel tipo di output, è che Cloud Code lavora sul contesto."
+        },
+        {
+          "start": 308.5199890136719,
+          "end": 313.3999938964844,
+          "text": "Il contesto che cos'è? Sono una serie di informazioni su di noi e sul nostro lavoro,"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 6,
+        "time": 310.4,
+        "timestamp": "00:05:10",
+        "image": "frame_0006.jpg",
+        "reason": "periodic",
+        "ocr_text": "© 00 Bici + € è GE erceldravcon le — Le 15 differenze ch ( Come ricorda e capisce il contesto ChatGPT Claude Code Parte da zero ogni volta Ha il contesto del progetto ® Una, conversazione alla volta Gestisce un intero workspace Dimentica se la chat e lunga Legge ì file solo quando servono",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 313.3999938964844,
+          "end": 319.2799987792969,
+          "text": "sulla nostra persona, su, che ne so, i nostri task, i nostri progetti, il nostro ufficio,"
+        },
+        {
+          "start": 319.2799987792969,
+          "end": 325.44000244140625,
+          "text": "quello che vogliamo, che gli daremo noi, perché lo faremo insieme nel tempo. GPT gestisce una"
+        },
+        {
+          "start": 325.44000244140625,
+          "end": 330.9599914550781,
+          "text": "conversazione per volta, questo diciamo l'abbiamo accennato di là, diciamo nel boxettino precedente,"
+        },
+        {
+          "start": 330.9599914550781,
+          "end": 336.6000061035156,
+          "text": "ma questo vale anche per il contesto. Ovviamente, ripeto, abilitando la memoria possiamo fare che"
+        },
+        {
+          "start": 336.6000061035156,
+          "end": 340.760009765625,
+          "text": "va a prendere informazioni da altre chat, no, però sono dei workaround e sono comunque limitati."
+        },
+        {
+          "start": 340.760009765625,
+          "end": 345.9200134277344,
+          "text": "Invece Cloud Code, lavorando all'interno di questo spazio di lavoro, che è appunto il workspace,"
+        },
+        {
+          "start": 345.9200134277344,
+          "end": 350.9599914550781,
+          "text": "che è una delle prime cose che creeremo, tutte le volte ha accesso al nostro workspace. Se quindi"
+        },
+        {
+          "start": 350.9599914550781,
+          "end": 356.32000732421875,
+          "text": "io ho una parte del, diciamo, della mia cartella di lavoro con i preventivi, poi un'altra parte di"
+        },
+        {
+          "start": 356.32000732421875,
+          "end": 361.79998779296875,
+          "text": "cartella dove, cioè un'altra cartella dove per esempio ci sono le presentazioni, io posso dire"
+        },
+        {
+          "start": 361.79998779296875,
+          "end": 367.79998779296875,
+          "text": "guarda, il cliente X la settimana scorsa ho fatto questa formazione, io ho fatto questo preventivo,"
+        },
+        {
+          "start": 367.79998779296875,
+          "end": 373.5199890136719,
+          "text": "ora c'è un cliente Y molto simile a questo, produce un nuovo preventivo. Lui in automatico può andare"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 7,
+        "time": 370.4,
+        "timestamp": "00:06:10",
+        "image": "frame_0007.jpg",
+        "reason": "periodic",
+        "ocr_text": "© 00 Bbc vino + € è G 5 ercelldravicom O, 0, O, >, —, 2, A, 8, d, & le — Le 15 differenze cave. Come ricorda e capisce il ‘contesto ) Chat@PT Claude Code Parte da zero ogni volta Ha il contesto del progetto Una conversazione alla volta Gestisce un intero workspace Dimentica se la chat e lunga Legge ì file solo quando servono",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 373.5199890136719,
+          "end": 377.32000732421875,
+          "text": "a leggere i preventivi precedenti, ma può andare a leggere anche le presentazioni precedenti. No,"
+        },
+        {
+          "start": 377.3599853515625,
+          "end": 383.0799865722656,
+          "text": "questo è il workspace, questa è la potenza di uno strumento del genere. Poi c'ha GPT, diciamo,"
+        },
+        {
+          "start": 383.0799865722656,
+          "end": 388.9200134277344,
+          "text": "c'ha GPT, ma anche Cloud e gli altri strumenti tradizionali in modalità chat hanno delle"
+        },
+        {
+          "start": 388.9200134277344,
+          "end": 393.5199890136719,
+          "text": "limitazioni, le chat troppo lunghe dopo un po' vengono perse, lo sapete, ve ne parlo da anni di"
+        },
+        {
+          "start": 393.5199890136719,
+          "end": 399.5199890136719,
+          "text": "questa cosa, però diciamo limitazione di contesto, limitazione di memoria e così via. Cloud Code"
+        },
+        {
+          "start": 399.5199890136719,
+          "end": 406.7200012207031,
+          "text": "invece cosa fa? In maniera dinamica e automatica e in modo intelligente va a leggere i pezzi di"
+        },
+        {
+          "start": 406.7200012207031,
+          "end": 413.3999938964844,
+          "text": "contesto che gli servono. Se quindi nel mio lavoro d'ufficio gestisco dieci clienti perché"
+        },
+        {
+          "start": 413.3999938964844,
+          "end": 419.32000732421875,
+          "text": "magari sono un formatore e sto lavorando solo sul cliente numero quattro, lui non si va a leggere il"
+        },
+        {
+          "start": 419.32000732421875,
+          "end": 424.3999938964844,
+          "text": "contesto di tutti gli altri clienti, ma caricherà in memoria solo il contesto del cliente numero"
+        },
+        {
+          "start": 424.3999938964844,
+          "end": 429.7200012207031,
+          "text": "quattro, farà tutte le operazioni che servono e non accederà mai agli altri file di contesto"
+        },
+        {
+          "start": 429.7200012207031,
+          "end": 435.44000244140625,
+          "text": "andando a bruciare memoria inutilmente. Alcune cose ancora importanti quali sono? Il come si"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 8,
+        "time": 430.4,
+        "timestamp": "00:07:10",
+        "image": "frame_0008.jpg",
+        "reason": "periodic",
+        "ocr_text": "© 00 ocio + € è 0 E erceldramcom 0, è, 0, >, =, 2, A, 8, d, & le — Le 15 differenze cave. Come ricorda e capisce i contesto | Chat65PT Claude Code Parte da zero ogni volta Ha. îl contesto del progetto Una conversazione alla volta Gestisce un intero workspace Dimentica se la chat e lunga Legge ì file solo quando servono",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 435.44000244140625,
+          "end": 442.1600036621094,
+          "text": "adatta a noi. Diciamo gli strumenti di chat tradizionali hanno un output più generico,"
+        },
+        {
+          "start": 442.1600036621094,
+          "end": 447.79998779296875,
+          "text": "ripeto è chiaro che si può personalizzare un pochino con le custom instruction e così via,"
+        },
+        {
+          "start": 447.79998779296875,
+          "end": 454.5199890136719,
+          "text": "ma quando vedete il livello di personalizzazione che arriviamo con Cloud Code è proprio diciamo"
+        },
+        {
+          "start": 454.5199890136719,
+          "end": 462.1600036621094,
+          "text": "un altro livello, cioè non sono le due cazzatine in croce che gli dici allora io scrivo in tono"
+        },
+        {
+          "start": 462.239990234375,
+          "end": 468.0,
+          "text": "informale e giovanile perché il mio pubblico sono i ragazzi sui social e così via, no? Che siamo"
+        },
+        {
+          "start": 468.0,
+          "end": 473.3999938964844,
+          "text": "abituati a scrivere, ripeto, le custom instruction dentro chat gpt oppure magari fare quei prompt"
+        },
+        {
+          "start": 473.3999938964844,
+          "end": 478.0799865722656,
+          "text": "molto lunghi dove definiamo il tono di voce e così via. Cloud Code questa cosa la fa super"
+        },
+        {
+          "start": 478.0799865722656,
+          "end": 485.9599914550781,
+          "text": "dettagliata, senza limiti, anche in modo dinamico e quindi io potrei avere 100 casi diversi perché"
+        },
+        {
+          "start": 485.9599914550781,
+          "end": 491.1199951171875,
+          "text": "magari state usando Cloud Code dentro un'agenzia, gestite 100 clienti e voi potete dire ok adesso"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 9,
+        "time": 490.4,
+        "timestamp": "00:08:10",
+        "image": "frame_0009.jpg",
+        "reason": "periodic",
+        "ocr_text": "Come sì adatta a te Chat6PT Claude Code ® Output generico per tutti Istruîto sul tuo stile e tono Uguale per tutti Personalizzabile al 100% Prompt lunghi ogni volta Capisce al volo",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 491.1199951171875,
+          "end": 497.7200012207031,
+          "text": "caricami lo stile del cliente numero 4, caricami lo stile del cliente numero 42 e così via,"
+        },
+        {
+          "start": 497.7200012207031,
+          "end": 503.8399963378906,
+          "text": "no? Quindi in maniera molto molto dinamica. Anche qui diciamo uguale per tutti invece qua è tutto"
+        },
+        {
+          "start": 503.8399963378906,
+          "end": 508.7200012207031,
+          "text": "personalizzabile perché il mio workspace sarà diverso dal vostro workspace che sarà diverso"
+        },
+        {
+          "start": 508.7200012207031,
+          "end": 516.719970703125,
+          "text": "dal workspace e dal contesto di chiunque altro, anzi poi nel corso di queste lezioni io vi farò"
+        },
+        {
+          "start": 516.719970703125,
+          "end": 523.4400024414062,
+          "text": "vedere degli esempi, poi il grosso del lavoro sarà voi, cioè voi dovrete imparare a crearvi un"
+        },
+        {
+          "start": 523.4400024414062,
+          "end": 531.0800170898438,
+          "text": "contesto adatto alle vostre esigenze. Con chat gpt andiamo quindi a fare dei prompt molto lunghi e lo"
+        },
+        {
+          "start": 531.0800170898438,
+          "end": 535.239990234375,
+          "text": "sapete perché avete visto i miei video, probabilmente avete fatto i miei altri corsi e così via e c'era"
+        },
+        {
+          "start": 535.239990234375,
+          "end": 540.47998046875,
+          "text": "tanto lavoro sul prompt engineering, più erano lunghi, più erano dettagliati, più informazioni"
+        },
+        {
+          "start": 540.47998046875,
+          "end": 544.6400146484375,
+          "text": "c'erano, meglio era l'output, no? A volte avete visto anche dei miei prompt che erano tipo due"
+        },
+        {
+          "start": 544.6400146484375,
+          "end": 550.760009765625,
+          "text": "pagine a quattro di prompt, con cloud code questa cosa va quasi a scomparire del tutto perché"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 10,
+        "time": 550.4,
+        "timestamp": "00:09:10",
+        "image": "frame_0010.jpg",
+        "reason": "periodic",
+        "ocr_text": "© 00 BI Scavo + € è G ® erceldravicom PETERSEN VESTO = e sMo oo, Output da Rormattare a mano... «ere Sepe Come sì adatta a te Chat6PT Claude Code Output generico per tutti Istruîto sul tuo stile e tono Uguale per tutti Personalizzabile al 100% Prompt lunghi agni volta Capisce al volo",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 550.760009765625,
+          "end": 555.719970703125,
+          "text": "ovviamente avendo il contesto non gli devo dire tutte le volte sto lavorando sul cliente x,"
+        },
+        {
+          "start": 555.719970703125,
+          "end": 561.0399780273438,
+          "text": "il cliente x si occupa di automobili, sono una grossa multinazionale, no, gli dico sto lavorando"
+        },
+        {
+          "start": 561.0399780273438,
+          "end": 566.6799926757812,
+          "text": "sul cliente x, lui va in automatico nella cartella, dice ok il cliente x si occupa di automobili,"
+        },
+        {
+          "start": 566.6799926757812,
+          "end": 571.3400268554688,
+          "text": "sono una multinazionale, sono attivi su questi social, comunicano in questo modo, lo carica"
+        },
+        {
+          "start": 571.3400268554688,
+          "end": 578.5,
+          "text": "dinamicamente, capisce al volo quello di cui ho bisogno. E poi, diciamo, la parte di organizzazione"
+        },
+        {
+          "start": 578.5,
+          "end": 586.0999755859375,
+          "text": "del lavoro, c'è il gpt, fondamentalmente è una chat, quindi è botta e risposta, scrivo dei prompt,"
+        },
+        {
+          "start": 586.0999755859375,
+          "end": 591.219970703125,
+          "text": "cosa posso fare con questi prompt, me li posso salvare, copiare e incollare, mi posso creare"
+        },
+        {
+          "start": 591.219970703125,
+          "end": 598.8200073242188,
+          "text": "dei gpt, delle gemme, se uso Gemini e così via, ma queste cose non arrivano alla potenza delle"
+        },
+        {
+          "start": 598.8200073242188,
+          "end": 604.0999755859375,
+          "text": "skill, una delle cose più forti che vedremo all'interno di questo corso sono le skill, immaginate"
+        },
+        {
+          "start": 604.0999755859375,
+          "end": 610.4600219726562,
+          "text": "le skill come dei pezzi del vostro lavoro, ok, dei mattoncini che voi potete riutilizzare"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 11,
+        "time": 610.4,
+        "timestamp": "00:10:10",
+        "image": "frame_0011.jpg",
+        "reason": "periodic",
+        "ocr_text": "Chat&PT Devi chiedere ogni volta Un solo strumento E una chat Non orgarizza. nulla Claude Code Ski] riutilizzabili Usa tanti tool insieme E un ambiente operativo Crea e mantiene strutture",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 610.4600219726562,
+          "end": 615.780029296875,
+          "text": "all'infinito, se voi nel vostro lavoro fate spesso un'azione, per esempio creare un preventivo,"
+        },
+        {
+          "start": 615.780029296875,
+          "end": 622.8599853515625,
+          "text": "voi vi create una skill che crea i preventivi, se voi nel vostro lavoro fate spesso, che ne so,"
+        },
+        {
+          "start": 622.9000244140625,
+          "end": 629.780029296875,
+          "text": "delle sessioni one to one con i clienti e dopo la sessione dovete sbobbinare tutta la registrazione"
+        },
+        {
+          "start": 629.780029296875,
+          "end": 635.02001953125,
+          "text": "della call, vi fate una skill che si chiama sbobbinami la registrazione della chiamata,"
+        },
+        {
+          "start": 635.02001953125,
+          "end": 642.8599853515625,
+          "text": "se voi fate, che ne so, a inizio settimana una ricerca con le news di settore, vi fate una skill"
+        },
+        {
+          "start": 642.8599853515625,
+          "end": 648.02001953125,
+          "text": "che si chiama news di settore, sono molto estendibili, sono molto personalizzabili,"
+        },
+        {
+          "start": 648.02001953125,
+          "end": 653.5399780273438,
+          "text": "possono essere molto semplici o molto complesse, sono molto più potenti dei gpt, delle gm, di altre"
+        },
+        {
+          "start": 653.5399780273438,
+          "end": 659.6199951171875,
+          "text": "cose che avete visto in giro, mentre c'è gpt è fondamentalmente una chat, dentro c'ha delle"
+        },
+        {
+          "start": 659.6199951171875,
+          "end": 665.3800048828125,
+          "text": "funzionalità diverse, ok, quindi posso attivare il deep search, posso attivare, non so, la creazione"
+        },
+        {
+          "start": 665.3800048828125,
+          "end": 671.9400024414062,
+          "text": "d'immagini e così via, cloud code invece è una cassetta degli attrezzi, dovete immaginare proprio"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 12,
+        "time": 670.4,
+        "timestamp": "00:11:10",
+        "image": "frame_0012.jpg",
+        "reason": "periodic",
+        "ocr_text": "ChathPT Devi chiedere ogni volta Un solo strymerto E una chat Non orgarizza. nulla Claude Code Skill riutilizzabili Usa tanti tool insieme E un ambiente operativo Crea e mantiene strutture",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 671.9400024414062,
+          "end": 676.780029296875,
+          "text": "in questo modo, infatti lo vedremo nel corso di questo corso, scusatemi sempre il gioco di parole,"
+        },
+        {
+          "start": 677.02001953125,
+          "end": 682.9400024414062,
+          "text": "perché? Perché dentro ci sono vari tool, quindi posso usare delle funzionalità tipiche di cloud"
+        },
+        {
+          "start": 682.9400024414062,
+          "end": 688.4600219726562,
+          "text": "code o posso installare altre cose, non solo le skill, ma vedremo un sacco di cose che si"
+        },
+        {
+          "start": 688.4600219726562,
+          "end": 693.6599731445312,
+          "text": "possono installare, perdonatemi alcune di queste cose possono sembrare teoriche in questo momento,"
+        },
+        {
+          "start": 693.6599731445312,
+          "end": 699.0599975585938,
+          "text": "ma fra un attimo le vedremo in azione, capirete la potenzialità, però voglio subito fare,"
+        },
+        {
+          "start": 699.0599975585938,
+          "end": 702.9000244140625,
+          "text": "diciamo con questa parte introduttiva, farvi capire che si sta aprendo un nuovo mondo,"
+        },
+        {
+          "start": 702.9000244140625,
+          "end": 706.780029296875,
+          "text": "cambierà il vostro modo di lavorare rispetto alle chat tradizionali, e infatti come ho detto"
+        },
+        {
+          "start": 706.780029296875,
+          "end": 712.02001953125,
+          "text": "chat gpt alla fine è una chat, cloud code dovete pensarlo invece come un ambiente,"
+        },
+        {
+          "start": 712.02001953125,
+          "end": 718.5800170898438,
+          "text": "ci sono mille modi per chiamarlo, c'è chi dice è un ambiente, no, c'è chi dice è una cassetta"
+        },
+        {
+          "start": 718.5800170898438,
+          "end": 722.6199951171875,
+          "text": "degli attrezzi, è un coltellino svizzero, no, ci sono mille modi con i quali ormai viene"
+        },
+        {
+          "start": 722.6199951171875,
+          "end": 727.6599731445312,
+          "text": "chiamato cloud code, voi usate il modo che volete, che volete voi, però qua per farvi capire non è"
+        },
+        {
+          "start": 727.6599731445312,
+          "end": 733.5,
+          "text": "che state andando a sostituire chat gpt con un'altra chat, no, io vi sto dicendo noi andiamo"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 13,
+        "time": 730.4,
+        "timestamp": "00:12:10",
+        "image": "frame_0013.jpg",
+        "reason": "periodic",
+        "ocr_text": "ChathPT Devi chiedere ogni volta Un solo strumento E una chat Non organizza nulla Claude Code Skill riutilizzabili Usa tanti tool insieme E un ambiente operativo Crea e mantiene strutture",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 733.5,
+          "end": 740.0999755859375,
+          "text": "a usare proprio un ambiente di lavoro diverso, dove ci sarà anche la chat, ma sarà diciamo per"
+        },
+        {
+          "start": 740.0999755859375,
+          "end": 747.2999877929688,
+          "text": "orchestrare poi che quello succede sotto diciamo il cofano, chat gpt diciamo non riesce a organizzare"
+        },
+        {
+          "start": 747.2999877929688,
+          "end": 752.4199829101562,
+          "text": "più di tanto, avete le chat, i progetti, delle cartelline, dei gpt, però diciamo tutto molto"
+        },
+        {
+          "start": 752.5399780273438,
+          "end": 756.97998046875,
+          "text": "limitato, cloud code invece mantiene proprio delle strutture, perché lavorando sul vostro"
+        },
+        {
+          "start": 756.97998046875,
+          "end": 763.2999877929688,
+          "text": "computer e avendo questo concetto del contesto e dello spazio di lavoro, voi potete avere tutte le"
+        },
+        {
+          "start": 763.2999877929688,
+          "end": 769.3800048828125,
+          "text": "cartelle organizzate come volete, se voi avete 100 clienti, voi vi fate la cartella clienti,"
+        },
+        {
+          "start": 769.3800048828125,
+          "end": 773.9000244140625,
+          "text": "poi sotto la cartella clienti ci potrebbe essere i clienti di moda, clienti di design,"
+        },
+        {
+          "start": 773.9000244140625,
+          "end": 779.5399780273438,
+          "text": "clienti di food, clienti di automotive, no, quelle sotto cartelle, dentro c'è pippo,"
+        },
+        {
+          "start": 779.5399780273438,
+          "end": 785.0599975585938,
+          "text": "pluto e paperino, oppure se voi avete un solo cliente, lavorate con una sola cartella e così"
+        },
+        {
+          "start": 785.0599975585938,
+          "end": 789.4600219726562,
+          "text": "via, potete farlo come volete voi, se siete un'agenzia, se siete un manager, se siete un"
+        },
+        {
+          "start": 789.4600219726562,
+          "end": 794.5800170898438,
+          "text": "professionista eccetera eccetera. Piccola parte introduttiva, fondamentale, adesso ci sporchiamo"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 14,
+        "time": 790.4,
+        "timestamp": "00:13:10",
+        "image": "frame_0014.jpg",
+        "reason": "periodic",
+        "ocr_text": "ChathPT Devi chiedere ogni volta Un solo strumento E una chat Non orgavizza. nulla Claude Code E un ambiente operativo Crea e mantiene strutture",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 794.5800170898438,
+          "end": 796.1799926757812,
+          "text": "subito le mani invece."
+        }
+      ]
+    }
+  ]
+}

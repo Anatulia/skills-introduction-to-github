@@ -1,0 +1,802 @@
+{
+  "title": "Creare una skill avanzata",
+  "sections": [
+    {
+      "keyframe": {
+        "index": 0,
+        "time": 0.0,
+        "timestamp": "00:00:00",
+        "image": "frame_0000.jpg",
+        "reason": "start",
+        "ocr_text": "nd ciont ni conta ni neve ionici tro + gite Th siindex report 2026 pet landing-claude-code hi 41 ricotta jtalane docx ricette talia md ricettine pet tempia Type [model to pic te right tool for the Job. + 1 DI summit (og)",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 0.0,
+          "end": 4.920000076293945,
+          "text": "Ora che abbiamo finito i tre livelli di estensione, o meglio non li abbiamo finiti, li abbiamo"
+        },
+        {
+          "start": 4.920000076293945,
+          "end": 9.680000305175781,
+          "text": "compresi perché poi non finiscono mai, potete estenderlo quanto volete voi, possiamo fare"
+        },
+        {
+          "start": 9.680000305175781,
+          "end": 14.720000267028809,
+          "text": "una cosa. Cioè creare una skill un pochino un po' più avanzata, un pochino più complessa."
+        },
+        {
+          "start": 14.720000267028809,
+          "end": 19.040000915527344,
+          "text": "Non l'abbiamo fatto nel modulo sulle skills perché ovviamente ci mancavano ancora dei"
+        },
+        {
+          "start": 19.040000915527344,
+          "end": 25.520000457763672,
+          "text": "concetti. Secondo me è importante proseguire in maniera lineare e progressiva. Quindi adesso"
+        },
+        {
+          "start": 25.520000457763672,
+          "end": 30.68000030517578,
+          "text": "che abbiamo capito bene le skills, abbiamo capito bene l'estensione, abbiamo nuove funzionalità"
+        },
+        {
+          "start": 30.68000030517578,
+          "end": 35.400001525878906,
+          "text": "del nostro agente, proviamo a fare una nuova tipo di skill. Vi faccio un esempio, questa"
+        },
+        {
+          "start": 35.400001525878906,
+          "end": 39.47999954223633,
+          "text": "potrebbe essere una cosa che capita a qualcuno di voi. Io leggo tantissimi pdf, tantissimi"
+        },
+        {
+          "start": 39.47999954223633,
+          "end": 45.880001068115234,
+          "text": "report, white paper, ebook che scarico in rete e così via. Qua per esempio ce n'ho"
+        },
+        {
+          "start": 45.880001068115234,
+          "end": 49.79999923706055,
+          "text": "un aperto che vi ho fatto vedere, forse l'avete intravisto anche in qualche altra lezione."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 1,
+        "time": 47.07,
+        "timestamp": "00:00:47",
+        "image": "frame_0001.jpg",
+        "reason": "scene",
+        "ocr_text": "Claude Code ta aUndorseport 202891",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 50.119998931884766,
+          "end": 57.7599983215332,
+          "text": "Voglio fare una skill che mi permetta velocemente di estrarre dei, diciamo, dei take away importanti"
+        },
+        {
+          "start": 57.7599983215332,
+          "end": 70.36000061035156,
+          "text": "da un pdf. Quindi gli dico questa cosa. Aiutami a creare una skill che legge un pdf, solitamente"
+        },
+        {
+          "start": 70.36000061035156,
+          "end": 85.87999725341797,
+          "text": "un report, un ebook, un white paper o altro, e mi estrae 5 take away importanti. La risposta"
+        },
+        {
+          "start": 85.87999725341797,
+          "end": 96.36000061035156,
+          "text": "deve essere sempre in italiano anche quando i documenti sono in lingua, sono in un'altra"
+        },
+        {
+          "start": 96.36000061035156,
+          "end": 108.44000244140625,
+          "text": "lingua. E qua gli possiamo dire che il pdf te lo posso dare come allegato della chat"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 2,
+        "time": 107.07,
+        "timestamp": "00:01:47",
+        "image": "frame_0002.jpg",
+        "reason": "periodic",
+        "ocr_text": "© © © GI Scassran Witebosr ce womsmce Dè fa CO > 16 cave © archivio > ul sont > ul content ricette talia md ® ricette italane pat Type modelo pick th right tolo e job. alutami a creare una sk che legge un pet (sltamente un reprt, un eBook, un witepaper 0 ato) mi ‘estrae 5 takaamay importanti. i risposta deve essre sempre i tano, anche quando i documenti sono n un'ala Ingua petto posso dare come alegato del ci) ricono",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 108.44000244140625,
+          "end": 115.68000030517578,
+          "text": "oppure ti dico in che cartella trovarlo. Vi ricordate una cosa che abbiamo fatto sulle"
+        },
+        {
+          "start": 115.68000030517578,
+          "end": 122.55999755859375,
+          "text": "skill? Ci facciamo guidare, no? Quindi dico fammi tutte le domande necessarie prima di"
+        },
+        {
+          "start": 122.55999755859375,
+          "end": 132.24000549316406,
+          "text": "creare la skill, raccogli le informazioni che ti servono e poi creami la skill. Si deve chiamare,"
+        },
+        {
+          "start": 132.24000549316406,
+          "end": 143.52000427246094,
+          "text": "che ne so come la vogliamo chiamare, facciamo questo è report trattino riassunto. Il nome è"
+        },
+        {
+          "start": 143.52000427246094,
+          "end": 149.32000732421875,
+          "text": "terribile però giusto per dargli un nome. Invio. Adesso, se vi ricordate il procedimento per"
+        },
+        {
+          "start": 149.32000732421875,
+          "end": 155.16000366210938,
+          "text": "generare le skill, cosa farà Claude? Dirà ok ho capito cosa c'hai in mente, adesso ti guido"
+        },
+        {
+          "start": 155.16000366210938,
+          "end": 159.60000610351562,
+          "text": "piano piano. Nel frattempo apriamoci pure questa schermatina qua con l'elenco delle skill. Qua"
+        },
+        {
+          "start": 159.60000610351562,
+          "end": 163.60000610351562,
+          "text": "sono varie skill che abbiamo accumulato, diciamo, nei vari esempi che ho fatto all'interno di questo"
+        },
+        {
+          "start": 163.60000610351562,
+          "end": 169.39999389648438,
+          "text": "corso. Mi dice ok ogni take away deve essere solo un punto sintetico, una o due righe, oppure vuoi"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 3,
+        "time": 167.07,
+        "timestamp": "00:02:47",
+        "image": "frame_0003.jpg",
+        "reason": "periodic",
+        "ocr_text": "© © © GI Ecasdrom Witbosr cuwsewomsice (è a CO Cl corde CES > ii aggioma-contesto > all docs > ad frontend-design a rinuta-uniono > ul nova > al template. azindalo 3 nd taguck-ingeso (0) attinge ocason Val archivio > al cloni n contest ni nov ad unioni «temo + gico a si index report 2028 pd 19 anding-clude-code fmi I ricette. tane docx ricette talano ma i ricette talane pat i tempie % CIAUDE md XKR vVvE O aiutami a creare una sil che legge Un pat (solitamente un report, un ebook, n witapaper 0 tro) mi estro 5 aka Important. la risposta deve essere sempre i alan, anche quando | documenti ono i n'a ©. Traught forse Prima di creare la sl, ho bisogno di capire meglio come iuoi ch si presenti isuitto Ogni takeaway dee essre solo un punt sintetico (una 0 due righe), oppure Vuol anche una breve spiegazione del perché quel punto è importante? è",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 169.39999389648438,
+          "end": 174.8000030517578,
+          "text": "anche una breve spiegazione del perché quel punto è importante. Facciamo che vogliamo solo il punto"
+        },
+        {
+          "start": 174.8000030517578,
+          "end": 181.1999969482422,
+          "text": "sintetico, solo punto sintetico, perché poi dopo la skill l'andiamo a migliorare. Vi ricordate,"
+        },
+        {
+          "start": 181.1999969482422,
+          "end": 185.72000122070312,
+          "text": "vi ho fatto sempre vedere, creiamo una versione base e poi la miglioriamo. Vuoi che prima dei"
+        },
+        {
+          "start": 185.72000122070312,
+          "end": 189.9199981689453,
+          "text": "cinque take away ci sia una breve introduzione del documento oppure andiamo dritto al punto?"
+        },
+        {
+          "start": 189.9199981689453,
+          "end": 196.9600067138672,
+          "text": "Aggiungiamola dopo questa cosa, facciamo dritto al punto, ok? Così vediamo come migliora. Facciamo"
+        },
+        {
+          "start": 196.9600067138672,
+          "end": 202.0800018310547,
+          "text": "la seconda versione e la facciamo molto più potente, molto più precisa. Li vuoi come lista"
+        },
+        {
+          "start": 202.0800018310547,
+          "end": 208.8000030517578,
+          "text": "numerata? Bullet point numerata, ok? Quindi take away 1, take away 2, take away 3 e così via."
+        },
+        {
+          "start": 208.8000030517578,
+          "end": 213.27999877929688,
+          "text": "Vediamo cos'altro gli serve per poter generare questa skill e poi dopo la mettiamo subito alla"
+        },
+        {
+          "start": 213.27999877929688,
+          "end": 218.1999969482422,
+          "text": "prova su questo report che abbiamo qua. Ho tutto quello che mi serve, creo la skill adesso, ok?"
+        },
+        {
+          "start": 218.1999969482422,
+          "end": 223.8000030517578,
+          "text": "Qui adesso ci chiederei i permessi, fa partire skill creator, ok? Che è la skill che permette di"
+        },
+        {
+          "start": 223.8000030517578,
+          "end": 229.63999938964844,
+          "text": "creare le skill, vi ricordate? E adesso diciamo ci va a creare la skill. Ci troveremo tra un"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 4,
+        "time": 227.07,
+        "timestamp": "00:03:47",
+        "image": "frame_0004.jpg",
+        "reason": "periodic",
+        "ocr_text": "RD cain itato O sure BECCO 4 cile CES > ii aggioma-contesto > a docs > sl frontend-design 3. ul minutainione a ws > a tempat.azindalo > nd tacock-ingeso (0) satting ca son archivio nd conti nd contest n nova ad riunioni «temp + gine Ta al index seport2026 pdf 18 onsig-clauge-code hi ‘#1 retta taane docx ricette talano md a ricetta tatane pot i tempie È CLAUDE md x Homebrew — The Missing Pi x + Xe Create POF summary entra. x Create POF summary extratin ski a) ooo *D@ o) aiutami rear una sil che legge n pal (solamente un report un ebook, un witspapt 0 ao) e i estrae 5 takaaway importati. a risposta deve essere sempre in alano, anche quando documenti son im un'altra so punto sintetico © Thought foro» ©. Vuoi che prima di 5 skeavy sla una breve Introduzione su documento (tipo: tl, po dl documento, argomento principale), oppure vanno dito l punto senza preamboi? rito al punto e movont sorde 15 punti vuoi come sta numerata (, 2,3.) con bulet pont? nmersta Ho tutto quello che mi serve. Creo la sli adesso. akil-reatorski-crentor stili 500 esplorando la stutur delle Sl siste er capire dov creare a nuova si Bash List rising ski directory | È 151 MIsrs/tafaele/sclasde/pluglns/eace/clout-plogins-otticiai/akiU-erentor/unbnman/shis/ - Marinatino ®",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 229.63999938964844,
+          "end": 234.63999938964844,
+          "text": "pochino una cartellina qua che si chiama report trattino riassunto che potremmo subito chiamare"
+        },
+        {
+          "start": 234.63999938964844,
+          "end": 242.0800018310547,
+          "text": "su questo file. Qua ci dice pure se vogliamo installare delle estensioni. Vedete a volte fa"
+        },
+        {
+          "start": 242.0800018310547,
+          "end": 245.8000030517578,
+          "text": "delle cose e ci chiede di installare delle estensioni. Per il momento stacchiamola, questa"
+        },
+        {
+          "start": 245.8000030517578,
+          "end": 249.72000122070312,
+          "text": "cosa non ci interessa. Però a volte vi propone di installare delle estensioni, come abbiamo visto"
+        },
+        {
+          "start": 249.72000122070312,
+          "end": 256.1600036621094,
+          "text": "all'inizio di questo modulo. Perfetto, vediamo cos'altro ha bisogno. Mi dice mi autorizzi, etc."
+        },
+        {
+          "start": 256.1600036621094,
+          "end": 263.3599853515625,
+          "text": "Vai, diamogli l'ok. Adesso si sta leggendo le skill che abbiamo già a sistema, ok? Vi"
+        },
+        {
+          "start": 263.3599853515625,
+          "end": 267.55999755859375,
+          "text": "dicevo quello che faremo dopo appena sarà pronto, facciamo una seconda versione e la seconda"
+        },
+        {
+          "start": 267.55999755859375,
+          "end": 274.0,
+          "text": "versione la facciamo invece potenziata, no? Ci mettiamo per esempio anche le cose che ci ha"
+        },
+        {
+          "start": 274.0,
+          "end": 279.44000244140625,
+          "text": "suggerito e gli facciamo lavorare l'output in formato pdf, che è una cosa che fino a poco fa"
+        },
+        {
+          "start": 279.44000244140625,
+          "end": 284.8399963378906,
+          "text": "non poteva fare. Ok, dice che ha tutto quello che gli serve, creo la skill adesso. Ah, quando"
+        },
+        {
+          "start": 284.8399963378906,
+          "end": 291.9599914550781,
+          "text": "gli abbiamo detto che non doveva fare i test, quindi facciamo così. Diciamogli procedi, ma solo"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 5,
+        "time": 287.07,
+        "timestamp": "00:04:47",
+        "image": "frame_0005.jpg",
+        "reason": "periodic",
+        "ocr_text": "RI Pacaida Weta x B omebeen The misi Pi + DO eb cispoce cme womsnice 3 CD 8 Create POF summany xa. x < 4 cda Sad site > al aggioma:contosto > al docr mne Create POF summary extratin sli a frontend-deson dl inuta-uniono > ul nova Trovato Le sil personalizzate stanno i /Usara/raffaale/Deskton/ claude vorkapnce/.claute/skit13/. Leggo una ki esistente per capre formato > al tompiato.azindalo > nd tacoci-ingleso Read sitiiond (0) attinge ocason ved archivio ni cloni Ho tutto quello che mi serv. Creo la sl adesso ni conto ni nova tto for e si riunioni Pz Update Todos i, Scrivere SKILL md per aport- assunto Ta ai index report2026 pdl rear test cases (evaleJ:00) 19 anding-clude-code fmi Eseguire test cone senza sii #1 tictt tane docx Generare esa ener or revisione x ricetta Jane ma Ottimizzare descrizione per triagering ricette talane pa wi template Bash Croato sli dieci È CLAUDE md air -p \"Adsers/ratfnele/Desktop/clasde vorkopace/ clnte/skiUl/report-rinsanto” Allow this bash command? mkdir -p */Users/raffaele/Desktop/ claude vorkspace/.claude/skilis/report-riassunto' Creato sli directory",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 291.9599914550781,
+          "end": 302.20001220703125,
+          "text": "con la creazione della skill, non fare i test e tutto quello che viene dopo. Ok, quindi speriamo"
+        },
+        {
+          "start": 302.20001220703125,
+          "end": 306.8800048828125,
+          "text": "che adesso nella to-do list si salta questa cosa qua. Questa cosa ditegliela sempre, perché lui"
+        },
+        {
+          "start": 306.8800048828125,
+          "end": 311.7200012207031,
+          "text": "prova a fare i test, fa una roba lunghissima che non finisce più. Questo ve l'ho spiegato già,"
+        },
+        {
+          "start": 311.79998779296875,
+          "end": 315.8399963378906,
+          "text": "ve lo ribadisco, perché nasce come strumento per il programmatore e quindi ogni volta che modifica"
+        },
+        {
+          "start": 315.8399963378906,
+          "end": 320.0,
+          "text": "il codice fa anche dei test per andare a vedere che effettivamente quel codice è stato modificato"
+        },
+        {
+          "start": 320.0,
+          "end": 325.8399963378906,
+          "text": "bene e così via. Lo autorizziamo a creare la cartella e adesso qua ci comparirà la nostra"
+        },
+        {
+          "start": 325.8399963378906,
+          "end": 331.79998779296875,
+          "text": "bella cartellina con la skill. Mettiamo subito alla prova la skill e poi la potenziamo. Vediamo"
+        },
+        {
+          "start": 331.79998779296875,
+          "end": 336.6400146484375,
+          "text": "un attimo se la ha finita di creare. Perfetto, ha fatto la nostra skill, quindi adesso diciamo la"
+        },
+        {
+          "start": 336.6400146484375,
+          "end": 346.6000061035156,
+          "text": "mettiamo subito all'opera e gli dico testa subito la skill sul file pdf che trovi nella cartella"
+        },
+        {
+          "start": 346.6000061035156,
+          "end": 363.44000244140625,
+          "text": "temporanea, che si chiama AI index report 2026. Invio. Adesso invoca subito questa skill,"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 6,
+        "time": 347.07,
+        "timestamp": "00:05:47",
+        "image": "frame_0006.jpg",
+        "reason": "periodic",
+        "ocr_text": "dB Homebenm— The sing Pd + XE Create PDF summary era. x Create POF summary extratin kl © Bash Crooto sl diet ALE 9 \"/bsers/affante/Desktop/ clave vorkspace/.claue/ ski s/ report riassunto” Cda completed with ne output) è Write senti.ne Gestription: \"Legge Un POF (report, ebok, uiitepaper, ricerca, quid o quilsiasi documento) e restituisce & tokemey impertanti in italimno, Usa SONE questa sbIML quando utent Tool interruptes continua ricette alano doce ia © Thougnt for e ricttettalane pet i tonni + CLAVDE md e Write settima description: “Legge un POF (report, ebeok, uiltesper, ricerca; guido è quliiasi documento) & restitusce 5 tolemay Iaportanti in italiano. Usa SIONE questa su quanso l'ente allega un POF 0 Update Todos ‘01 creta È gi attiva — la odo ell'lenco disponi. ti fo è in SKILL md. Puoi usar subito: alga un PDF In cha oppur dicci dove s trova fl, e la skill ttiverà automaticamente. testa subito la il su fl pa che rovi nea carta empd +",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 364.0,
+          "end": 371.239990234375,
+          "text": "la vedete qua, si chiama report riassunto. Dentro c'è la nostra bella skill. Vediamola subito"
+        },
+        {
+          "start": 371.239990234375,
+          "end": 376.6000061035156,
+          "text": "all'opera. Sta cercando ovviamente il file perché lo deve trovare e altrimenti lo potevo copiare,"
+        },
+        {
+          "start": 376.6000061035156,
+          "end": 380.9200134277344,
+          "text": "mettere dentro la, diciamo, buttare come allegato nella chat, questa cosa potete fare sempre in"
+        },
+        {
+          "start": 380.9200134277344,
+          "end": 384.9599914550781,
+          "text": "vari modi. Eccola qua, la chiamata, lo vedete proprio perché c'è il pallino che ho scritto"
+        },
+        {
+          "start": 384.9599914550781,
+          "end": 390.1199951171875,
+          "text": "report riassunto che è una skill, quindi capite anche cosa sta facendo. Sta pigliando il file,"
+        },
+        {
+          "start": 390.20001220703125,
+          "end": 393.760009765625,
+          "text": "questo è un file bello lungo quindi ci metterà un po', io taglio e vi faccio vedere direttamente"
+        },
+        {
+          "start": 393.760009765625,
+          "end": 398.1199951171875,
+          "text": "quando l'ha letta. Ecco qua, ha letto il pdf e ci ha fatto il riassunto, diciamo,"
+        },
+        {
+          "start": 398.1199951171875,
+          "end": 403.239990234375,
+          "text": "i cinque takeaway. Ovviamente questa skill è nella sua versione più, diciamo, semplice,"
+        },
+        {
+          "start": 403.239990234375,
+          "end": 408.67999267578125,
+          "text": "banalotta. Quello che vogliamo fare adesso invece è potenziarla e quindi gli diciamo che questa roba"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 7,
+        "time": 407.07,
+        "timestamp": "00:06:47",
+        "image": "frame_0007.jpg",
+        "reason": "periodic",
+        "ocr_text": "O E] ce womsmsce Dè fa CO < cave Cad sie > ii aggioma-contesto > rd dere > ad frontend-design i minutaunione > ul nova > al toport-assunto > ul tempat-azindalo > nd traduciingieso €) settings cca son © al archivio > il cileni > 1 conto > adi nov > al riuioni vero + giteep fa al.ingex report 2026 pd 18 1ancing-clue-code htmi #9 ricette Jalane docx ficett tano md ricette talane pet 3 i tompia 2/18 Homebrem The Misna D+ X Create POF summary era. x Creato PDF summary extrcton sli testa subito la si su fl pf che trovi ela carta temporanea che sl chiama aLindex_repot_2028 Puoi ttatt: 423 Arcitieta intettince è Bash Extract T0p Takemays secon from POF pages 0-15 i pui ulti plumber pren e * “aport pafprunter DAI = pdlLunter open /Users/affaele/Deshtop/ Claude vorkipsce/tenp/aLiner_report_2026.p0*) INTROGCTIDA | AL Ex REPORT 2026 Chapter 8 Chapter 3 Pol Ley nd Governance Publ Dpinten è. Trougnt fore ® 1. capacità dell'A non stanno rallentando; i stanno accelerando. | model fronte 2028 eguagiano 0 superano vel umano n matematica olimpica, ragionamento muimodale e domando scientiche di dttoat. ‘5 SIE-bench (coding), e performance sono passato cal 60% quasi 00% dl baseline umano nun olo ann. 2. divario Altra USA © Cina sl è praticamente azorato. | duo paos sono scambiati primato iù volto nel 2025: a marzo 2026 ll model top di Anthropc supera quell cinese i sol 27 punt. La Cina gui per volume di pubblicazioni citazioni brevetti gli USA per numero di mogli op e investimenti privati, 3.LALÀ “agged\": vince la medaglia d'oro al Olimpiadi i matematica ma legge un rogo analogico correttamente slo na 0,1% dl cas. robt riescono in appena 12% i compiti domestik, nonostante 189% di uocesso in nenti contrat da laboratorio. ‘4.1 guadagni di produttività dell'A 14-26% in customer Support sviluppo soiare) coincidono con call occupazioni n vello Negli SA, gl sviluppatori otware tra 22 e 2 ann anno visto 'ccupazione ‘calare de 20% solo nel 2024, matr quela dei collegi pù anziani continua a crescere. 5 L'impatto ambientale dll’Al è in rapida espansione. solo addestramento di Grok: ha prodotto 72.16 tomnellat di CO, equivalente | data center Al consumano oggi 255 GW di potenza — paragonab) ‘ongumo del stato di New York l'uso d'acqua per l'feenza di GPT-40 super fabbisogno fico annuo ci 12 milioni di person. Las funzione correttamente. Hal rows i ormoto gusto o vuoi Sambiae qualcosa?",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 408.67999267578125,
+          "end": 414.44000244140625,
+          "text": "non la vogliamo a schermo ma la vogliamo dentro un file pdf. Quindi diciamo, aggiorna la skill,"
+        },
+        {
+          "start": 414.6000061035156,
+          "end": 427.9599914550781,
+          "text": "come si chiamava, report trattino riassunto facendo le seguenti modifiche. L'output deve"
+        },
+        {
+          "start": 427.9599914550781,
+          "end": 434.9200134277344,
+          "text": "finire in un file pdf, ok? E gli possiamo dire che per il momento lo salviamo nella cartella"
+        },
+        {
+          "start": 434.9200134277344,
+          "end": 442.1199951171875,
+          "text": "temp, ok? Nella cartella temp. Poi in realtà se uno si è organizzato bene il workspace avrete"
+        },
+        {
+          "start": 442.1199951171875,
+          "end": 448.3599853515625,
+          "text": "magari una cartella che si chiama progetti e dentro, che ne so, ci stanno tutti i pdf che"
+        },
+        {
+          "start": 448.3599853515625,
+          "end": 452.9599914550781,
+          "text": "leggete oppure c'è una cartella che si chiama documenti e li mettete là dentro oppure riassunti"
+        },
+        {
+          "start": 452.9599914550781,
+          "end": 457.3599853515625,
+          "text": "e li mettete là dentro. Adesso per semplicità lo salviamo nella cartella temporanea. L'output"
+        },
+        {
+          "start": 457.3599853515625,
+          "end": 462.2799987792969,
+          "text": "deve finire in un file pdf nella cartella temp e poi cos'altro ci aveva chiesto prima,"
+        },
+        {
+          "start": 463.0,
+          "end": 476.67999267578125,
+          "text": "anche un titolo di quello che sto facendo. Nel documento ci deve essere anche un titolo che"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 8,
+        "time": 467.07,
+        "timestamp": "00:07:47",
+        "image": "frame_0008.jpg",
+        "reason": "periodic",
+        "ocr_text": "[II DO cioe womsmice Dè fa CO cave Ci sie > i aggioma-contesto > al dora > ad frontend-design a rinuta-uniono a nos > ul roport-assunto > al tompat-azindalo > nd traduckingieso (0) setings oca fon © fl archivio nd cloni ni cono si novo n riunioni ter + giteep i aLinsex_ropori2026 pdl 18 1anding-clude-code fmi #8 ricottJtalane docx fiett alano md TA ricttetalone pet i tenpate + CLAVDE md © (5) x Qoho 218 Homebrem— The Misna Pi D+ XE Create POF summary era. x Create PDF summary ertratin li testa subito la sk su fl pf he trovi ela carte temporanea che sì chiama alindex_report_2026 Artifiesat © Bash Extract Top Takasin secon from POF pages 0-15 i ru ulti petplunber prebons = * sapore paper DIE = pdllumer:openi/Users/affaele/Desktop/ Clase vorkipoce/tenp/al inter report. 2026.p4t*) INTOOOCTIDA | AL ex RePoT 2026 Gpter 8 Chapter 9 POLL nd Governance PubUC Opinion è Thought forse ® 1.0 capacità dell'A non stanno rallentando: sl stanno accelerando. | model fronte 2026 eguaglono 0 superano i livel umano n matematica olimpica, ragionamento mutimodale 0 domando sclentiihe di dttorat. ‘SU SIe-bench (coding), e performance sono passato cal 60% quos 100% del baseline umano in n slo anno. 2. divario Altra USA e Cina sl praticamant azzerato. | duo paesi sono scambiati primato più volto nel 2025: a marzo 2028 i modelo top dl Anhropc supera quelo cinese di so 7 unt. a Cina guia per volume di pubblicazioni citazioni breve gli USA per numero di modeli top e investimenti privati. 3.UALÒ “agged: vince la medaglia d'oro all Olimpiadi i matematica ma lgge un orologio analogico correttamente slo ne 0,1% dl asi robot riescono In appena 12% del comp domestic, nonostante 89% di successo in ambienti contrlai da lboratorio. 4. guadagni di produttività dell'A (14-26% in customer Support sviluppo soiare) coincidono con cai occupazioni n Ivell|unio Negli USA, l sviluppatori software tra 220 25 ann hanno visto l'occupazione alare de 20% coo nel 2024, metre quell el collegi pù anziani coninua a crescere. 5. impatto ambientale dll Al in rapida espansione. sol addestramento di Grok ha prodotto 72.816 tomnllat di CO, equivalente data conta Al consumano oggi 298 GW di potenza — paragonabi al picco di ongumo del stato di New York l'uso d'acqua per l'iferenza di GPT-40 supera labbisogno dico annuo di 12 mini di person, La sk funziona correttamente. Hal trovato i formato giusto vuol cambiare qulcosa? sggiona la sk report assunto facendo le seguenti modiche: output deva sr in n fl pdf nola carota temp +",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 476.67999267578125,
+          "end": 493.32000732421875,
+          "text": "spiega che questi take away sono presi dal documento specifico, usare il nome del report"
+        },
+        {
+          "start": 493.32000732421875,
+          "end": 502.67999267578125,
+          "text": "originale, ok? Di nuovo anche qua fammi tutte le domande che ti servono, raccogli le informazioni"
+        },
+        {
+          "start": 502.760009765625,
+          "end": 510.9599914550781,
+          "text": "necessarie e poi procedi a creare la skill. Diciamogli una cosa qua, crea solo la skill,"
+        },
+        {
+          "start": 510.9599914550781,
+          "end": 520.760009765625,
+          "text": "non mi servono i test e tutto il resto dopo. Questa versione è la versione un pochino più"
+        },
+        {
+          "start": 520.760009765625,
+          "end": 525.760009765625,
+          "text": "avanzata. Quindi adesso cosa stiamo facendo? Abbiamo una skill che si piglia in pasto un pdf"
+        },
+        {
+          "start": 526.1599731445312,
+          "end": 535.6799926757812,
+          "text": "di qualsiasi lunghezza, questo qua è 423 pagine, se lo legge piglie i 5 punti più importanti e ci"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 9,
+        "time": 527.07,
+        "timestamp": "00:08:47",
+        "image": "frame_0009.jpg",
+        "reason": "periodic",
+        "ocr_text": "RR cain Wiitatonri DO ce womsmace Dè fa C O < 6 cave <a ste 4 cggiona-contesto CIS a rontend- design al rinuta-tuniono a none report siassunto i tempiato aziendale a taduchingieso () settogsicca son > al archivio > al cent ad contest si nov n riunioni ter + giteep a aLinsex ropori2028 pdl 28 1ancing-clude-code html #1 ricetta Jane docx ricette talamo md ricette taione pet i terna 2/18 Homebrem The Mis Pi D+ eta vsispoce eDao XE Create POF summary entra. x *D& Create PDF summa ertratin sli ® O testa subito la hl fl pf he trovi ela carta temporane che sl chiama aLindex_repot_2026 ©. Bash Extract Top Takaxways secon from POF pages 0-16 6 run utt plumber pytons = snport potplnber DAI peplum open ‘Jusers/atfaele/Desktop/elaute vorkapace/tenp/aL_index report? DTRODIETIA | AT DOEx REST 2026 Gapter 8 Chapter 9 Pot Ley and Governance Public opinten ® 1,10 caflacità dell'A on stanno rallentando: i stanno accelerando. model fronte 2025 eguaglano 0 superano livello umano n matematica olimpica, ragionamento muimodale e domande scientifiche di dttorat. ‘5 SWEbanch (coding), le performance sono passato cal 60% a quasi 100% dl baseline umano in un solo ann. 2.1 varo Altra USA © Cia lè praticamento azzerato. duo paosi sono scambiati primato iù volto nl 2025: a marzo 2028 Il modelo op dl Anhvopic supera quello cinese di oli 27 pun. La Cina guida per volume di pubblicazioni citzinl brevetti: gli USA per numero di modeli top e investimenti privati 3. LAT è “Jagged: vinco la medaglia d'oro al Olimpiadi i matematica ma legge un orologio analogico coretamene slo ne 0,1% dl ca. robat riescono ln appena 12% i compiti domestic, ponostante 89% di successo in ambienti contrlati da lboratoro. 4. guadagni i produttività dell {14-20% in customer support sviluppo soiare) coincidono con cali occupazioni nl Ivell uni Negli USA gl sviluppatori sotwara trai 22 e | 25 anni hanno visto occupazione calar dl 20% soo nel 2024, mentre quela ei collegi pù anziani continua e crescere. 5. L'impatto ambientale dell Al è i rapida espansione. 1 ol addestramento di Grok 4 ha prodotto 72.810 tomnllat i CO equiiente | data conta I consumano oggi 29, GW di potenza — paragonabili al picco di onsumo del stato di New York l’uso d'acqua per l'ferenza di GPT:4 super abbicogno fico annuo di 1 miloi di persone La si funziona corattament. Hal ovo formato giusto vuo cambiare qualcosa? aggiorna a sil rportiassuto facendo le seguenti modiche: out davo ir in un flo pet nea carta temo DETTI + Unturino. ==>",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 535.6799926757812,
+          "end": 539.5999755859375,
+          "text": "crea un documento, ok? Quindi non è che ce lo dà in chat, ci crea un documento. Perché gli"
+        },
+        {
+          "start": 539.5999755859375,
+          "end": 544.3599853515625,
+          "text": "facciamo creare un documento? Perché così colleghiamo tutti i puntini. Allora prima domanda,"
+        },
+        {
+          "start": 544.3599853515625,
+          "end": 549.8800048828125,
+          "text": "come vuoi che chiami il pdf? Ad esempio take away è il nome originale oppure vuoi uno schema fisso"
+        },
+        {
+          "start": 549.8800048828125,
+          "end": 555.47998046875,
+          "text": "come take away? Dico... Vabbè è la stessa cosa in realtà, mi sembrano identici le due cose."
+        },
+        {
+          "start": 555.47998046875,
+          "end": 560.719970703125,
+          "text": "Vabbè la seconda. Quindi take away trattino il nome del documento originale, così diciamo li"
+        },
+        {
+          "start": 560.719970703125,
+          "end": 565.9199829101562,
+          "text": "riusciamo sempre a identificare. Vediamo cos'altro ci chiede per procedere con la creazione della"
+        },
+        {
+          "start": 565.9199829101562,
+          "end": 571.0800170898438,
+          "text": "skill e poi finisco la riflessione che vi stavo facendo prima. Quale altra informazione ha bisogno?"
+        },
+        {
+          "start": 571.0800170898438,
+          "end": 576.4000244140625,
+          "text": "Credo che gli serve poco altro perché in realtà diciamo gli ho detto tutto. Ah come vuoi che sia"
+        },
+        {
+          "start": 576.4000244140625,
+          "end": 583.4000244140625,
+          "text": "formato il titolo del pdf? Ad esempio 5 take away da... Ok sì perfetto. Quindi il titolo mi va bene"
+        },
+        {
+          "start": 583.4000244140625,
+          "end": 587.5599975585938,
+          "text": "che lui ha preso il titolo del documento originale. Quindi questo qua come si chiama? Artificial"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 10,
+        "time": 587.07,
+        "timestamp": "00:09:47",
+        "image": "frame_0010.jpg",
+        "reason": "periodic",
+        "ocr_text": "B*XbgVveILo al rinuta-tuniono > ul roms al report riassunto > al templat.azindalo > nd traduci-igieso €) settings cca son + al archivio nd conti > al conte > al nome > il riunioni > @ tro È sic a aLinsex report 2026 pdl 18 1ansing-ciauso-code emi 41 ricatta Jalane docx ricetta tano md ricette itlane pet i terni + CLADE md x Homebrew — The Missing Pi (x + % Crest POF summary str. Creato POF summary extracton sii testa subito la hl su fl pdf he trovi ela carte temporanea che sì chiama al Index_report_2026 3. L'ATÀ ‘Iagged: vinco la medaglia d'oro alle Olimpiadi i matematica ma legge un orologio analogico correttamente slo nel 5,1% cl cas. robot escono In appena 12% dl comit domest, nonostante ADS i succosso i ambienti control da invoratorio. 4, guadagni i produtività del [14-20% in customer support sviluppo software) coincidono con caloccupazional ne lvl uni. Negli USA, li svitippatori sofa ta 22 e 25 ann hanno visto l'occupazione calare del 20% solo nl 2024, mentre quell el colleghi più anziani continua a 5 L'impatto ambientale dll tè in aida espansione. solo agdestramento di Grok 4 ha prodotto 72.816 tonnellate di CO, equivalent. ata center Al consumano ogg 20,6 GW di potenza — paragonabile al picco di consumo cell tao cî New Yorke luo d'acqua pr l'nferenza di GPT- 40 supera i abbisogn io annuo di 1 mini di persone. La si fvziona correttamente. Hal trovato formato giusto vuoi cambiare qualcosa? vagina ls rport-rassuto facendo le seguenti modiche: — output deve fino i n le pdf lla cata temp e documenti i deve essre anche un tolo che spiega che questi taken sono presi d documento speci (usar nom cel raport originale) amm tuto le domande che ti srvono, raccogli e iformazioi necessari poi procedi a creare a sl rea slo sl on mÌ servono tot tutto rosto dopo ®. Come vuol che sl chiami ile POF di output? Ad esempio takessay_ni_index_ resort 20261, oppure vuol uno schema fisso come taken. {nose-daciwento-ariginate) af ? ta seconda e RISI. ] Artificial Intelligence Index Report",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 587.5599975585938,
+          "end": 593.5599975585938,
+          "text": "Intelligence Index Report, ok? Quindi prende questa cosa qua e la usa come titolo. Vediamo"
+        },
+        {
+          "start": 593.5599975585938,
+          "end": 600.3200073242188,
+          "text": "cos'altro ci chiede e poi siamo pronti. Cioè dopo ci deve aggiornare la skill e la possiamo"
+        },
+        {
+          "start": 600.3200073242188,
+          "end": 606.8400268554688,
+          "text": "lanciare. Mi dice ho tutto, ecco cosa farò. Generazione del pdf nell'output in tempo. Il nome"
+        },
+        {
+          "start": 606.8400268554688,
+          "end": 610.7999877929688,
+          "text": "del file si chiamerà così, il titolo del documento si chiamerà così, mi autorizzi a scrivere la skill. Vai"
+        },
+        {
+          "start": 610.7999877929688,
+          "end": 617.7999877929688,
+          "text": "amico procedi pure. Quindi diciamo adesso per poter lavorare lui dice io ho dentro questa"
+        },
+        {
+          "start": 617.7999877929688,
+          "end": 624.47998046875,
+          "text": "diciamo dentro questa skill mi sono fatto una cartellina script, vedete? E nella cartellina"
+        },
+        {
+          "start": 624.5999755859375,
+          "end": 631.4400024414062,
+          "text": "script si è fatto un file python. Questa cosa non l'avevamo mai vista fino ad ora e soprattutto non"
+        },
+        {
+          "start": 631.4400024414062,
+          "end": 635.5599975585938,
+          "text": "l'abbiamo fatto noi. Quindi qua adesso c'è del python, cioè c'è del codice. Qualcuno di voi si"
+        },
+        {
+          "start": 635.5599975585938,
+          "end": 640.6400146484375,
+          "text": "potrebbe spaventare, non vi preoccupate. Questo è il codice che ci permette di creare effettivamente"
+        },
+        {
+          "start": 640.6400146484375,
+          "end": 645.2000122070312,
+          "text": "il pdf, no? Di fare quel lavoro un po' più complicato. Ecco perché non la potevamo vedere"
+        },
+        {
+          "start": 645.2000122070312,
+          "end": 649.7999877929688,
+          "text": "questa cosa quando abbiamo studiato le skill per la prima volta. Perché ci mancavano dei pezzi. Ora"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 11,
+        "time": 647.07,
+        "timestamp": "00:10:47",
+        "image": "frame_0011.jpg",
+        "reason": "periodic",
+        "ocr_text": "© © © I Fucsiciae Witevosrd (xD Homebren = Tre Ming Pi 3 + O00 cb votapoce © susoerovsnce Di fa CD > dk CrenerDe summanenra. x Create PDF summary extratin sli CES 3 1 aggira coten Lea es Pps 3 di neve pro Camion Bb casso — vanta ta Ho tutt. ggiomo la sl con: + geneazione PDF cupi int nd radueiingise * Rlenamo. taenay. (nne-docimento0r psn te.pe () etinga icaon ‘ itoo ne documento: \"5 Takoaway da {nome por] Sad achivio > a conti 3 a conte Srna ni 5 /bsers/attaele/Desktop/ cli orkspce/.Clue/1k1UU/report=riasinto/script 14 riunioni <tr + gie i side seport 2026901 Vere rare) 18 1aningcidococe mi Ò #1 ricette talora docx atfsrttivone prideni e \"Genera u POP. on titolo e 5 tatemey estratti da dscuento fa ficetttalane po nose ri terpate % ciAUDEma bash Creato scripts drctoy i sil Cda completed with no outpit) deseription: “Legge un POF (report, ebook, uiltepper, ricrea, quita 0 qualsiasi document) e restituisce $ talemay iaportanti in italiano, salvandoli in un novo POF setta corteti ® II .] dodo",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 649.7999877929688,
+          "end": 653.52001953125,
+          "text": "abbiamo tutte le informazioni, tutti i pezzi del puzzle e ci siamo creati questa skill un po' più"
+        },
+        {
+          "start": 653.5599975585938,
+          "end": 658.0399780273438,
+          "text": "avanzata. Ovviamente avanzata è un parolone, è avanzata rispetto alle skill che abbiamo visto"
+        },
+        {
+          "start": 658.0399780273438,
+          "end": 664.9600219726562,
+          "text": "fino ad ora. Immaginate, mi dice perfetto l'ho fatto eccetera. Ok allora mettiamolo subito all'opera."
+        },
+        {
+          "start": 664.9600219726562,
+          "end": 674.0,
+          "text": "Diciamo subito lancia la skill sullo stesso documento di prima. Così vediamo subito se ci"
+        },
+        {
+          "start": 674.0,
+          "end": 680.1599731445312,
+          "text": "crea qua dentro adesso questo file pdf con i 5 take away, quindi questa sorta di riassunto del"
+        },
+        {
+          "start": 680.2000122070312,
+          "end": 687.8400268554688,
+          "text": "report che diciamo che abbiamo creato, che gli abbiamo dato. Questa cosa immaginatela sempre"
+        },
+        {
+          "start": 687.8400268554688,
+          "end": 692.719970703125,
+          "text": "nelle vostre esigenze. Ora che sapete che può leggere file di qualsiasi tipo, creare file di"
+        },
+        {
+          "start": 692.719970703125,
+          "end": 697.280029296875,
+          "text": "qualsiasi tipo, immaginate che voi avete bisogno di fare file excel, presentazioni powerpoint,"
+        },
+        {
+          "start": 697.280029296875,
+          "end": 705.9600219726562,
+          "text": "contenuti per i social, caroselli, rill, che più ne ha più ne metta, documenti word e così via."
+        },
+        {
+          "start": 706.1599731445312,
+          "end": 713.5999755859375,
+          "text": "Potete fare un botto di roba. Perfetto, qua gli diamo procedi e adesso la vediamo all'opera perché"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 12,
+        "time": 707.07,
+        "timestamp": "00:11:47",
+        "image": "frame_0012.jpg",
+        "reason": "periodic",
+        "ocr_text": "RO RI cain oso xD Homebram— Tre Miing Pa x + 000 € > elia noise e è» © ouoevomso Db E CO = AE Cresta or sommati È 0) + (Cau Code) report assunto. input on x < cid 9 © 1021) report asini. inutison e resto PO summary entrato sli on) > al aggioma-contosto > a doc > ad frontna-derion 3 i intrinine n roms Cal ropor-iasinto sort © genera pato Dette: > a template azionato > ad raduebinglese tania kl sullo stesso document di prima () settngssoason i cio ni ioni ni conn report-riassunto siti si non n ioni < tro cometa a OF è gli onesto ala sessione preedent. Co aretament + giteen sor at inder eport_2026 pa sese Mito rpore riassunto. input. 500 9 ricette alone docx = 10 fette tato mal ‘ TI ostia alana po titotri 5 Tatemoy dh AT Index feport 2026, Gi tenpito anemen: è CIAUDE ma Thought fo Though for 3 ‘Allow write to report_riassunto_input. json? 2 Yes, allo access to 2 directors fr ls pession ano UnT.CAli Soscer 2 Utr9 LE",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 713.5999755859375,
+          "end": 719.3200073242188,
+          "text": "ci dovrebbe creare anche il file pdf qua dentro. Vi dicevo quindi le istenzioni sono infinite."
+        },
+        {
+          "start": 719.3200073242188,
+          "end": 724.0800170898438,
+          "text": "Facendo anche questo piccolo esempio abbiamo visto che tutto quello che abbiamo fatto fino ad ora,"
+        },
+        {
+          "start": 724.0800170898438,
+          "end": 727.1199951171875,
+          "text": "torno un attimo in questo schema che non vediamo da un po', che tutto questo abbiamo fatto fino ad"
+        },
+        {
+          "start": 727.1199951171875,
+          "end": 732.52001953125,
+          "text": "ora non era inutile. Ci è servito adesso perché abbiamo installato in VS Code la capacità di"
+        },
+        {
+          "start": 732.52001953125,
+          "end": 738.9199829101562,
+          "text": "leggere pdf, in Cloud Code la capacità di creare la skill, in terminale la capacità di creare i pdf."
+        },
+        {
+          "start": 738.9199829101562,
+          "end": 745.0,
+          "text": "Mettendo insieme queste cose ci siamo appena fatti una skill potentissima. Diciamo che legge pdf,"
+        },
+        {
+          "start": 745.0,
+          "end": 751.239990234375,
+          "text": "ce li riassume e poi ci crea dei pdf. Ecco qua, la skill ha finito di lavorare, mi dice ok perfetto,"
+        },
+        {
+          "start": 751.239990234375,
+          "end": 756.8800048828125,
+          "text": "ho fatto, pdf salvato qua, ce lo apriamo subito. Eccolo qui, questo è il segue e abbiamo il nostro"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 13,
+        "time": 755.0,
+        "timestamp": "00:12:35",
+        "image": "frame_0013.jpg",
+        "reason": "scene",
+        "ocr_text": "“ pae è 30 FONTIDOLO = Pi gl potsenune Lsport xPGS, POS 3 ing pepor2026 pet e i tto h - a ade a E ma",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 757.0399780273438,
+          "end": 761.5999755859375,
+          "text": "bel pdf. Poi volendo potete migliorarlo ancora, gli dite mettimi i numeri di pagina,"
+        },
+        {
+          "start": 761.5999755859375,
+          "end": 768.4400024414062,
+          "text": "mettimi il logo, perché questo diventa il vostro strumento con il quale potete generare le fatture,"
+        },
+        {
+          "start": 768.4400024414062,
+          "end": 773.8400268554688,
+          "text": "generare i preventivi, fare delle proposte formali ai vostri clienti. Quello che volete voi."
+        },
+        {
+          "start": 773.8400268554688,
+          "end": 778.4400024414062,
+          "text": "Adesso avete visto all'opera che significa avere un sistema che si estende potenzialmente all'infinito."
+        }
+      ]
+    }
+  ]
+}

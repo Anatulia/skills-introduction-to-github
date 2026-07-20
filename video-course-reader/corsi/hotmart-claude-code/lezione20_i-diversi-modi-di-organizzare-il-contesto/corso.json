@@ -1,0 +1,724 @@
+{
+  "title": "I diversi modi di organizzare il contesto",
+  "sections": [
+    {
+      "keyframe": {
+        "index": 0,
+        "time": 0.0,
+        "timestamp": "00:00:00",
+        "image": "frame_0000.jpg",
+        "reason": "start",
+        "ocr_text": "LAUDE ad IE SO, tono-di-vote. md \\ Di) eee e\" esere ==T=\"\"",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1.0,
+          "end": 9.0,
+          "text": "Così come ho fatto per il workspace, per lo spazio di lavoro, voglio farvi vedere anche per il contesto che abbiamo vari modi di organizzarlo."
+        },
+        {
+          "start": 9.0,
+          "end": 21.0,
+          "text": "Ok, adesso avete capito che cos'è il contesto e dove Cloud ha memorizzato, accumulato nel tempo tutte le informazioni necessarie per lavorare."
+        },
+        {
+          "start": 21.0,
+          "end": 28.0,
+          "text": "Qua vi ho messo cinque approcci, come ho fatto nel modulo precedente, dove abbiamo parlato dello spazio di lavoro."
+        },
+        {
+          "start": 28.0,
+          "end": 37.0,
+          "text": "Ovviamente non esistono solo questi cinque approcci, questi sono quelli più frequenti, che un po' ho visto usare da persone, un po' ho letto in rete, un po' ci ho smanettato io."
+        },
+        {
+          "start": 37.0,
+          "end": 40.0,
+          "text": "E li ho messi anche qui, diciamo, dal più semplice al più complesso."
+        },
+        {
+          "start": 40.0,
+          "end": 48.0,
+          "text": "In particolar modo, poi vi ho messo anche proprio quello che uso io, che ovviamente è quello che vi consiglio ed è quello un po' particolare, diciamo è un ibrido."
+        },
+        {
+          "start": 49.0,
+          "end": 55.0,
+          "text": "Allora, l'approccio più semplice è fare solo un file, Cloud MD."
+        },
+        {
+          "start": 55.0,
+          "end": 69.0,
+          "text": "Allora, voi avete tutto il contesto, avete un poco di contesto dentro Cloud MD, tra l'altro se volete vi lascio anche proprio il link ufficiale della documentazione sul sito di Cloud Code, su come Cloud gestisce questa cosa."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 1,
+        "time": 60.0,
+        "timestamp": "00:01:00",
+        "image": "frame_0001.jpg",
+        "reason": "periodic",
+        "ocr_text": "x RE How Cisude remember you: x | + (05 eicaracon e eo, 0,0, -, -. 2, 4,8, e, 4 aim cav (ETTI (GEE) ble gi. ct ad i a CLAUDE.md",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 69.0,
+          "end": 73.0,
+          "text": "Mi raccomando, quando leggete questa documentazione ricordatevi che è pensata per programmatori, ok?"
+        },
+        {
+          "start": 74.0,
+          "end": 80.0,
+          "text": "E invece noi non siamo programmatori, la adattiamo, la utilizziamo, diciamo, per farci altre cose."
+        },
+        {
+          "start": 80.0,
+          "end": 94.0,
+          "text": "Quindi significa fare un solo file, molto piccolo, perché nel contesto ci mettiamo veramente il minimo, nel file Cloud MD non deve essere molto carico, perché quello viene, diciamo, caricato in automatico tutte le volte che voi utilizzate Cloud Code."
+        },
+        {
+          "start": 94.0,
+          "end": 105.0,
+          "text": "Perché, diciamo, in che consiste? Quindi poche righe, ho messo cose tipo il ruolo professionale, la lingua, il contesto di base, sempre giusto per dare una direzione a Cloud."
+        },
+        {
+          "start": 105.0,
+          "end": 111.0,
+          "text": "Quali sono i vantaggi? Lo fate super velocemente, ok? Non c'avete nessuna struttura da gestire, funziona subito."
+        },
+        {
+          "start": 111.0,
+          "end": 115.0,
+          "text": "Quindi partite, lo create, siete pronti per lavorare."
+        },
+        {
+          "start": 115.0,
+          "end": 130.0,
+          "text": "Questo lo consiglio solo a chi veramente vuole andare super leggero, a chi vuole utilizzare Cloud Code magari per fare una sola cosa, e quindi dice Raph, però io non me la sento di metterci subito dentro tutto il mio lavoro."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 2,
+        "time": 120.0,
+        "timestamp": "00:02:00",
+        "image": "frame_0002.jpg",
+        "reason": "periodic",
+        "ocr_text": "RE How Cade member asi e] + e eo, 0,0, -, -. 2, 4,8, e, 4 mo cm e (ET) ES) le dini, and I cinque approccì al contesto Dal piu serplice al piu articolato — Incluso il mio ori Chi vuole dare a Claude un contesto appeofoniito senza gestire piu Ale. Lavoro albasterza omogeneo, pochi contesti diversi.",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 130.0,
+          "end": 136.0,
+          "text": "Facciamo che per il prossimo progetto inizia a usare Cloud Code, così per sperimentare un pochino."
+        },
+        {
+          "start": 136.0,
+          "end": 139.0,
+          "text": "Ecco, in casi come questi va bene allora usare l'approccio numero uno."
+        },
+        {
+          "start": 139.0,
+          "end": 145.0,
+          "text": "L'approccio numero due, questo è un obbrobrio, lo sconsiglio fortemente."
+        },
+        {
+          "start": 145.0,
+          "end": 151.0,
+          "text": "Cioè, fare il contesto bello grosso, diciamo quindi con tanta ciccia, ma in un file Cloud gigante."
+        },
+        {
+          "start": 151.0,
+          "end": 155.0,
+          "text": "Quindi qua diciamo graficamente l'ho rappresentato solo con un rettangolo un po' più grande."
+        },
+        {
+          "start": 155.0,
+          "end": 166.0,
+          "text": "Quindi c'è chi dice, no no, io voglio tutto, voglio metterci tono di voce, i miei servizi che vendo, i clienti con cui lavoro, le istruzioni operative, i miei valori, la mia visione, e così via."
+        },
+        {
+          "start": 167.0,
+          "end": 169.0,
+          "text": "Ma tutto in un unico lungo file."
+        },
+        {
+          "start": 169.0,
+          "end": 172.0,
+          "text": "E ricordatevi il Cloud MD è un file obbligatorio."
+        },
+        {
+          "start": 172.0,
+          "end": 175.0,
+          "text": "Vedete, ce l'ha creato anche prima quando abbiamo creato il contesto."
+        },
+        {
+          "start": 175.0,
+          "end": 179.0,
+          "text": "È un file obbligatorio che serve a Cloud per lavorare."
+        },
+        {
+          "start": 179.0,
+          "end": 192.0,
+          "text": "Diciamo, qua c'è un solo file, è tutto in un unico posto, perché io la sconsiglio questa cosa, anche se l'ho vista fare, perché dobbiamo ragionare in modo modulare."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 3,
+        "time": 180.0,
+        "timestamp": "00:03:00",
+        "image": "frame_0003.jpg",
+        "reason": "periodic",
+        "ocr_text": "Verriasi la dr e eo, 0,0, +, -, 2, A, 8, e, A crrecione Mei i Ge) EI) le dn cv n solo po di Lav * Finziona bito pochi output icomenti. chi tele dre a Clale un contesto approfondito senza gestire piu Ale. Lavoro albestanza omogeneo pochi contesti diversi.",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 192.0,
+          "end": 197.0,
+          "text": "Quello che ci porta a fare Cloud Code è ragionare in modo modulare."
+        },
+        {
+          "start": 197.0,
+          "end": 207.0,
+          "text": "Spezzettare le cose, perché così è più facile gestirle, perché così è più facile farle crescere nel tempo, perché così è più facile aggiornare solo il pezzo che ci serve, e così via."
+        },
+        {
+          "start": 207.0,
+          "end": 216.0,
+          "text": "Più facile trovare le informazioni, gestisce meglio Cloud la memoria in maniera dinamica, perché il file Cloud MD molto lungo dopo un po' gli crea problemi."
+        },
+        {
+          "start": 216.0,
+          "end": 222.0,
+          "text": "Invece è meglio averne uno breve con altri file di contesto specializzati."
+        },
+        {
+          "start": 222.0,
+          "end": 228.0,
+          "text": "Secondo me è anche proprio concettualmente più pulito, meglio lavorare in questo modo."
+        },
+        {
+          "start": 228.0,
+          "end": 234.0,
+          "text": "Il terzo, il secondo ve lo sconsiglio, il primo va bene solo in alcuni casi."
+        },
+        {
+          "start": 234.0,
+          "end": 239.0,
+          "text": "Il terzo già inizia ad essere decente, è quello con cui ero partito io all'inizio e poi sono passato al quinto."
+        },
+        {
+          "start": 239.0,
+          "end": 247.0,
+          "text": "Il terzo è facciamo il file Cloud MD, quindi con le istruzioni principali di contesto, e poi la cartella Context."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 4,
+        "time": 240.0,
+        "timestamp": "00:04:00",
+        "image": "frame_0004.jpg",
+        "reason": "periodic",
+        "ocr_text": "",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 247.0,
+          "end": 255.0,
+          "text": "Dentro la cartella Context cosa ci mette? Ci mette dei file piccolini separati dove ci sono dei pezzettini di contesto aggiuntivo."
+        },
+        {
+          "start": 255.0,
+          "end": 258.0,
+          "text": "Quindi graficamente lo immagino una cosa del genere."
+        },
+        {
+          "start": 258.0,
+          "end": 263.0,
+          "text": "C'è il file principale Cloud MD che fa un po' da direttore d'orchestra."
+        },
+        {
+          "start": 263.0,
+          "end": 272.0,
+          "text": "Quindi dice ok, queste sono le informazioni principali che devi sapere su Laura, su Claudio, su azienda Pincopallino."
+        },
+        {
+          "start": 272.0,
+          "end": 283.0,
+          "text": "E poi dentro il contesto c'è un file con il chi sono, un file con i clienti, un file con il tono di voce, un file con i servizi, un file con i prodotti e così via."
+        },
+        {
+          "start": 283.0,
+          "end": 290.0,
+          "text": "È organizzato bene, vedete, potrebbe essere molto simile a questo ma organizzato meglio."
+        },
+        {
+          "start": 290.0,
+          "end": 293.0,
+          "text": "Proprio per una pulizia mentale."
+        },
+        {
+          "start": 293.0,
+          "end": 301.0,
+          "text": "Quali sono i vantaggi? Potete avere un contesto molto più strutturale, ce l'avete scalabile, modulare, ogni area si può aggiornare a parte."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 5,
+        "time": 300.0,
+        "timestamp": "00:05:00",
+        "image": "frame_0005.jpg",
+        "reason": "periodic",
+        "ocr_text": "Chi ha ua lavoro articolato. con diverse aree: El contesto e ritto na organizzato.",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 301.0,
+          "end": 309.0,
+          "text": "Se io voglio fare una modifica solo ai clienti non devo andare a modificare sempre solo il file Cloud MD, è solo il file clienti che viene aggiornato."
+        },
+        {
+          "start": 309.0,
+          "end": 321.0,
+          "text": "Dico guarda, guarda, quest'anno non ho rinnovato con il cliente, non lo so, Alfa Romeo, quindi toglimi tutto il box Alfa Romeo da dentro il contesto dei clienti e basta."
+        },
+        {
+          "start": 321.0,
+          "end": 327.0,
+          "text": "A chi lo consiglio, questo qua, tutti quelli che non rientrano nel caso 1."
+        },
+        {
+          "start": 327.0,
+          "end": 335.0,
+          "text": "Quindi tutti quelli che vogliono iniziare a utilizzare seriamente Cloud Code, secondo me devono fare almeno questa soluzione."
+        },
+        {
+          "start": 335.0,
+          "end": 341.0,
+          "text": "Quindi file Cloud.Md con la cartella di contesto."
+        },
+        {
+          "start": 341.0,
+          "end": 344.0,
+          "text": "Non vi preoccupate perché tra un attimo tutte queste cose le vediamo praticamente."
+        },
+        {
+          "start": 344.0,
+          "end": 350.0,
+          "text": "Ci tengo a far vedere sempre la struttura concettuale perché altrimenti siamo solo degli smanettoni."
+        },
+        {
+          "start": 350.0,
+          "end": 358.0,
+          "text": "E invece sapete cosa penso? Penso che è importante la pratica ma deve essere affiancata dalla teoria per conoscere i concetti sui quali lavoriamo."
+        },
+        {
+          "start": 358.0,
+          "end": 368.0,
+          "text": "Perché così se una settimana dopo che io ho registrato questo corso esce un sesto modo di gestire il contesto, voi l'avete capito e lo potete utilizzare."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 6,
+        "time": 360.0,
+        "timestamp": "00:06:00",
+        "image": "frame_0006.jpg",
+        "reason": "periodic",
+        "ocr_text": "clientì.mo tono-diì-voc;",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 368.0,
+          "end": 372.0,
+          "text": "Potete dirmi, ah Raffaele ma fate questa tecnica ma in realtà ne è uscita un'altra che è meglio ancora."
+        },
+        {
+          "start": 372.0,
+          "end": 379.0,
+          "text": "Invece se voi fate solo gli smanettoni, eseguite solo quello che vi dico, non state capendo perché le cose funzionano in un certo modo."
+        },
+        {
+          "start": 379.0,
+          "end": 386.0,
+          "text": "E qua ho fatto una diramazione, mi sono concesso questo, diciamo, questo momento, questa libertà."
+        },
+        {
+          "start": 386.0,
+          "end": 394.0,
+          "text": "Perché il passaggio logico dopo questo, diciamo, per andare su qualcosa di un pochino più complesso è fare questo."
+        },
+        {
+          "start": 394.0,
+          "end": 400.0,
+          "text": "Quindi avere diversi file CloudMD, perché Cloud nativamente offre anche questa opzione."
+        },
+        {
+          "start": 400.0,
+          "end": 411.0,
+          "text": "Cioè Cloud dice, io riconosco automaticamente ogni volta che trovo un file che si chiama Cloud.Md, proprio scritto così con Cloud in maiuscolo, capisco che quello è un file di contesto."
+        },
+        {
+          "start": 411.0,
+          "end": 415.0,
+          "text": "Quindi non ti preoccupare, quando lo trovo io lo leggo, lo carico, perché quello è contesto."
+        },
+        {
+          "start": 415.0,
+          "end": 420.0,
+          "text": "E quindi cosa fanno tanti? Fanno il file CloudMD principale, vedete?"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 7,
+        "time": 420.0,
+        "timestamp": "00:07:00",
+        "image": "frame_0007.jpg",
+        "reason": "periodic",
+        "ocr_text": "on i How Claude remember you: x | + de cena mo (Feontoa [reina ) Ù 7 È dd) (td VESIREESZZ]I = ([Eanh/eione nd | Voss EEE 3) ([aerai/erone nd) ([/ress/eLAUDE nd ) (Jranchi/elt",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 420.0,
+          "end": 423.0,
+          "text": "Quindi diciamo una struttura che ricorda un po' questa qua."
+        },
+        {
+          "start": 423.0,
+          "end": 431.0,
+          "text": "E poi dentro ogni progetto, oppure dentro ogni cliente, ora qua diciamo non dovete spaventarvi perché sapete cosa sono i progetti, i clienti, no?"
+        },
+        {
+          "start": 431.0,
+          "end": 434.0,
+          "text": "L'abbiamo visto, sono le cartelle che stanno qua, ok?"
+        },
+        {
+          "start": 434.0,
+          "end": 438.0,
+          "text": "Quindi questo adesso l'ho scontato, altrimenti fermatevi e andate a vedere le lezioni precedenti."
+        },
+        {
+          "start": 438.0,
+          "end": 444.0,
+          "text": "Dentro i vari progetti, o i vari clienti, o i vari canali, quindi diciamo indipendentemente dalla struttura che avete scelto, no?"
+        },
+        {
+          "start": 444.0,
+          "end": 449.0,
+          "text": "Mettiamo che avete scelto questa struttura qua, con i canali, è la stessa cosa."
+        },
+        {
+          "start": 449.0,
+          "end": 452.0,
+          "text": "Qua dentro potrei metterci i file di contesto relativi a ogni singolo canale."
+        },
+        {
+          "start": 452.0,
+          "end": 454.0,
+          "text": "Quindi torno un attimo qua."
+        },
+        {
+          "start": 454.0,
+          "end": 461.0,
+          "text": "Cosa fanno alcune persone? Dicono vabbè allora io sfrutto questa funzionalità di Cloud e metto i file CloudMD per ogni progetto."
+        },
+        {
+          "start": 461.0,
+          "end": 470.0,
+          "text": "Questo ci permette di avere delle istruzioni globali più un contesto di progetto e viene fatto automaticamente gestito da Cloud questa cosa, ok?"
+        },
+        {
+          "start": 470.0,
+          "end": 480.0,
+          "text": "Questa diciamo come soluzione è una soluzione ottima, io la faccio leggermente diversa e quindi vi faccio vedere la quinta strada."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 8,
+        "time": 480.0,
+        "timestamp": "00:08:00",
+        "image": "frame_0008.jpg",
+        "reason": "periodic",
+        "ocr_text": "",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 480.0,
+          "end": 486.0,
+          "text": "Ripeto, qua scegliete quello che volete voi, anche se ovviamente diciamo io la faccio vedere perché la ritengo migliore questa qua."
+        },
+        {
+          "start": 486.0,
+          "end": 488.0,
+          "text": "Cosa faccio io?"
+        },
+        {
+          "start": 488.0,
+          "end": 495.0,
+          "text": "Uso il CloudMD, quindi uso il modello questo qua, diciamo, uso un ibrido del 3 e il 4."
+        },
+        {
+          "start": 495.0,
+          "end": 506.0,
+          "text": "Uso questo modello qua con il file CloudMD con le istruzioni di contesto principale e queste vengono caricate ad ogni chat."
+        },
+        {
+          "start": 506.0,
+          "end": 514.0,
+          "text": "Poi ho la cartella con il contesto, con dei micro file piccolini piccolini, con un po' di contesto su chi sono, un po' di contesto sui miei clienti,"
+        },
+        {
+          "start": 514.0,
+          "end": 520.0,
+          "text": "un po' di contesto sul tono di voce, sui miei servizi, sui miei prodotti, sulla mia visione, sui miei valori,"
+        },
+        {
+          "start": 520.0,
+          "end": 523.0,
+          "text": "ci potete mettere quello che volete voi nel vostro file di contesto."
+        },
+        {
+          "start": 523.0,
+          "end": 532.0,
+          "text": "E poi metto anche questa cosa qua, diciamo, dei progetti, quindi perciò dicevo un ibrido del 3 e il 5, ma con una differenza."
+        },
+        {
+          "start": 532.0,
+          "end": 539.0,
+          "text": "Questa non l'ho segnata ma è meglio che la scriviamo, anzi la scrivo in questo momento così diciamo ribadendolo in tempo reale, secondo me si capisce meglio."
+        },
+        {
+          "start": 539.0,
+          "end": 545.0,
+          "text": "Facciamo così, vi faccio capire che questo è caricato sempre, ok?"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 9,
+        "time": 540.0,
+        "timestamp": "00:09:00",
+        "image": "frame_0009.jpg",
+        "reason": "periodic",
+        "ocr_text": "3 x ® HoeCiauderemembersyou: x | + CLAUDE.md sext — d dissnad) ( clienti.ma ) (| teno-dizvoce.md E getti | [ /verdi/el4UDE.md ) | lrossi/cL4UDE.md ) reaenose sd) |",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 545.0,
+          "end": 553.0,
+          "text": "Quindi quale? Questa parte qua, ok? Ecco qua."
+        },
+        {
+          "start": 553.0,
+          "end": 561.0,
+          "text": "Questa parte qua è caricata sempre, il file CloudMD e tutta la cartella contesto vengono caricate ogni volta che io sto lavorando dentro Cloud."
+        },
+        {
+          "start": 562.0,
+          "end": 577.0,
+          "text": "Questo pezzettino qua invece, caricato manualmente, no qua manualmente, automaticamente, dipende diciamo, manualmente, automaticamente, quando serve, ok?"
+        },
+        {
+          "start": 577.0,
+          "end": 585.0,
+          "text": "Questa, questo pezzo qua per capirci, mamma mia, grandi doti."
+        },
+        {
+          "start": 585.0,
+          "end": 597.0,
+          "text": "Qua diciamo nel copia e incolla ho fatto, diciamo, io non li chiamo così, li chiamo ContextMD ma perché non voglio la funzionalità di loading automatico."
+        },
+        {
+          "start": 597.0,
+          "end": 601.0,
+          "text": "Però diciamo il nome del file qua è veramente un dettaglio."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 10,
+        "time": 600.0,
+        "timestamp": "00:10:00",
+        "image": "frame_0010.jpg",
+        "reason": "periodic",
+        "ocr_text": "e 0, 0, 0, +. -. 2, 4,8, 0, è res EE) (ETIRI 1 in Jeontext | chi-sono.md I clientimd )( tono-di-voce.md ) Caricato sempre Î /progetti Nerdifeontextma ) (| /ross/context.md ) (/bianchi/eontedind | Caricato (manualmente)",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 601.0,
+          "end": 612.0,
+          "text": "Però io in ogni progetto c'è un file contesto, contesto, contesto e non faccio che tutte le volte che apro Cloud Code carico tutto perché come vedete il contesto a me inizia a diventare grandicello."
+        },
+        {
+          "start": 612.0,
+          "end": 617.0,
+          "text": "Qua magari ci sono 5-6 file, poi magari uno ha 10 progetti o 10 clienti e così via."
+        },
+        {
+          "start": 617.0,
+          "end": 628.0,
+          "text": "Non voglio che Cloud ogni volta che ne apro un'istanza mi vada a caricare il CloudMD che deve caricare obbligatoriamente tutta la cartella contesto e poi tutti i singoli progetti."
+        },
+        {
+          "start": 628.0,
+          "end": 633.0,
+          "text": "No, sto lavorando sul cliente Verdi, mi carico un attimo il contesto di cliente Verdi."
+        },
+        {
+          "start": 633.0,
+          "end": 642.0,
+          "text": "Se dentro mentre sto lavorando mi serve qualcosa che ho fatto col cliente Bianchi, gli dico di caricarlo un attimo ma solo perché mi serve e allora lo uso."
+        },
+        {
+          "start": 642.0,
+          "end": 651.0,
+          "text": "Mentre in questo caso diciamo quello che abbiamo è, questo lo mettiamo così, diciamo ve lo metto pure qua, questo è caricato sempre, ok?"
+        },
+        {
+          "start": 651.0,
+          "end": 654.0,
+          "text": "Quindi avete chiara la differenza."
+        },
+        {
+          "start": 654.0,
+          "end": 659.0,
+          "text": "Usando questo approccio invece è caricato sempre e in realtà anche questo approccio qua."
+        },
+        {
+          "start": 659.0,
+          "end": 665.0,
+          "text": "Ve lo scrivo pure qua così questo si carica, cioè si capisce."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 11,
+        "time": 660.0,
+        "timestamp": "00:11:00",
+        "image": "frame_0011.jpg",
+        "reason": "periodic",
+        "ocr_text": "iii rd (ET) in CLAUDEI cr] (Ferene_ fa) e) (",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 665.0,
+          "end": 668.0,
+          "text": "A questo punto abbiamo fatto 30, facciamo 31."
+        },
+        {
+          "start": 668.0,
+          "end": 672.0,
+          "text": "Questo pure è caricato sempre e questo pure è caricato sempre, ok?"
+        },
+        {
+          "start": 672.0,
+          "end": 673.0,
+          "text": "Questi sono un po' i 5 approcci."
+        },
+        {
+          "start": 673.0,
+          "end": 679.0,
+          "text": "Allora, l'approccio 2 è quello secondo me peggiore dal punto di vista proprio logico, ve lo sconsiglio."
+        },
+        {
+          "start": 679.0,
+          "end": 683.0,
+          "text": "Se volete partire semplice andate con l'approccio 1, ok?"
+        },
+        {
+          "start": 683.0,
+          "end": 691.0,
+          "text": "Se volete fare qualcosa di più strutturato l'approccio 3 è quello, diciamo, prima di arrivare a qualcosa di complesso è una buona via di mezzo."
+        },
+        {
+          "start": 691.0,
+          "end": 693.0,
+          "text": "Io uso l'approccio 5."
+        },
+        {
+          "start": 693.0,
+          "end": 704.0,
+          "text": "Ho il massimo controllo, ho tutta la ricchezza di contesto che posso avere, si evolve con il progetto ma soprattutto questo è il motivo perché io faccio questa cosa."
+        },
+        {
+          "start": 704.0,
+          "end": 707.0,
+          "text": "Per non appesantire le altre sessioni."
+        },
+        {
+          "start": 708.0,
+          "end": 712.0,
+          "text": "Come avete visto noi dentro Cloud ce ne possiamo aprire pure n in contemporanea."
+        },
+        {
+          "start": 712.0,
+          "end": 720.0,
+          "text": "Cioè immaginate che voi avete, che ne so, bam, bam, bam, bam, 5 sessioni di Cloud Code in parallelo sulle quali state lavorando."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 12,
+        "time": 720.0,
+        "timestamp": "00:12:00",
+        "image": "frame_0012.jpg",
+        "reason": "periodic",
+        "ocr_text": "x 63,0, 00,3, Masa CLAUDE.m /context ( chi-sono.md ) ( clienti.imd",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 720.0,
+          "end": 731.0,
+          "text": "Io non voglio che si carica 19 file diversi di contesto perché magari in una sessione sto lavorando su verdi, in una sessione sto lavorando su rossi, in una sessione sto lavorando su bianchi."
+        },
+        {
+          "start": 731.0,
+          "end": 739.0,
+          "text": "Ma voglio che si carichi sempre il tono di voce perché il mio tono di voce è sempre lo stesso indipendentemente dal cliente con il quale sto lavorando."
+        },
+        {
+          "start": 739.0,
+          "end": 742.0,
+          "text": "Questo concettualmente è importante come cosa?"
+        },
+        {
+          "start": 742.0,
+          "end": 747.0,
+          "text": "Non vi preoccupate se vi sembrano concetti astratti perché adesso li vediamo subito concretamente in pratica."
+        }
+      ]
+    }
+  ]
+}

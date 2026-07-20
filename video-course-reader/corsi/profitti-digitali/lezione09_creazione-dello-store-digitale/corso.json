@@ -1,0 +1,1561 @@
+{
+  "title": "Creazione dello store digitale",
+  "sections": [
+    {
+      "keyframe": {
+        "index": 0,
+        "time": 0.0,
+        "timestamp": "00:00:00",
+        "image": "frame_0000.jpg",
+        "reason": "start",
+        "ocr_text": "vesez oss sELL2 Lanome. SAI vesetLI PAGE ae cROSSSELLA C) o T E) A n ® ® C)",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1.0,
+          "end": 4.920000076293945,
+          "text": "Quando abbiamo parlato di vendere prodotti digitali abbiamo mostrato un"
+        },
+        {
+          "start": 4.920000076293945,
+          "end": 8.640000343322754,
+          "text": "grafico di questo tipo e abbiamo detto che la strategia migliore che almeno io"
+        },
+        {
+          "start": 8.640000343322754,
+          "end": 12.720000267028809,
+          "text": "suggerisco quando dobbiamo vendere prodotti di natura digitale è appunto"
+        },
+        {
+          "start": 12.720000267028809,
+          "end": 17.479999542236328,
+          "text": "questa, quindi la strategia basata sulla vendita a funnel. Abbiamo visto anche in"
+        },
+        {
+          "start": 17.479999542236328,
+          "end": 22.200000762939453,
+          "text": "cosa consiste, quindi consiste nel creare una pagina di vendita che si può"
+        },
+        {
+          "start": 22.200000762939453,
+          "end": 25.479999542236328,
+          "text": "tranquillamente anche creare con l'intelligenza artificiale, nel creare un"
+        },
+        {
+          "start": 25.479999542236328,
+          "end": 30.600000381469727,
+          "text": "checkout e nell'inserire un prodotto a checkout per aumentare lo scontrino per"
+        },
+        {
+          "start": 30.600000381469727,
+          "end": 34.68000030517578,
+          "text": "singola transazione che abbiamo all'interno del nostro funnel, così"
+        },
+        {
+          "start": 34.68000030517578,
+          "end": 37.52000045776367,
+          "text": "nell'istante in cui l'utente acquista avrà la possibilità di acquistare un"
+        },
+        {
+          "start": 37.52000045776367,
+          "end": 41.720001220703125,
+          "text": "ulteriore prodotto digitale e di conseguenza ovviamente noi avremo un"
+        },
+        {
+          "start": 41.720001220703125,
+          "end": 46.84000015258789,
+          "text": "maggiore incasso. Avremo poi degli upsell, quindi dei prodotti aggiuntivi con un"
+        },
+        {
+          "start": 46.84000015258789,
+          "end": 50.720001220703125,
+          "text": "prezzo maggiore che andiamo ad inserire all'interno della nostra strategia di"
+        },
+        {
+          "start": 50.720001220703125,
+          "end": 54.79999923706055,
+          "text": "funnel. Abbiamo ulteriori upsell, abbiamo dei downsell, cioè dei prodotti che"
+        },
+        {
+          "start": 54.79999923706055,
+          "end": 58.2400016784668,
+          "text": "l'utente può acquistare nell'istante in cui non acquista il prodotto"
+        },
+        {
+          "start": 58.2400016784668,
+          "end": 62.36000061035156,
+          "text": "principale per tutta una serie di motivi, perché magari per lui il prodotto di"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 1,
+        "time": 60.0,
+        "timestamp": "00:01:00",
+        "image": "frame_0001.jpg",
+        "reason": "periodic",
+        "ocr_text": "UPSELL 2 CROSS SELL 2 CHECKOUT UPSELL1 CROSS SELL 1 ORDER BUMP DOWN SELL1",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 62.36000061035156,
+          "end": 65.55999755859375,
+          "text": "upsell costa troppo o perché magari non matcha con quelli che sono i suoi"
+        },
+        {
+          "start": 65.55999755859375,
+          "end": 69.83999633789062,
+          "text": "interessi e successivamente abbiamo la pagina di vendita. Ma fino ad ora abbiamo"
+        },
+        {
+          "start": 69.83999633789062,
+          "end": 74.83999633789062,
+          "text": "parlato della teoria, cioè come si vende un prodotto digitale attraverso una"
+        },
+        {
+          "start": 74.83999633789062,
+          "end": 79.0,
+          "text": "struttura funnel, ma addentriamoci adesso all'interno della pratica, quindi"
+        },
+        {
+          "start": 79.0,
+          "end": 83.36000061035156,
+          "text": "vediamo qual è il metodo che io utilizzo per creare funnel di questo"
+        },
+        {
+          "start": 83.36000061035156,
+          "end": 87.68000030517578,
+          "text": "tipo dal punto di vista pratico. Dal punto di vista pratico io utilizzo uno"
+        },
+        {
+          "start": 87.68000030517578,
+          "end": 91.87999725341797,
+          "text": "strumento che è uno strumento che ci permette di iniziare con la vendita di"
+        },
+        {
+          "start": 91.87999725341797,
+          "end": 96.19999694824219,
+          "text": "prodotti digitali a costo zero. Vi ripeto ragazzi, questo è il grandissimo"
+        },
+        {
+          "start": 96.19999694824219,
+          "end": 99.87999725341797,
+          "text": "vantaggio del fare business di prodotti digitali. Possiamo creare il prodotto"
+        },
+        {
+          "start": 99.87999725341797,
+          "end": 103.72000122070312,
+          "text": "digitale a costo zero con l'intelligenza artificiale. Abbiamo visto in questo"
+        },
+        {
+          "start": 103.72000122070312,
+          "end": 109.19999694824219,
+          "text": "corso come fare, almeno le basi su come fare, e poi abbiamo visto, o perlomeno"
+        },
+        {
+          "start": 109.23999786376953,
+          "end": 114.87999725341797,
+          "text": "vedremo a breve, come si può creare un sistema di funnel totalmente a costo zero."
+        },
+        {
+          "start": 114.87999725341797,
+          "end": 119.23999786376953,
+          "text": "La soluzione che vi consiglio la possiamo ritrovare andando su questo"
+        },
+        {
+          "start": 119.23999786376953,
+          "end": 125.63999938964844,
+          "text": "link che è tindaro-battaglia.Com go-system.Io. Vi lascerò sempre il link qua in"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 2,
+        "time": 120.0,
+        "timestamp": "00:02:00",
+        "image": "frame_0002.jpg",
+        "reason": "periodic",
+        "ocr_text": "| miro e vue 5/2 0 LANDING Fi uPseLLI PAGE ARIA CROSSSELLI C) o T E) A n ® ® n DOWN SELL 1",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 125.63999938964844,
+          "end": 128.83999633789062,
+          "text": "basso in descrizione, quindi non vi preoccupate, avrete tutti i link che vi"
+        },
+        {
+          "start": 128.83999633789062,
+          "end": 134.32000732421875,
+          "text": "servono, ma comunque potrete vederlo fin da subito, potrete digitare questa url"
+        },
+        {
+          "start": 134.32000732421875,
+          "end": 137.44000244140625,
+          "text": "nella barra degli indirizzi e arriverete al sistema di funnel gratuito"
+        },
+        {
+          "start": 137.44000244140625,
+          "end": 143.0800018310547,
+          "text": "tindaro-battaglia.Com go-system.Io. Ora ci clicchiamo e arriviamo"
+        },
+        {
+          "start": 143.0800018310547,
+          "end": 147.39999389648438,
+          "text": "all'interno dello strumento che io utilizzo quando di solito vendo prodotti"
+        },
+        {
+          "start": 147.39999389648438,
+          "end": 151.83999633789062,
+          "text": "digitali. Sistema.Io è un sistema che ci permette di creare siti web, ci permette"
+        },
+        {
+          "start": 151.83999633789062,
+          "end": 156.67999267578125,
+          "text": "di fare email marketing, ci permette di acquisire clienti, quindi un sistema crm."
+        },
+        {
+          "start": 156.67999267578125,
+          "end": 161.27999877929688,
+          "text": "È un sistema totalmente completo ed è un sistema che ci permette, come vi"
+        },
+        {
+          "start": 161.27999877929688,
+          "end": 165.1999969482422,
+          "text": "dicevo, di iniziare praticamente a costo zero, quindi possiamo creare funnel di"
+        },
+        {
+          "start": 165.1999969482422,
+          "end": 169.75999450683594,
+          "text": "vendita, possiamo inviare email marketing, possiamo costruire siti web,"
+        },
+        {
+          "start": 169.75999450683594,
+          "end": 174.1999969482422,
+          "text": "possiamo anche creare un sistema di affiliazione interno, possiamo creare"
+        },
+        {
+          "start": 174.1999969482422,
+          "end": 178.8000030517578,
+          "text": "corsi online, quindi ulteriori prodotti digitali che possiamo affiancare al"
+        },
+        {
+          "start": 178.8000030517578,
+          "end": 181.47999572753906,
+          "text": "prodotto digitale di front-end, quindi il prodotto digitale che vendiamo"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 3,
+        "time": 180.0,
+        "timestamp": "00:03:00",
+        "image": "frame_0003.jpg",
+        "reason": "periodic",
+        "ocr_text": "Crea corsi online Automatizza il tuo marketing",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 181.47999572753906,
+          "end": 186.60000610351562,
+          "text": "inizialmente, e poi abbiamo delle automazioni di marketing. Perché dicevo"
+        },
+        {
+          "start": 186.60000610351562,
+          "end": 189.44000244140625,
+          "text": "che possiamo iniziare a costo zero? Perché se andiamo a guardare qui nella"
+        },
+        {
+          "start": 189.44000244140625,
+          "end": 195.72000122070312,
+          "text": "sezione prezzi vedremo che il piano iniziale prevede a 0 euro al mese ben"
+        },
+        {
+          "start": 195.72000122070312,
+          "end": 203.36000061035156,
+          "text": "2000 contatti, invio di mail illimitate, funnel di vendita 3, 15 step del funnel di"
+        },
+        {
+          "start": 203.36000061035156,
+          "end": 207.24000549316406,
+          "text": "vendita, possiamo creare anche un blog, abbiamo possibilità di creare infiniti"
+        },
+        {
+          "start": 207.24000549316406,
+          "end": 210.8800048828125,
+          "text": "post all'interno del blog, un corso, possiamo avere studenti illimitati,"
+        },
+        {
+          "start": 210.8800048828125,
+          "end": 214.8000030517578,
+          "text": "possiamo anche creare una community, quindi possiamo ad esempio vendere"
+        },
+        {
+          "start": 214.8000030517578,
+          "end": 218.60000610351562,
+          "text": "all'interno del nostro funnel l'accesso mensile alla nostra community, che"
+        },
+        {
+          "start": 218.60000610351562,
+          "end": 223.8800048828125,
+          "text": "possiamo creare in modo totalmente semplice e veloce attraverso il sistema io,"
+        },
+        {
+          "start": 223.8800048828125,
+          "end": 228.0800018310547,
+          "text": "possiamo avere infiniti membri della community, spazio di archiviazione dei"
+        },
+        {
+          "start": 228.0800018310547,
+          "end": 232.36000061035156,
+          "text": "file illimitato, abbiamo una regola di automazione e poi l'integrazione se"
+        },
+        {
+          "start": 232.36000061035156,
+          "end": 237.75999450683594,
+          "text": "vogliamo con google sheet, quindi google fogli di lavoro, fogli di lavoro google, tag"
+        },
+        {
+          "start": 237.75999450683594,
+          "end": 243.0,
+          "text": "1, campagna mail 1, insomma possiamo praticamente iniziare a costo zero. Tra"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 4,
+        "time": 240.0,
+        "timestamp": "00:04:00",
+        "image": "frame_0004.jpg",
+        "reason": "periodic",
+        "ocr_text": "Integrazione Apple Poy Integrzine Pep",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 243.0,
+          "end": 246.52000427246094,
+          "text": "l'altro nell'istante in cui iniziamo a fare flusso di cassa possiamo scegliere"
+        },
+        {
+          "start": 246.52000427246094,
+          "end": 249.8800048828125,
+          "text": "la soluzione startup a 27 euro al mese, che è quella che maggiormente si utilizza,"
+        },
+        {
+          "start": 249.8800048828125,
+          "end": 254.67999267578125,
+          "text": "che prevede 5.000 Contatti, email ovviamente sempre limitate, 10 funnel di"
+        },
+        {
+          "start": 254.67999267578125,
+          "end": 259.3599853515625,
+          "text": "vendita, ma la cosa che più ci interessa è il numero di tag, numero di tag perché"
+        },
+        {
+          "start": 259.3599853515625,
+          "end": 263.55999755859375,
+          "text": "con ogni tag noi andiamo a vendere un prodotto digitale a parte diciamo"
+        },
+        {
+          "start": 263.55999755859375,
+          "end": 266.9200134277344,
+          "text": "l'order bump che ora vi spiegherò all'interno di questa lezione."
+        },
+        {
+          "start": 266.9200134277344,
+          "end": 273.0799865722656,
+          "text": "Quindi così possiamo praticamente iniziare a costo zero, quindi ci"
+        },
+        {
+          "start": 273.0799865722656,
+          "end": 278.0,
+          "text": "creiamo un account, io l'ho già creato, siamo all'interno della dashboard"
+        },
+        {
+          "start": 278.0,
+          "end": 281.1199951171875,
+          "text": "principale di sistema Yoki, come vedete è un dashboard molto semplice, qui sulla"
+        },
+        {
+          "start": 281.1199951171875,
+          "end": 284.44000244140625,
+          "text": "sinistra abbiamo i nuovi contatti, qui sulla destra abbiamo gli aggiornamenti"
+        },
+        {
+          "start": 284.44000244140625,
+          "end": 287.67999267578125,
+          "text": "live, quindi le vendite, persone che si iscrivono a checkout e quant'altro,"
+        },
+        {
+          "start": 287.67999267578125,
+          "end": 292.20001220703125,
+          "text": "mentre da questa parte, quindi andando sul sito web e cliccando su funnel di"
+        },
+        {
+          "start": 292.20001220703125,
+          "end": 294.67999267578125,
+          "text": "vendita, abbiamo la possibilità di crearci un"
+        },
+        {
+          "start": 294.67999267578125,
+          "end": 299.9599914550781,
+          "text": "nostro funnel di vendita vero e proprio. Ora io ne ho creato uno molto molto"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 5,
+        "time": 300.0,
+        "timestamp": "00:05:00",
+        "image": "frame_0005.jpg",
+        "reason": "periodic",
+        "ocr_text": "aFunnele",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 300.0799865722656,
+          "end": 304.0799865722656,
+          "text": "semplice che tra l'altro è quello che ho utilizzato, un ebook funnel, come vedete"
+        },
+        {
+          "start": 304.0799865722656,
+          "end": 308.5199890136719,
+          "text": "se io clicco qua su ebook funnel mi si apre appunto tutto l'insieme di"
+        },
+        {
+          "start": 308.5199890136719,
+          "end": 313.3999938964844,
+          "text": "pagine, ricordate andiamo a vedere, qui ovviamente lo avevamo in orizzontale, qui"
+        },
+        {
+          "start": 313.3999938964844,
+          "end": 317.7200012207031,
+          "text": "lo abbiamo in verticale, ma poco cambia ragazzi, qui abbiamo una landing page che"
+        },
+        {
+          "start": 317.7200012207031,
+          "end": 323.0400085449219,
+          "text": "è questa pagina, pagina di vendita, poi abbiamo un modulo checkout che è questo"
+        },
+        {
+          "start": 323.0400085449219,
+          "end": 328.3999938964844,
+          "text": "modulo checkout, abbiamo un upsell e basta. Ok quindi mi sono fermato in questa"
+        },
+        {
+          "start": 328.3999938964844,
+          "end": 331.8800048828125,
+          "text": "sezione solamente a questa parte del funnel e poi abbiamo la pagina di"
+        },
+        {
+          "start": 331.8800048828125,
+          "end": 336.760009765625,
+          "text": "ringraziamento che in questo caso non ho creato ma che possiamo creare"
+        },
+        {
+          "start": 336.760009765625,
+          "end": 339.55999755859375,
+          "text": "praticamente in pochi secondi, poi abbiamo una privacy policy, una cookie policy e"
+        },
+        {
+          "start": 339.55999755859375,
+          "end": 343.7200012207031,
+          "text": "poi i termini e condizioni. Se andiamo all'interno della pagina di vendita e"
+        },
+        {
+          "start": 343.7200012207031,
+          "end": 348.44000244140625,
+          "text": "clicchiamo su modifica pagina, questo ovviamente è il link della mia pagina"
+        },
+        {
+          "start": 348.44000244140625,
+          "end": 352.44000244140625,
+          "text": "di vendita che posso utilizzare per ad esempio creare delle campagne su"
+        },
+        {
+          "start": 352.44000244140625,
+          "end": 355.8800048828125,
+          "text": "facebook e andare a pubblicizzare il mio prodotto, generare traffico sul mio"
+        },
+        {
+          "start": 355.8800048828125,
+          "end": 361.7200012207031,
+          "text": "funnel e se clicco su modifica pagina ci apre un editor, vedete che l'apertura, la"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 6,
+        "time": 360.0,
+        "timestamp": "00:06:00",
+        "image": "frame_0006.jpg",
+        "reason": "periodic",
+        "ocr_text": "‘un mindset di successo sul bi ss in modo semplice e veloce ;7 FSE IMINDSET ESSENZIALE MiNDg; sa ESSENZE 02997 < Pogamento unico Downicodistantoneo sii Cambia tuo mindeatin modo semplice sori pera programmazione mental sempe veloci adito per uomini otti",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 361.7200012207031,
+          "end": 365.3999938964844,
+          "text": "chiusura, tutti i passaggi sono praticamente istantanei perché ovviamente"
+        },
+        {
+          "start": 365.3999938964844,
+          "end": 369.44000244140625,
+          "text": "sistema.Io non è una piattaforma al pari ad esempio di altre piattaforme come"
+        },
+        {
+          "start": 369.44000244140625,
+          "end": 373.79998779296875,
+          "text": "wordpress che richiedono che voi abbiate un server, che voi abbiate un sistema di"
+        },
+        {
+          "start": 373.79998779296875,
+          "end": 378.3599853515625,
+          "text": "hosting, che dobbiate mantenere il codice, le performance, no ovviamente"
+        },
+        {
+          "start": 378.3599853515625,
+          "end": 382.2799987792969,
+          "text": "sistema.Io è anch'esso un prodotto digitale ed è un prodotto digitale tipo"
+        },
+        {
+          "start": 382.2799987792969,
+          "end": 387.0400085449219,
+          "text": "sas, quindi un prodotto digitale tipo software as a service praticamente nel"
+        },
+        {
+          "start": 387.0400085449219,
+          "end": 390.79998779296875,
+          "text": "istante in cui ci creiamo un account lui va a clonare un'installazione di sistema.Io"
+        },
+        {
+          "start": 390.79998779296875,
+          "end": 396.3599853515625,
+          "text": "per il nostro, per la nostra azienda, per quelle che sono ovviamente le nostre"
+        },
+        {
+          "start": 396.3599853515625,
+          "end": 400.1199951171875,
+          "text": "necessità e come vedete l'apertura, la chiusura sono praticamente istantanei e"
+        },
+        {
+          "start": 400.1199951171875,
+          "end": 403.8399963378906,
+          "text": "un altro dei vantaggi di utilizzare sistema.Io è che non dobbiamo occuparci di"
+        },
+        {
+          "start": 403.8399963378906,
+          "end": 407.4800109863281,
+          "text": "tutti i tecnicismi di cui dovremmo occuparci se avessimo un sito web che ad"
+        },
+        {
+          "start": 407.4800109863281,
+          "end": 411.0,
+          "text": "esempio è stato creato in wordpress quindi a mio giudizio sistema.Io"
+        },
+        {
+          "start": 411.0,
+          "end": 414.44000244140625,
+          "text": "proprio per il fatto che è un sistema molto economico possiamo partire a costo"
+        },
+        {
+          "start": 414.44000244140625,
+          "end": 418.5199890136719,
+          "text": "zero e per il fatto che è un sistema che non prevede manutenzione, un sistema molto"
+        },
+        {
+          "start": 418.5199890136719,
+          "end": 422.1199951171875,
+          "text": "semplice nelle sue dinamiche è il sistema che io consiglio sempre di"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 7,
+        "time": 420.0,
+        "timestamp": "00:07:00",
+        "image": "frame_0007.jpg",
+        "reason": "periodic",
+        "ocr_text": "mes ‘ MINDSET ESSENZIALE Minpser PITTTI €29,97 < Pogomento unico Di Cambia tuo mindeatin modo semplice sori pera riprogrammazione manto sempii e veloci adito per vomini otti",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 422.1199951171875,
+          "end": 425.6000061035156,
+          "text": "utilizzare nell'istante in cui ci approcciamo in realtà non tanto a un"
+        },
+        {
+          "start": 425.6000061035156,
+          "end": 428.67999267578125,
+          "text": "business di prodotti digitali, si possiamo utilizzarlo ovviamente per"
+        },
+        {
+          "start": 428.67999267578125,
+          "end": 432.7200012207031,
+          "text": "crearci appunto il nostro fan di prodotti digitali ma se andiamo qui"
+        },
+        {
+          "start": 432.7200012207031,
+          "end": 437.0400085449219,
+          "text": "potete vedere che sul sistema.Io possiamo vendere in realtà anche"
+        },
+        {
+          "start": 437.0400085449219,
+          "end": 439.9599914550781,
+          "text": "prodotti fisici, possiamo vendere corsi, community,"
+        },
+        {
+          "start": 439.9599914550781,
+          "end": 442.9599914550781,
+          "text": "possiamo inserire file, possiamo praticamente fare qualsiasi cosa quindi"
+        },
+        {
+          "start": 442.9599914550781,
+          "end": 446.9200134277344,
+          "text": "non solo per vendere prodotti digitali ma anche per vendere qualsiasi tipologia"
+        },
+        {
+          "start": 446.9200134277344,
+          "end": 452.5199890136719,
+          "text": "di prodotto. Detto questo clicchiamo su modifica pagina e come vedete accediamo"
+        },
+        {
+          "start": 452.5199890136719,
+          "end": 458.67999267578125,
+          "text": "all'editor di sistema.Io che ci permette di andare a creare materialmente senza"
+        },
+        {
+          "start": 458.67999267578125,
+          "end": 462.20001220703125,
+          "text": "conoscere una sola riga di codice quella che è la nostra pagina di vendita."
+        },
+        {
+          "start": 462.20001220703125,
+          "end": 465.760009765625,
+          "text": "Come vedete qui sulla sinistra abbiamo dei blocchi che ricordano soluzioni"
+        },
+        {
+          "start": 465.760009765625,
+          "end": 470.1600036621094,
+          "text": "molto più blasonate diciamo così come ad esempio Elementor se bazicate con"
+        },
+        {
+          "start": 470.1600036621094,
+          "end": 475.1600036621094,
+          "text": "Wordpress sicuramente conoscerete questo famosissimo builder di appunto"
+        },
+        {
+          "start": 475.1600036621094,
+          "end": 479.7200012207031,
+          "text": "Wordpress che ci permette di costruire pagine di vendita in pochi clic e qui"
+        },
+        {
+          "start": 479.7200012207031,
+          "end": 483.760009765625,
+          "text": "abbiamo la stessa cosa ma abbiamo la stessa cosa molto più semplificata."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 8,
+        "time": 480.0,
+        "timestamp": "00:08:00",
+        "image": "frame_0008.jpg",
+        "reason": "periodic",
+        "ocr_text": "successo sul business inmodo semplice e veloce MINDSET ESSENZIALE VITTI < Pogomento unico Cambia i tuo mindsetin modo sé Esercizi perla programmazione | Aditto per vomini otti",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 483.760009765625,
+          "end": 487.3599853515625,
+          "text": "Sulla sinistra abbiamo un insieme di blocchi che possiamo praticamente"
+        },
+        {
+          "start": 487.3599853515625,
+          "end": 491.8800048828125,
+          "text": "inserire all'interno della nostra pagina semplicemente andando a trascinare ora io"
+        },
+        {
+          "start": 491.8800048828125,
+          "end": 495.79998779296875,
+          "text": "ne trascino uno giusto per farvi vedere come funziona e vedrete che non appena io"
+        },
+        {
+          "start": 495.79998779296875,
+          "end": 500.1199951171875,
+          "text": "lo trascino qui ho il mio blocco pronto e facendo doppio clic posso ovviamente"
+        },
+        {
+          "start": 500.1199951171875,
+          "end": 505.8399963378906,
+          "text": "inserire un testo esempio posso ovviamente agire all'interno del mio"
+        },
+        {
+          "start": 505.8399963378906,
+          "end": 513.1199951171875,
+          "text": "testo posso inserirlo come un testo selezionandolo di tipo h2 h3 h1 posso"
+        },
+        {
+          "start": 513.1199951171875,
+          "end": 518.8400268554688,
+          "text": "anche variare il colore del mio testo ovviamente devo prima selezionarlo come"
+        },
+        {
+          "start": 518.8400268554688,
+          "end": 522.7999877929688,
+          "text": "vedete posso fare praticamente qualsiasi cosa la posso fare in modo molto semplice"
+        },
+        {
+          "start": 522.7999877929688,
+          "end": 527.6400146484375,
+          "text": "e veloce qui lo rendo ineretto lo rendo incorsivo da qui possiamo agire sulla"
+        },
+        {
+          "start": 527.6400146484375,
+          "end": 534.4400024414062,
+          "text": "dimensione del font del testo possiamo cambiare il tipo di font per adattarlo"
+        },
+        {
+          "start": 534.4400024414062,
+          "end": 536.5599975585938,
+          "text": "meglio a quello che può essere la grafica della nostra pagina possiamo"
+        },
+        {
+          "start": 536.5599975585938,
+          "end": 542.47998046875,
+          "text": "cambiare esempio anche lo sfondo se lo desideriamo del nostro testo e abbiamo"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 9,
+        "time": 540.0,
+        "timestamp": "00:09:00",
+        "image": "frame_0009.jpg",
+        "reason": "periodic",
+        "ocr_text": "Minpser NZIALE semplice e veloce MINDSET ESSENZIALE | \\-\\ Testodiesempio ||/{/{ ___ ria 29,97 Rogomento unico Cambia tuo minds in modo semplice V Eserii per la riprogrammaziono mantalo sempii e volo Aditt per uomini tti",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 542.47998046875,
+          "end": 547.52001953125,
+          "text": "tutta una serie di personalizzazioni che possiamo tranquillamente modificare"
+        },
+        {
+          "start": 547.52001953125,
+          "end": 551.0800170898438,
+          "text": "nella porzione a sinistra del nostro schermo quindi all'istante in cui noi"
+        },
+        {
+          "start": 551.0800170898438,
+          "end": 555.0399780273438,
+          "text": "andiamo a selezionare come vedete uno dei blocchi questo ad esempio un blocco di"
+        },
+        {
+          "start": 555.0399780273438,
+          "end": 558.9199829101562,
+          "text": "tipo immagine ci siamo tutta una serie di proprietà sulla sinistra che possiamo"
+        },
+        {
+          "start": 558.9199829101562,
+          "end": 562.47998046875,
+          "text": "modificare agevolmente possiamo cambiare allineamento possiamo cambiare dimensione"
+        },
+        {
+          "start": 562.47998046875,
+          "end": 566.0800170898438,
+          "text": "dell'immagine e ovviamente questi blocchi queste proprietà scusate variano in"
+        },
+        {
+          "start": 566.0800170898438,
+          "end": 570.1199951171875,
+          "text": "funzione della tipologia di blocco che noi andiamo a selezionare possiamo anche"
+        },
+        {
+          "start": 570.1199951171875,
+          "end": 574.4000244140625,
+          "text": "eliminare un blocco o copiarlo salvarlo come template in questo caso a me non"
+        },
+        {
+          "start": 574.4000244140625,
+          "end": 579.1199951171875,
+          "text": "interessa quindi clicco qua e lo elimino è un editor molto molto semplice nel"
+        },
+        {
+          "start": 579.1199951171875,
+          "end": 583.760009765625,
+          "text": "senso che noi possiamo tranquillamente spostare come vedete i nostri blocchi"
+        },
+        {
+          "start": 583.760009765625,
+          "end": 587.3599853515625,
+          "text": "lungo la nostra pagina di vendita in qualsiasi momento andare a modificare la"
+        },
+        {
+          "start": 587.3599853515625,
+          "end": 592.760009765625,
+          "text": "pagina di vendita così come desideriamo vi faccio notare che tutta questa parte"
+        },
+        {
+          "start": 592.760009765625,
+          "end": 596.52001953125,
+          "text": "di scrittura è stata realizzata attraverso l'utilizzo dell'intelligenza"
+        },
+        {
+          "start": 596.52001953125,
+          "end": 599.6799926757812,
+          "text": "artificiale quindi anche in questo caso l'intelligenza artificiale c'è venuta in"
+        },
+        {
+          "start": 599.6799926757812,
+          "end": 604.239990234375,
+          "text": "soccorso e ci ha permesso di realizzare una pagina di vendita in pochi semplici"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 10,
+        "time": 600.0,
+        "timestamp": "00:10:00",
+        "image": "frame_0010.jpg",
+        "reason": "periodic",
+        "ocr_text": "MINDSET ESSENZIALE Riprogramma la tua mente e godi Affrontore lo stress e conquistare successo dovrebbe esser un processo semplice porch abbiamo creato Minsat senzile È una quia pratica che tlinsogner iu mente dillo catene dello stress e dell'ansia, prendete porto 0 un futuro lumi opportunità Immagina di poor afrontre i tie quotidiano con alma e sicurezza enza più so col poso cell aspettative e del responssbità. Con Mindsot Essanzicle, non so gestio o stress n modo efficace, ma vluppera! anche una mentoltà vincente che] Enonè tuto Grazie all strtegio pratico agli esercizi mirati contenuti in quest ‘Superor e barioro mentali che renano uo progresso, defini etaramento i perseguiri con detorminazione, migliorare le te relazioni parsonali e proession Foquiibrio tr lavoro e vita privota per una ita più felice e appogante Non perdere tro tempo a lotto contro le tu sido menti Acquista oggi Mind Ina li tuo viaggio verso una via più equlrata sodcistocanta e piena di su",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 604.239990234375,
+          "end": 608.52001953125,
+          "text": "istanti e soprattutto ci ha permesso di farlo a costo zero quando vi dicevo che"
+        },
+        {
+          "start": 608.52001953125,
+          "end": 611.6400146484375,
+          "text": "il business di prodotti digitali il business più conveniente più snello"
+        },
+        {
+          "start": 611.6400146484375,
+          "end": 614.1599731445312,
+          "text": "delle sue dinamiche vi permette di partire con meno budget possibile"
+        },
+        {
+          "start": 614.1599731445312,
+          "end": 619.239990234375,
+          "text": "intendevo proprio questo come vedete stiamo creando un sistema di vendita"
+        },
+        {
+          "start": 619.239990234375,
+          "end": 624.1199951171875,
+          "text": "totalmente a costo zero una volta creata la nostra pagina qui abbiamo dei"
+        },
+        {
+          "start": 624.1199951171875,
+          "end": 627.5599975585938,
+          "text": "pulsanti che ci rimandano al checkout quindi andiamo a vedere il nostro"
+        },
+        {
+          "start": 627.5599975585938,
+          "end": 633.280029296875,
+          "text": "checkout il checkout in questo caso è questo ma possiamo ragazzi andare a"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 11,
+        "time": 627.79,
+        "timestamp": "00:10:28",
+        "image": "frame_0011.jpg",
+        "reason": "scene",
+        "ocr_text": "Funnels ist > © ssrortoni",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 633.280029296875,
+          "end": 638.6799926757812,
+          "text": "creare anche template possiamo sfruttare dei template per qualsiasi"
+        },
+        {
+          "start": 638.6799926757812,
+          "end": 642.3599853515625,
+          "text": "step del nostro funnel quindi se io qui inserisco uno step e lo chiamo ad esempio"
+        },
+        {
+          "start": 642.3599853515625,
+          "end": 650.2000122070312,
+          "text": "checkout test ok e scelgo come tipo di checkout come tipo di pagina vedete qui"
+        },
+        {
+          "start": 650.2000122070312,
+          "end": 656.239990234375,
+          "text": "abbiamo un modulo d'ordine che è questo e clicco qui come vedete ci si apre"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 12,
+        "time": 653.49,
+        "timestamp": "00:10:53",
+        "image": "frame_0012.jpg",
+        "reason": "scene",
+        "ocr_text": "Elenco dei",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 656.239990234375,
+          "end": 662.280029296875,
+          "text": "tutta una serie di template che possiamo scegliere per andare a creare"
+        },
+        {
+          "start": 662.280029296875,
+          "end": 665.8800048828125,
+          "text": "un checkout così come una pagina di vendita così come una pagina di upsell"
+        },
+        {
+          "start": 665.8800048828125,
+          "end": 670.5599975585938,
+          "text": "o quant'altro in modo molto semplice e veloce quindi anche se non siamo dei"
+        },
+        {
+          "start": 670.5599975585938,
+          "end": 674.719970703125,
+          "text": "grafici esperti se non siamo bravissimi nella grafica se non abbiamo mai creato"
+        },
+        {
+          "start": 674.719970703125,
+          "end": 680.280029296875,
+          "text": "una pagina di vendita un checkout molto semplicemente creiamo la nostra pagina"
+        },
+        {
+          "start": 680.280029296875,
+          "end": 683.760009765625,
+          "text": "qui all'interno dello step del nostro funnel così come ho mostrato in questo"
+        },
+        {
+          "start": 683.760009765625,
+          "end": 690.0800170898438,
+          "text": "momento e poi ci si apre tutta una serie di template che possiamo selezionare con"
+        },
+        {
+          "start": 690.0800170898438,
+          "end": 694.0,
+          "text": "un semplice clic e importare all'interno la nostra pagina quindi se ad esempio io"
+        },
+        {
+          "start": 694.0,
+          "end": 697.760009765625,
+          "text": "vedo questo, clicchiamo su anteprima per vedere come si vede questo checkout"
+        },
+        {
+          "start": 697.760009765625,
+          "end": 702.280029296875,
+          "text": "questo non mi piace tantissimo, vediamo questo, se ad esempio mi piacesse questo"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 13,
+        "time": 700.19,
+        "timestamp": "00:11:40",
+        "image": "frame_0013.jpg",
+        "reason": "scene",
+        "ocr_text": "Completa il tuo acquisto",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 702.280029296875,
+          "end": 708.6799926757812,
+          "text": "modello non devo far altro che cliccare qui su seleziona e sistema.Io lo importa"
+        },
+        {
+          "start": 708.6799926757812,
+          "end": 712.47998046875,
+          "text": "in un istante quindi se io clicco su modifica pagina vedrete che qui ho il mio"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 14,
+        "time": 711.35,
+        "timestamp": "00:11:51",
+        "image": "frame_0014.jpg",
+        "reason": "scene",
+        "ocr_text": "i Completa iltuo acquisto =",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 712.47998046875,
+          "end": 717.0800170898438,
+          "text": "checkout pronto e ovviamente ho la possibilità di cambiare qualsiasi cosa"
+        },
+        {
+          "start": 717.0800170898438,
+          "end": 721.0800170898438,
+          "text": "del mio checkout quindi se ad esempio io non voglio questo camp azienda"
+        },
+        {
+          "start": 721.0800170898438,
+          "end": 726.7999877929688,
+          "text": "semplicemente lo cancello perché non mi interessa partita IVA stessa cosa cap non"
+        },
+        {
+          "start": 726.7999877929688,
+          "end": 731.52001953125,
+          "text": "mi interessa e in pochi semplici istanti ho creato praticamente un checkout a"
+        },
+        {
+          "start": 731.52001953125,
+          "end": 736.8400268554688,
+          "text": "costo zero qui posso inserire anche del copy posso inserire delle testimonianze"
+        },
+        {
+          "start": 736.8400268554688,
+          "end": 741.7999877929688,
+          "text": "e posso inserire ovviamente un menù con tutti i vari link che mi ritroverò nella"
+        },
+        {
+          "start": 741.7999877929688,
+          "end": 746.0800170898438,
+          "text": "parte in basso del footer quindi del piedipagina del mio checkout quindi come"
+        },
+        {
+          "start": 746.0800170898438,
+          "end": 749.9199829101562,
+          "text": "vedete molto molto semplice salvo le modifiche esco e ho pronto il mio"
+        },
+        {
+          "start": 749.9199829101562,
+          "end": 753.3599853515625,
+          "text": "checkout come inseriamo il prodotto digitale"
+        },
+        {
+          "start": 753.3599853515625,
+          "end": 757.6400146484375,
+          "text": "all'interno del nostro checkout visto che non appena l'utente acquista ovviamente"
+        },
+        {
+          "start": 757.6400146484375,
+          "end": 762.6799926757812,
+          "text": "deve poter fruire del prodotto digitale intanto abbiamo la possibilità cliccando"
+        },
+        {
+          "start": 762.6799926757812,
+          "end": 770.3599853515625,
+          "text": "qui su impostazioni e recandoci qui su sezione sistemi di pagamento abbiamo la"
+        },
+        {
+          "start": 770.3599853515625,
+          "end": 775.4000244140625,
+          "text": "possibilità di collegare tantissimi metodi di pagamento ora nel mercato"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 15,
+        "time": 771.35,
+        "timestamp": "00:12:51",
+        "image": "frame_0015.jpg",
+        "reason": "periodic",
+        "ocr_text": "Impostazioni > Sistemi di pagamento",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 775.4000244140625,
+          "end": 778.8400268554688,
+          "text": "italiano in realtà nella maggior parte dei mercati noi andremo a utilizzare"
+        },
+        {
+          "start": 778.8400268554688,
+          "end": 783.760009765625,
+          "text": "stripe che ci permette di abbinare un sistema di pagamento con carte di"
+        },
+        {
+          "start": 783.760009765625,
+          "end": 788.3599853515625,
+          "text": "credito o carte di debito e utilizzeremo paypal che è il sistema più diffuso"
+        },
+        {
+          "start": 788.3599853515625,
+          "end": 796.3200073242188,
+          "text": "quando si tratta di pagare online ok 7 dei prodotti fisici potreste anche"
+        },
+        {
+          "start": 796.3200073242188,
+          "end": 801.5599975585938,
+          "text": "optare per il sistema di contanti alla consegna quindi tenenzialmente inserite"
+        },
+        {
+          "start": 801.5599975585938,
+          "end": 805.3599853515625,
+          "text": "questo meno di pagamento l'utente acquista il prodotto fisico poi c'è"
+        },
+        {
+          "start": 805.3599853515625,
+          "end": 810.760009765625,
+          "text": "ovviamente il sistema di spedizione il corriere in cassa e spedisce e consegna"
+        },
+        {
+          "start": 810.760009765625,
+          "end": 815.239990234375,
+          "text": "il prodotto al cliente finale non mi dilungo più di tanto sui su come"
+        },
+        {
+          "start": 815.239990234375,
+          "end": 817.5599975585938,
+          "text": "collegare questi meno di pagamento perché è davvero molto semplice"
+        },
+        {
+          "start": 817.5599975585938,
+          "end": 821.280029296875,
+          "text": "clicchiamo su collega seguiamo le istruzioni e arriviamo direttamente al"
+        },
+        {
+          "start": 821.280029296875,
+          "end": 827.280029296875,
+          "text": "collegamento del sistema di pagamento scelto con con ovviamente sistema io"
+        },
+        {
+          "start": 827.280029296875,
+          "end": 829.6400146484375,
+          "text": "ok torniamo all'interno nostro panel di vendita"
+        },
+        {
+          "start": 829.6400146484375,
+          "end": 832.6400146484375,
+          "text": "beh come si inserisce un prodotto digitale ragazzi è molto molto semplice"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 16,
+        "time": 831.35,
+        "timestamp": "00:13:51",
+        "image": "frame_0016.jpg",
+        "reason": "periodic",
+        "ocr_text": "Elenco dei funne! > eBook Funnel!",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 832.6400146484375,
+          "end": 835.719970703125,
+          "text": "quindi siamo qui all'interno del checkout qui possiamo dare delle"
+        },
+        {
+          "start": 835.719970703125,
+          "end": 838.7999877929688,
+          "text": "commissioni di affiliazione se lo desideriamo quindi come vi dicevo"
+        },
+        {
+          "start": 838.7999877929688,
+          "end": 843.8400268554688,
+          "text": "fornire un link affiliato a persone che venderanno i prodotti per noi e noi in"
+        },
+        {
+          "start": 843.8400268554688,
+          "end": 846.9199829101562,
+          "text": "cambio gli diamo delle commissioni sui pagamenti quindi ad esempio io voglio"
+        },
+        {
+          "start": 846.9199829101562,
+          "end": 851.47998046875,
+          "text": "dare il 20% di commissioni e voglio che queste commissioni siano inviate"
+        },
+        {
+          "start": 851.47998046875,
+          "end": 854.5999755859375,
+          "text": "automaticamente all'affiliato dopo 30 giorni tutto quello che devo fare è"
+        },
+        {
+          "start": 854.5999755859375,
+          "end": 859.280029296875,
+          "text": "inserire qui un 20% e qui 30 giorni possiamo inserire anche dei limiti di"
+        },
+        {
+          "start": 859.280029296875,
+          "end": 863.1599731445312,
+          "text": "vendita quindi per inserire un prodotto digitale qui selezioniamo prodotto"
+        },
+        {
+          "start": 863.1599731445312,
+          "end": 865.8800048828125,
+          "text": "digitale selezioniamo la tipologia di prodotto"
+        },
+        {
+          "start": 865.8800048828125,
+          "end": 869.280029296875,
+          "text": "digitale se non abbiamo ancora creato il nostro prodotto da qui possiamo anche"
+        },
+        {
+          "start": 869.280029296875,
+          "end": 874.0800170898438,
+          "text": "cancellare i nostri prodotti digitali ma se non ne abbiamo creato uno beh molto"
+        },
+        {
+          "start": 874.0800170898438,
+          "end": 879.52001953125,
+          "text": "semplicemente dobbiamo cliccare qua e diamo un nome al nostro prodotto digitale"
+        },
+        {
+          "start": 879.52001953125,
+          "end": 883.9600219726562,
+          "text": "ora io su google drive ne avevo creato uno che era litigare"
+        },
+        {
+          "start": 883.9600219726562,
+          "end": 890.760009765625,
+          "text": "vediamo un attimo si litigare senza parole corso per genitori quindi io ho"
+        },
+        {
+          "start": 890.760009765625,
+          "end": 895.9199829101562,
+          "text": "il mio bellissimo ebook lo chiamo appunto il nome del prodotto digitale"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 17,
+        "time": 891.35,
+        "timestamp": "00:14:51",
+        "image": "frame_0017.jpg",
+        "reason": "periodic",
+        "ocr_text": "teeeegsrr= Boe @ coon ® ttmio Drive » 3 Gemini did GET mn seni © sic asian © Curia (TA",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 895.9199829101562,
+          "end": 900.280029296875,
+          "text": "sarà litigare senza parole"
+        },
+        {
+          "start": 901.0,
+          "end": 908.6000003814697,
+          "text": "A questo punto vado in risorse, seleziono il tipo di risorsa per vendere un"
+        },
+        {
+          "start": 908.6000003814697,
+          "end": 911.7600002288818,
+          "text": "prodotto digitale tipo ebook che non sia un corso, un pacchetto di corso, una"
+        },
+        {
+          "start": 911.7600002288818,
+          "end": 917.4799995422363,
+          "text": "community, devo selezionare un tag, quindi devo creare un tag andando nella"
+        },
+        {
+          "start": 917.4799995422363,
+          "end": 922.6000003814697,
+          "text": "sezione crm tag, vi ricordate che il piano gratuito è limitato a un solo tag"
+        },
+        {
+          "start": 922.6000003814697,
+          "end": 929.079999923706,
+          "text": "quindi qui inserirò, vabbè qui avevo creato il tag per clienti mindset"
+        },
+        {
+          "start": 929.079999923706,
+          "end": 933.439998626709,
+          "text": "essenziale, utilizzerò questo ma è giusto per capirci ragazzi. Una volta"
+        },
+        {
+          "start": 933.439998626709,
+          "end": 937.0,
+          "text": "fatto questo seleziono piano tariffario, pagamento, possiamo scegliere il"
+        },
+        {
+          "start": 937.0,
+          "end": 940.6800003051758,
+          "text": "pagamento natantum, un pagamento in abbonamento o un piano di pagamento"
+        },
+        {
+          "start": 940.6800003051758,
+          "end": 944.9199981689453,
+          "text": "rateizzato, io qui seleziono il pagamento natantum e il piano di"
+        },
+        {
+          "start": 944.9199981689453,
+          "end": 949.2400016784668,
+          "text": "pagamento. Se non l'hai creato puoi crearlo direttamente da qua cliccando su"
+        },
+        {
+          "start": 949.2400016784668,
+          "end": 958.6399993896484,
+          "text": "creare uno nuovo e qui selezioniamo il nome, litigare senza parole, nome del"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 18,
+        "time": 951.35,
+        "timestamp": "00:15:51",
+        "image": "frame_0018.jpg",
+        "reason": "periodic",
+        "ocr_text": "Elenco dei funnel > eBook Funnel! © Pri cero",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 958.6399993896484,
+          "end": 962.1599998474121,
+          "text": "piano tariffario visualizzato sul lato dashboard, qui lo chiamo sempre litigare"
+        },
+        {
+          "start": 962.1599998474121,
+          "end": 967.0400009155273,
+          "text": "senza parole, descrittore di dichiarazione, quindi questa è una breve"
+        },
+        {
+          "start": 967.0400009155273,
+          "end": 970.8399963378906,
+          "text": "dichiarazione di quello che acquisterà l'utente, lo chiamiamo sempre litigare"
+        },
+        {
+          "start": 970.8399963378906,
+          "end": 975.120002746582,
+          "text": "senza parole, qui l'importo del pagamento che può essere ad esempio 49 euro, clicco"
+        },
+        {
+          "start": 975.120002746582,
+          "end": 979.8399963378906,
+          "text": "su salva, ho creato il mio checkout impostato col mio prodotto digitale, a questo"
+        },
+        {
+          "start": 979.8399963378906,
+          "end": 985.0800018310547,
+          "text": "punto clicco su salva, le modifiche sono state create e a questo punto il mio"
+        },
+        {
+          "start": 985.1600036621094,
+          "end": 990.7600021362305,
+          "text": "prodotto digitale è stato inserito al checkout e nell'istante in cui l'utente"
+        },
+        {
+          "start": 990.7600021362305,
+          "end": 994.1600036621094,
+          "text": "acquista, ovviamente andrò a sostituire questo checkout con questo checkout"
+        },
+        {
+          "start": 994.1600036621094,
+          "end": 999.1600036621094,
+          "text": "visto che in questo funnel ho inserito ovviamente il mio mindset essenziale"
+        },
+        {
+          "start": 999.1600036621094,
+          "end": 1002.2399978637695,
+          "text": "che era quell'ebook che stavo vendendo, nell'istante in cui l'utente acquista"
+        },
+        {
+          "start": 1002.2399978637695,
+          "end": 1008.1600036621094,
+          "text": "noi molto semplicemente andiamo nella sezione automazioni, diamo un po' flussi di"
+        },
+        {
+          "start": 1008.1600036621094,
+          "end": 1015.6800003051758,
+          "text": "lavoro e abbiamo un flusso post tag che ho creato e quando l'utente riceve il"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 19,
+        "time": 1011.35,
+        "timestamp": "00:16:51",
+        "image": "frame_0019.jpg",
+        "reason": "periodic",
+        "ocr_text": "",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1015.6800003051758,
+          "end": 1021.0,
+          "text": "tag clienti mindset essenziale, tendenzialmente possiamo inviare una"
+        },
+        {
+          "start": 1021.0,
+          "end": 1031.4400024414062,
+          "text": "mail, quindi azione, selezioniamo un'azione, inviamo una mail, seleziona"
+        },
+        {
+          "start": 1031.4400024414062,
+          "end": 1035.7200012207031,
+          "text": "complimenti per il tuo acquisto oppure possiamo crearne una nuova, chiamiamo"
+        },
+        {
+          "start": 1035.7200012207031,
+          "end": 1045.5599975585938,
+          "text": "complimenti per il tuo acquisto di litigare senza parole, ok, salviamo e"
+        },
+        {
+          "start": 1045.5599975585938,
+          "end": 1050.3200073242188,
+          "text": "modifichiamo le mail e qui molto semplicemente diciamo una cosa del tipo"
+        },
+        {
+          "start": 1050.3200073242188,
+          "end": 1060.1999969482422,
+          "text": "complimenti per il tuo acquisto, scarica il tuo ebook da qui, clicca e scarica"
+        },
+        {
+          "start": 1060.1999969482422,
+          "end": 1064.0399932861328,
+          "text": "ritorniamo sul nostro google drive dove abbiamo inserito il nostro ebook"
+        },
+        {
+          "start": 1064.0399932861328,
+          "end": 1074.3200073242188,
+          "text": "quindi clicchiamo su condividi, copia il tuo link, selezioniamo questa parte di"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 20,
+        "time": 1071.35,
+        "timestamp": "00:17:51",
+        "image": "frame_0020.jpg",
+        "reason": "periodic",
+        "ocr_text": "1: Oinmzenoh droni Briosco Bainionn te. Bien:cnn te Bitccnnte. Dinnnrne Flussi lavoro > flusso post tag > Complimenti perl tuo acquisto di Itigare senza parole a-Wr@iao-o Sti di prelazione dpi",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1074.3200073242188,
+          "end": 1080.9600067138672,
+          "text": "testo, clicchiamo qui su collegamento e inseriamo il link al download su google"
+        },
+        {
+          "start": 1080.9600067138672,
+          "end": 1084.3999938964844,
+          "text": "drive, come vedete è molto semplice, clicchiamo su salva, qui dobbiamo inviare"
+        },
+        {
+          "start": 1084.3999938964844,
+          "end": 1088.8399963378906,
+          "text": "ovviamente dobbiamo partire da un email mittente che qui non ho configurato"
+        },
+        {
+          "start": 1088.8399963378906,
+          "end": 1092.6399993896484,
+          "text": "perché ancora non ho creato un dominio visto che questo è un account di test ma"
+        },
+        {
+          "start": 1092.6399993896484,
+          "end": 1096.3600006103516,
+          "text": "come vedete è molto molto semplice, una volta fatto questo andiamo sempre nella"
+        },
+        {
+          "start": 1096.3600006103516,
+          "end": 1100.0800018310547,
+          "text": "sezione funnel di vendita e non appena l'utente, in questo caso in questo"
+        },
+        {
+          "start": 1100.0800018310547,
+          "end": 1105.4400024414062,
+          "text": "checkout, acquisterà il prodotto, beh in questo caso sarà taggato dal nostro"
+        },
+        {
+          "start": 1105.4400024414062,
+          "end": 1112.520004272461,
+          "text": "sistema di appunto crm interno a system.Io e partirà una sequenza con la"
+        },
+        {
+          "start": 1112.520004272461,
+          "end": 1116.6000061035156,
+          "text": "quale potremmo vendere, ovviamente daremo una mail con il link al nostro prodotto"
+        },
+        {
+          "start": 1116.6000061035156,
+          "end": 1120.3999938964844,
+          "text": "digitale ma potremmo vendere ulteriori prodotti digitali e quindi crearci"
+        },
+        {
+          "start": 1120.3999938964844,
+          "end": 1123.4400024414062,
+          "text": "delle sequenze di mail marketing che abbiano lo scopo di vendere ulteriori"
+        },
+        {
+          "start": 1123.4400024414062,
+          "end": 1127.6000061035156,
+          "text": "prodotti digitali che abbiamo creato appositamente per questa nicchia di"
+        },
+        {
+          "start": 1127.6000061035156,
+          "end": 1132.0399932861328,
+          "text": "mercato, quindi come vedete il sistema è molto semplice, vi permette di partire a"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 21,
+        "time": 1131.35,
+        "timestamp": "00:18:51",
+        "image": "frame_0021.jpg",
+        "reason": "periodic",
+        "ocr_text": "Elenco dei funne! > eBook Funnel! @reion moti ic CET:",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1132.0399932861328,
+          "end": 1136.6399993896484,
+          "text": "costo zero e vi permette di vendere prodotti digitali creandovi un"
+        },
+        {
+          "start": 1136.6399993896484,
+          "end": 1144.1999969482422,
+          "text": "semplicissimo funnel, ripeto a costo zero, che poi possiamo utilizzare attraverso"
+        },
+        {
+          "start": 1144.1999969482422,
+          "end": 1148.520004272461,
+          "text": "l'invio di traffico, quindi traffico che può essere attraverso campagne di"
+        },
+        {
+          "start": 1148.520004272461,
+          "end": 1152.3600006103516,
+          "text": "advertising o traffico organico per poter iniziare il nostro business di"
+        },
+        {
+          "start": 1152.3600006103516,
+          "end": 1154.8399963378906,
+          "text": "prodotti digitali."
+        }
+      ]
+    }
+  ]
+}

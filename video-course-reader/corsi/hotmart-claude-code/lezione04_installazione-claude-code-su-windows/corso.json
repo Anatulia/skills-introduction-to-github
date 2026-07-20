@@ -1,0 +1,1325 @@
+{
+  "title": "Installazione Claude Code [su Windows]",
+  "sections": [
+    {
+      "keyframe": {
+        "index": 0,
+        "time": 0.0,
+        "timestamp": "00:00:00",
+        "image": "frame_0000.jpg",
+        "reason": "start",
+        "ocr_text": "du» [E - 0 x Claude Code Docs Engish Q search. Cutk- % ASkAI | Claude Developer Platform Getting started | Bulli with Claude Code Administration Configuration | Reference | AgentSDK | What New. Resources Getting started Choose your environment to get started. Most surfaces require a Claude subscription or sa oa: Anthropie Console account. The Terminal CLI and VS Code also support third-party providers. ceva questa menti. GGCe0O | Dediispapp: VAb cosi What you can do er Use Cinude Code evesyubere The fullfeatured CLI for working with Claude Code directly in your terminal. Edit files, run Nextsteps Core concepts commands, and manage your entire project from the command line. How Claude Code works To install Claude Code, use one of the following methods: Extend Claude Code Nativo install Recommended) | Homebrew _ WinGet. Explore the claude dctory ner Eapiore the content window sa macOS, Linux, WSL: Use Claudo Code fssì https: //etavde.at/instatt.sn | bas Store Instructions and Windows PowerShell Permission modes Common workiiows 95://c laude. ai/instatt.psì | tex Best practices Windows CMD: Platforms and integratione. Overvien cUPÙ -FSSL https://claude.ai/instalt.ond -o install.ond 65 instarì Claude Code n the web Claude Cod on desktop .",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1.0,
+          "end": 4.0,
+          "text": "Vediamo come installare Cloud Code all'interno di Windows."
+        },
+        {
+          "start": 4.0,
+          "end": 15.0,
+          "text": "Nel corso di queste lezioni userò Mac OS come sistema operativo perché ho un computer Mac e le differenze sono quasi nulle tra i due sistemi operativi."
+        },
+        {
+          "start": 15.0,
+          "end": 20.0,
+          "text": "Solo nella fase iniziale c'è un po' di differenza nell'installazione, ma non vi preoccupate perché è molto molto semplice."
+        },
+        {
+          "start": 20.0,
+          "end": 27.0,
+          "text": "La prima cosa è andare sulla documentazione ufficiale di Cloud, che trovate il link qua nelle risorse aggiuntive del corso."
+        },
+        {
+          "start": 27.0,
+          "end": 34.0,
+          "text": "E abbiamo questo comando che dobbiamo mettere all'interno del terminale, quello che su Windows viene chiamato PowerShell."
+        },
+        {
+          "start": 34.0,
+          "end": 42.0,
+          "text": "Quindi cosa facciamo? Ci apriamo il menu di Windows e qua dentro scriviamo proprio PowerShell oppure semplicemente cerchiamo il terminale."
+        },
+        {
+          "start": 42.0,
+          "end": 50.0,
+          "text": "Lo vedete che è qua, però diciamo se volete qua facciamo PowerShell, facciamo proprio il filtro, ci esce Windows PowerShell."
+        },
+        {
+          "start": 51.0,
+          "end": 56.0,
+          "text": "Per l'installazione io faccio Run as an Administrator, in italiano quindi lanciatelo come amministratore."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 1,
+        "time": 55.13,
+        "timestamp": "00:00:55",
+        "image": "frame_0001.jpg",
+        "reason": "scene",
+        "ocr_text": "Claude Code Docs English started = Duc with Claude Code E Windows Powers Platforms and integratione Adinicisatico = Costiguatico Windows CMD: iaude Developer Pittorm RAZZI Get started *",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 56.0,
+          "end": 62.0,
+          "text": "E prendiamo questo comando che è scritto qua sulla documentazione ufficiale e lo copiamo e incolliamo."
+        },
+        {
+          "start": 62.0,
+          "end": 72.0,
+          "text": "Quello è il comando dell'installazione, quindi vado qua, lo copio e me lo porto dentro il terminale."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 2,
+        "time": 62.27,
+        "timestamp": "00:01:02",
+        "image": "frame_0002.jpg",
+        "reason": "scene",
+        "ocr_text": "< 7 ED Cossecoseowenion Cav x [1 € © % codeciudecom(so/evovenien # © Claude Code Docs english Q search Cuik 33 ASKAI | Claude Developer Platform n the Web Getting started | Bulk with Claude Code | Administration Configuration | Reference -AgentSDK | WhatsNew _ Resources Getting started Choose your environment to get started. Most surfaces require a Claude subscription or con Anthropie Console account. The Terminal CLI and VS Code also support third-party providers. Overvion mirto rm ca [AI Qquicestart Terminal VSCode Desktopapp Web Jetorains Vihat you can do Changeloe Te Use Cide Code everyutere Te full-featured CLI for working with Claude Code directly in your terminal. Edît files, run Nextsteps Soir commands, and manage your entire project from the command line. How Claude Code works To install Claude Code, use one of the foliowing methods: Extend Claude Code Native install (Recommended) | Homebrew _ WinGet. Lapioro the claude dctory Vea (porn) Explore the contest windon macOS, Linux, WSL: Use Claude Code netos://etaude.a/instatt.sn | dash Store Instructions and Windows PowerShell: Permission modes Common workMows rn hetps://elaude.ai/instatl.pst | dex Best practices Windows CMD: Piatforms and integratione. Overvien GUPÙ -fSSL https://clavde.ai/install.cnd -o install.ond GG Anstati Claude Cod on the we Claude Code on desktop . BE QGoead 2 Ga",
+        "description": ""
+      },
+      "transcript": []
+    },
+    {
+      "keyframe": {
+        "index": 3,
+        "time": 69.87,
+        "timestamp": "00:01:10",
+        "image": "frame_0003.jpg",
+        "reason": "scene",
+        "ocr_text": "Claude Code Docs Engish x % laude Developer Platform Getting started | Buld with Claude Code Administration | Configuration | Reference - AgentSDK - WhatsNew Re Pomershe E Onthis page ht (C) Microsof ration. ALL r: Getstartod 1 the latest Powershell for nen features https: //alta.ms/PSwindons Platforms and integratione",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 72.0,
+          "end": 78.0,
+          "text": "Non vi preoccupate del terminale, il terminale a volte spaventa un po' perché questa cosa nera sembra Matrix."
+        },
+        {
+          "start": 78.0,
+          "end": 87.0,
+          "text": "Alla fine è un'applicazione, ok? Molto potente, poco utilizzata, ma se usate questi strumenti di IA dopo un po' dovete prendere confidenza."
+        },
+        {
+          "start": 87.0,
+          "end": 90.0,
+          "text": "Qua siamo semplicemente dando un'istruzione per fare l'installazione."
+        },
+        {
+          "start": 90.0,
+          "end": 96.0,
+          "text": "Quindi copiamo quel comando, diamo invio e Cloud Code parte con l'installazione."
+        },
+        {
+          "start": 96.0,
+          "end": 99.0,
+          "text": "Quindi su Windows sta partendo l'installazione."
+        },
+        {
+          "start": 99.0,
+          "end": 107.0,
+          "text": "Ora questo cambia sempre da configurazione a configurazione, da computer a computer e ovviamente io nel corso non posso coprire tutte le casistiche."
+        },
+        {
+          "start": 107.0,
+          "end": 112.0,
+          "text": "A volte, diciamo, l'installazione va diretta, funziona subito."
+        },
+        {
+          "start": 112.0,
+          "end": 116.0,
+          "text": "In alcuni casi invece potrebbe essere necessario installare qualche cosa di aggiuntivo."
+        },
+        {
+          "start": 116.0,
+          "end": 123.0,
+          "text": "Vi dice per esempio, guarda per far funzionare Cloud Code ti manca questa cosa, altrimenti non funziona."
+        },
+        {
+          "start": 123.0,
+          "end": 127.0,
+          "text": "E infatti in questo caso cosa dice? Dice che manca Git."
+        },
+        {
+          "start": 127.0,
+          "end": 132.0,
+          "text": "Anche qui non andrò nel dettaglio, diciamo è un piccolo software che serve per far funzionare Cloud."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 4,
+        "time": 129.87,
+        "timestamp": "00:02:10",
+        "image": "frame_0004.jpg",
+        "reason": "periodic",
+        "ocr_text": "Claude Code Docs English iaude Developer Pittor RAZZI Gettingstarted | Bulkdwith Claude Code Administration | Configuration | Reference | Agent SK _ Whats New Windoms PowerShell Onthis page Copyright (C) Nic a l rights re Get started Install the latest Powershell for nen features and inprovenents! https: //aka.ns/P n rà 4 ps: //aka.ms/PSwindomw 5 C:\\Mindons\\systen32> ira https://claude.ai/4i Use Claude Code every Setting up Claude Code Platforms and integratione",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 133.0,
+          "end": 136.0,
+          "text": "Qualcuno di voi questo messaggio non l'avrà, perché magari ce l'ha già installato."
+        },
+        {
+          "start": 136.0,
+          "end": 138.0,
+          "text": "A qualcuno invece potrebbe uscire."
+        },
+        {
+          "start": 138.0,
+          "end": 141.0,
+          "text": "Allora adesso vediamo cosa fare."
+        },
+        {
+          "start": 141.0,
+          "end": 144.0,
+          "text": "Semplicemente ci copiamo questo comando qua, vedete vi dice pure cosa dovete fare."
+        },
+        {
+          "start": 144.0,
+          "end": 148.0,
+          "text": "Dice semplicemente copiati questa cosa qua e fai l'installazione."
+        },
+        {
+          "start": 148.0,
+          "end": 154.0,
+          "text": "Quindi io mi copio questo indirizzo qua, che è il sito web di Git e me lo apro."
+        },
+        {
+          "start": 155.0,
+          "end": 156.0,
+          "text": "Scusate."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 5,
+        "time": 157.77,
+        "timestamp": "00:02:38",
+        "image": "frame_0005.jpg",
+        "reason": "scene",
+        "ocr_text": "+ ID Cioude Code overvien «Onu x @ Ge- intatto x * - 0 x € git-sem.cony'install/windows * © Lats vini 210 Clase it n Install o ) Learn Tools Windows | mac0S | Linux pull from Source Reference nec ere to dovnond e ast (54.0) 64 ves PI for Widow Ts the mt Commonity Other Git for Windows downloads standalone Installer Gltfor Windom/x6q Setup Pro Git book Git for Windows/ARM64 Setup. ei rendi Portable (“thumbdrive editi sana Git for Windows/x64 Portable. Git for Windows/ARM64 Portable. Using winget tool doni already have, then type his command in command prompt or Now What? RSS 9 Download a GUI c © © &\\/",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 158.0,
+          "end": 165.0,
+          "text": "Mi sono aperto quindi il link di Git e mi dice cosa vuoi installare per Linux, per MacOS, per Windows."
+        },
+        {
+          "start": 165.0,
+          "end": 168.0,
+          "text": "E io qua gli dico voglio l'installazione per Windows."
+        },
+        {
+          "start": 168.0,
+          "end": 174.0,
+          "text": "Quindi clicco diciamo su questo link e adesso mi fa scaricare un'altra applicazione da installare."
+        },
+        {
+          "start": 174.0,
+          "end": 179.0,
+          "text": "Anche questa completamente gratuita, non vi preoccupate, è molto molto facile da fare."
+        },
+        {
+          "start": 179.0,
+          "end": 181.0,
+          "text": "Quindi clicchiamo su questo pulsante."
+        },
+        {
+          "start": 181.0,
+          "end": 188.0,
+          "text": "Dovebbe partire il download del file .Exe, che vedete è partito qua in altro a destra."
+        },
+        {
+          "start": 188.0,
+          "end": 191.0,
+          "text": "Appena è partito semplicemente lo clicchiamo e lo apriamo."
+        },
+        {
+          "start": 191.0,
+          "end": 193.0,
+          "text": "E questa è un'altra installazione."
+        },
+        {
+          "start": 193.0,
+          "end": 196.0,
+          "text": "Questa tra l'altro non è nemmeno da fare all'interno del terminale."
+        },
+        {
+          "start": 196.0,
+          "end": 199.0,
+          "text": "Quindi è un'installazione tradizionale, è molto facile."
+        },
+        {
+          "start": 199.0,
+          "end": 200.0,
+          "text": "Facciamo next."
+        },
+        {
+          "start": 200.0,
+          "end": 208.0,
+          "text": "Qua ci chiederà un po' di cose che non vi preoccupate, potete anche andare avanti e installarle con le configurazioni di default."
+        },
+        {
+          "start": 208.0,
+          "end": 211.0,
+          "text": "Perché tanto questa roba non ci serve diciamo in questa fase qua."
+        },
+        {
+          "start": 211.0,
+          "end": 214.0,
+          "text": "Sono solo cose che serviranno a Cloud Code per funzionare."
+        },
+        {
+          "start": 214.0,
+          "end": 216.0,
+          "text": "Quindi vi farà un po' di domande."
+        },
+        {
+          "start": 216.0,
+          "end": 219.0,
+          "text": "Non mi ricordo adesso quante sono diciamo, ma sono tante."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 6,
+        "time": 217.77,
+        "timestamp": "00:03:38",
+        "image": "frame_0006.jpg",
+        "reason": "periodic",
+        "ocr_text": "5 gitsemeoninstal/vndon ©git a About Install Latest eion: 51.0 (Rolezse Note) Lear Tools \" ca © azur Reference prora Community Ned np ren 1 cone 7 Pro Git book lie fre adipe Now What? ® Read the Book Download a E Gs e U € 0) &",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 219.0,
+          "end": 223.0,
+          "text": "Semplicemente voi andate avanti e ditegli sempre di sì lasciando le configurazioni iniziali."
+        },
+        {
+          "start": 223.0,
+          "end": 227.0,
+          "text": "Questo se uno è un utente avanzato poi può diciamo smanettarci."
+        },
+        {
+          "start": 227.0,
+          "end": 230.0,
+          "text": "Però diciamo per utenti che non l'hanno mai utilizzato potete lasciare tutto di default."
+        },
+        {
+          "start": 230.0,
+          "end": 237.0,
+          "text": "Continuiamo a dare next, diciamo quindi a confermare le varie opzioni che ci fa scegliere."
+        },
+        {
+          "start": 237.0,
+          "end": 244.0,
+          "text": "Non vi preoccupate, a me è particolarmente lento perché è una macchina virtuale, ma nel vostro caso sarà molto più veloce di così."
+        },
+        {
+          "start": 244.0,
+          "end": 247.0,
+          "text": "Quindi continuiamo a dire avanti."
+        },
+        {
+          "start": 247.0,
+          "end": 251.0,
+          "text": "E dopo qualche secondo diciamo l'installazione è completata."
+        },
+        {
+          "start": 251.0,
+          "end": 252.0,
+          "text": "Quindi perfetto."
+        },
+        {
+          "start": 252.0,
+          "end": 254.0,
+          "text": "Diciamogli anche questo qua."
+        },
+        {
+          "start": 254.0,
+          "end": 255.0,
+          "text": "Ecco qua."
+        },
+        {
+          "start": 255.0,
+          "end": 256.0,
+          "text": "Next."
+        },
+        {
+          "start": 256.0,
+          "end": 257.0,
+          "text": "Next."
+        },
+        {
+          "start": 257.0,
+          "end": 258.0,
+          "text": "Next."
+        },
+        {
+          "start": 259.0,
+          "end": 260.0,
+          "text": "E ci siamo quasi."
+        },
+        {
+          "start": 261.0,
+          "end": 265.0,
+          "text": "Abbiamo dato tutte le impostazioni."
+        },
+        {
+          "start": 265.0,
+          "end": 267.0,
+          "text": "Adesso sta facendo l'installazione."
+        },
+        {
+          "start": 267.0,
+          "end": 272.0,
+          "text": "Quando ha finito l'installazione di git dobbiamo ridare il comando."
+        },
+        {
+          "start": 272.0,
+          "end": 277.0,
+          "text": "Quel comando di prima che abbiamo dato nel terminale che su Windows si chiama PowerShell."
+        },
+        {
+          "start": 277.0,
+          "end": 285.0,
+          "text": "Semplicemente prima non è riuscito a fare l'installazione perché gli servivano alcune cose che sono presenti dentro questo pacchetto aggiuntivo."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 7,
+        "time": 277.77,
+        "timestamp": "00:04:38",
+        "image": "frame_0007.jpg",
+        "reason": "periodic",
+        "ocr_text": "5 gitsemconinstal/vindon ©git n Install Lear tools Reference tnstai Community Now What? a Ce Ri) Read the Book i a RN 9 Download a GUI = 26 mi 4 ri i the most P *",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 285.0,
+          "end": 287.0,
+          "text": "Chiamiamolo così che abbiamo chiamato git."
+        },
+        {
+          "start": 287.0,
+          "end": 294.0,
+          "text": "Quindi aspettiamo che finisca l'installazione e torniamo nel nostro terminale."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 8,
+        "time": 293.87,
+        "timestamp": "00:04:54",
+        "image": "frame_0008.jpg",
+        "reason": "scene",
+        "ocr_text": "Git for Windows v2.54.0 Release Notes Latest update: Aprl 20th 2026 Introduction These release notes describe issues specific to the GIt for Windows release. The release notes covering the history of the core git commands can be found in the Git pro ‘See htip:/git-scm.conY for further details about Git including ports to other operating systems. Git for Windows is hosted at https:/gitforwindows.orgi »Known issues Should you encounter other problems, please first search the bug tracker (also look at the closed issues) and the malling list, chances are that the problem was reported already. Also make sure that you use an up to date Git for Windows version (or a current snapshot bull). If it has not been reported yet, please follow our bug reporting guidelines and report ihe bug. D * [e=SSS Vv Changes in v2.54.0 since v2.53.0(3) (April 14th 2026) Due to persistent maintenance challenges, git: svn ls no longer included in Git for Windows. Users who stili need this command are highiy encouraged to use a Linux version of glt sn via the Windows Subsystem for Linux instead, or switch to a regular MSYS2 setup: Install MSYS2, then run the following command in the MSYS2 UCRT64 Bash: pacman -Sy mingw-w64-ucrt-x86_64-git-svn. After that, the git. svn command will be available in that Bash. On Windows/ARM64, you will want to use the CLANGARM64 variant instead (and install mingu -w64-clang-aarch64-git-svn) New Features",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 294.0,
+          "end": 297.0,
+          "text": "Quando ha finito vi mostra una schermata di conferma."
+        },
+        {
+          "start": 297.0,
+          "end": 299.0,
+          "text": "Diciamo la possiamo ignorare."
+        },
+        {
+          "start": 299.0,
+          "end": 303.0,
+          "text": "Vi apre pure il sito per far vedere tutti i dettagli dell'installazione di git."
+        },
+        {
+          "start": 303.0,
+          "end": 305.0,
+          "text": "Però questa roba qua non vi preoccupate, ignoratela."
+        },
+        {
+          "start": 305.0,
+          "end": 308.0,
+          "text": "Apriamoci di nuovo il nostro terminale."
+        },
+        {
+          "start": 308.0,
+          "end": 311.0,
+          "text": "Quindi torniamo in PowerShell che avevamo aperto in precedenza."
+        },
+        {
+          "start": 311.0,
+          "end": 314.0,
+          "text": "E abbiamo, scusate ho cliccato due volte e l'ho chiuso."
+        },
+        {
+          "start": 314.0,
+          "end": 316.0,
+          "text": "E siamo rimasti alla schermata di prima."
+        },
+        {
+          "start": 316.0,
+          "end": 320.0,
+          "text": "Quindi abbiamo questo comando qua che non era riuscito a dare."
+        },
+        {
+          "start": 320.0,
+          "end": 324.0,
+          "text": "Adesso lo prendiamo, lo copiamo e lo reincolliamo dentro."
+        },
+        {
+          "start": 324.0,
+          "end": 326.0,
+          "text": "E quindi glielo diamo per la seconda volta."
+        },
+        {
+          "start": 326.0,
+          "end": 329.0,
+          "text": "Quindi selezioniamo oppure lo prendiamo dal sito, copia."
+        },
+        {
+          "start": 329.0,
+          "end": 333.0,
+          "text": "Vado qua e faccio incolla e gli do invio."
+        },
+        {
+          "start": 333.0,
+          "end": 338.0,
+          "text": "E adesso a questo secondo giro, siccome lui ha git installato,"
+        },
+        {
+          "start": 338.0,
+          "end": 343.0,
+          "text": "quel pacchettino aggiuntivo che abbiamo messo dovrebbe procedere con l'installazione di Cloud Code."
+        },
+        {
+          "start": 343.0,
+          "end": 348.0,
+          "text": "Appena finisce l'installazione lo lanciamo, vi faccio vedere due cosine al volo."
+        },
+        {
+          "start": 348.0,
+          "end": 353.0,
+          "text": "E poi per il resto potete seguire anche il resto del modulo."
+        },
+        {
+          "start": 353.0,
+          "end": 360.0,
+          "text": "Ecco qua, ci ha messo qualche secondo e ha detto installazione di Cloud è stata completata correttamente."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 9,
+        "time": 353.87,
+        "timestamp": "00:05:54",
+        "image": "frame_0009.jpg",
+        "reason": "periodic",
+        "ocr_text": "Git for Windows v2.54.0 Release Notes “% Latest update: April 20th 2026 RI Adrizirnice vindom pom x | - ox Copyright (C) Microsoft Corporation. ALL rights reserved PS C:\\Windoms\\systen32> irm https://claude.ai/install.ps1 | tex itory of the core glt commands can be Setting up Claude Code ‘s hosted at htips:/gitforwindows.org/ HI Installation complete! PS C:\\Windoms\\systen32> ira https://claude.ai/instatlpsì | dex maling Is, chances are that ine Setting up Claude Code napshot bulig). If it has not been reported ® C:NUsers\\Adninistrator\\. local \\bin\\claude. exe laude —help È Setup notes Due to p 3 va s si Jows. Users who stili need this command are highly encouraged to use a Linux version of git svn via the Windows Subsystem for Linux instead, or switch to a regular MSYS2 setup: install MSYS2, then run the following command in the MSYS2 UCRT84 Bash: pacman -Sy mingu-w64-ucrt-x86_64-git-svn. After hat, the git. svn command will be avallabie in that Bash. On Windows/ARMB4, you will want to use the CLANGARM64 variant Instead (and install mingu-w64- clang-aarchea-git-svn). New Features",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 360.0,
+          "end": 365.0,
+          "text": "Ci dice guarda che per farlo funzionare devi fare questa piccola modifica."
+        },
+        {
+          "start": 365.0,
+          "end": 370.0,
+          "text": "Cioè devi prendere questa stringa qua e devi mettere nel tuo path."
+        },
+        {
+          "start": 370.0,
+          "end": 376.0,
+          "text": "Allora questa roba qua può sembrare estremamente complessa ma non vi preoccupate, vi guido io passo passo."
+        },
+        {
+          "start": 376.0,
+          "end": 379.0,
+          "text": "Ok? È più facile di quello che sembra."
+        },
+        {
+          "start": 379.0,
+          "end": 380.0,
+          "text": "Cosa dobbiamo fare?"
+        },
+        {
+          "start": 380.0,
+          "end": 385.0,
+          "text": "Fondamentalmente adesso se noi andiamo qua dentro il terminale e scriviamo Cloud,"
+        },
+        {
+          "start": 385.0,
+          "end": 388.0,
+          "text": "quindi proviamo a dare il comando, non funzionerà."
+        },
+        {
+          "start": 388.0,
+          "end": 392.0,
+          "text": "Perché Cloud l'abbiamo installato ma Windows non sa dove si trova."
+        },
+        {
+          "start": 392.0,
+          "end": 394.0,
+          "text": "E infatti dice ma che è sto Cloud? Che vuoi?"
+        },
+        {
+          "start": 394.0,
+          "end": 397.0,
+          "text": "Dobbiamo dirgli dove si trova Cloud, dove l'abbiamo installato."
+        },
+        {
+          "start": 397.0,
+          "end": 398.0,
+          "text": "Come la facciamo questa cosa?"
+        },
+        {
+          "start": 398.0,
+          "end": 403.0,
+          "text": "Prendiamo questo testo, questa stringa che ci ha dato qua."
+        },
+        {
+          "start": 403.0,
+          "end": 407.0,
+          "text": "Vedete? Proprio copiate questo pezzettino di testo qua."
+        },
+        {
+          "start": 407.0,
+          "end": 408.0,
+          "text": "Lo copiamo."
+        },
+        {
+          "start": 408.0,
+          "end": 410.0,
+          "text": "Scusate, lo ho selezionato e non l'ho copiato."
+        },
+        {
+          "start": 410.0,
+          "end": 413.0,
+          "text": "Quindi seleziono e copio."
+        },
+        {
+          "start": 413.0,
+          "end": 415.0,
+          "text": "E poi ci dice qua esattamente cosa dobbiamo fare."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 10,
+        "time": 413.87,
+        "timestamp": "00:06:54",
+        "image": "frame_0010.jpg",
+        "reason": "periodic",
+        "ocr_text": "Git for Windows v2.54.0 Release Notes Latest update: April 20th 2026 PS C:\\Windoms\\system32> drm https://claude.ai/insta Setting up Claude Code - = sude Code successfully ed itory of the core git commands can be ‘s hosted at https:/gitforwindows.org/. C:\\Users\\Adninistrator..local\\bin\\claude. exe malling lst, chances are that ihe napshot buia). it has not been reported tl Setup notes I Installation complete! PS C:\\Mindoms\\systen32> claude PS C:\\Windoms\\systen32> | Due to p gini aleng din Gitto need this command are highiy encouraged to use a Linux version o lim via the Windows Subsystem for Linux Instead, or swch o a regular MSYS2 setup: Install MSYS2, then run he following command in the MSYS2 UCRT64 Bash: pacman -Sy mingw-w64-ucrt-x86_64-git-svn. After that, the git. svn command will be available in that Bash. On Windows/ARM64, you will want to use the CLANGARM64 variant Instead (and install mingw-w64-clang-aarchea-git-svn) New Features",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 415.0,
+          "end": 419.0,
+          "text": "Dice apriti le impostazioni di sistema."
+        },
+        {
+          "start": 419.0,
+          "end": 423.0,
+          "text": "Quindi andiamo qua, ci apriamo le nostre belle impostazioni di sistema."
+        },
+        {
+          "start": 424.0,
+          "end": 425.0,
+          "text": "System."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 11,
+        "time": 424.03,
+        "timestamp": "00:07:04",
+        "image": "frame_0011.jpg",
+        "reason": "scene",
+        "ocr_text": "&\" Git for Windows v2.54.0 Release Notes Latest update: April 20th 2025) PS C:\\Windons\\systen32> rm https://claude.ai/install.psì | dex Setting up Claude Code î C:\\Users\\Adninistrator\\..local\\bin\\claude. exe tl Setup notes RI Installation conplete! PS C:\\Mindoms\\systen32> claude PS C:\\Windoms\\systen32> t synfs alt for Windows. Users who Due to persistent maintenance challenge: 0 longer include use a Linux version of git svn via the Windows itory of the core glt commands can be ‘s hosted at https:/gitforwindows.0rg/ « malling list, chances are that the snapshot build). ft has not been reported need this command are highiy encouraged to ubsystem for Linux instead, or switch lo a regular MSYS2 setup: Install MSYS2, then run the following command in the MSYS2 UCRTB4 Bash: pacman -Sy mingu-w64-ucrt-x86_64-git-svn. Atter that, the git. svn command will be avallabie in that Bash. On Windows/ARM64, you will want to use the CLANGARM64 variant instead (and install New Features ingw-w64-clang-aarchea-git-svn).",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 428.0,
+          "end": 429.0,
+          "text": "Properties."
+        },
+        {
+          "start": 433.0,
+          "end": 435.0,
+          "text": "Ci apriamo le nostre belle impostazioni."
+        },
+        {
+          "start": 435.0,
+          "end": 439.0,
+          "text": "Cerchiamo la voce con le variabili di sistema."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 12,
+        "time": 435.37,
+        "timestamp": "00:07:15",
+        "image": "frame_0012.jpg",
+        "reason": "scene",
+        "ocr_text": "Windows v2.54.0 Release Notes April 201 2026 tony ol lhe core gii. commands can be = ostert all ins /igltfanzinilo pra Local\\bin\\claude. exe % cosling ist, chances are ii ie mei - - DI pu). IF has not been reported DS C-\\Mindoms\\systen32> claude PS C:\\Mindows\\system32> mance challe 1 iniGitor Sl need fhia command are tughly encourageci to vii vs he Singows instead, or switch to 3 regular NSYS2 setup insiali MSYSZ. Men run the following command nine MSYS2 UORTB4 Bash: pacman -Sy mingw-w64-ucr1-x86_ba-git-svn.Afler Ial ie gt. svn comment will be avallabie in lrat Bash. On Windows/ARMBA, you will vanî In'use the CLANGARIMBA varlant instead (and instali wing: wd-clang;-2archisd-pit-sun) New Features",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 439.0,
+          "end": 440.0,
+          "text": "Environment variables."
+        },
+        {
+          "start": 440.0,
+          "end": 444.0,
+          "text": "Ovviamente a voi potrebbe essere in italiano, quindi queste cose le vedete leggermente diverse."
+        },
+        {
+          "start": 444.0,
+          "end": 447.0,
+          "text": "Mi apro quindi il box con le variabili di sistema."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 13,
+        "time": 445.17,
+        "timestamp": "00:07:25",
+        "image": "frame_0013.jpg",
+        "reason": "scene",
+        "ocr_text": "fanstatl. pa HE Installation complete PS C:\\Wtndows\\systen32> claude PS C-\\stndon",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 447.0,
+          "end": 453.0,
+          "text": "Qua in basso vado a cercarmi, anzi no, ci consiglio di metterlo dentro user."
+        },
+        {
+          "start": 453.0,
+          "end": 457.0,
+          "text": "Quindi diciamo in questo qua, vedete in questa lista che c'è qua, scelgo pat."
+        },
+        {
+          "start": 457.0,
+          "end": 459.0,
+          "text": "Pat è questa variabile qui."
+        },
+        {
+          "start": 459.0,
+          "end": 460.0,
+          "text": "E faccio modifica."
+        },
+        {
+          "start": 460.0,
+          "end": 463.0,
+          "text": "Quindi clicco su edit e aggiungo una nuova voce."
+        },
+        {
+          "start": 463.0,
+          "end": 464.0,
+          "text": "Ok?"
+        },
+        {
+          "start": 464.0,
+          "end": 466.0,
+          "text": "Qua gli devo semplicemente aggiungere."
+        },
+        {
+          "start": 466.0,
+          "end": 467.0,
+          "text": "Quindi faccio new."
+        },
+        {
+          "start": 467.0,
+          "end": 471.0,
+          "text": "E ci metto adesso anche quell'indirizzo che abbiamo copiato."
+        },
+        {
+          "start": 471.0,
+          "end": 474.0,
+          "text": "Quindi dentro questa variabile sto aggiungendo questo indirizzo in colla."
+        },
+        {
+          "start": 474.0,
+          "end": 476.0,
+          "text": "E faccio invio."
+        },
+        {
+          "start": 476.0,
+          "end": 477.0,
+          "text": "Ho fatto."
+        },
+        {
+          "start": 477.0,
+          "end": 478.0,
+          "text": "Faccio ok."
+        },
+        {
+          "start": 478.0,
+          "end": 481.0,
+          "text": "Sembra complicatissima questa roba, ma non vi preoccupate."
+        },
+        {
+          "start": 481.0,
+          "end": 482.0,
+          "text": "Ok?"
+        },
+        {
+          "start": 482.0,
+          "end": 484.0,
+          "text": "Vi ho portato proprio per mano."
+        },
+        {
+          "start": 484.0,
+          "end": 491.0,
+          "text": "Stiamo dicendo semplicemente a Windows in che posto abbiamo installato Cloud."
+        },
+        {
+          "start": 491.0,
+          "end": 493.0,
+          "text": "Qua chiudiamo tutto."
+        },
+        {
+          "start": 493.0,
+          "end": 499.0,
+          "text": "Una volta fatta questa roba qua, per sicurezza chiudiamo la PowerShell."
+        },
+        {
+          "start": 499.0,
+          "end": 504.0,
+          "text": "Perché così può rileggere le installazioni che abbiamo fatto."
+        },
+        {
+          "start": 504.0,
+          "end": 507.0,
+          "text": "Quindi apriamoci di nuovo qua."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 14,
+        "time": 505.17,
+        "timestamp": "00:08:25",
+        "image": "frame_0014.jpg",
+        "reason": "periodic",
+        "ocr_text": "Git for Windows v2.54.0 Release Notes Latest update: Aprll 20h 2026 Introduction These release notes describe Issues specific 0 the Git for Windows release. The release notes covering the history of the core git commands can be found in the Git pro See hitip/gît-scm.com! for further details about Git including ports to other operating systems. Git for Windows is hosted at htips:/gitfonwindows.org a NIMESTESÌ Should you encounter other problems, please first search the bug tracker (also look at the closed issues) and the mallng list, chances are that the problem was reported already. Also make sure that you use an up to date Git for Windows version (or a current snapshot build) It has not been reported yet, please follow our bug reporting guidelines and report the bug. D * Licenses 4 Changes in v2.54.0 since v2.53.0(3) (April 14th 2026) Due to persistent maintenance challenges, git_ svn is no longer included in Git for Windows. Users who stili need this command are highiy encouraged to use a Linux version of git svn via the Windows Subsystem for Linux instead, or switch to a regular MSYS2 setup: install MSYS2, then run the following command in the MSYS2 UCRT64 Bash: pacman -Sy mingw-w64-ucrt-x86_64-git-svn. After that, the git. svn command will be avallabie in that Bash. On Windows/ARM64, you will want to use the CLANGARMB4 variant instead (and install mingu-w64-clang-aarch6a-git-svn) New Features [=",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 507.0,
+          "end": 509.0,
+          "text": "Facciamo PowerShell."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 15,
+        "time": 508.53,
+        "timestamp": "00:08:29",
+        "image": "frame_0015.jpg",
+        "reason": "scene",
+        "ocr_text": "i Git for Windows v2.54.0 Release Notes Latest update: April 20th 2026 7 Introduction These release notes describ found in the Git project. ‘See hitps/git-scm.conY for fu ‘git commands can be |s/igittorwindows.org/. »Known issues ‘Should you encounter other hances are that the problem was reported alread) Ifit has not been reported yet, please follow our bug re; Db Due to persistent maintenandi hd are highiy encouraged to use a Linux version of glt svn , fhen run the following, command in the MSYS2 UCH ll be avallabie in that Bash. On Windows/ARMB4, it-svn). New Features",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 509.0,
+          "end": 513.0,
+          "text": "Clicchiamo sopra il terminale."
+        },
+        {
+          "start": 513.0,
+          "end": 523.0,
+          "text": "E adesso se dico Cloud e premo invio, questa volta invece sa dove l'abbiamo installato ed è partito."
+        },
+        {
+          "start": 523.0,
+          "end": 525.0,
+          "text": "Signori è finito qua."
+        },
+        {
+          "start": 525.0,
+          "end": 527.0,
+          "text": "Sembrava complicatissimo fatto sotto Windows."
+        },
+        {
+          "start": 527.0,
+          "end": 529.0,
+          "text": "In realtà è una cosa veramente veloce."
+        },
+        {
+          "start": 529.0,
+          "end": 531.0,
+          "text": "Qui ci sono due o tre impostazioni da mettere."
+        },
+        {
+          "start": 531.0,
+          "end": 539.0,
+          "text": "E poi c'è semplicemente da fare il login sul proprio account per collegare Cloud Code con quello diciamo che abbiamo il nostro abbonamento a Cloud."
+        },
+        {
+          "start": 539.0,
+          "end": 546.0,
+          "text": "Una volta che avete fatto l'autenticazione, quindi vi ha fatto fare il login sul sito, che ovviamente qua ho tagliato perché c'erano i miei dati personali."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 16,
+        "time": 539.57,
+        "timestamp": "00:09:00",
+        "image": "frame_0016.jpg",
+        "reason": "scene",
+        "ocr_text": "",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 546.0,
+          "end": 551.0,
+          "text": "Lui ha collegato il vostro account di Cloud con Cloud Code."
+        },
+        {
+          "start": 551.0,
+          "end": 553.0,
+          "text": "E vi dice ho fatto il login correttamente."
+        },
+        {
+          "start": 553.0,
+          "end": 555.0,
+          "text": "Premo invio per continuare."
+        },
+        {
+          "start": 555.0,
+          "end": 560.0,
+          "text": "Noi premiamo invio e ci dice guarda attenzione perché Cloud può fare degli errori."
+        },
+        {
+          "start": 560.0,
+          "end": 562.0,
+          "text": "Attenzione perché c'è il rischio di prompt injection."
+        },
+        {
+          "start": 562.0,
+          "end": 566.0,
+          "text": "Quindi lo sappiamo e dobbiamo fare sempre attenzione quando utilizziamo questi strumenti."
+        },
+        {
+          "start": 566.0,
+          "end": 568.0,
+          "text": "Dice di nuovo premo invio per continuare."
+        },
+        {
+          "start": 568.0,
+          "end": 571.0,
+          "text": "E poi dice vuoi lavorare all'interno di questa cartella."
+        },
+        {
+          "start": 571.0,
+          "end": 573.0,
+          "text": "Noi dobbiamo dire assolutamente no."
+        },
+        {
+          "start": 573.0,
+          "end": 576.0,
+          "text": "Perché questa è una cartella di sistema è pericolosissimo lavorarci dentro."
+        },
+        {
+          "start": 576.0,
+          "end": 583.0,
+          "text": "Quindi scegliamo l'opzione 2 o semplicemente digitando 2 o spostandoci con la freccetta della tastiera su 2."
+        },
+        {
+          "start": 583.0,
+          "end": 585.0,
+          "text": "E diciamo exit."
+        },
+        {
+          "start": 585.0,
+          "end": 589.0,
+          "text": "Quello che dobbiamo fare in realtà è creare una cartella di lavoro."
+        },
+        {
+          "start": 589.0,
+          "end": 593.0,
+          "text": "Quindi andiamo sul nostro desktop oppure nella cartella documenti o dove volete voi."
+        },
+        {
+          "start": 593.0,
+          "end": 596.0,
+          "text": "E qua dentro vi create una nuova cartella."
+        },
+        {
+          "start": 596.0,
+          "end": 597.0,
+          "text": "Quindi fate il new."
+        },
+        {
+          "start": 597.0,
+          "end": 605.0,
+          "text": "Io ovviamente qua lo vedo in inglese e questa la chiamiamo per esempio Cloud Workspace."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 17,
+        "time": 599.57,
+        "timestamp": "00:10:00",
+        "image": "frame_0017.jpg",
+        "reason": "periodic",
+        "ocr_text": "Accessing norkspace: C:\\Windoms\\systen32 Quick safety check: Is this a project you created or one you trust? (Like your om code, a mell-knom open source project, or work fron your team). IF not, take a monent to review what's in this folder first Claude Code'll be able to read, edit, and execute files here Yes, I trust this folder > 2. No, exit PS C:\\Windoms\\system32>",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 605.0,
+          "end": 607.0,
+          "text": "Voi la potete chiamare come volete voi."
+        },
+        {
+          "start": 607.0,
+          "end": 610.0,
+          "text": "La potete chiamare Raffaele, cartella di lavoro."
+        },
+        {
+          "start": 610.0,
+          "end": 611.0,
+          "text": "Quello che volete."
+        },
+        {
+          "start": 611.0,
+          "end": 615.0,
+          "text": "L'importante è creare una cartella apposta per lavorarci con Cloud dentro."
+        },
+        {
+          "start": 615.0,
+          "end": 618.0,
+          "text": "Perché noi diremo a Cloud di lavorare solo dentro quella cartella."
+        },
+        {
+          "start": 618.0,
+          "end": 621.0,
+          "text": "Non la autorizzeremo a fare cose fuori da quella cartella."
+        },
+        {
+          "start": 621.0,
+          "end": 623.0,
+          "text": "Questo è importante per motivi di sicurezza."
+        },
+        {
+          "start": 623.0,
+          "end": 628.0,
+          "text": "Quindi adesso che abbiamo la cartella facciamo click destro sulla cartella."
+        },
+        {
+          "start": 628.0,
+          "end": 630.0,
+          "text": "E qua ci apriamo il terminale."
+        },
+        {
+          "start": 630.0,
+          "end": 637.0,
+          "text": "Quindi sappiamo che la cartella sulla quale stiamo lavorando è questo Cloud Workspace che abbiamo appena creato."
+        },
+        {
+          "start": 637.0,
+          "end": 639.0,
+          "text": "Vedete è cambiato pure l'indirizzo che vediamo a schermo."
+        },
+        {
+          "start": 639.0,
+          "end": 641.0,
+          "text": "Qua adesso scrivo Cloud di nuovo."
+        },
+        {
+          "start": 641.0,
+          "end": 643.0,
+          "text": "Quindi do il comando Cloud."
+        },
+        {
+          "start": 643.0,
+          "end": 649.0,
+          "text": "Non vi preoccupate perché questa è l'unica parte nella quale faremo delle cose usando il terminale."
+        },
+        {
+          "start": 649.0,
+          "end": 655.0,
+          "text": "Poi subito nella prossima lezione vi faccio vedere che installeremo un'altra app che si chiama VS Code."
+        },
+        {
+          "start": 655.0,
+          "end": 657.0,
+          "text": "E useremo Cloud Code da là dentro in realtà."
+        },
+        {
+          "start": 657.0,
+          "end": 661.0,
+          "text": "Mi dice adesso mi stai dicendo che vuoi lavorare nella cartella Cloud Workspace."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 18,
+        "time": 659.57,
+        "timestamp": "00:11:00",
+        "image": "frame_0018.jpg",
+        "reason": "periodic",
+        "ocr_text": "ic] gare Install the latest PowerShell for new features and inprovenents! https://aka.ns/PSwindows Eos Accessing norkspace C:\\Users\\Adninistratar\\Deslktop\\klaude norkspace Quick safety check: Is this a project you created or one you trust? (Like your om code, a mell-knomn open source project, or work from your tean). If not, take a moment to reviem mhat's in this folder first Claude Code'll be able to read,",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 661.0,
+          "end": 662.0,
+          "text": "Ti fidi?"
+        },
+        {
+          "start": 662.0,
+          "end": 663.0,
+          "text": "E stavolta gli dico sì."
+        },
+        {
+          "start": 663.0,
+          "end": 666.0,
+          "text": "Dico dentro questa cartella voglio lavorare."
+        },
+        {
+          "start": 667.0,
+          "end": 669.0,
+          "text": "E come ci accorgiamo che è andato tutto a buon fine?"
+        },
+        {
+          "start": 669.0,
+          "end": 671.0,
+          "text": "Perché adesso abbiamo finito non c'è nient'altro da fare."
+        },
+        {
+          "start": 671.0,
+          "end": 677.0,
+          "text": "Gli possiamo chiedere per esempio ciao che modello sei?"
+        },
+        {
+          "start": 677.0,
+          "end": 682.0,
+          "text": "E adesso ci dovrebbe rispondere che è Cloud 4.7 Nel momento in cui sto registrando."
+        },
+        {
+          "start": 682.0,
+          "end": 687.0,
+          "text": "Poi magari l'avete visto tra qualche mese è uscito Cloud 5, Cloud 10 o quello che è."
+        },
+        {
+          "start": 687.0,
+          "end": 690.0,
+          "text": "E vi faccio vedere anche banalmente."
+        },
+        {
+          "start": 690.0,
+          "end": 693.0,
+          "text": "Ora proviamo a creare un primo file."
+        },
+        {
+          "start": 693.0,
+          "end": 697.0,
+          "text": "Vi faccio vedere che Cloud è capace di scrivere direttamente sul vostro computer."
+        },
+        {
+          "start": 697.0,
+          "end": 699.0,
+          "text": "Anzi questa cartella nel frattempo me la apro."
+        },
+        {
+          "start": 699.0,
+          "end": 702.0,
+          "text": "Non vi preoccupate del fatto che qua lo vedete estremamente lento."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 19,
+        "time": 701.0,
+        "timestamp": "00:11:41",
+        "image": "frame_0019.jpg",
+        "reason": "scene",
+        "ocr_text": "© (©",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 702.0,
+          "end": 705.0,
+          "text": "E perché ovviamente io sono dentro una macchina virtuale."
+        },
+        {
+          "start": 705.0,
+          "end": 709.0,
+          "text": "Quindi lo sto simulando Windows perché non ce l'ho veramente sul mio computer."
+        },
+        {
+          "start": 709.0,
+          "end": 714.0,
+          "text": "Quindi vi lascio questa qua aperta e poi mi metto il terminale qua in alto."
+        },
+        {
+          "start": 714.0,
+          "end": 718.0,
+          "text": "Quindi dice sono Cloud 4.7 Il modello di punto della famiglia di Cloud."
+        },
+        {
+          "start": 718.0,
+          "end": 723.0,
+          "text": "Adesso qua gli dico crea un file di testo."
+        },
+        {
+          "start": 723.0,
+          "end": 744.0,
+          "text": "Crea un file di testo e dentro mettici l'elenco delle cose che puoi fare per me considerando che non sono un programmatore."
+        },
+        {
+          "start": 745.0,
+          "end": 747.0,
+          "text": "Esempio molto semplice."
+        },
+        {
+          "start": 747.0,
+          "end": 751.0,
+          "text": "Nel resto del corso vedremo cose molto serie e molto avanzate."
+        },
+        {
+          "start": 751.0,
+          "end": 757.0,
+          "text": "Questo serve solo per farvi capire che 1 l'installazione è andata a buon fine e su Windows è semplicissima."
+        },
+        {
+          "start": 757.0,
+          "end": 759.0,
+          "text": "Non vi dovete preoccupare."
+        },
+        {
+          "start": 759.0,
+          "end": 768.0,
+          "text": "E 2 che sta funzionando e lo vediamo perché lo stiamo utilizzando e soprattutto è in grado poi di scrivere fisicamente dei file dentro il nostro computer."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 20,
+        "time": 761.0,
+        "timestamp": "00:12:41",
+        "image": "frame_0020.jpg",
+        "reason": "periodic",
+        "ocr_text": "fe) Melcome back Raffaele Ask Claude to create a ne ciao, che modello sei crea un file di testo e dentro mettici l'elenco delle cose che puoi fare per me, considerando che non sono un programatore",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 768.0,
+          "end": 771.0,
+          "text": "Può leggere dei file e può scrivere dei file."
+        },
+        {
+          "start": 772.0,
+          "end": 775.0,
+          "text": "Nelle prossime lezioni diventerà una cosa molto importante."
+        },
+        {
+          "start": 775.0,
+          "end": 779.0,
+          "text": "Dice vuoi crearmi questo file? Mi autorizzi?"
+        },
+        {
+          "start": 779.0,
+          "end": 780.0,
+          "text": "Qua gli diciamo di sì."
+        },
+        {
+          "start": 780.0,
+          "end": 786.0,
+          "text": "E adesso nella cartellina qua a destra vediamo comparire un file."
+        },
+        {
+          "start": 786.0,
+          "end": 788.0,
+          "text": "Cosa posso fare per te?"
+        },
+        {
+          "start": 788.0,
+          "end": 793.0,
+          "text": "Se ci apriamo questo file con un doppio clic è un file di testo che ha creato il nostro Cloud Code."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 21,
+        "time": 789.13,
+        "timestamp": "00:13:09",
+        "image": "frame_0021.jpg",
+        "reason": "scene",
+        "ocr_text": "progri osa poso rane mea e decida per chi non è programmatore) [cestione erue € canveute Creare, leggere, modificare ed elininare file di testo Cercare contenuti dentro a tanti file insieme Convertire Formati di testo (es. da stxt è ‘né, da ccsv a tabella) Leggere POF © riassumerli, estrarne dati Leggere imagini e Gescrivere coso contengono scarmmvea € resti Scrivere email, lettere, comunicazioni formali Riassimere docimenti Iurghi Traderre testi tra Lingue diverse Correggere grammatica © ortografia Creare bozze di articoli, post, presentazioni Riscrivere testi In tono diverso (formale, informale, semplice) Dari € FOGLI DI caLcoLO Aprire e analizzare file Excel 0 (SV Somure, Filtrare, ordinare dati Creare tabelle risssuntive Pulire dati disordinati (date, nomi, duplicati) Generare grafici partendo da doti Cercare Informazioni su internet Verificare Fatti e fonti Spiegare Concetti complessi In modo semplice loncuazzazione € PecovtTIVI",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 793.0,
+          "end": 796.0,
+          "text": "Signori l'installazione su Windows è finita."
+        },
+        {
+          "start": 796.0,
+          "end": 804.0,
+          "text": "Siete pronti ad andare nella prossima lezione la quale installiamo VS Code facilissimo e poi inizieremo a usare Cloud Code da là dentro."
+        },
+        {
+          "start": 804.0,
+          "end": 807.0,
+          "text": "Quindi del terminale vi potete dimenticare così non vi spaventate."
+        }
+      ]
+    }
+  ]
+}

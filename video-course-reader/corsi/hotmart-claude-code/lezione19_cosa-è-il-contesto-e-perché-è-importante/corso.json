@@ -1,0 +1,767 @@
+{
+  "title": "Cosa è il contesto e perché è importante",
+  "sections": [
+    {
+      "keyframe": {
+        "index": 0,
+        "time": 0.0,
+        "timestamp": "00:00:00",
+        "image": "frame_0000.jpg",
+        "reason": "start",
+        "ocr_text": "#3 ercaldiavicom DI e eo 0,0 -. 2, 4,6, 0, è ome ca, bl (EF I (ZA) ble gi, it had is Il contesto: perché cambia tutto dette batta pun sua iui Nr. de vela li ita dl cm",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 0.23999999463558197,
+          "end": 8.0,
+          "text": "E ora parliamo finalmente di contesto, che è un argomento che va un po' a braccetto con il workspace,"
+        },
+        {
+          "start": 8.0,
+          "end": 12.0,
+          "text": "quindi con lo spazio di lavoro che abbiamo visto in precedenza."
+        },
+        {
+          "start": 12.0,
+          "end": 18.0,
+          "text": "Allora, il contesto, mi avete sentito dire dall'inizio di questo corso, che è quello che fa veramente la differenza."
+        },
+        {
+          "start": 18.0,
+          "end": 21.0,
+          "text": "Ci sono diverse cose che fanno la differenza in Cloud Code."
+        },
+        {
+          "start": 21.0,
+          "end": 25.0,
+          "text": "Le tre principali probabilmente sono il workspace, il contesto e le skill."
+        },
+        {
+          "start": 25.0,
+          "end": 29.0,
+          "text": "Il workspace l'abbiamo visto, adesso vedremo il contesto, poi vediamo pure le skill."
+        },
+        {
+          "start": 29.0,
+          "end": 38.0,
+          "text": "Il contesto è l'ambiente all'interno del quale si muove, la memoria che è accumulata nel tempo,"
+        },
+        {
+          "start": 38.0,
+          "end": 45.0,
+          "text": "le informazioni, i ricordi, i pezzettini che usa ogni volta che voi gli fate una richiesta."
+        },
+        {
+          "start": 45.0,
+          "end": 51.0,
+          "text": "E qua voglio partire come sempre con un po' di spiegazione, prima di andarlo a vedere poi concretamente,"
+        },
+        {
+          "start": 51.0,
+          "end": 57.0,
+          "text": "perché voglio che voi capiate cosa c'è dietro, perché è importante questa parte."
+        },
+        {
+          "start": 58.0,
+          "end": 62.0,
+          "text": "Un attimo, diciamo, classico schema di confronto, con e senza."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 1,
+        "time": 60.0,
+        "timestamp": "00:01:00",
+        "image": "frame_0001.jpg",
+        "reason": "periodic",
+        "ocr_text": "Claude Code — con contesto Devi spiegare chi sei ogni volta Prompt lunghi e ripetitivi Risultati generici, non personalizzati Non conosce ì tuoi file Sa gia chi sei e come lavori Non devi ripetere nulla Richieste brevi e dirette Gron prompt) Risultati precisi e su misura Accede ai tuoi file quando serve Chatbot tradizionali — qualcosa di simile, ma...",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 62.0,
+          "end": 69.0,
+          "text": "Allora, di qua ci sono i chatbot tradizionali, non ho scritto CGPT stavolta, così non indico un solo strumento."
+        },
+        {
+          "start": 69.0,
+          "end": 75.0,
+          "text": "Ma per farvi capire, da questo lato, quindi a sinistra abbiamo lo strumento, il chatbot,"
+        },
+        {
+          "start": 75.0,
+          "end": 83.0,
+          "text": "quindi CGPT, Cloud Chat, Gemini, Copilot, Grok, quello che volete voi."
+        },
+        {
+          "start": 84.0,
+          "end": 88.0,
+          "text": "Da questo lato abbiamo Cloud Code, che abbiamo ripetuto varie volte e lo ribadisco,"
+        },
+        {
+          "start": 88.0,
+          "end": 91.0,
+          "text": "non è uno strumento, è un ambiente, ok?"
+        },
+        {
+          "start": 91.0,
+          "end": 98.0,
+          "text": "Vi ricordate? È un contenitore e dentro ci sono varie cose, tra cui il modello Cloud che viene utilizzato."
+        },
+        {
+          "start": 98.0,
+          "end": 102.0,
+          "text": "Il fatto di non avere contesto che significa? Ogni sessione riparte da zero,"
+        },
+        {
+          "start": 102.0,
+          "end": 107.0,
+          "text": "dobbiamo sempre stare a spiegare alcune cose, i prompt sono lunghi,"
+        },
+        {
+          "start": 107.0,
+          "end": 112.0,
+          "text": "infatti si fa questo lavoro infinito di prompt engineering, spesso anche ripetitivi,"
+        },
+        {
+          "start": 112.0,
+          "end": 118.0,
+          "text": "i risultati sono più o meno personalizzati, sui file conosce molto poco."
+        },
+        {
+          "start": 118.0,
+          "end": 123.0,
+          "text": "Lo so che leggendo questo qualcuno potrebbe dire, Raph, no, ma come, però ci sono le custom instructions,"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 2,
+        "time": 120.0,
+        "timestamp": "00:02:00",
+        "image": "frame_0002.jpg",
+        "reason": "periodic",
+        "ocr_text": "Ogni sessione riparte da zero Devi spiegare chi sei ogni volta Prompt lunghi e ripetitivi È Risultati generici, non personalizzati Non conosce ì tuoi file Sa gia chi sei e come lavori Non devi ripetere nulla Richieste brevi e dirette (on prompt) Risultati precisi e su misura Accede ai tuoi file quando serve",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 123.0,
+          "end": 127.0,
+          "text": "non vi preoccupate, perché questo è il secondo pezzo di questa lezione, ci arrivo."
+        },
+        {
+          "start": 127.0,
+          "end": 134.0,
+          "text": "Qua sono stato molto ampio per dirvi, quando non abbiamo il contesto, il risultato è pessimo."
+        },
+        {
+          "start": 134.0,
+          "end": 138.0,
+          "text": "Poi nei chatbot un pezzettino di contesto lo possiamo dare, un pezzettino,"
+        },
+        {
+          "start": 139.0,
+          "end": 143.0,
+          "text": "o lo scriviamo nel prompt, oppure usiamo alcune funzionalità, che ve le faccio vedere."
+        },
+        {
+          "start": 143.0,
+          "end": 145.0,
+          "text": "Comunque non sono paragonabile a Cloud Code."
+        },
+        {
+          "start": 145.0,
+          "end": 150.0,
+          "text": "Il fatto invece di avere il contesto, quindi avere proprio una struttura di contesto,"
+        },
+        {
+          "start": 150.0,
+          "end": 156.0,
+          "text": "molto seria, fatta bene, modulare, significa che la piattaforma sa chi sei, come lavori,"
+        },
+        {
+          "start": 156.0,
+          "end": 163.0,
+          "text": "quindi sa tutto di te, non devi ripetere le cose, e questo l'avete già visto in qualche video precedente di questo corso."
+        },
+        {
+          "start": 163.0,
+          "end": 173.0,
+          "text": "Scrive una cosa, lui intuiva che in precedenza avevo detto che in un preventivo avevo usato quel tipo di nome per i file,"
+        },
+        {
+          "start": 173.0,
+          "end": 175.0,
+          "text": "quindi tutti i file si dovevano chiamare in quel modo."
+        },
+        {
+          "start": 175.0,
+          "end": 178.0,
+          "text": "Quello lo aveva intuito, ormai lo sapeva di me, non glielo dovevo dire mai più."
+        },
+        {
+          "start": 178.0,
+          "end": 184.0,
+          "text": "Le risposte sono brevi, sono dirette, le richieste sono brevi, non sono più dei prompt."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 3,
+        "time": 180.0,
+        "timestamp": "00:03:00",
+        "image": "frame_0003.jpg",
+        "reason": "periodic",
+        "ocr_text": "Sa gia chi sei e come lavori Non devi ripetere nulla Richieste brey e dirette Gion prompt) Risultati precisi e su misura Accede ai tuoi file quando serve Ma î chatbot homo xyz?!",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 184.0,
+          "end": 188.0,
+          "text": "Cioè usciamo proprio dall'ottica di tirate, posso scrivere il prompt strutturato, lungo,"
+        },
+        {
+          "start": 188.0,
+          "end": 194.0,
+          "text": "come mi ha insegnato Raffaele Gaito, con il contesto, con la richiesta, eccetera, eccetera,"
+        },
+        {
+          "start": 194.0,
+          "end": 196.0,
+          "text": "come abbiamo fatto per anni."
+        },
+        {
+          "start": 196.0,
+          "end": 201.0,
+          "text": "Avete visto, io dialogo, gli dico, fammi questa cosa, spostami queste cartelle, dublimi questo preventivo."
+        },
+        {
+          "start": 201.0,
+          "end": 207.0,
+          "text": "I risultati sono precisi, sono sempre su misura, e soprattutto accede ai tuoi file quando serve."
+        },
+        {
+          "start": 207.0,
+          "end": 211.0,
+          "text": "Fatemi, come sempre, sottolineare qua questa cosa, quando serve."
+        },
+        {
+          "start": 211.0,
+          "end": 214.0,
+          "text": "Questa capacità è fondamentale."
+        },
+        {
+          "start": 214.0,
+          "end": 217.0,
+          "text": "Questo fatto che lo faccio in maniera dinamica è quello che fa la differenza."
+        },
+        {
+          "start": 217.0,
+          "end": 224.0,
+          "text": "E qua arrivo un pochino, diciamo, a non l'obiezione, ma alla domanda che a volte alcune persone mi fanno"
+        },
+        {
+          "start": 224.0,
+          "end": 229.0,
+          "text": "quando parlo di Cloud Code in azienda, diciamo in altri contesti, mi dicono Raff,"
+        },
+        {
+          "start": 229.0,
+          "end": 234.0,
+          "text": "però non è che c'è a GPT, Cloud, Gemini non sanno niente di me."
+        },
+        {
+          "start": 234.0,
+          "end": 238.0,
+          "text": "Io comunque gli posso mettere le custom instruction, comunque posso abilitare la memoria."
+        },
+        {
+          "start": 238.0,
+          "end": 240.0,
+          "text": "Vero? Vero, vero, vero."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 4,
+        "time": 240.0,
+        "timestamp": "00:04:00",
+        "image": "frame_0004.jpg",
+        "reason": "periodic",
+        "ocr_text": "ED Ercaicr iabonrd lon conosce i tuoi file Chaibot tradizionali — qualcosa dii simile, ma... Clauele Code Custom instiruetions. Un solo blocco di testo generico, identico per tutto. Claude code invece; Ale strutturati e aggiornabili, Accesso linitatto ai Ale. Limite di caratteri. contesto speiico per ogni progetto, accesso reale ai tuoi file. Nenoria automatica Sono Frammenti isolati e non strutturati. Non sono organizzati per cliente, progetto 0 altro. PERMANENTE File che serivi una volta e restano Projects / GPTS / Altro Contesto limitato, poco accesso ai tuoi file reali. Claude li rilegge ad ognì sessione Non scala con la complessita del lavoro. ‘Sì aggiornano e crescono nel tempo Costituiscono la base del sistema",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 240.0,
+          "end": 243.0,
+          "text": "Infatti i chatbot tradizionali, ho detto, qualcosina di simile ce l'hanno,"
+        },
+        {
+          "start": 243.0,
+          "end": 245.0,
+          "text": "ma vediamo, diciamo, quali sono le limitazioni."
+        },
+        {
+          "start": 245.0,
+          "end": 250.0,
+          "text": "Le custom instruction, vero, ci sono, se le utilizzate, ottimo, perché quelle servono,"
+        },
+        {
+          "start": 250.0,
+          "end": 253.0,
+          "text": "però è un solo blocco di testo, generico, identico per tutto,"
+        },
+        {
+          "start": 253.0,
+          "end": 258.0,
+          "text": "c'ha un limite di carattere di quanto potete scrivere, c'ha un accesso limitato ai file,"
+        },
+        {
+          "start": 258.0,
+          "end": 262.0,
+          "text": "alcuni vi fanno mettere i file, alcuni no, alcuni vi fanno mettere solo alcuni tipi di file e così via."
+        },
+        {
+          "start": 262.0,
+          "end": 265.0,
+          "text": "Oppure il file c'ha una dimensione massima, eccetera."
+        },
+        {
+          "start": 265.0,
+          "end": 269.0,
+          "text": "Alcuni di questi chatbot hanno la memoria, quindi io posso abilitare la memoria"
+        },
+        {
+          "start": 269.0,
+          "end": 275.0,
+          "text": "e, diciamo, cosa significa, se fece il chatbot, se scrivo, vivo a Londra,"
+        },
+        {
+          "start": 275.0,
+          "end": 278.0,
+          "text": "quali sono cinque parchi da vedere assolutamente,"
+        },
+        {
+          "start": 278.0,
+          "end": 282.0,
+          "text": "piglia l'informazione, Raffaele, viva a Londra, se lo mette in memoria,"
+        },
+        {
+          "start": 282.0,
+          "end": 285.0,
+          "text": "e da quel momento in poi non glielo dovrò dire più, perché si ricorda che vivo a Londra."
+        },
+        {
+          "start": 285.0,
+          "end": 288.0,
+          "text": "Ma anche questo è limitato, perché, perché sono dei frammentini,"
+        },
+        {
+          "start": 288.0,
+          "end": 293.0,
+          "text": "se avete mai visto come funzionano, no, le memorie dei chatbot, sono dei frammentini, veramente,"
+        },
+        {
+          "start": 293.0,
+          "end": 296.0,
+          "text": "non sono strutturati e soprattutto non sono organizzati,"
+        },
+        {
+          "start": 296.0,
+          "end": 299.0,
+          "text": "cioè non rientrano in una struttura di lavoro."
+        },
+        {
+          "start": 299.0,
+          "end": 304.0,
+          "text": "Perché? Perché vi ricordate che nei chatbot tradizionali si ragiona per chat,"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 5,
+        "time": 300.0,
+        "timestamp": "00:05:00",
+        "image": "frame_0005.jpg",
+        "reason": "periodic",
+        "ocr_text": "| € è SG & ecaldravcom (UL) Risultati generici, non personalizzati Chatbot tradizionali — qualcosa di simile, ma... Claude Code Custom instructions Un solo blocco di testo generico, identico per tutto. Claude Code invece; Ale strutturati e aggiornabili Accesso limitato ai Ale. Linite di caratteri. contesto specifico per ogni progetto, accesso reale ai tuoi file. Nenoria automatica Sono Frammenti isolati e non strutturati. FERnUIETE Non sono organizzati per cliente, rogo © altro. File che serivi una volta e restano Projects / 6PTS / Altro Contesto lisitato, poco accesso ai tuoi Ble reali. Claude lì rilegge adi ogni sessione Non scala con la complessita del lavoro. ‘Sì aggiornano e crescono nel tempo Costituiscono la base del sistema",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 304.0,
+          "end": 307.0,
+          "text": "che è un modo di lavorare limitante, dopo un po'."
+        },
+        {
+          "start": 307.0,
+          "end": 313.0,
+          "text": "Invece noi lavoriamo per file, no, abbiamo sempre lavorato per progetti, per file, per output, e così via."
+        },
+        {
+          "start": 313.0,
+          "end": 319.0,
+          "text": "Quando invece abbiamo il, diciamo, il contesto, quello che vi faccio vedere in questo modulo,"
+        },
+        {
+          "start": 319.0,
+          "end": 324.0,
+          "text": "il contesto lo organizziamo per bene, come vogliamo, per clienti, per progetto, e così via."
+        },
+        {
+          "start": 324.0,
+          "end": 328.0,
+          "text": "E qualcuno potrebbe ancora dire, sì, Raph, beh, ma la memoria non è l'unica funzionità,"
+        },
+        {
+          "start": 328.0,
+          "end": 335.0,
+          "text": "ci sono poi i project, ci sono i gpt, ci sono le gemme, no, ci sono varie funzionità sparpagliate tra cloud, gemini, cioè gpt."
+        },
+        {
+          "start": 335.0,
+          "end": 340.0,
+          "text": "Vero, anche questo è un altro bel passo in avanti, ma comunque c'ha delle limitazioni,"
+        },
+        {
+          "start": 340.0,
+          "end": 345.0,
+          "text": "perché il contesto è limitato, hanno poco accesso ai file, li dobbiamo precaricare prima,"
+        },
+        {
+          "start": 345.0,
+          "end": 349.0,
+          "text": "non vengono caricati in maniera dinamica, vengono accettati solo alcuni formati,"
+        },
+        {
+          "start": 349.0,
+          "end": 356.0,
+          "text": "non li legge direttamente dal nostro computer, non li può aggiornare in autonomia, fondamentalmente non scala."
+        },
+        {
+          "start": 356.0,
+          "end": 360.0,
+          "text": "Questa è la questione principale, non scala."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 6,
+        "time": 360.0,
+        "timestamp": "00:06:00",
+        "image": "frame_0006.jpg",
+        "reason": "periodic",
+        "ocr_text": "Far ini | € è SG & excaldravcom c ess Chatbot tradizionali — qualcosa di simile, ma... uetione » di testo generico, identico per tutto. to ai Ale. Limite di caratteri. doo Claude Code invese: file strutturati e aggiornabili, contesto specifico per ogni progetto, accesso reale ai tuoi Ale. 31 isolati e non strutturati. | on oo copiati per certa progetto 0 alt Projects / GPTE / Altro Contesto limitato, poco accesso ai tuoi file reali. Non scala con la complessità del lavoro. PERAUMENTE File che serivi una volta e restano Claude lì rilegge ad ogni sessione ‘Sì aggiornano e crescono nel tempo Costituiscono la base del sistema",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 360.0,
+          "end": 365.0,
+          "text": "Se invece voi partite con Cloud Code e avete tre clienti oggi e fra un anno avete 30 clienti,"
+        },
+        {
+          "start": 365.0,
+          "end": 367.0,
+          "text": "il sistema cresce insieme a voi."
+        },
+        {
+          "start": 367.0,
+          "end": 373.0,
+          "text": "Da quest'altro lato invece, diciamoci, abbiamo l'approccio di Cloud Code, quindi, diciamo, del contesto, ok?"
+        },
+        {
+          "start": 373.0,
+          "end": 381.0,
+          "text": "Anzi, qua scriviamo proprio quando dico Cloud Code, intendo dire Cloud Code, quindi, con contesto."
+        },
+        {
+          "start": 383.0,
+          "end": 389.0,
+          "text": "Ha dei file strutturati, sono aggiornabili, li possiamo aggiornare noi a mano, ma raramente lo facciamo,"
+        },
+        {
+          "start": 389.0,
+          "end": 392.0,
+          "text": "lo fa il sistema perché capisce che qualcosa è cambiato."
+        },
+        {
+          "start": 392.0,
+          "end": 397.0,
+          "text": "Gli diciamo il giorno 1 che noi facciamo solo formazione, non facciamo consulenza,"
+        },
+        {
+          "start": 397.0,
+          "end": 403.0,
+          "text": "poi dopo un anno aggiungiamo nei nostri servizi la consulenza, lui capisce questa cosa e ci aggiorna il file."
+        },
+        {
+          "start": 403.0,
+          "end": 410.0,
+          "text": "Possiamo fare il contesto specifico per ogni progetto, quindi siccome adesso abbiamo capito come organizzare le cartelle,"
+        },
+        {
+          "start": 410.0,
+          "end": 416.0,
+          "text": "è più facile capire dentro come mettere il contesto a pezzettini e soprattutto accesso reale ai tuoi file,"
+        },
+        {
+          "start": 416.0,
+          "end": 424.0,
+          "text": "la cosa che aggiungerei è in tempo reale, che invece diciamo nei chatbot è impossibile perché li devo caricare io."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 7,
+        "time": 420.0,
+        "timestamp": "00:07:00",
+        "image": "frame_0007.jpg",
+        "reason": "periodic",
+        "ocr_text": "Ma. ì chatbot hanno xyz?! ) Cloude Code invece: Sle strutturati e aggiornabili, contesto specifico per ogni progetto, accesso reale ai tuoi file, in ter PERMANENTE File che scrivi una volta e restano Claude li rilegge ad ogni sessione ‘Sì aggiornano e crescono nel tempo Costituiscono la base del sistema",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 424.0,
+          "end": 433.0,
+          "text": "Se invece c'è una cartella e in questa cartella ci sono 10 proposte che ho fatto nel corso dello scorso anno,"
+        },
+        {
+          "start": 433.0,
+          "end": 439.0,
+          "text": "se io ne aggiungo 12 dentro quella cartella, Cloud automaticamente, avendo accesso a quella cartella,"
+        },
+        {
+          "start": 439.0,
+          "end": 441.0,
+          "text": "vede sempre tutto quello che c'è dentro."
+        },
+        {
+          "start": 443.0,
+          "end": 449.0,
+          "text": "Che significa tutto questo? Che è permanente, quindi li scrivi e rimangono, Cloud li rilegge ad ogni sessione,"
+        },
+        {
+          "start": 449.0,
+          "end": 455.0,
+          "text": "qua dopo vi faccio vedere anche i vari approcci, anzi qua ci scrivo con vari approcci,"
+        },
+        {
+          "start": 455.0,
+          "end": 460.0,
+          "text": "perché pure qua ci sono varie scuole di pensiero, scegliete voi quella che preferite, vi faccio vedere quella che uso io,"
+        },
+        {
+          "start": 460.0,
+          "end": 464.0,
+          "text": "si aggiornano, crescono nel tempo, costruiscono la base del sistema."
+        },
+        {
+          "start": 464.0,
+          "end": 469.0,
+          "text": "Questa base del sistema la capiamo con l'effetto compounding."
+        },
+        {
+          "start": 469.0,
+          "end": 474.0,
+          "text": "L'effetto compounding che cos'è? Lo abbiamo già citato in questo corso varie volte,"
+        },
+        {
+          "start": 475.0,
+          "end": 479.0,
+          "text": "parliamo di effetto compounding nell'economia, nella finanza, in vari contesti,"
+        },
+        {
+          "start": 479.0,
+          "end": 487.0,
+          "text": "quando si accumulano gli interessi nel tempo e quindi va a crescere sempre di più nel tempo."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 8,
+        "time": 480.0,
+        "timestamp": "00:08:00",
+        "image": "frame_0008.jpg",
+        "reason": "periodic",
+        "ocr_text": "Costituiscono la base del sistema Output personalizzati Nero spiegazioni sol tuo stile più presisione Il risultato: ogni sessione è più eNiciente della precedente. Investi un po' per volta, risparmi un botto ogni giorno.",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 487.0,
+          "end": 492.0,
+          "text": "Il risultato finale è sempre meglio in questo caso, parlando di Cloud."
+        },
+        {
+          "start": 492.0,
+          "end": 499.0,
+          "text": "Che significa? Significa che io all'inizio vado molto blando e quindi scrivo magari solo il file cloud.Md,"
+        },
+        {
+          "start": 499.0,
+          "end": 501.0,
+          "text": "che è il file principale di contesto."
+        },
+        {
+          "start": 501.0,
+          "end": 504.0,
+          "text": "Ci arriviamo e tra un attimo capiamo cosa c'è dentro questi file,"
+        },
+        {
+          "start": 504.0,
+          "end": 508.0,
+          "text": "però voglio farvi capire prima concettualmente la struttura che c'è dietro."
+        },
+        {
+          "start": 508.0,
+          "end": 512.0,
+          "text": "E con questo Cloud capisce chi siamo, come lavoriamo, come ci siamo organizzati."
+        },
+        {
+          "start": 512.0,
+          "end": 517.0,
+          "text": "Mano a mano poi nei giorni successivi aggiungiamo dei file di contesto,"
+        },
+        {
+          "start": 517.0,
+          "end": 522.0,
+          "text": "Cloud inizia a capire il nostro stile, il nostro tono di voce, il nostro approccio, i nostri valori e così via."
+        },
+        {
+          "start": 522.0,
+          "end": 527.0,
+          "text": "Poi iniziamo a utilizzarlo, man mano che lo utilizziamo,"
+        },
+        {
+          "start": 527.0,
+          "end": 532.0,
+          "text": "quando sbaglia gli diciamo che delle cose le deve correggere e Cloud quindi aggiorna la memoria."
+        },
+        {
+          "start": 532.0,
+          "end": 536.0,
+          "text": "Vi ricordate? La memoria è già comparsa in qualche lezione precedente."
+        },
+        {
+          "start": 536.0,
+          "end": 541.0,
+          "text": "Cloud diceva, ah ok, sta cosa la vuoi in questo modo, me lo segno per sicurezza."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 9,
+        "time": 540.0,
+        "timestamp": "00:09:00",
+        "image": "frame_0009.jpg",
+        "reason": "periodic",
+        "ocr_text": "Output: personalizzati Meno spiegazioni, sul tuo stile più precisione ZI risultato: ogni sessione È più ePciente della precedente. Investi un po' per volta, risparmi un botto ogni giomo.",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 541.0,
+          "end": 544.0,
+          "text": "E questo avviene in automatico, no, perché lui sbaglia e noi lo correggiamo,"
+        },
+        {
+          "start": 544.0,
+          "end": 548.0,
+          "text": "perché gli diamo delle preferenze, perché lo deduce da cose che abbiamo scritto e così via."
+        },
+        {
+          "start": 548.0,
+          "end": 551.0,
+          "text": "Che succede? Succede che dopo 8 settimane il sistema è completo."
+        },
+        {
+          "start": 552.0,
+          "end": 556.0,
+          "text": "Cioè facciamo delle richieste brevissime e otteniamo sempre dei risultati super personalizzati,"
+        },
+        {
+          "start": 556.0,
+          "end": 559.0,
+          "text": "super precisi, proprio come servono a noi."
+        },
+        {
+          "start": 559.0,
+          "end": 565.0,
+          "text": "Io qua ho scritto un mese, mano, cioè questo è solo per farvi capire che è una cosa che si distribuisce nel tempo,"
+        },
+        {
+          "start": 565.0,
+          "end": 569.0,
+          "text": "in realtà no, cioè io quando ho usato Cloud Code la prima volta mi sono messo un giorno"
+        },
+        {
+          "start": 569.0,
+          "end": 573.0,
+          "text": "e in un giorno ho fatto tutto il, diciamo, questo setup del contesto."
+        },
+        {
+          "start": 573.0,
+          "end": 579.0,
+          "text": "Anche perché poi dipende quanto ci volete mettere voi nel contesto e decidete voi quanto lo volete rendere ricco,"
+        },
+        {
+          "start": 579.0,
+          "end": 584.0,
+          "text": "mettiamola così. Però questa cosa può essere fatta in poco, questo è importante,"
+        },
+        {
+          "start": 584.0,
+          "end": 587.0,
+          "text": "ve lo voglio far capire, veramente in una manciata di ore."
+        },
+        {
+          "start": 587.0,
+          "end": 592.0,
+          "text": "E anche qua ci facciamo guidare da Cloud, lo facciamo insieme, non è che lo dobbiamo fare noi."
+        },
+        {
+          "start": 592.0,
+          "end": 597.0,
+          "text": "È Cloud che scrive il contesto in base alle nostre, diciamo, istruzioni, no?"
+        },
+        {
+          "start": 597.0,
+          "end": 599.0,
+          "text": "A quello che noi vogliamo ottenere."
+        },
+        {
+          "start": 599.0,
+          "end": 604.0,
+          "text": "Però con questo avete idea quantomeno del perché il contesto è fondamentale e soprattutto che cos'è."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 10,
+        "time": 600.0,
+        "timestamp": "00:10:00",
+        "image": "frame_0010.jpg",
+        "reason": "periodic",
+        "ocr_text": "La menory Sstena initia a crescere congleto Settimana 2 e__t_- Output personalizzati Prompt brevissimi, sul tuo stile più precisione risultati ottimi I risultato; ogni sessione È più eRciente della precedente. Investi un po' per volta risparmi un botto ogni giomo.",
+        "description": ""
+      },
+      "transcript": []
+    }
+  ]
+}

@@ -13,7 +13,8 @@ import subprocess
 import sys
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
-INDEX = os.path.join(ROOT, "lessons_index.json")
+COURSE_DIR = os.path.join(ROOT, "corsi", "profitti-digitali")
+INDEX = os.path.join(COURSE_DIR, "lessons_index.json")
 PROFILE = os.path.join(ROOT, "profile")
 
 
@@ -39,7 +40,7 @@ def main() -> int:
         n, url = l["n"], l["url"]
         name = slug(url)
         video = os.path.join(ROOT, f"corso_lezione{n:02d}.mp4")
-        out_dir = os.path.join(ROOT, f"corso_output/lezione{n:02d}_{name}")
+        out_dir = os.path.join(COURSE_DIR, f"lezione{n:02d}_{name}")
         md = os.path.join(out_dir, "corso.md")
 
         if os.path.exists(md):
