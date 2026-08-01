@@ -1,0 +1,794 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Il tuo Workbook della Diagnosi</title>
+<meta name="description" content="Il Workbook della Diagnosi del workshop Company Brain con Michele Cotti. Cinque parti da compilare per arrivare pronto alla seconda serata.">
+<!-- Open Graph / social preview -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Michele Cotti · Company Brain">
+<meta property="og:title" content="Il tuo Workbook della Diagnosi · Company Brain">
+<meta property="og:description" content="Il Workbook della Diagnosi del workshop Company Brain con Michele Cotti. Cinque parti da compilare per arrivare pronto alla seconda serata.">
+<meta property="og:url" content="https://workshop.aibuildersclub.it/workbook-2">
+<meta property="og:image" content="https://workshop.aibuildersclub.it/img/og-workshop.jpg">
+<meta property="og:image:type" content="image/jpeg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Workshop Company Brain di Michele Cotti · 3 sere dal vivo">
+<meta property="og:locale" content="it_IT">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Il tuo Workbook della Diagnosi · Company Brain">
+<meta name="twitter:description" content="Il Workbook della Diagnosi del workshop Company Brain con Michele Cotti. Cinque parti da compilare per arrivare pronto alla seconda serata.">
+<meta name="twitter:image" content="https://workshop.aibuildersclub.it/img/og-workshop.jpg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600;700&family=Caveat:wght@500;600;700&display=swap" rel="stylesheet">
+<style>
+/* ============================================================
+   COMPANY BRAIN · Workbook della Diagnosi
+   Sfondo bianco · palette navy #0e263f + arancione #fd6627
+   Font: Plus Jakarta Sans (display) + Inter (corpo)
+   Stessa impostazione della thank-you page.
+   ============================================================ */
+
+:root{
+  --navy:#0e263f; --navy-deep:#081726; --navy-soft:#16344f;
+  --orange:#fd6627; --orange-dk:#e34f12; --orange-tint:#fff1ea;
+  --white:#ffffff; --cream-dk:#eef1f6;
+  --ink:#0e263f; --ink-soft:#4b5d6f; --ink-faint:#8294a3;
+  --border:#e3e8ef; --border-dk:#d0d8e2;
+  --red:#e11d48; --red-tint:#fff5f6;
+
+  --maxw:840px;
+
+  --r-sm:10px; --r-md:16px; --r-lg:22px;
+
+  --shadow-sm:0 1px 2px rgba(14,38,63,.06), 0 4px 14px rgba(14,38,63,.06);
+  --shadow-md:0 10px 34px rgba(14,38,63,.10), 0 2px 6px rgba(14,38,63,.05);
+  --shadow-orange:0 8px 22px rgba(253,102,39,.32);
+
+  --ff-display:'Plus Jakarta Sans', system-ui, sans-serif;
+  --ff-body:'Inter', system-ui, sans-serif;
+  --ff-mono:'JetBrains Mono', ui-monospace, monospace;
+}
+
+*,*::before,*::after{ box-sizing:border-box; margin:0; padding:0; }
+html{ scroll-behavior:smooth; -webkit-text-size-adjust:100%; font-size:112.5%; }
+
+body{
+  font-family:var(--ff-body);
+  background:var(--white);
+  color:var(--ink);
+  font-size:.94rem;
+  line-height:1.65;
+  font-weight:400;
+  -webkit-font-smoothing:antialiased;
+  text-rendering:optimizeLegibility;
+  overflow-x:hidden;
+}
+
+.wrap{ width:100%; max-width:var(--maxw); margin:0 auto; padding:0 22px; }
+
+h1,h2,h3{ font-family:var(--ff-display); font-weight:700; line-height:1.1; letter-spacing:-.02em; color:var(--ink); }
+h1{ font-size:clamp(1.9rem,4.4vw,2.85rem); font-weight:800; letter-spacing:-.03em; }
+h2{ font-size:clamp(1.4rem,2.9vw,1.75rem); }
+h3{ font-size:1.18rem; }
+p{ margin:0; }
+strong{ font-weight:600; }
+em{ font-style:italic; }
+a{ color:inherit; }
+
+.eyebrow{
+  font-family:var(--ff-mono);
+  font-size:.68rem; font-weight:600;
+  letter-spacing:.14em; text-transform:uppercase;
+  color:var(--orange-dk);
+  display:inline-flex; align-items:center; gap:.55em;
+}
+.eyebrow::before{ content:""; width:22px; height:2px; background:var(--orange); display:inline-block; }
+.muted{ color:var(--ink-soft); }
+.center{ text-align:center; }
+.br-mobile{ display:none; }
+
+/* ---------- buttons ---------- */
+.cta{
+  display:inline-flex; align-items:center; justify-content:center; gap:.55em;
+  font-family:var(--ff-display); font-weight:700; font-size:.95rem; letter-spacing:-.01em;
+  color:#fff; background:var(--orange);
+  padding:.9em 1.7em; border:none; border-radius:100px;
+  cursor:pointer; text-decoration:none;
+  box-shadow:var(--shadow-orange);
+  transition:transform .2s cubic-bezier(.2,.8,.2,1), box-shadow .2s, background .2s;
+}
+.cta::after{ content:"→"; font-size:1.05em; transition:transform .25s; display:inline-block; }
+.cta:hover{ transform:translateY(-2px); box-shadow:0 14px 32px rgba(253,102,39,.45); background:var(--orange-dk); }
+.cta:hover::after{ transform:translateX(4px); }
+.cta:active{ transform:translateY(0); }
+.cta:disabled{ background:var(--ink-faint); box-shadow:none; cursor:default; transform:none; }
+.cta:disabled::after{ content:"↓"; transform:none; }
+.cta:disabled:hover{ transform:none; box-shadow:none; background:var(--ink-faint); }
+
+/* ============================================================
+   HEADER
+   ============================================================ */
+.site-head{
+  border-bottom:1px solid var(--border);
+  background:rgba(255,255,255,.85);
+  -webkit-backdrop-filter:blur(10px); backdrop-filter:blur(10px);
+  position:sticky; top:0; z-index:20;
+}
+.site-head .wrap{ display:flex; align-items:center; justify-content:center; height:60px; }
+.site-head .brand{ font-size:16px; }
+.brand{ display:flex; align-items:center; gap:.55em; font-family:var(--ff-display); font-weight:800; font-size:1rem; color:var(--navy); }
+.brand .glyph{ width:24px; height:24px; flex:0 0 auto; }
+
+/* ============================================================
+   HERO
+   ============================================================ */
+.hero{ padding:clamp(32px,5vw,56px) 0 clamp(16px,2.5vw,26px); text-align:center; }
+.hero .eyebrow{ margin-bottom:1.3em; justify-content:center; }
+.hero h1{ margin-bottom:.55em; font-size:clamp(2.2rem,5.2vw,3.35rem); }
+.hero h1 .accent{
+  color:var(--orange); /* fallback */
+  background:linear-gradient(100deg,
+    var(--orange) 0%, var(--orange) 46%,
+    #ffc7a5 49%, #ffd3b7 50%, #ffc7a5 51%,
+    var(--orange) 54%, var(--orange) 100%);
+  background-size:320% 100%;
+  -webkit-background-clip:text; background-clip:text;
+  -webkit-text-fill-color:transparent;
+  animation:accentShine 3.6s linear infinite;
+}
+@keyframes accentShine{
+  0%   { background-position:130% 0; }
+  100% { background-position:-30% 0; }
+}
+@media (prefers-reduced-motion:reduce){
+  .hero h1 .accent{ animation:none; }
+}
+.hero .sub{ font-size:1.05rem; color:var(--ink-soft); max-width:56ch; margin:0 auto; }
+
+/* ============================================================
+   SEZIONI (heading condiviso)
+   ============================================================ */
+.sec-head{ text-align:center; margin-bottom:1.8em; }
+.sec-head h2{ margin-bottom:.4em; font-size:clamp(1.7rem,3.4vw,2.15rem); }
+.sec-head p{ font-size:1.08rem; color:var(--ink-soft); max-width:58ch; margin:0 auto; }
+
+/* ---------- Perché conta ---------- */
+.why{ padding:clamp(10px,2vw,18px) 0 clamp(20px,3vw,30px); }
+.why-card{
+  background:var(--orange-tint);
+  border:1px solid rgba(253,102,39,.28);
+  border-radius:var(--r-lg);
+  padding:clamp(24px,4vw,38px);
+  max-width:720px; margin:0 auto;
+  box-shadow:var(--shadow-sm);
+}
+.why-card p{ font-size:1.12rem; color:var(--navy); line-height:1.7; }
+
+/* ---------- Le cinque parti (stesso formato "Cosa diventa possibile") ---------- */
+.parts{ padding:clamp(10px,2vw,18px) 0 clamp(20px,3vw,30px); }
+.caps{ display:grid; grid-template-columns:1fr; gap:14px; margin-top:clamp(24px,3vw,36px); }
+@media(min-width:640px){ .caps{ grid-template-columns:1fr 1fr; } }
+.cap{
+  display:flex; gap:1em; align-items:flex-start;
+  background:var(--white); border:1px solid var(--border); border-radius:var(--r-md);
+  padding:22px 24px; box-shadow:var(--shadow-sm); transition:transform .25s, box-shadow .25s;
+}
+.cap:hover{ transform:translateY(-3px); box-shadow:var(--shadow-md); }
+.cap .ic{
+  flex:0 0 auto; width:42px; height:42px; border-radius:12px;
+  background:var(--orange-tint); border:1px solid rgba(253,102,39,.25);
+  display:grid; place-items:center; font-size:1.3rem;
+}
+.cap p{ font-size:1.05rem; color:var(--ink-soft); margin:0; line-height:1.55; }
+.cap p b{ color:var(--ink); font-weight:600; }
+
+/* ============================================================
+   FORM (opt-in + domande) · condiviso
+   ============================================================ */
+.form-card{
+  background:var(--white); border:1px solid var(--border); border-radius:var(--r-lg);
+  box-shadow:var(--shadow-md); padding:clamp(22px,3.5vw,34px);
+  max-width:640px; margin:0 auto;
+}
+.fld{ display:block; margin-bottom:1.15em; text-align:left; }
+.fld:last-child{ margin-bottom:0; }
+.fld-q{ display:block; font-family:var(--ff-display); font-weight:600; font-size:.98rem; color:var(--ink); margin-bottom:.5em; }
+.inp{
+  width:100%; font-family:var(--ff-body); font-size:1rem; color:var(--ink);
+  background:#fff; border:1.5px solid var(--border-dk); border-radius:var(--r-sm);
+  padding:.72em .9em; transition:border-color .2s, box-shadow .2s, background .2s;
+}
+.inp::placeholder{ color:var(--ink-faint); }
+.inp:focus{ outline:none; border-color:var(--orange); box-shadow:0 0 0 3px rgba(253,102,39,.15); }
+textarea.inp{ min-height:96px; resize:vertical; line-height:1.5; }
+.inp.invalid{ border-color:var(--red); background:var(--red-tint); }
+.err{
+  display:none; font-family:var(--ff-mono); font-size:.64rem; font-weight:600;
+  letter-spacing:.02em; color:var(--red); margin-top:.45em;
+}
+.err.show{ display:block; }
+.form-actions{ margin-top:1.5em; text-align:center; }
+
+/* ---------- Step 1 (opt-in) ---------- */
+.optin{ padding:clamp(8px,1.5vw,14px) 0 clamp(24px,3vw,34px); }
+
+/* ---------- Step 2 (domande vere) ---------- */
+.step2{ padding:clamp(10px,2vw,18px) 0 clamp(20px,3vw,30px); }
+.qsection{
+  background:var(--white); border:1px solid var(--border); border-radius:var(--r-lg);
+  box-shadow:var(--shadow-sm); padding:clamp(20px,3vw,28px); margin-bottom:18px;
+}
+.qhead{ display:flex; gap:.85em; align-items:center; margin-bottom:1.3em; padding-bottom:1.1em; border-bottom:1px solid var(--border); }
+.qhead .ic{
+  flex:0 0 auto; width:42px; height:42px; border-radius:12px;
+  background:var(--orange-tint); border:1px solid rgba(253,102,39,.25);
+  display:grid; place-items:center; font-size:1.3rem;
+}
+.qpart{ display:block; font-family:var(--ff-mono); font-size:.62rem; font-weight:600; letter-spacing:.12em; text-transform:uppercase; color:var(--orange-dk); margin-bottom:.25em; }
+.qhead h3{ font-size:1.12rem; }
+
+/* ---------- Conferma finale ---------- */
+.confirm{ padding:clamp(30px,5vw,64px) 0; text-align:center; }
+.confirm-card{
+  background:var(--navy); color:#cfe0ee; border-radius:var(--r-lg);
+  padding:clamp(30px,4vw,46px); max-width:600px; margin:0 auto;
+  box-shadow:0 30px 70px rgba(8,23,38,.28), 0 8px 24px rgba(14,38,63,.12);
+}
+.confirm-card h2{ color:#fff; margin-bottom:.45em; }
+.confirm-card p{ color:#a9c0d2; font-size:1.06rem; max-width:48ch; margin:0 auto; }
+.confirm-card .sign{ font-family:'Caveat',cursive; font-weight:600; font-size:1.9rem; color:#fff; line-height:1; display:inline-block; margin-top:.6em; }
+
+.is-hidden{ display:none !important; }
+
+/* ============================================================
+   FOOTER
+   ============================================================ */
+.footer{ background:var(--navy-deep); color:#8aa2b6; padding:44px 0 36px; font-size:.86rem; }
+.footer .brand{ color:#fff; margin-bottom:1.1em; font-size:.95rem; }
+.footer .links{ display:flex; flex-wrap:wrap; gap:1.3em; margin-bottom:1.4em; font-family:var(--ff-display); font-size:.82rem; }
+.footer .links a{ color:#a9c0d2; text-decoration:none; transition:color .2s; }
+.footer .links a:hover{ color:var(--orange); }
+.footer .disclaimer{ font-size:.76rem; line-height:1.6; color:#5f7689; border-top:1px solid rgba(255,255,255,.07); padding-top:1.4em; max-width:92ch; }
+
+/* ---------- responsive ---------- */
+@media (max-width:520px){
+  .br-mobile{ display:inline; }
+  .site-head .wrap{ height:54px; }
+  .cap{ padding:18px 18px; gap:.85em; }
+  .cap p{ font-size:.98rem; }
+  .why-card p{ font-size:1.02rem; }
+  .qhead{ gap:.7em; }
+}
+
+/* ---------- testo di aiuto sotto la domanda ---------- */
+.fld-hint{ display:block; font-size:.9rem; color:var(--ink-soft); line-height:1.5; margin-bottom:.65em; }
+
+/* ---------- gruppo di sotto-domande (es. "Il vostro blocco") ---------- */
+.fld-group{ margin-bottom:1.15em; padding-left:.95em; border-left:3px solid var(--orange-tint); }
+.fld-group-q{ display:block; font-family:var(--ff-display); font-weight:700; font-size:1.02rem; color:var(--ink); margin-bottom:.75em; }
+.fld-sub-q{ font-weight:500; }
+
+/* ---------- select (voto 1-10) ---------- */
+select.inp{
+  appearance:none; -webkit-appearance:none; cursor:pointer; padding-right:2.4em;
+  background-image:linear-gradient(45deg,transparent 50%,var(--ink-faint) 50%),
+                   linear-gradient(135deg,var(--ink-faint) 50%,transparent 50%);
+  background-position:calc(100% - 18px) calc(1em + 2px), calc(100% - 13px) calc(1em + 2px);
+  background-size:5px 5px, 5px 5px; background-repeat:no-repeat;
+}
+
+/* ---------- scelta singola (radio) ---------- */
+.radio-row{ display:flex; flex-wrap:wrap; gap:.6em; }
+.radio-opt{
+  display:inline-flex; align-items:center; gap:.5em; cursor:pointer;
+  border:1.5px solid var(--border-dk); border-radius:100px; padding:.55em 1.05em;
+  font-size:.97rem; transition:border-color .2s, background .2s, color .2s;
+}
+.radio-opt input{ accent-color:var(--orange); margin:0; }
+.radio-opt:hover{ border-color:var(--orange); }
+.radio-opt:has(input:checked){ border-color:var(--orange); background:var(--orange-tint); color:var(--orange-dk); font-weight:600; }
+.group-invalid .radio-opt{ border-color:var(--red); }
+
+/* ---------- pulsante "Scarica in PDF" nella conferma ---------- */
+.confirm-actions{ margin:1.6em 0 .2em; }
+.cta-print::after{ content:"↓"; }
+.cta-print:hover::after{ transform:translateY(2px); }
+.confirm-card .confirm-actions .cta-print{ box-shadow:0 8px 22px rgba(253,102,39,.4); }
+
+/* ============================================================
+   DOCUMENTO DI STAMPA (PDF) · nascosto a schermo, visibile solo in print
+   ============================================================ */
+#print-workbook{ display:none; }
+
+@media print{
+  @page{ margin:16mm 15mm; }
+  html, body{ background:#fff !important; }
+  /* nascondi tutto il resto della pagina, mostra solo il documento di stampa */
+  body > *:not(#print-workbook){ display:none !important; }
+  #print-workbook{
+    display:block !important;
+    -webkit-print-color-adjust:exact; print-color-adjust:exact;
+    color:var(--ink); font-family:var(--ff-body); line-height:1.5;
+  }
+  #print-workbook *{ -webkit-print-color-adjust:exact; print-color-adjust:exact; }
+
+  .pw-head{ border-bottom:3px solid var(--orange); padding-bottom:10px; margin-bottom:20px; }
+  .pw-title{ font-family:var(--ff-display); font-weight:800; font-size:20pt; color:var(--navy); letter-spacing:-.02em; }
+  .pw-sub{ font-family:var(--ff-mono); font-size:9pt; font-weight:600; letter-spacing:.14em; text-transform:uppercase; color:var(--orange-dk); margin-top:5px; }
+
+  .pw-meta{ font-size:11pt; color:var(--ink-soft); margin-bottom:22px; }
+  .pw-meta .pw-name{ font-size:13pt; font-weight:700; color:var(--ink); }
+
+  .pw-section{ margin-bottom:6px; }
+  .pw-part{ font-family:var(--ff-mono); font-size:8.5pt; font-weight:600; letter-spacing:.12em; text-transform:uppercase; color:var(--orange-dk); margin:18px 0 3px; }
+  .pw-part-title{ font-family:var(--ff-display); font-weight:700; font-size:13pt; color:var(--navy); margin-bottom:10px; }
+
+  .pw-subhead{ font-family:var(--ff-display); font-weight:700; font-size:11.5pt; color:var(--navy); margin:16px 0 7px; }
+  .pw-qa{ margin-bottom:13px; page-break-inside:avoid; }
+  .pw-q{ font-family:var(--ff-display); font-weight:600; font-size:11pt; color:var(--navy); margin-bottom:4px; }
+  .pw-a{ font-size:11pt; color:var(--ink); white-space:pre-wrap; overflow-wrap:anywhere; border-bottom:1px solid var(--border); padding-bottom:7px; min-height:1.3em; }
+}
+</style>
+  <link rel="icon" href="/favicon.ico" sizes="any">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="icon" href="/favicon-32.png" type="image/png" sizes="32x32">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+</head>
+<body>
+
+<!-- ============================ HEADER ============================ -->
+<header class="site-head">
+  <div class="wrap">
+    <div class="brand">
+      <span style="width:9px; height:9px; border-radius:50%; background:var(--orange); animation:pulse 2.4s infinite; flex:0 0 auto; display:inline-block;"></span>
+      Workshop Live Gratuito · 20, 21 e 22 luglio
+    </div>
+  </div>
+</header>
+
+<!-- ============================ HERO ============================ -->
+<section class="hero">
+  <div class="wrap">
+    <span class="eyebrow">Workshop Company Brain</span>
+    <h1>Il tuo <span class="accent">Workbook della Diagnosi</span></h1>
+    <p class="sub">Quello che scrivi qui non resta chiuso in un cassetto. È il primo materiale vero che il tuo Company Brain userà per imparare chi sei, come lavori, e da dove deve partire per aiutarti davvero.</p>
+  </div>
+</section>
+
+<!-- ============================ STEP 1 · OPT-IN ============================ -->
+<section class="optin" id="wbStep1">
+  <div class="wrap">
+    <div class="sec-head">
+      <h2>Inizia il tuo workbook</h2>
+      <p>Lascia i tuoi dati per aprirlo. Poi lo compili con calma, campo per campo.</p>
+    </div>
+    <form class="form-card" id="wbForm1" novalidate>
+      <label class="fld">
+        <span class="fld-q">Nome</span>
+        <input type="text" name="nome" class="inp" autocomplete="given-name" placeholder="Il tuo nome">
+        <span class="err" data-err></span>
+      </label>
+      <label class="fld">
+        <span class="fld-q">Cognome</span>
+        <input type="text" name="cognome" class="inp" autocomplete="family-name" placeholder="Il tuo cognome">
+        <span class="err" data-err></span>
+      </label>
+      <label class="fld">
+        <span class="fld-q">Email</span>
+        <input type="email" name="email" class="inp" autocomplete="email" placeholder="La tua email">
+        <span class="err" data-err></span>
+      </label>
+      <div class="form-actions">
+        <button type="submit" class="cta" id="wbStartBtn">Inizia il workbook</button>
+      </div>
+    </form>
+  </div>
+</section>
+
+<!-- ============================ PERCHÉ CONTA ============================ -->
+<section class="why">
+  <div class="wrap">
+    <div class="sec-head">
+      <h2>Perché conta</h2>
+    </div>
+    <div class="why-card">
+      <p>Questo non è un ripasso da fare tanto per fare. Più sei preciso e onesto adesso, meno tempo perdiamo domani sera a spiegare cose che potevi già avere scritte qui. In pratica, stai già iniziando a costruire il tuo cervello aziendale, solo che lo stai facendo con carta e penna invece che con la tastiera. Prenditi il tempo che serve, non è una gara. E non barare: nessuno legge questo foglio tranne te, finché non deciderai tu di condividerlo.</p>
+    </div>
+  </div>
+</section>
+
+<!-- ============================ LE CINQUE PARTI (presentazione) ============================ -->
+<section class="parts">
+  <div class="wrap">
+    <div class="sec-head">
+      <h2>Le cinque parti del workbook</h2>
+      <p>Compilale in ordine: ognuna prepara la successiva.</p>
+    </div>
+
+    <div class="caps">
+      <div class="cap"><span class="ic">🔍</span><p><b>La tua diagnosi, riletta a freddo:</b> rivedi la fase in cui sei oggi, le tue tre righe rosse, il tuo collo di bottiglia.</p></div>
+      <div class="cap"><span class="ic">⚙️</span><p><b>Il collo di bottiglia, in dettaglio:</b> perché ti blocca, da quanto tempo, quante ore a settimana ti costa.</p></div>
+      <div class="cap"><span class="ic">🧠</span><p><b>Il genio senza memoria, nella tua azienda:</b> dove hai già provato l'AI senza successo, cosa gli mancava.</p></div>
+      <div class="cap"><span class="ic">🔀</span><p><b>I due futuri:</b> cosa cambia se risolvo questo problema nei prossimi due mesi, cosa perdo se resto fermo.</p></div>
+      <div class="cap" style="grid-column:1/-1"><span class="ic">✍️</span><p><b>L'impegno per la seconda serata:</b> un impegno scritto, più una prima descrizione vera del tuo business.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- ============================ STEP 2 · LE DOMANDE VERE (sbloccato dopo lo Step 1) ============================ -->
+<section class="step2 is-hidden" id="wbStep2">
+  <div class="wrap">
+    <div class="sec-head">
+      <h2>Le domande vere</h2>
+      <p>Prenditi il tempo che serve. Rispondi a tutto, anche a stima: serve più a te che a me.</p>
+    </div>
+
+    <form id="wbForm2" novalidate>
+
+      <!-- Parte 1 -->
+      <div class="qsection">
+        <div class="qhead">
+          <span class="ic">🧠</span>
+          <div><span class="qpart">Parte 1</span><h3>I concetti della serata</h3></div>
+        </div>
+        <div class="qfields">
+          <label class="fld">
+            <span class="fld-q">Con parole tue: cos'è il Company Brain, e perché non è "una cartella piena di file"?</span>
+            <textarea name="q1" class="inp"></textarea>
+            <span class="err" data-err></span>
+          </label>
+          <label class="fld">
+            <span class="fld-q">La regola d'oro, il Brain-First: perché l'ordine è tutto? Cosa succede se costruite un'automazione senza i primi tre strati sotto?</span>
+            <textarea name="q2" class="inp"></textarea>
+            <span class="err" data-err></span>
+          </label>
+          <label class="fld">
+            <span class="fld-q">Perché un'AI senza contesto è "un genio senza memoria"?</span>
+            <textarea name="q3" class="inp"></textarea>
+            <span class="err" data-err></span>
+          </label>
+        </div>
+      </div>
+
+      <!-- Parte 2 -->
+      <div class="qsection">
+        <div class="qhead">
+          <span class="ic">🏢</span>
+          <div><span class="qpart">Parte 2</span><h3>La tua azienda (qui si fa personale, lo legge solo il tuo referente)</h3></div>
+        </div>
+        <div class="qfields">
+          <label class="fld">
+            <span class="fld-q">Riscrivete il vostro collo di bottiglia (dalla prima sera). Dei sei strati, quali vi mancano oggi per scioglierlo?</span>
+            <textarea name="q4" class="inp"></textarea>
+            <span class="err" data-err></span>
+          </label>
+
+          <div class="fld-group">
+            <span class="fld-q fld-group-q">Il vostro blocco</span>
+            <label class="fld">
+              <span class="fld-q fld-sub-q">Da quale strato eravate partiti?</span>
+              <input type="text" name="q5strato" class="inp">
+              <span class="err" data-err></span>
+            </label>
+            <label class="fld">
+              <span class="fld-q fld-sub-q">Quanti, sotto, ne avevate saltati?</span>
+              <input type="text" name="q5saltati" class="inp">
+              <span class="err" data-err></span>
+            </label>
+            <label class="fld">
+              <span class="fld-q fld-sub-q">Cosa vi ha fermato davvero? (Non "non sono capace": andate più a fondo.)</span>
+              <textarea name="q5fermato" class="inp"></textarea>
+              <span class="err" data-err></span>
+            </label>
+          </div>
+
+          <label class="fld">
+            <span class="fld-q">La vostra trasformazione. Immaginate che il vostro cervello aziendale sia già costruito e giri da solo. Descrivete una vostra giornata tipo: cosa fate, e cosa non fate più?</span>
+            <textarea name="q6" class="inp"></textarea>
+            <span class="err" data-err></span>
+          </label>
+        </div>
+      </div>
+
+      <!-- Parte 3 -->
+      <div class="qsection">
+        <div class="qhead">
+          <span class="ic">💬</span>
+          <div><span class="qpart">Parte 3</span><h3>Feedback</h3></div>
+        </div>
+        <div class="qfields">
+          <label class="fld">
+            <span class="fld-q">Da 1 a 10, quanto vi è stata utile questa serata?</span>
+            <select name="q7" class="inp">
+              <option value="">Scegli un voto</option>
+              <option value="1">1</option>
+              <option value="2">2</option>
+              <option value="3">3</option>
+              <option value="4">4</option>
+              <option value="5">5</option>
+              <option value="6">6</option>
+              <option value="7">7</option>
+              <option value="8">8</option>
+              <option value="9">9</option>
+              <option value="10">10</option>
+            </select>
+            <span class="err" data-err></span>
+          </label>
+
+          <div class="fld" data-radio-group="q8">
+            <span class="fld-q">Le vostre aspettative sono state soddisfatte?</span>
+            <div class="radio-row">
+              <label class="radio-opt"><input type="radio" name="q8" value="Si"><span>Si</span></label>
+              <label class="radio-opt"><input type="radio" name="q8" value="No"><span>No</span></label>
+              <label class="radio-opt"><input type="radio" name="q8" value="Alla grande!"><span>Alla grande!</span></label>
+            </div>
+            <span class="err" data-err></span>
+          </div>
+
+          <label class="fld">
+            <span class="fld-q">C'è qualcosa che stasera vi ha sorpreso? Raccontatecelo.</span>
+            <textarea name="q9" class="inp"></textarea>
+            <span class="err" data-err></span>
+          </label>
+          <label class="fld">
+            <span class="fld-q">Cosa vorreste approfondire nelle prossime serate?</span>
+            <textarea name="q10" class="inp"></textarea>
+            <span class="err" data-err></span>
+          </label>
+        </div>
+      </div>
+
+      <div class="form-actions">
+        <button type="submit" class="cta" id="wbSubmitBtn">Invia il workbook</button>
+      </div>
+
+    </form>
+  </div>
+</section>
+
+<!-- ============================ CONFERMA (dopo l'invio) ============================ -->
+<section class="confirm is-hidden" id="wbConfirm">
+  <div class="wrap">
+    <div class="confirm-card">
+      <h2>Fatto.</h2>
+      <p>Ho ricevuto il tuo workbook. Ci vediamo alla seconda serata: da lì in poi lavoriamo su quello che hai scritto qui. Intanto scaricane una copia, così resta a te.</p>
+      <div class="confirm-actions">
+        <button type="button" class="cta cta-print" id="wbPrintBtn">Scarica il tuo workbook in PDF</button>
+      </div>
+      <span class="sign">Michele</span>
+    </div>
+  </div>
+</section>
+
+<!-- ============================ FOOTER ============================ -->
+<footer class="footer">
+  <div class="wrap">
+    <div class="links">
+      <a href="/privacy">Privacy Policy</a>
+      <a href="/termini">Termini e Condizioni</a>
+      <a href="/cookie">Cookie Policy</a>
+    </div>
+    <p style="margin-bottom:1em">©2026 Whalecot Consulting LLC · Tutti i diritti riservati</p>
+    <p class="disclaimer">Questo sito non fa parte di Facebook né è approvato da Facebook in alcun modo. Il workshop ha finalità formative ed è gratuito. Non viene promesso né garantito alcun risultato economico specifico: ogni azienda è diversa e i risultati dipendono dall'impegno, dal contesto e dalle azioni di ciascuno. L'eventuale acquisto di un percorso a pagamento non costituisce una promessa di guadagno.</p>
+  </div>
+</footer>
+
+<!-- ============================ DOCUMENTO DI STAMPA (PDF) ============================ -->
+<!-- Nascosto a schermo (#print-workbook{display:none}); popolato via JS al submit finale;
+     mostrato SOLO in @media print. Niente pulsanti/input qui dentro. -->
+<div id="print-workbook" aria-hidden="true">
+  <header class="pw-head">
+    <div class="pw-title">Company Brain · Il tuo Workbook</div>
+    <div class="pw-sub">AI Builders Club</div>
+  </header>
+  <div class="pw-meta" id="pwMeta"></div>
+  <div class="pw-body" id="pwBody"></div>
+</div>
+
+<!-- ============================ LOGICA WORKBOOK ============================ -->
+<script>
+(function(){
+  // Endpoint Apps Script Web App (foglio della seconda serata).
+  // Convenzione come la pagina workbook: costante inline in cima allo script.
+  var WORKBOOK_ENDPOINT = "https://script.google.com/macros/s/AKfycbzIA4EpMPa9kQP_YKLlqdWBTp0RGMKSIdWrslgXM9Tcgsvog0Setb6a2iU5NjP6xFb6ng/exec";
+
+  var step1   = document.getElementById('wbStep1');
+  var step2   = document.getElementById('wbStep2');
+  var confirm = document.getElementById('wbConfirm');
+  var form1   = document.getElementById('wbForm1');
+  var form2   = document.getElementById('wbForm2');
+  var startBtn = document.getElementById('wbStartBtn');
+  if(!form1 || !form2) return;
+
+  // pulisci l'errore appena l'utente scrive nel campo
+  [].forEach.call(document.querySelectorAll('.inp'), function(inp){
+    inp.addEventListener('input', function(){ clearErr(inp); });
+    inp.addEventListener('change', function(){ clearErr(inp); }); // select
+  });
+
+  // pulisci l'errore appena l'utente sceglie un'opzione (radio)
+  [].forEach.call(document.querySelectorAll('[data-radio-group]'), function(group){
+    var gname = group.getAttribute('data-radio-group');
+    [].forEach.call(document.querySelectorAll('[name="' + gname + '"]'), function(r){
+      r.addEventListener('change', function(){
+        group.classList.remove('group-invalid');
+        var ge = group.querySelector('[data-err]');
+        if(ge){ ge.textContent = ''; ge.classList.remove('show'); }
+      });
+    });
+  });
+
+  function fieldError(input){ return input.parentNode.querySelector('[data-err]'); }
+  function showErr(input, msg){
+    input.classList.add('invalid');
+    var e = fieldError(input);
+    if(e){ e.textContent = msg; e.classList.add('show'); }
+  }
+  function clearErr(input){
+    input.classList.remove('invalid');
+    var e = fieldError(input);
+    if(e){ e.textContent = ''; e.classList.remove('show'); }
+  }
+
+  // valida tutti i campi di un form: nessun invio con campi vuoti
+  function validate(form){
+    var firstBad = null;
+    [].forEach.call(form.querySelectorAll('.inp'), function(inp){
+      var v = (inp.value || '').trim();
+      var bad = !v;
+      var msg = 'Questo campo serve, riempilo.';
+      if(!bad && inp.type === 'email' && !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(v)){
+        bad = true; msg = 'Controlla l\'indirizzo email.';
+      }
+      if(bad){ showErr(inp, msg); if(!firstBad) firstBad = inp; }
+    });
+    // gruppi di scelta singola (radio): serve un'opzione selezionata
+    [].forEach.call(form.querySelectorAll('[data-radio-group]'), function(group){
+      var gname = group.getAttribute('data-radio-group');
+      if(!form.querySelector('[name="' + gname + '"]:checked')){
+        group.classList.add('group-invalid');
+        var ge = group.querySelector('[data-err]');
+        if(ge){ ge.textContent = 'Scegli una risposta.'; ge.classList.add('show'); }
+        if(!firstBad) firstBad = group;
+      }
+    });
+    if(firstBad){
+      firstBad.scrollIntoView({ behavior:'smooth', block:'center' });
+      try{ firstBad.focus({ preventScroll:true }); }catch(e){ firstBad.focus(); }
+      return false;
+    }
+    return true;
+  }
+
+  // STEP 1 → sblocca lo Step 2 senza ricaricare
+  form1.addEventListener('submit', function(e){
+    e.preventDefault();
+    if(!validate(form1)) return;
+    step2.classList.remove('is-hidden');
+    if(startBtn){ startBtn.disabled = true; startBtn.textContent = 'Workbook aperto qui sotto'; }
+    step2.scrollIntoView({ behavior:'smooth', block:'start' });
+  });
+
+  // STEP 2 → invio unico + messaggio di conferma
+  form2.addEventListener('submit', function(e){
+    e.preventDefault();
+    if(!validate(form2)) return;
+    sendWorkbook();
+    buildPrintWorkbook();   // prepara il PDF con le risposte prima di mostrare la conferma
+    step1.classList.add('is-hidden');
+    step2.classList.add('is-hidden');
+    confirm.classList.remove('is-hidden');
+    confirm.scrollIntoView({ behavior:'smooth', block:'center' });
+  });
+
+  // pulsante "Scarica il tuo workbook in PDF" → stampa del browser (salva come PDF)
+  var printBtn = document.getElementById('wbPrintBtn');
+  if(printBtn){ printBtn.addEventListener('click', function(){ window.print(); }); }
+
+  function val(name){
+    var el = document.querySelector('[name="' + name + '"]');
+    return el ? (el.value || '').trim() : '';
+  }
+
+  // valore di un gruppo di scelta singola (radio)
+  function radioVal(name){
+    var el = document.querySelector('[name="' + name + '"]:checked');
+    return el ? el.value : '';
+  }
+
+  // escape per iniettare in sicurezza le risposte dell'utente nel documento di stampa
+  function esc(s){
+    return String(s || '')
+      .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;');
+  }
+
+  // Costruisce il documento #print-workbook con nome, data e tutte le domande + risposte,
+  // nell'ordine del workbook. Non tocca l'invio al foglio: legge solo i valori dai campi.
+  function buildPrintWorkbook(){
+    var meta = document.getElementById('pwMeta');
+    var body = document.getElementById('pwBody');
+    if(!meta || !body) return;
+
+    var nomeCompleto = (val('nome') + ' ' + val('cognome')).trim();
+    var oggi = new Date();
+    var dd = ('0' + oggi.getDate()).slice(-2);
+    var mm = ('0' + (oggi.getMonth() + 1)).slice(-2);
+    var dataStr = dd + '/' + mm + '/' + oggi.getFullYear();
+
+    meta.innerHTML =
+      '<div class="pw-name">' + esc(nomeCompleto) + '</div>' +
+      '<div>Compilato il ' + dataStr + '</div>';
+
+    var html = '';
+    [].forEach.call(document.querySelectorAll('#wbForm2 .qsection'), function(sec){
+      var partEl  = sec.querySelector('.qpart');
+      var titleEl = sec.querySelector('.qhead h3');
+      html += '<div class="pw-section">';
+      if(partEl)  html += '<div class="pw-part">' + esc(partEl.textContent.trim()) + '</div>';
+      if(titleEl) html += '<div class="pw-part-title">' + esc(titleEl.textContent.trim()) + '</div>';
+      [].forEach.call(sec.querySelectorAll('.fld, .fld-group-q'), function(el){
+        // sotto-titolo di un gruppo di sotto-domande (es. "Il vostro blocco")
+        if(el.classList.contains('fld-group-q')){
+          html += '<div class="pw-subhead">' + esc(el.textContent.trim()) + '</div>';
+          return;
+        }
+        var qEl = el.querySelector('.fld-q');
+        var q = qEl ? qEl.textContent.trim() : '';
+        var a = '';
+        var gname = el.getAttribute('data-radio-group');
+        if(gname){
+          a = radioVal(gname);                        // scelta singola
+        } else {
+          var inp = el.querySelector('.inp');
+          a = inp ? (inp.value || '').trim() : '';    // testo, textarea, select (voto)
+        }
+        html += '<div class="pw-qa">' +
+                  '<div class="pw-q">' + esc(q) + '</div>' +
+                  '<div class="pw-a">' + esc(a) + '</div>' +
+                '</div>';
+      });
+      html += '</div>';
+    });
+    body.innerHTML = html;
+  }
+
+  // UNA sola POST all'Apps Script. no-cors: non possiamo leggere la risposta,
+  // quindi la conferma viene mostrata comunque (fire-and-forget).
+  function sendWorkbook(){
+    var data = {
+      nome:      val('nome'),
+      cognome:   val('cognome'),
+      email:     val('email'),
+      q1:        val('q1'),
+      q2:        val('q2'),
+      q3:        val('q3'),
+      q4:        val('q4'),
+      q5strato:  val('q5strato'),
+      q5saltati: val('q5saltati'),
+      q5fermato: val('q5fermato'),
+      q6:        val('q6'),
+      q7:        val('q7'),
+      q8:        radioVal('q8'),
+      q9:        val('q9'),
+      q10:       val('q10')
+    };
+    try{
+      fetch(WORKBOOK_ENDPOINT, {
+        method: 'POST',
+        mode: 'no-cors',
+        headers: { 'Content-Type': 'text/plain;charset=utf-8' },
+        body: JSON.stringify(data),
+        keepalive: true
+      }).catch(function(err){ console.error('workbook: invio al foglio fallito', err); });
+    }catch(e){ console.error('workbook: errore imprevisto', e); }
+  }
+})();
+</script>
+
+</body>
+</html>

@@ -87,6 +87,7 @@ def extract_frame(video: str, t: float, out_path: str) -> None:
         ffmpeg, "-y",
         "-ss", f"{t:.3f}", "-i", video,
         "-frames:v", "1", "-q:v", "2",
+        "-strict", "unofficial",
         out_path,
     ])
 
