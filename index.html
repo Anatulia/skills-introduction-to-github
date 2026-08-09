@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#16110c">
+  <meta name="description" content="Tavolo — dividi il conto al ristorante in modo visuale: pianta del tavolo, divisioni per voce, foto del menù e pagamenti fra amici.">
+  <title>Tavolo 🍷 dividi il conto</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icons/icon-192.png">
+</head>
+<body>
+  <header class="app-header">
+    <span class="logo">🍷</span>
+    <input class="dinner-name" type="text" placeholder="Nome della cena…" aria-label="Nome della cena">
+    <button class="icon-btn" id="history-btn" aria-label="Cene passate">🕰</button>
+  </header>
+
+  <main>
+    <section class="screen active" data-screen="tavolo" aria-label="Tavolo"></section>
+    <section class="screen" data-screen="menu" aria-label="Menù"></section>
+    <section class="screen" data-screen="conto" aria-label="Conto"></section>
+    <section class="screen" data-screen="quote" aria-label="Quote"></section>
+    <section class="screen" data-screen="incassa" aria-label="Incassa"></section>
+  </main>
+
+  <nav class="tabbar" aria-label="Sezioni">
+    <button data-tab="tavolo" class="active"><span class="tab-ico">🪑</span>Tavolo</button>
+    <button data-tab="menu"><span class="tab-ico">📖</span>Menù</button>
+    <button data-tab="conto"><span class="tab-ico">🧾</span>Conto</button>
+    <button data-tab="quote"><span class="tab-ico">➗</span>Quote</button>
+    <button data-tab="incassa"><span class="tab-ico">💶</span>Incassa</button>
+  </nav>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

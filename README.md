@@ -69,3 +69,22 @@ In this exercise, you will:
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/introduction-to-github) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
 &copy; 2024 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+
+---
+
+## 🍷 Tavolo — dividi il conto al ristorante
+
+In questo repository vive **Tavolo**, una web app per dividere il conto al ristorante in modo visuale:
+
+**➡️ Apri l'app: https://anatulia.github.io/skills-introduction-to-github/**
+
+- 🪑 **Pianta del tavolo** con i posti e i nomi (rettangolare o rotondo, 2–20 posti)
+- ➗ **Divisioni realistiche**: 3 bottiglie di vino divise in 8 su 15 commensali, antipasti fra tutti, dolce solo per chi lo prende, coperto e acqua
+- 📷 **Foto del menù e dello scontrino**: l'OCR legge piatti e prezzi, e confronta lo scontrino con il conto inserito
+- 💬 **Menù condiviso via WhatsApp/QR**: ognuno sceglie i suoi piatti dal proprio telefono e rimanda le scelte
+- ✅ Ogni commensale può **accettare la propria quota o chiedere una modifica**
+- 💸 **Pagamenti** con Satispay, PayPal.Me, Revolut o IBAN verso chi anticipa alla cassa
+- 🕰 Storico cene, gruppi riutilizzabili, mancia/sconti, arrotondamenti, export del riepilogo come immagine
+- 📱 **PWA installabile**, funziona anche offline — nessun server: i dati restano sul telefono
+
+Per sviluppare in locale: `python3 -m http.server` nella cartella del progetto, poi apri `http://localhost:8000`. Test del motore di calcolo: `node --test tests/model.test.js`.
