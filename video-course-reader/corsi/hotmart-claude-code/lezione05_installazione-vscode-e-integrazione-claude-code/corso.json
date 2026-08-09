@@ -1,0 +1,566 @@
+{
+  "title": "Installazione VSCode e integrazione Claude Code",
+  "sections": [
+    {
+      "keyframe": {
+        "index": 0,
+        "time": 0.0,
+        "timestamp": "00:00:00",
+        "image": "frame_0000.jpg",
+        "reason": "start",
+        "ocr_text": "© © ©» Queistr- Claude Code Do. x (N Vis Studio Code-The api Xi + È > % codevisulstudiocom 3 Visual Studio Code —Docs Updates Blog API Extensions MCP FAQ Leam Events The open source Al code editor Your home for multi-agent development Ms insiders edco. or be olatceme. DAPPEB Mast @ x Mallisttomi® Gesta SENI neo, 1 import { For, createSignal, createtteno CHAT +9 ER È import { uselavigate, cseParans } tr import { getEmailsForMailbox } fros rene iaia] CO Retactoing Mist TRRSPE RR IISMitea teo fees © Maitcomponentto abstract matie export function MattList() { sio icon mailbox: stringi ama omue comorciovo Ring gr ppt Sini © Extract Mall... 10 min const navigate = usenavigate(); Ta gna Coniot ciua 3. const nallbox 2 () => porasssnziibo: ont List = crentetemot0) 25 (|. | Delgateto cod agent const = query) stotovercase(); Feturn ettnattsFortai box (mailbox. The agent ilnok (gl melronous o creste _ cima comor ti TRA icon \"",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 0.0,
+          "end": 7.199999809265137,
+          "text": "Vi ho promesso che avremmo utilizzato Cloud Code, la maggior parte del tempo, non dentro il terminale, ma in un posto più facile da utilizzare."
+        },
+        {
+          "start": 7.920000076293945,
+          "end": 12.600000381469727,
+          "text": "Questo posto si chiama Visual Studio Code, abbreviato con VS Code."
+        },
+        {
+          "start": 13.199999809265137,
+          "end": 19.1200008392334,
+          "text": "È uno strumento gratuito e open source e nasce come un editor per il codice."
+        },
+        {
+          "start": 19.1200008392334,
+          "end": 24.360000610351562,
+          "text": "Infatti, se uno guarda questa schermata si spaventa e dice, Raff, ma come? Ma tu mi hai promesso che è più facile."
+        },
+        {
+          "start": 24.559999465942383,
+          "end": 28.0,
+          "text": "Invece avevi tutta questa roba. Non vi preoccupate, perché noi non faremo codice."
+        },
+        {
+          "start": 28.0,
+          "end": 33.79999923706055,
+          "text": "Questa cosa la ripeto all'infinito nel corso, perché le persone sono terrorizzate quando sentono Cloud Code,"
+        },
+        {
+          "start": 33.79999923706055,
+          "end": 37.0,
+          "text": "perché purtroppo nel nome c'è quella parolina code che spaventa."
+        },
+        {
+          "start": 37.0,
+          "end": 41.0,
+          "text": "Noi useremo questo strumento, ma non per farci codice, per farci tutto il resto."
+        },
+        {
+          "start": 41.0,
+          "end": 47.79999923706055,
+          "text": "Tutto quello che abbiamo detto. Documentazione, analisi dati, presentazioni, PDF, tutto quello che volete voi."
+        },
+        {
+          "start": 47.79999923706055,
+          "end": 52.599998474121094,
+          "text": "Tutta la parte di lavoro intellettuale, barra d'ufficio, barra creativo."
+        },
+        {
+          "start": 52.599998474121094,
+          "end": 54.79999923706055,
+          "text": "Quindi la prima cosa che facciamo è lo scarichiamo."
+        },
+        {
+          "start": 54.79999923706055,
+          "end": 61.20000076293945,
+          "text": "Ovviamente io sono su macOS e quindi mi vado a scaricare Visual Studio per macOS."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 1,
+        "time": 60.0,
+        "timestamp": "00:01:00",
+        "image": "frame_0001.jpg",
+        "reason": "periodic",
+        "ocr_text": "© @ ©» Oucistar- Cute Code Do x (N Traniator domini visi x + € > G % codevisualstudio comihank-youtdv=on @ Visual Studio Code —Docs Updates Blog API Extensions MCP FAQ Leam Events Your doma of Visual Studlo Code shouid start shorty. Direct domioad ink. rest Introducing VS Code Agents ‘companion app ‘A new companion app optimized for agent-native development, running alongside VS Code Insiders. Run multiple agents Simutanegusly, cross mule repos. No extra instalion VS Code v1.115 needed. Leammore + New release nico DocuMENTATIONI uTORIAL ‘Agents for real-world Al core concepts. Build and test with browser agent tools. development Gotan overvien o the core Lot Abu web apps and From enforcing policies th hooks to quiding agents mid-response, automatialy verify them in the validating I features th == integrated browser, catching and Intagrated browser tools, and ing bugs on ts on Bringing structures se iocty bai",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 61.20000076293945,
+          "end": 65.4000015258789,
+          "text": "Voi, se state utilizzando Windows, scaricate la versione per Windows."
+        },
+        {
+          "start": 65.4000015258789,
+          "end": 69.19999694824219,
+          "text": "Adesso qua sta scaricando un attimino, ci metterà qualche secondo, quindi metto una piccola pausa."
+        },
+        {
+          "start": 69.19999694824219,
+          "end": 72.0,
+          "text": "Appena finito di scaricare lo installiamo insieme e lo configuriamo."
+        },
+        {
+          "start": 72.0,
+          "end": 77.4000015258789,
+          "text": "Allora, eccolo qua. Sul desktop c'ho la mia bella iconcina di VS Code."
+        },
+        {
+          "start": 77.5999984741211,
+          "end": 81.19999694824219,
+          "text": "Su Mac, sapete, si installano le cose la maggior parte dei casi in questo modo."
+        },
+        {
+          "start": 81.19999694824219,
+          "end": 84.19999694824219,
+          "text": "Quindi semplicemente trascinandoli abbiamo fatto un'installazione."
+        },
+        {
+          "start": 84.19999694824219,
+          "end": 87.19999694824219,
+          "text": "Su Windows avete la procedura di installazione e così via."
+        },
+        {
+          "start": 87.19999694824219,
+          "end": 90.5999984741211,
+          "text": "Aspettiamo qualche secondo che finisce di essere installato."
+        },
+        {
+          "start": 90.5999984741211,
+          "end": 93.19999694824219,
+          "text": "La prima cosa che faremo adesso è lo avviamo."
+        },
+        {
+          "start": 93.19999694824219,
+          "end": 95.19999694824219,
+          "text": "Quindi chiudo qua e lo lancio."
+        },
+        {
+          "start": 95.19999694824219,
+          "end": 97.0,
+          "text": "Lo potete lanciare in vari modi."
+        },
+        {
+          "start": 97.0,
+          "end": 100.80000305175781,
+          "text": "Lo faccio in modo molto molto semplice, giusto per farvelo vedere."
+        },
+        {
+          "start": 100.80000305175781,
+          "end": 108.0,
+          "text": "Quindi lancio VS Code, ma spero che sappiate come lanciare un'app dentro macOS, dentro il vostro computer."
+        },
+        {
+          "start": 108.0,
+          "end": 112.0,
+          "text": "Adesso VS Code si è aperto in questo modo, ok?"
+        },
+        {
+          "start": 112.0,
+          "end": 116.19999694824219,
+          "text": "Adesso qua c'è la procedura avanzata e così via."
+        },
+        {
+          "start": 116.19999694824219,
+          "end": 121.0,
+          "text": "Per un attimo chiudiamola questa cosa, perché non voglio che vi spaventi."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 2,
+        "time": 120.0,
+        "timestamp": "00:02:00",
+        "image": "frame_0002.jpg",
+        "reason": "periodic",
+        "ocr_text": "®© ©» Queisi- Cud code De x € 309 i. code visualstudio comfihank-youtdv=osx ] Visual Studio Code ® ® © (È) ni @ Age devi SS For x @oAd toquiò Valigaing UI features th Integrated browser tools, and bringing structures ss ciocty 3 Thank or domncano visi x + Open chat Show All Commande Open Fl or Folder c Build with Agent Generata Agent instveone to onora A | scrive via to nua integrated browse, catehing and hang bugs on its own.",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 121.0,
+          "end": 128.1999969482422,
+          "text": "Dovete immaginare questo luogo, quindi VS Code, come un posto all'interno del quale voi avete vari blocchi."
+        },
+        {
+          "start": 128.39999389648438,
+          "end": 135.0,
+          "text": "Per questo io mi apro un attimo la nostra bella whiteboard di prima, che stiamo usando in alcune lezioni."
+        },
+        {
+          "start": 135.0,
+          "end": 139.0,
+          "text": "Questo non l'ho preparato prima, lo scrivo adesso al volo perché voglio farvi capire questa cosa."
+        },
+        {
+          "start": 139.0,
+          "end": 144.1999969482422,
+          "text": "Diciamo che voi quando siete dentro il vostro bel VS Code, qual è il vantaggio di usare VS Code?"
+        },
+        {
+          "start": 144.1999969482422,
+          "end": 151.1999969482422,
+          "text": "Allora, innanzitutto voi potreste utilizzare VS Code, ma in realtà ci sono vari tool per fare questa roba qua."
+        },
+        {
+          "start": 151.1999969482422,
+          "end": 155.8000030517578,
+          "text": "Quindi qualcuno invece di VS Code potrebbe usare Antigravity, che pure è molto diffuso."
+        },
+        {
+          "start": 155.8000030517578,
+          "end": 161.8000030517578,
+          "text": "Tra l'altro Antigravity è molto molto simile, quindi se avete installato Antigravity potete fare le stesse cose che vi farò vedere adesso."
+        },
+        {
+          "start": 161.8000030517578,
+          "end": 163.60000610351562,
+          "text": "O ce ne sono altri."
+        },
+        {
+          "start": 163.60000610351562,
+          "end": 168.39999389648438,
+          "text": "Abbiamo in un unico, diciamo così, in un unico luogo e in un unico contenitore."
+        },
+        {
+          "start": 168.39999389648438,
+          "end": 177.0,
+          "text": "Ci abbiamo la chat, ci abbiamo il terminale, ci abbiamo il file aperto, ok?"
+        },
+        {
+          "start": 177.0,
+          "end": 182.1999969482422,
+          "text": "E ci abbiamo, mettiamola così, il file system, lo potrei chiamare."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 3,
+        "time": 180.0,
+        "timestamp": "00:03:00",
+        "image": "frame_0003.jpg",
+        "reason": "periodic",
+        "ocr_text": "VSCODE - chat - terminale",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 182.1999969482422,
+          "end": 186.0,
+          "text": "Chiamiamole però il workspace, cartelle."
+        },
+        {
+          "start": 186.0,
+          "end": 189.60000610351562,
+          "text": "Ho sempre paura ad utilizzare termini in inglese troppo complicate, che qualcuno mi dice"
+        },
+        {
+          "start": 189.60000610351562,
+          "end": 194.60000610351562,
+          "text": "no, mi avevi promesso che era facile, perché hai detto workspace, le cartelle, ok?"
+        },
+        {
+          "start": 194.60000610351562,
+          "end": 202.39999389648438,
+          "text": "Quindi la comodità di avere VS Code è che dentro un unico posto, un'unica app, che tra l'altro è pure gratuita, faremo tutte queste cose."
+        },
+        {
+          "start": 202.39999389648438,
+          "end": 209.0,
+          "text": "Quindi apriamo la nostra chat di, diciamo, di Cloud Code, ci sono dei file aperti sui quali stiamo lavorando."
+        },
+        {
+          "start": 209.0,
+          "end": 215.1999969482422,
+          "text": "Sulla sinistra avevamo tutte le nostre belle cartelline, invece di tenere queste cose sparpagliate tra vari posti, ok?"
+        },
+        {
+          "start": 215.1999969482422,
+          "end": 218.60000610351562,
+          "text": "Questo è giusto per farvi capire un attimo questo questo passaggio."
+        },
+        {
+          "start": 218.60000610351562,
+          "end": 220.1999969482422,
+          "text": "Quindi dove siamo?"
+        },
+        {
+          "start": 220.1999969482422,
+          "end": 224.1999969482422,
+          "text": "Apriamoci di nuovo il nostro bel VS Code, ce l'abbiamo qua, ok?"
+        },
+        {
+          "start": 224.1999969482422,
+          "end": 229.39999389648438,
+          "text": "La prima cosa che faremo, VS Code diciamo, dentro c'è una serie di cose che si possono installare."
+        },
+        {
+          "start": 229.39999389648438,
+          "end": 231.1999969482422,
+          "text": "Diciamo le estensioni."
+        },
+        {
+          "start": 231.1999969482422,
+          "end": 234.8000030517578,
+          "text": "Le estensioni sono dei pezzi aggiuntivi, no?"
+        },
+        {
+          "start": 234.8000030517578,
+          "end": 237.60000610351562,
+          "text": "Come dei plugin, che gli aggiungono funzionalità."
+        },
+        {
+          "start": 237.60000610351562,
+          "end": 239.60000610351562,
+          "text": "La prima cosa che noi installeremo, qual è?"
+        },
+        {
+          "start": 239.60000610351562,
+          "end": 248.0,
+          "text": "Cloud Code, perché c'è un'estensione di Cloud Code per il nostro VS Code."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 4,
+        "time": 240.0,
+        "timestamp": "00:04:00",
+        "image": "frame_0004.jpg",
+        "reason": "periodic",
+        "ocr_text": "® (5) ora da Python language support wt er. Qrsonon 03 costare dea ‘A pertomant, feature. Eh lngua. Wire I] Python Debugger <a ras Python Debugger extension using Quo (] Supyter ross dere Uoytr notebook support, intra @itcroron con ess Sense, deuggino ® cono gr Vi emula fo Visuni Sto C.. Gittone — its... cosasu gras Supercharge Gt witin VS Code oso @ MCP Servers 1 quiding agents mid-response, validating UI features it Integrated browser tools, and bringing structures sie ioctiy Show AI Command Open Recent New United Text File Ci Bull with Agent Senate Agen Intel to ono Descr batt bulli automatialy verify them in the Integrate browser, atching and ang bugs on ts ou",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 248.0,
+          "end": 251.8000030517578,
+          "text": "Allora facciamo così, Cloud Code, ce lo cerchiamo."
+        },
+        {
+          "start": 251.8000030517578,
+          "end": 254.8000030517578,
+          "text": "Assicuratevi che sia quella ufficiale, ok?"
+        },
+        {
+          "start": 254.8000030517578,
+          "end": 258.0,
+          "text": "Perché c'è un sacco di roba qua, possono caricare le cose anche le persone."
+        },
+        {
+          "start": 258.0,
+          "end": 266.20001220703125,
+          "text": "Quindi quando installate le cose dentro VS Code, e dopo questo vedremo che vale anche per Cloud Code, fate molta attenzione."
+        },
+        {
+          "start": 266.20001220703125,
+          "end": 268.6000061035156,
+          "text": "Ok, quindi io installo questa, vedete che è ufficiale."
+        },
+        {
+          "start": 268.6000061035156,
+          "end": 272.79998779296875,
+          "text": "Ci clicco sopra e ci fa vedere che è la sviluppata Antropic, ok?"
+        },
+        {
+          "start": 272.79998779296875,
+          "end": 278.79998779296875,
+          "text": "Ed è stata installata oltre 10 milioni di volte, quindi posso essere abbastanza sicuro che è quella ufficiale e che mi posso fidare."
+        },
+        {
+          "start": 278.79998779296875,
+          "end": 284.0,
+          "text": "Faccio install, io vi consiglio di avere sempre auto-update aggiornata, così avete sempre l'ultima versione."
+        },
+        {
+          "start": 284.0,
+          "end": 288.3999938964844,
+          "text": "Faccio install, qua mi dice, ti vuoi fidare di questa azienda che si chiama Antropic?"
+        },
+        {
+          "start": 288.3999938964844,
+          "end": 291.3999938964844,
+          "text": "Ovviamente ci fidiamo, perché sappiamo che è quella ufficiale."
+        },
+        {
+          "start": 291.6000061035156,
+          "end": 294.79998779296875,
+          "text": "Se sono cose invece di terze parti, fate sempre molta attenzione."
+        },
+        {
+          "start": 294.79998779296875,
+          "end": 299.3999938964844,
+          "text": "Non installate cose che vi consigliano sconosciuti sul web, mi raccomando."
+        },
+        {
+          "start": 299.3999938964844,
+          "end": 304.6000061035156,
+          "text": "Io dopo vi consiglio un altro paio di cose installate, ma non solo uno sconosciuto sul web."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 5,
+        "time": 300.0,
+        "timestamp": "00:05:00",
+        "image": "frame_0005.jpg",
+        "reason": "periodic",
+        "ocr_text": "®© ©» Qucist- Cud code De x €39 3 Trani or doenicadno Vis x i. code visualstudio comthank-youtdv=osx ] Visual Studio Code —Docs Updates Blog (e) ES ®© (23 Certnsion ancerrUcE È) cino code av lé * _ * (e) La Loi Godo Cln odo for 9 Code Chu Code tr VS Code Hare. Wrotose [ata ChatforCaudo.. orse gras Resut Caude Cdo chat im dre Pont (I Continue «open. <p 251 Wr35 Si scia cp pu A cod @cortinie a Claude Code Assist... ($74 &r5 Uno ntegaton si Airone. Cadeo Stio tr ‘0 Code core we ‘Al dev team ot Asp Goose (9 cimude Code YOLO cose rs Sine Code VOLO? Ennaned e Gode costo I io fr Claude Coda <G5% #5 Spac-divn disponi inc nenz o Claude Code Usage <&10x des Merito Claut Cose usage nd. Groviica an Cody: AI Cose ass. 028 dr Saltcgrapie i cod sti ora n Andr + API Extensions MCP FAQ Leam Events Ses EE Extension: Claude Coe for VS Code X Claude Code for VS Code Anttople @ antropie com derit: (646) % 10148,897 Claude Code for VS Codes Harness the power of Claude Code without leing your IDE Sino Ue pere Gesruaee Claude Code for VS Code Una Claude rav power diret n your tina. Search milion ine cogabasos instant). Tum hours-J0ng wokflows into single command. Your tool. Your worfion Your codebaso, evoing atought speed. Powertulintlligance: Use the latest Claude modale using your Pro, Max Team, or Enterprise subsripio, or pay-asou- go prc + Works alongsid you: Claude altonomousìy explores your codebase, reads and res code, and run Terminal ‘commands iti your permission. New fender intertace that mokos I: aste than ever to get started * Integrated with the editor: Caudo knof about your curati file and text selection, Marketplace denaro ciosi venson 21.008 Pubtanes 10 monia 90 LISTA Raances Categories GE ul th Agent! Generate Agen strveon to erbose AI Descrive what to bold +0 Han =",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 304.6000061035156,
+          "end": 312.20001220703125,
+          "text": "Ecco qua, adesso sta facendo, mi dice, allora questo è Cloud Code, l'ha installato, eccetera eccetera."
+        },
+        {
+          "start": 312.20001220703125,
+          "end": 317.20001220703125,
+          "text": "Qua diciamo, ci sono una serie di cose che ci fa fare, noi le possiamo anche ignorare tutte quante."
+        },
+        {
+          "start": 317.20001220703125,
+          "end": 320.6000061035156,
+          "text": "Queste qua sono sempre le procedure guidate e questo lo possiamo chiudere."
+        },
+        {
+          "start": 320.79998779296875,
+          "end": 325.3999938964844,
+          "text": "Adesso si è aggiunto una nuova iconcina qua, vedete? Cloud Code."
+        },
+        {
+          "start": 325.3999938964844,
+          "end": 330.0,
+          "text": "Significa che io adesso, in qualsiasi momento, posso andare qua e cliccare questo pulsante."
+        },
+        {
+          "start": 330.0,
+          "end": 333.20001220703125,
+          "text": "E lui mi apre una sessione di Cloud Code, vedete?"
+        },
+        {
+          "start": 333.20001220703125,
+          "end": 340.20001220703125,
+          "text": "Questa è la comodità di avere Cloud Code integrato nel, diciamo, dentro il mio VS Code."
+        },
+        {
+          "start": 341.3999938964844,
+          "end": 342.79998779296875,
+          "text": "Cosa farò come prima cosa?"
+        },
+        {
+          "start": 342.79998779296875,
+          "end": 346.6000061035156,
+          "text": "Come prima cosa gli dobbiamo dire in quale file, in quale cartella vogliamo lavorare."
+        },
+        {
+          "start": 346.6000061035156,
+          "end": 348.6000061035156,
+          "text": "Quindi mi dice, ma che cartella vuoi aprire?"
+        },
+        {
+          "start": 348.6000061035156,
+          "end": 355.6000061035156,
+          "text": "Noi dobbiamo lavorare nella cartella, aspettate fatemi togliere questo da qua, cancelliamo questo e eliminiamo questo così puliamo."
+        },
+        {
+          "start": 355.6000061035156,
+          "end": 358.6000061035156,
+          "text": "Noi abbiamo la nostra bella cartellina Cloud Workspace."
+        },
+        {
+          "start": 358.6000061035156,
+          "end": 362.20001220703125,
+          "text": "Quindi gli diciamo che vogliamo lavorare nella cartella Cloud Workspace."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 6,
+        "time": 360.0,
+        "timestamp": "00:06:00",
+        "image": "frame_0006.jpg",
+        "reason": "periodic",
+        "ocr_text": "®© ©» Qucistn- Claude Code De xx] Thnko for domncadibp visi x + È > d E codevisuastudio comithank-you?dwzosx %\\] Visual Studio Code Docs Updates Blog ceo GE DL raubavo not yet opened os. Open chat how A Command Open Recent Open Fila or Folder",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 362.20001220703125,
+          "end": 367.0,
+          "text": "Andiamo nel nostro bel desktop, selezioniamo Cloud Workspace, open, ok?"
+        },
+        {
+          "start": 367.0,
+          "end": 378.0,
+          "text": "Quindi questa è la cartella, autorizziamo questa cosa qua, ovviamente Cloud ti dice, vuoi utilizzare la cartella Cloud Workspace?"
+        },
+        {
+          "start": 378.0,
+          "end": 380.0,
+          "text": "Ti fidi tutto quello che succede qua dentro?"
+        },
+        {
+          "start": 380.0,
+          "end": 382.0,
+          "text": "Posso cancellare file, rinominare file?"
+        },
+        {
+          "start": 382.0,
+          "end": 384.0,
+          "text": "Io dico sì, mi fido."
+        },
+        {
+          "start": 384.0,
+          "end": 387.0,
+          "text": "Utilizziamo la nostra bella cartellina, ok?"
+        },
+        {
+          "start": 387.0,
+          "end": 394.6000061035156,
+          "text": "E con questo abbiamo fatto l'installazione di VS Code e dentro VS Code ci abbiamo messo Cloud Code."
+        },
+        {
+          "start": 394.6000061035156,
+          "end": 397.6000061035156,
+          "text": "Quindi riapriamoci un attimo questa cosa qua, giusto per farvi capire."
+        },
+        {
+          "start": 397.6000061035156,
+          "end": 401.0,
+          "text": "VS Code è solo un'app, ok?"
+        },
+        {
+          "start": 401.0,
+          "end": 403.0,
+          "text": "È un'app all'interno della quale noi lavoreremo."
+        },
+        {
+          "start": 403.0,
+          "end": 407.0,
+          "text": "Perché poi quello che faremo in realtà è usare la chat e la chat che cos'è?"
+        },
+        {
+          "start": 407.0,
+          "end": 410.0,
+          "text": "È il nostro bel Cloud, ok?"
+        },
+        {
+          "start": 410.0,
+          "end": 412.0,
+          "text": "Quindi non è niente di strano."
+        },
+        {
+          "start": 412.0,
+          "end": 418.0,
+          "text": "La stiamo semplicemente chiamando dentro un altro luogo e questo luogo si chiama VS Code."
+        }
+      ]
+    }
+  ]
+}

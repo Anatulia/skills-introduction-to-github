@@ -1,0 +1,22 @@
+# Crea il tuo Agente AI con Claude Code
+
+## Cos'è
+Video-corso acquistato su **Hotmart**, in italiano, dal titolo "Crea il tuo Agente AI con Claude Code". È composto da **46 lezioni** organizzate in **7 moduli**: 39 lezioni video (trascrizione con timestamp + screenshot OCR) e 7 lezioni "materiale extra" senza video (una a fine di ogni modulo, con PDF scaricati e link di riferimento). Il docente si rivolge esplicitamente a un pubblico di non-programmatori; dai riferimenti nel corso (nomi propri usati negli esempi, percorsi di sistema tipo `/Users/raffaele/...`, richiami a "i miei corsi" e ad altri prodotti come "Techload") il corso risulta tenuto da **Raffaele Gaito**.
+
+## Di cosa parla
+Il corso insegna a usare **Claude Code non come strumento per programmatori, ma come ambiente di lavoro agentico** per attività d'ufficio, creative e intellettuali (formatori, freelance, agenzie, consulenti). Parte da un confronto sistematico con i chatbot tradizionali (ChatGPT, Gemini, ecc.) per spiegare le differenze chiave: Claude Code vive sul computer, legge e scrive direttamente i file, mantiene un contesto persistente sul progetto/cliente, e può essere esteso con strumenti riutilizzabili (le "skill") invece di ripetere ogni volta lo stesso prompt lunghissimo. Il filo conduttore è costruire, passo dopo passo, un proprio "assistente AI su misura": prima l'installazione, poi il modo di comunicare con lo strumento, poi lo spazio di lavoro (workspace), il contesto (file CLAUDE.md, memoria, cartelle di contesto), le skill riutilizzabili, le estensioni di sistema, e infine un metodo di lavoro strutturato ("esplora, pianifica, esegui") per i task complessi.
+
+## A cosa serve / che problema risolve
+Serve a chi vuole imparare Claude Code da zero, senza saper programmare, per automatizzare lavoro reale d'ufficio: email, proposte commerciali, riepiloghi di appunti/trascrizioni, organizzazione di clienti e progetti, creazione di contenuti ripetitivi. Vale la pena riprenderlo in mano quando ci si è dimenticati come si struttura un workspace o un contesto efficace, come si crea/richiama una skill, o quando si vuole ricordare il metodo "esplora-pianifica-esegui" per delegare con sicurezza task lunghi e complessi.
+
+## Contenuti principali
+- **Modulo 1 — Introduzione e installazione** (lez. 01-08): perché Claude Code è diverso dai chatbot tradizionali (15 differenze chiave), installazione su Mac/Windows, integrazione con VSCode, creazione del primo file, come usarlo gratis senza abbonamento (via OpenRouter). Materiale extra: PDF di confronto e glossario del modulo.
+- **Modulo 2 — Come parlare a Claude Code** (lez. 09-13): esempi pratici (riscrivere una mail, compilare un template di proposta commerciale, riassumere appunti sparsi in un unico documento con to-do), lavorare con i file, uso del terminale, perché è più potente di una semplice chat.
+- **Modulo 3 — Il workspace** (lez. 14-18): cos'è un workspace e perché è importante, tipi di workspace, come farselo creare da Claude (approccio semplice vs. approccio a domande/interviste guidate), organizzazione delle cartelle per cliente/servizio.
+- **Modulo 4 — Il contesto** (lez. 19-24): cos'è il contesto e perché è la parte più importante del corso, i diversi modi di organizzarlo (file CLAUDE.md, file memory, cartella `context/` con micro-file), come costruirlo e farlo crescere nel tempo via domande guidate.
+- **Modulo 5 — Le skill** (lez. 25-31): cosa sono e perché sono fondamentali, come creare una skill semplice/più complessa/di sistema con la skill "skill-creator", progettare skill modulari, concatenare più skill tra loro.
+- **Modulo 6 — Estendere il sistema** (lez. 32-40): livelli di estensione disponibili, installare estensioni VSCode, installare skill di terze parti, installare app da terminale (Mac e Windows), uso del gestore di pacchetti, creazione di una skill avanzata.
+- **Modulo 7 — Il metodo "esplora, pianifica, esegui"** (lez. 41-46): cos'è questo approccio (mutuato dalle best practice ufficiali Anthropic), quando usarlo e quando no, come applicarlo in modo semplice/intermedio/avanzato, e come trasformare in una skill riutilizzabile un piano già eseguito con successo.
+
+## Stato
+Corso completato per intero: tutte e 46 le lezioni processate (39 video con trascrizione + screenshot OCR sincronizzati, 7 lezioni "materiale extra" senza video con PDF e link scaricati). Nessun limite noto rilevante di qualità video/OCR per questo corso.

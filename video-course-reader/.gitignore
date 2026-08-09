@@ -1,0 +1,20 @@
+
+# Python
+__pycache__/
+*.pyc
+output/
+
+# Ambienti e artefatti locali
+.venv/
+.pytest_cache/
+.DS_Store
+*.webm
+*.wav
+*.png
+*.mp4
+sess.json
+output_test/
+profile/
+
+# Chiavi API (mai committare)
+.env

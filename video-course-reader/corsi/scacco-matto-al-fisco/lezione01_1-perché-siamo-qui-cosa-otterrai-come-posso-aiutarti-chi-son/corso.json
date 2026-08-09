@@ -1,0 +1,512 @@
+{
+  "title": "1. Perché siamo qui: cosa otterrai, come posso aiutarti, chi sono",
+  "sections": [
+    {
+      "keyframe": {
+        "index": 0,
+        "time": 0.0,
+        "timestamp": "00:00:00",
+        "image": "frame_0000.jpg",
+        "reason": "start",
+        "ocr_text": "",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 0.0,
+          "end": 10.239999771118164,
+          "text": "Scacco matto al fisco è una partita? È una guerra contro il fisco? Non è né una né"
+        },
+        {
+          "start": 10.239999771118164,
+          "end": 15.880000114440918,
+          "text": "l'altra. Primo perché la pianificazione fiscale e l'educazione fiscale non è un"
+        },
+        {
+          "start": 15.880000114440918,
+          "end": 23.399999618530273,
+          "text": "gioco. Secondo perché non è conveniente andare in guerra con l'amministrazione"
+        },
+        {
+          "start": 23.399999618530273,
+          "end": 28.079999923706055,
+          "text": "finanziaria laddove l'amministrazione finanziaria ha molte più armi a"
+        },
+        {
+          "start": 28.079999923706055,
+          "end": 35.959999084472656,
+          "text": "disposizione di noi contribuenti. Allora perché siamo qui? Siamo qui perché nel"
+        },
+        {
+          "start": 35.959999084472656,
+          "end": 43.31999969482422,
+          "text": "gioco degli scacchi si vince con una strategia e con ripetizione d'allenamento."
+        },
+        {
+          "start": 43.31999969482422,
+          "end": 52.08000183105469,
+          "text": "Noi siamo qui per un'educazione fiscale e consapevole dell'imprenditore che è"
+        },
+        {
+          "start": 52.08000183105469,
+          "end": 61.15999984741211,
+          "text": "vessato da un carico fiscale senza precedenti a livello nazionale e senza"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 1,
+        "time": 60.0,
+        "timestamp": "00:01:00",
+        "image": "frame_0001.jpg",
+        "reason": "periodic",
+        "ocr_text": "",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 61.15999984741211,
+          "end": 70.16000366210938,
+          "text": "competitor a livello internazionale per quantità pagata e servizi resi pone il"
+        },
+        {
+          "start": 70.16000366210938,
+          "end": 78.36000061035156,
+          "text": "contribuente nella condizione tale per cui i primi sette mesi dell'anno lavora"
+        },
+        {
+          "start": 78.5999984741211,
+          "end": 86.36000061035156,
+          "text": "sostanzialmente per pagare le imposte. La pressione fiscale supera ampiamente il"
+        },
+        {
+          "start": 86.36000061035156,
+          "end": 93.31999969482422,
+          "text": "50% perché se è vero che l'IRPEF va al 43% noi imprenditori dobbiamo far conto"
+        },
+        {
+          "start": 93.31999969482422,
+          "end": 99.16000366210938,
+          "text": "con le imposte societarie, con le imposte dirette e indirette, le sue transazioni,"
+        },
+        {
+          "start": 99.16000366210938,
+          "end": 102.5199966430664,
+          "text": "ma non parlo solamente di lì ma parlo anche dei vogli e delle imposte di"
+        },
+        {
+          "start": 102.5199966430664,
+          "end": 109.95999908447266,
+          "text": "registro e di una marea di micro imposte e di micro sanzioni costruite dal fisco"
+        },
+        {
+          "start": 109.95999908447266,
+          "end": 114.04000091552734,
+          "text": "per fare in modo che come uno fa un piccolo errore subito tanti ti vengono a"
+        },
+        {
+          "start": 114.04000091552734,
+          "end": 120.44000244140625,
+          "text": "prendere, che ti vengono a massacrare. Qual è la reazione principale dei"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 2,
+        "time": 120.0,
+        "timestamp": "00:02:00",
+        "image": "frame_0002.jpg",
+        "reason": "periodic",
+        "ocr_text": "",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 120.44000244140625,
+          "end": 125.72000122070312,
+          "text": "consulenti fiscali e qual è la reazione principale degli imprenditori?"
+        },
+        {
+          "start": 125.72000122070312,
+          "end": 132.16000366210938,
+          "text": "Troppi consulenti fiscali sono per ignoranza eccessivamente timorosi e"
+        },
+        {
+          "start": 132.1999969482422,
+          "end": 139.16000366210938,
+          "text": "conservatori e quindi passano il loro tempo a dire perché non si possono fare"
+        },
+        {
+          "start": 139.16000366210938,
+          "end": 145.0399932861328,
+          "text": "le cose piuttosto che individuare qual è una strada per poter fare le cose, una"
+        },
+        {
+          "start": 145.0399932861328,
+          "end": 150.39999389648438,
+          "text": "strada che però va presa nell'ottica di una conoscenza generale del sistema"
+        },
+        {
+          "start": 150.39999389648438,
+          "end": 156.9199981689453,
+          "text": "legale e fiscale così che l'imprenditore al corrente dei rischi, dei vantaggi e"
+        },
+        {
+          "start": 156.9199981689453,
+          "end": 161.24000549316406,
+          "text": "degli svantaggi possa o meno intraprendere determinate strade."
+        },
+        {
+          "start": 161.24000549316406,
+          "end": 170.52000427246094,
+          "text": "Dall'altra abbiamo l'imprenditore che invece per paura delle conseguenze"
+        },
+        {
+          "start": 170.52000427246094,
+          "end": 177.0399932861328,
+          "text": "fiscali vuoi per ignoranza vuoi perché vuole stare tranquillo preferisce non"
+        },
+        {
+          "start": 177.0399932861328,
+          "end": 184.1999969482422,
+          "text": "fare pianificazione fiscale, non sfruttare gli strumenti e gli istituti"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 3,
+        "time": 180.0,
+        "timestamp": "00:03:00",
+        "image": "frame_0003.jpg",
+        "reason": "periodic",
+        "ocr_text": "",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 184.1999969482422,
+          "end": 189.1199951171875,
+          "text": "legali che lo stesso legislatore cioè chi fa le leggi ci mette a disposizione"
+        },
+        {
+          "start": 189.1199951171875,
+          "end": 199.27999877929688,
+          "text": "perché non vuole problemi ma quali sono questi problemi allora? I problemi sono"
+        },
+        {
+          "start": 199.27999877929688,
+          "end": 206.0800018310547,
+          "text": "che una cattiva pianificazione fiscale o l'insieme di una serie di tecniche"
+        },
+        {
+          "start": 206.0800018310547,
+          "end": 214.63999938964844,
+          "text": "prive di una loro complementarità e congruenza generale possono portare a"
+        },
+        {
+          "start": 214.63999938964844,
+          "end": 221.16000366210938,
+          "text": "controlli fiscali con l'unico scopo di danneggiarvi non solo nella vostra"
+        },
+        {
+          "start": 221.16000366210938,
+          "end": 226.47999572753906,
+          "text": "azienda ma anche nella vostra mente. Quindi che cosa dobbiamo fare noi e come"
+        },
+        {
+          "start": 226.47999572753906,
+          "end": 233.32000732421875,
+          "text": "dobbiamo impostare noi il lavoro? Noi dobbiamo avere contezza di quelle che"
+        },
+        {
+          "start": 233.32000732421875,
+          "end": 241.9199981689453,
+          "text": "sono le possibilità e le opportunità, le nostre ricette, le nostre regole. Una"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 4,
+        "time": 240.0,
+        "timestamp": "00:04:00",
+        "image": "frame_0004.jpg",
+        "reason": "periodic",
+        "ocr_text": "",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 241.9199981689453,
+          "end": 249.9199981689453,
+          "text": "volta ottenuta questa consapevolezza dobbiamo capire nel nostro caso"
+        },
+        {
+          "start": 249.9199981689453,
+          "end": 255.27999877929688,
+          "text": "specifico quali sono quelle che possono funzionare, quelle che devono essere"
+        },
+        {
+          "start": 255.27999877929688,
+          "end": 264.8399963378906,
+          "text": "assolutamente eliminate. Da lì la costruzione di un nostro modus di"
+        },
+        {
+          "start": 264.8399963378906,
+          "end": 268.3999938964844,
+          "text": "comportamento nella gestione dell'azienda dal punto di vista"
+        },
+        {
+          "start": 268.6000061035156,
+          "end": 273.760009765625,
+          "text": "amministrativo fiscale e la nostra pianificazione di quegli strumenti di"
+        },
+        {
+          "start": 273.760009765625,
+          "end": 280.32000732421875,
+          "text": "ampio periodo che invece ci consentiranno in un'ottica di orizzonte"
+        },
+        {
+          "start": 280.32000732421875,
+          "end": 286.0799865722656,
+          "text": "oltre 12 mesi di ottenere degli importanti vantaggi fiscali da un lato"
+        },
+        {
+          "start": 286.0799865722656,
+          "end": 293.2799987792969,
+          "text": "e di protezione patrimoniale dall'altro. Perché senza protezione patrimoniale è"
+        },
+        {
+          "start": 293.2799987792969,
+          "end": 301.0799865722656,
+          "text": "inutile fare pianificazione fiscale. Per più motivi che scopriremo insieme"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 5,
+        "time": 300.0,
+        "timestamp": "00:05:00",
+        "image": "frame_0005.jpg",
+        "reason": "periodic",
+        "ocr_text": "",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 301.0799865722656,
+          "end": 306.79998779296875,
+          "text": "all'interno di questo percorso. Io sono Carlo Alberto Micheli, sono"
+        },
+        {
+          "start": 306.79998779296875,
+          "end": 311.6400146484375,
+          "text": "avvocato, sono abilitato anche come commercialista e ho al mio attivo"
+        },
+        {
+          "start": 311.6400146484375,
+          "end": 318.239990234375,
+          "text": "numerose aziende, nello specifico tre aziende operanti."
+        },
+        {
+          "start": 318.2799987792969,
+          "end": 326.2799987792969,
+          "text": "Queste aziende sono tra di loro collegate dal punto di vista dell'offerta"
+        },
+        {
+          "start": 326.2799987792969,
+          "end": 333.0,
+          "text": "ma anche dal punto di vista giuridico e lo vedremo perché negli schemi. Nel"
+        },
+        {
+          "start": 333.0,
+          "end": 339.0799865722656,
+          "text": "corso degli anni, io sono a 20 anni di esperienza imprenditoriale, ho aperto la"
+        },
+        {
+          "start": 339.0799865722656,
+          "end": 347.8800048828125,
+          "text": "mia prima partita IVA nel 2004. Tutta la storia la trovate nel mio libro che ha"
+        },
+        {
+          "start": 347.8800048828125,
+          "end": 355.1600036621094,
+          "text": "auspico sia stato da voi preso e magari già visto nei suoi primi capitoli."
+        },
+        {
+          "start": 355.1600036621094,
+          "end": 360.79998779296875,
+          "text": "In tutti questi anni io ho sempre dovuto affrontare più aspetti."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 6,
+        "time": 360.0,
+        "timestamp": "00:06:00",
+        "image": "frame_0006.jpg",
+        "reason": "periodic",
+        "ocr_text": "",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 360.79998779296875,
+          "end": 367.8399963378906,
+          "text": "Io come anche voi. L'aspetto della configurazione giuridica, di come vado a"
+        },
+        {
+          "start": 367.8399963378906,
+          "end": 374.67999267578125,
+          "text": "esercitare quella determinata attività. L'aspetto propriamente economico di"
+        },
+        {
+          "start": 374.67999267578125,
+          "end": 378.7200012207031,
+          "text": "creazione del valore all'interno dell'azienda, quindi cosa faccio, come lo"
+        },
+        {
+          "start": 378.7200012207031,
+          "end": 386.3999938964844,
+          "text": "faccio, a chi lo faccio e a quanto lo vendo. Classico imprenditoriale. E l'annoso"
+        },
+        {
+          "start": 386.3999938964844,
+          "end": 394.44000244140625,
+          "text": "problema delle imposte. Perché se il mio profitto al 60% va nelle casse dello"
+        },
+        {
+          "start": 394.44000244140625,
+          "end": 402.7200012207031,
+          "text": "Stato, o lavoro tutto il giorno perché altrimenti non arrivo, oppure devo"
+        },
+        {
+          "start": 402.7200012207031,
+          "end": 406.44000244140625,
+          "text": "aumentare i prezzi col problema di andare fuori mercato."
+        },
+        {
+          "start": 406.44000244140625,
+          "end": 410.67999267578125,
+          "text": "Quindi nella nostra configurazione giuridica, nella mia configurazione"
+        },
+        {
+          "start": 410.67999267578125,
+          "end": 417.0,
+          "text": "giuridica, ho nel corso degli anni, in virtù dell'esperienza imprenditoriale e"
+        },
+        {
+          "start": 417.0,
+          "end": 425.44000244140625,
+          "text": "degli studi giuridico-economici, strutturato schemi via via, a seconda"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 7,
+        "time": 420.0,
+        "timestamp": "00:07:00",
+        "image": "frame_0007.jpg",
+        "reason": "periodic",
+        "ocr_text": "",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 425.44000244140625,
+          "end": 430.9200134277344,
+          "text": "dei progetti, che mi hanno permesso di ottimizzare il carico fiscale, portando"
+        },
+        {
+          "start": 430.9599914550781,
+          "end": 437.3599853515625,
+          "text": "la mia imposizione media tutt'ora intorno al 30%, facendo in modo che"
+        },
+        {
+          "start": 437.3599853515625,
+          "end": 445.32000732421875,
+          "text": "determinati benefit possano legalmente rientrare sotto l'ombrello societario,"
+        },
+        {
+          "start": 445.32000732421875,
+          "end": 454.4800109863281,
+          "text": "cosicché io abbia un tenore di vita meritato, come quello che ogni"
+        },
+        {
+          "start": 454.4800109863281,
+          "end": 462.8399963378906,
+          "text": "imprenditore si merita per i sacrifici che mette in campo ogni giorno. Nel corso"
+        },
+        {
+          "start": 462.8399963378906,
+          "end": 469.6000061035156,
+          "text": "quindi di questo materiale formativo andremo a vedere nello specifico come"
+        },
+        {
+          "start": 469.6000061035156,
+          "end": 476.760009765625,
+          "text": "posso aiutarti e come configurare tutti gli strumenti all'interno della tua"
+        },
+        {
+          "start": 476.79998779296875,
+          "end": 489.67999267578125,
+          "text": "azienda. Codice Micheli è il mio progetto fatto di consulenti fiscali, dove il mio"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 8,
+        "time": 480.0,
+        "timestamp": "00:08:00",
+        "image": "frame_0008.jpg",
+        "reason": "periodic",
+        "ocr_text": "",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 489.67999267578125,
+          "end": 494.55999755859375,
+          "text": "team si occupa di creare la pianificazione fiscale su misura per la"
+        },
+        {
+          "start": 494.55999755859375,
+          "end": 501.4800109863281,
+          "text": "tua azienda. Ti dico sin da ora che puoi candidarti e puoi entrare con la tua"
+        },
+        {
+          "start": 501.4800109863281,
+          "end": 509.6000061035156,
+          "text": "azienda all'interno di questo progetto per attuare con il nostro supporto tutte"
+        },
+        {
+          "start": 509.6000061035156,
+          "end": 514.3200073242188,
+          "text": "le strategie necessarie per ottimizzare il carico fiscale e avere più soldi"
+        },
+        {
+          "start": 514.3200073242188,
+          "end": 524.5999755859375,
+          "text": "nelle tue tasche, dandone meno al fisco. Un percorso quindi su misura al quale"
+        },
+        {
+          "start": 524.5999755859375,
+          "end": 532.2000122070312,
+          "text": "anche tu potrai accedere. Entriamo quindi nel vivo di questo corso e partiamo con"
+        },
+        {
+          "start": 532.2000122070312,
+          "end": 536.3200073242188,
+          "text": "dei casi studio ben precisi."
+        }
+      ]
+    }
+  ]
+}

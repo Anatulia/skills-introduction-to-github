@@ -1,0 +1,564 @@
+{
+  "title": "Una sbirciatina nel mio workspace",
+  "sections": [
+    {
+      "keyframe": {
+        "index": 0,
+        "time": 0.0,
+        "timestamp": "00:00:00",
+        "image": "frame_0000.jpg",
+        "reason": "start",
+        "ocr_text": "* ce Vv È 20 O) unriTLED (Workspac.. (è Pa C Q Y q@i claude workspace > i claude > nil context > ati plans V ell projects. > ai corsì > ai newsletter > sii podcast > ail reels > ail substack > ati youtube > 36 temp > uil templates + ogitignore % CLAUDE.mdi Start new coding session X Start new coding session Istart € Thought for is ® Glob pattern: \"context/e.md' ®. Glob pattern: \".claude/skilts/e\" è Read chi-sono.nd ® Read cansli.nd * Road servizi.n è Read Ubri.sa ® Road audience.sd ® Contesto caricato. Sono pronto ad alutarti, Raffaele. /Noad-profect podcast ® Thought for is * Read context.nd ®. Progetto podcast caricato. Contesto: What's Next — interviste settimanali a professionisti sullIA applicata a settori specifici. ll contesto include ‘naming e note su domande, transcript e playlist YouTube. * © © ®",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 0.0,
+          "end": 5.679999828338623,
+          "text": "Piccolo modulino extra perché ho detto facciamo vedere a sto punto un attimo"
+        },
+        {
+          "start": 5.679999828338623,
+          "end": 9.0,
+          "text": "pure il mio workspace. Infatti vedete pure un attimo l'inquadratura diversa"
+        },
+        {
+          "start": 9.0,
+          "end": 14.84000015258789,
+          "text": "l'ho registrato dopo. Lo voglio far vedere solo per far vedere che l'esempio"
+        },
+        {
+          "start": 14.84000015258789,
+          "end": 20.239999771118164,
+          "text": "che vi ho fatto vedere prima non sono esempi inventati diciamo così generici"
+        },
+        {
+          "start": 20.239999771118164,
+          "end": 25.920000076293945,
+          "text": "light e uno dice vabbè però sicuramente Raffaele nel suo vero uso di cloud code"
+        },
+        {
+          "start": 25.920000076293945,
+          "end": 30.360000610351562,
+          "text": "ci avrà una cosa complicatissima con 200 cartelle sotto cartelli mostri no"
+        },
+        {
+          "start": 30.360000610351562,
+          "end": 36.84000015258789,
+          "text": "questo è il mio VSCode, questo è il mio workspace e io ho la cartellina cloud"
+        },
+        {
+          "start": 36.84000015258789,
+          "end": 40.20000076293945,
+          "text": "questa qua è una cartella speciale diciamo dove ci sono le skills"
+        },
+        {
+          "start": 40.20000076293945,
+          "end": 43.52000045776367,
+          "text": "ignoratela perché la vedremo dopo quando parleremo delle skills ma quello che c'è"
+        },
+        {
+          "start": 43.52000045776367,
+          "end": 49.040000915527344,
+          "text": "è cartella con il contesto. Ve l'apro, vi faccio vedere dentro il contesto, ne"
+        },
+        {
+          "start": 49.040000915527344,
+          "end": 52.68000030517578,
+          "text": "parliamo tra un attimo quando parleremo del contesto che è un altro dei punti"
+        },
+        {
+          "start": 52.68000030517578,
+          "end": 56.279998779296875,
+          "text": "fondamentali per usare bene cloud code. Praticamente è tutto quello che cloud"
+        },
+        {
+          "start": 56.279998779296875,
+          "end": 61.47999954223633,
+          "text": "code sa su di me, il mio lavoro, quello che faccio. Vedete c'è uno per l'audience"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 1,
+        "time": 60.0,
+        "timestamp": "00:01:00",
+        "image": "frame_0001.jpg",
+        "reason": "periodic",
+        "ocr_text": "D urmemoneme. ® fa CO > 6 temp > ul templates + oaitignore € CLAUDE.md O) XK Start new coding session X Start new coding session “/Pesktop]claude workspace/contet/audience.md € Thought for is ® Glob pattern: \"context/e.nd' ®. Glob pattern: \".claude/skilts/e\" und tl è Read chi-sono.sd @ Read canali.nd ® Road servizi.n è Read Ubri.sd ® Road sudience.sd ® Contesto caricato. Sono pronto ad aiutarti Raffaele. /Noad-project podcast ® Thought foris ® Read context.nd ®. Progetto podcast caricato. Contesto: What's Next — interviste settimanali a professionisti sullIA applicata a settori specifici. ll contesto include ‘naming e note su domande, transcript e playlist YouTube. < Eclt automatica",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 61.47999954223633,
+          "end": 65.68000030517578,
+          "text": "uno per i canali ma ci andiamo dopo in dettaglio. C'è una cartella per i piani"
+        },
+        {
+          "start": 65.68000030517578,
+          "end": 71.95999908447266,
+          "text": "per la pianificazione perché vi ho detto che con cloud si lavora con"
+        },
+        {
+          "start": 71.95999908447266,
+          "end": 75.36000061035156,
+          "text": "la pianificazione. Prima vi ho fatto vedere un modo semplice di pianificare"
+        },
+        {
+          "start": 75.36000061035156,
+          "end": 79.04000091552734,
+          "text": "in realtà dopo vi faccio vedere un modo serio di pianificare, quello che preferisco"
+        },
+        {
+          "start": 79.04000091552734,
+          "end": 84.4800033569336,
+          "text": "io, una cartella con i progetti, poi una cartella temporanea con le cose che"
+        },
+        {
+          "start": 84.4800033569336,
+          "end": 87.5999984741211,
+          "text": "stanno, non so se c'è qualcosa qua dentro in questo momento, sì, vedete devo"
+        },
+        {
+          "start": 87.5999984741211,
+          "end": 92.36000061035156,
+          "text": "pure cancellarla, e una cartella con i template quindi con i file che vi"
+        },
+        {
+          "start": 92.36000061035156,
+          "end": 97.04000091552734,
+          "text": "utilizzo spesso e la cartella con i progetti, cioè guardate dentro cosa c'è"
+        },
+        {
+          "start": 97.04000091552734,
+          "end": 102.31999969482422,
+          "text": "ci sta 1 2 3 4 5 6 questo è tutto il mio cloud code, cioè ci sono sei cartelle"
+        },
+        {
+          "start": 102.31999969482422,
+          "end": 108.87999725341797,
+          "text": "dentro la cartella progetti, i corsi, la newsletter, il podcast, i reel, cioè"
+        },
+        {
+          "start": 108.87999725341797,
+          "end": 113.91999816894531,
+          "text": "questo si chiama reel ma in realtà sarebbe, i reel per me intendo reel, short, tiktok"
+        },
+        {
+          "start": 113.91999816894531,
+          "end": 118.55999755859375,
+          "text": "quindi video brevi, substack che è la mia newsletter in inglese e youtube"
+        },
+        {
+          "start": 118.55999755859375,
+          "end": 122.76000213623047,
+          "text": "tra l'altro avete visto che qua uso una sorta di ibrido tra i due modelli che"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 2,
+        "time": 120.0,
+        "timestamp": "00:02:00",
+        "image": "frame_0002.jpg",
+        "reason": "periodic",
+        "ocr_text": "O) untiTLED (Workspac. (è Pa CD > q@i claude workspace ° > i claude > ni context > ati plans . V ell projects. . > af corsi . > ai newsletter > ail podcast . > nil reels > ail substack \"> ri templates. + ogitignore è CLAUDE.md Start new coding session x Start new coding session Istart € Thought for is ® Giob pattern: \"context/e.nd\" » ®. Glob pattern: \".claude/skilts/e\" è Read chi-sono.md è Road canali.nd * Read servizi.n è Read Ubri.sa ® Road sudience.nd ® Contesto caricato. Sono pronto ad alutarti, Raffaele. /Noad-project podcast ® Thought for.is ® Read context.nd ® Progetto podcast caricato. Contesto: What's Next — interviste settimanali a professionisti sullIA applicata a settori specifici. ll contesto include ‘naming e note su domande, transcript e playlist YouTube. < Ecit automatica * D (Co)",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 122.76000213623047,
+          "end": 127.04000091552734,
+          "text": "vi ho fatto vedere prima perché chiamo la cartella progetti però poi dentro le"
+        },
+        {
+          "start": 127.04000091552734,
+          "end": 132.27999877929688,
+          "text": "chiamo anche youtube, podcast, quindi diciamo come vi ho fatto vedere prima il"
+        },
+        {
+          "start": 132.27999877929688,
+          "end": 137.55999755859375,
+          "text": "workspace lo potete gestire con la flessibilità che volete voi, quindi io"
+        },
+        {
+          "start": 137.55999755859375,
+          "end": 141.9199981689453,
+          "text": "qua ragiono per progetti e non per canali però youtube è un canale, il"
+        },
+        {
+          "start": 141.9199981689453,
+          "end": 145.60000610351562,
+          "text": "podcast è un canale, semplicemente io lo tratto come se fosse un progetto, quello"
+        },
+        {
+          "start": 145.60000610351562,
+          "end": 150.8800048828125,
+          "text": "per me è il progetto podcast, il progetto substack e che ne so, ve lo apro podcast"
+        },
+        {
+          "start": 150.8800048828125,
+          "end": 154.8000030517578,
+          "text": "per farvi vedere che forse è uno di quelli dei più corposi, questo è contesto, file di"
+        },
+        {
+          "start": 154.8000030517578,
+          "end": 159.55999755859375,
+          "text": "contesto, ignorateli per il momento, ci sono le domande per esempio, vedete"
+        },
+        {
+          "start": 159.55999755859375,
+          "end": 164.24000549316406,
+          "text": "queste sono tutte le domande che ho fatto a tutti gli ospiti, è importante che"
+        },
+        {
+          "start": 164.24000549316406,
+          "end": 168.0800018310547,
+          "text": "lui abbia le domande perché così siccome cloud code lavora sul testo più"
+        },
+        {
+          "start": 168.0800018310547,
+          "end": 173.24000549316406,
+          "text": "cose c'ha, più è in grado poi di rispondere bene alle nostre richieste"
+        },
+        {
+          "start": 173.24000549316406,
+          "end": 177.1999969482422,
+          "text": "che ne so, i transcript, qua ci sono i transcript completi, quindi la"
+        },
+        {
+          "start": 177.1999969482422,
+          "end": 184.16000366210938,
+          "text": "trascrizione completa di tutte le interviste, qua ci sono i metadati, cioè mi"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 3,
+        "time": 180.0,
+        "timestamp": "00:03:00",
+        "image": "frame_0003.jpg",
+        "reason": "periodic",
+        "ocr_text": "DD urmeomoneme. D î CO © W@l claude morkspace . > a claude > all context è 71m . > ell projects . > all corsì . DO > a nevsiettr Val podcast . Hd > sa domande > ai metadata è TI ANO iaicuno transit X + citkeop 2025-07-04-nello-cristianini.md 2025-10-09-marlarosaria-taddeo... 2025-10-17-francesco-marino.md ‘2025-10-24-matteo-allotta.md 2025-10-31-gennaro-romagnoli... 2025-11-07-Hluciano florida 2025-11-14-francesco-oggiano.md 2025-11-28-jacopo-perfetti.md 2025-12-05-virginia-padovese.md 2025-12-12-giuseppe-ragazzini 2025-12-19-alessandro-de-conci; ‘2025-12-26-emillano-colangeli.md 2026-01-02-emanuela-girardi. md 2026-01-09-armando-bisogno.md 2026-01-16-vincenzo-esposito. md 2026-01-23-marcello-ascani.md 2026-01-30-giovanna-panucci.md 2026-02-06-vittorio-scarano.md 2026-02-13-enkk md 2026-02-20-ivano-di-biasi.md ‘2026-02-27-mark-hammer.md 2026-03-05-nicola-triglione.md 2026-03-11-federica-brancale.md TAI ZIA ZA: i era O) % Start new coding session x Start new coding session Istart € Thought for'is è Glob pattern: ‘context/ a. nd ®. Glob pattern: \".claude/skilts/e\" ® Read chi-sono.sd ® Read canali.nd ® Read servizi.nd ® Read Ubri.nd è read audience. sd ® Contesto caricato. Sono pronto ad alutarti, Raffaele. /Noad-project podcast € Thought foris ® Read context.nd ®. Progetto podcast caricato. Contesto: What's Next — interviste settimanali a professionisti sullA applicata a settori specifici. ll contesto include naming e note su domande, transcript e playlist YouTube. < Ealt automatica * © e ®",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 184.16000366210938,
+          "end": 188.47999572753906,
+          "text": "faccio aiutare a creare i metadati, i metadati sarebbe i titoli, le descrizioni,"
+        },
+        {
+          "start": 188.47999572753906,
+          "end": 193.67999267578125,
+          "text": "le copertine, i tag, quella roba la non la faccio più a mano, ovviamente l'AI è"
+        },
+        {
+          "start": 193.67999267578125,
+          "end": 197.0399932861328,
+          "text": "perfetta nel fare quella roba, lo fa molto più velocemente di me, lo fa"
+        },
+        {
+          "start": 197.0399932861328,
+          "end": 201.60000610351562,
+          "text": "molto più ottimizzato di me, mi propone delle alternative, ma lo può fare perché"
+        },
+        {
+          "start": 201.60000610351562,
+          "end": 207.55999755859375,
+          "text": "c'ha i transcript, quindi se io gli dico, che ne so, la puntata con Savastano, con"
+        },
+        {
+          "start": 207.55999755859375,
+          "end": 210.55999755859375,
+          "text": "Piero Savastano, bellissima, se non l'avete vista vedetevela, parliamo proprio di"
+        },
+        {
+          "start": 210.55999755859375,
+          "end": 216.0,
+          "text": "cloud code, lui va a vedere l'intervista, si legge un'ora di transcript, sa di cosa"
+        },
+        {
+          "start": 216.0,
+          "end": 219.0399932861328,
+          "text": "abbiamo parlato e mi propone dei titoli adatti, delle descrizioni adatte, delle"
+        },
+        {
+          "start": 219.0399932861328,
+          "end": 222.0,
+          "text": "copertine adatte e così via, ovviamente lo so, voi magari non fate"
+        },
+        {
+          "start": 222.0,
+          "end": 226.63999938964844,
+          "text": "youtube, però il senso è lo stesso, cioè se voi avete, fate consulenza, se voi fate"
+        },
+        {
+          "start": 226.63999938964844,
+          "end": 232.63999938964844,
+          "text": "presentazioni, se voi scrivete molti report, fate molte call one to one, meeting, è la"
+        },
+        {
+          "start": 232.63999938964844,
+          "end": 236.9600067138672,
+          "text": "stessa cosa, vi tenete le trascrizioni dei meeting e perché è bello, perché"
+        },
+        {
+          "start": 236.9600067138672,
+          "end": 242.72000122070312,
+          "text": "potete interrogarlo, vi faccio vedere, cioè se io qua gli dico, in quale"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 4,
+        "time": 240.0,
+        "timestamp": "00:04:00",
+        "image": "frame_0004.jpg",
+        "reason": "periodic",
+        "ocr_text": "e) *XUER TV È O) unriTLED Workspac.. (è Pa C © Y @@i claude workspace . Vel projects. . “ell podcast . V ell metadata . 2026-03-24-mario-moroni.md 2026-03-27-piero-savastano.md! 2026-04-10-giovanni-cavaliere.md. 2026-04-17-bias-ia-manuel... U > al output Sul transcript. . + gitkeep 2025-07-04-nello-cristianini.md 2025-10-09-mariarosaria-taddeo. 2026-10-17-francesco-marino.md 2026-10-24-matteo-aliotta.md 2025-10-31-gennaro-romagnoli. ‘2025-11-07-luciano-fioridi.md 2025-11-14-francesco-oggiano.md 2025-11-28-jacopo-perfetti.md 2025-12-05-virginia-padovese.md 2025-12-12-giuseppe-ragazzini... 2025-12-19-alessandro-de-conci... 2025-12-26-emillano-colangeli.md 2026-01-02-emanuela-girardi.md 2026-01-09-armando-bisogno.md ‘2026-01-16-vincenzo-esposito.md 2026-01-23-marcello-ascani.md 2026-01-30-giovanna-panucci.md 2026-02-06-vittorio-scarano.md 2026-02-13-enkk.md 2026-02-20-ivano-di-biasi.md ‘2026-02-27 -mark-hammer.md 2026-03-05-nicola-triglione.md 2026-03-11-federica-brancale.md ‘2026-03-24-mario-moroni.md ‘2026-03-25-piero-savastano.md Start new coding session x Start new coding session Istort € Thought for'1s ® Glob pattern: ‘context/a. nd ®. Glob pattern: \".claude/skiUs/a\" è Read chi-sono.sd Road conali.nd ® Road servizi.n è Read Ubri.sd ® Road sudience.sd ® Contesto caricato. Sono pronto ad aiutarti, Raffaele. /Noad-project podcast oght foris ® Read context.nd ®. Progetto podcast caricato. Contesto: What's Next — interviste settimanali a professionisti sullA applicata a settori specifici. ll contesto include ‘naming e note su domande, transcript e playlist YouTube.",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 242.72000122070312,
+          "end": 255.32000732421875,
+          "text": "intervista del podcast abbiamo parlato dell'impatto psicologico sulle persone"
+        },
+        {
+          "start": 255.32000732421875,
+          "end": 263.0400085449219,
+          "text": "dell'IA, adesso questo è il mio cloud code all'opera, non è diciamo generico,"
+        },
+        {
+          "start": 263.0400085449219,
+          "end": 267.1199951171875,
+          "text": "non è quello che sto usando per il corso, perciò vedete pure l'inquadratura diversa"
+        },
+        {
+          "start": 267.1199951171875,
+          "end": 273.32000732421875,
+          "text": "e così via, il fatto dicevo di avere questo grosso, questa grossa mole di dati,"
+        },
+        {
+          "start": 273.32000732421875,
+          "end": 278.55999755859375,
+          "text": "che è quella che viene chiamata la knowledge base, la knowledge base la"
+        },
+        {
+          "start": 278.55999755859375,
+          "end": 284.3999938964844,
+          "text": "possiamo chiamare come la nostra base di conoscenza, ecco mettiamola così, dice"
+        },
+        {
+          "start": 284.3999938964844,
+          "end": 287.4800109863281,
+          "text": "allora, dai titoli l'episodio più direttamente legato all'impatto"
+        },
+        {
+          "start": 287.4800109863281,
+          "end": 291.760009765625,
+          "text": "psicologico è quello con Gennaro Romagnoli, del 31 ottobre 2025, le persone"
+        },
+        {
+          "start": 291.760009765625,
+          "end": 295.3999938964844,
+          "text": "cercano rifugio in CGPT, esattamente quello che è successo, lo dice, guarda è stato"
+        },
+        {
+          "start": 295.3999938964844,
+          "end": 299.239990234375,
+          "text": "anche accennato con Francesco Marino il giornalista, con Maria Sonata Taddei, con"
+        },
+        {
+          "start": 299.239990234375,
+          "end": 302.2799987792969,
+          "text": "Mark Dahmer e così via, vuoi che approfondisca, guarda di"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 5,
+        "time": 300.0,
+        "timestamp": "00:05:00",
+        "image": "frame_0005.jpg",
+        "reason": "periodic",
+        "ocr_text": "(e) *XcE TV È O) unritLeo workspc (è Pa CD ei claude workopace . a projects o “ @8 podcast . x i metadata S 2026-03-24-mario-moroni.md 2026-03-27-piero-savastano.md! 2026-04-10-giovanni-cavaliere.md 2026-04-17-bias-ia-manuel... U > nti output © ell transcript. . + gitkeep 2025-07-04-nello-cristianini.md ‘2025-10-09-mariarosaria-taddeo. 2026-10-17-francesco-marino.md 2026-10-24-matteo-aliotta.md 2025-10-31-gennaro-romagnoli. ‘2025-11-07-luciano-fioridi.md 2025-11-14-francesco-oggiano.md 2025-11-28-jacopo-perfetti.md 2025-12-05-virginia-padovese.md 2025-12-12-giuseppe-ragazzini... 2025-12-19-alessandro-de-conci... 2025-12-26-emilano-colangeli.md 2026-01-02-emanuela-girardi.md 2026-01-09-armando-bisogno.md ‘2026-01-16-vincenzo-esposito.md 2026-01-23-marcello-ascani.md 2026-01-30-giovanna-panucci.md 2026-02-06-vittorio-scarano.md 2026-02-13-enkk.md 2026-02-20-ivano-di-biasi.md! 2026-02-27-mark-hammer.md 2026-03-05-nicola-triglione.md 2026-03-11-federica-brancale.md ‘2026-03-24-mario-moroni.md ‘2026-03-25-piero-savastano.md XK Start new coding session X * © Start new coding session (Oo) Istart @ Read audience.sd ® Contesto caricato. Sono pronto ad aiutarti, Raffaele. Nwad-project podcast ®. Thought for 1s ® Read context.nd ®. Progetto podcast caricato. Contesto: What's Next — interviste settimanali a professionisti sull'IA applicata a settori specifici. ll contesto include struttura cartelle, convenzioni di ‘naming e note su domande, transcript e playlist YouTube. in quale intervista del podcast abbiamo parlato dell'impatto psicologico sulle persone dell'1A? ® Thought for.is e Read puntate.nd ® Thought for ts ® Daltitoli, l'episodio più direttamente legato all'impatto psicologico è quello con Gennaro Romagnoli del 31 ottobre 2025: “Le persone sole cercano rifugio in ChatGPT*. titolo parla esplicitamente di un fenomeno psicologico. Ci sono anche altri episodi che potrebbero toccare temi correlati: » Francesco Marino (17/10/2025) — “Non sappiamo più di cosa fidarci* * Mark The Hammer (27/02/2026) — \"In bilico tra una tecnologia potente e problemi etici\" * Mariarosaria Taddeo (09/10/2025) — “Parlo con un'esperta di Etica dell'A\" VCRREO TETTE TN geo < Edit avtomaticaliy",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 302.2799987792969,
+          "end": 308.1199951171875,
+          "text": "transcripto i metadati di questi dati? Io gli dico sì, guarda la puntata con"
+        },
+        {
+          "start": 308.1199951171875,
+          "end": 319.20001220703125,
+          "text": "Romagnoli e dimmi se lui parla della psicosi da IA, fammi un breve riepilogo"
+        },
+        {
+          "start": 319.20001220703125,
+          "end": 327.32000732421875,
+          "text": "del punto di vista che lo psicologo dice nella puntata, cioè questa è un'ora"
+        },
+        {
+          "start": 327.32000732421875,
+          "end": 331.55999755859375,
+          "text": "di intervista, sarebbe stato impossibile su youtube andare avanti avanti avanti"
+        },
+        {
+          "start": 331.55999755859375,
+          "end": 335.6400146484375,
+          "text": "avanti fino ad andare a prendere il punto esatto nel quale ne parlava, però"
+        },
+        {
+          "start": 335.6400146484375,
+          "end": 339.55999755859375,
+          "text": "magari a me serve quel pezzo là, perché voglio fare un articolo sul mio blog,"
+        },
+        {
+          "start": 339.55999755859375,
+          "end": 343.760009765625,
+          "text": "perché voglio fare un'immagine da pubblicare sui social, perché che ne so,"
+        },
+        {
+          "start": 343.760009765625,
+          "end": 348.4800109863281,
+          "text": "perché la devo citare in un contenuto che sto facendo, in un libro che sto"
+        },
+        {
+          "start": 348.4800109863281,
+          "end": 352.760009765625,
+          "text": "scrivendo, qualsiasi sia la casistica, ma siccome lui può accedere a tutto questo"
+        },
+        {
+          "start": 352.760009765625,
+          "end": 357.0400085449219,
+          "text": "adesso mi va a prendere specificamente quella roba là, quindi la puntata con"
+        },
+        {
+          "start": 357.0400085449219,
+          "end": 361.2799987792969,
+          "text": "Gennaro Romagnoli dove parliamo dell'impatto psicologico, mi prende quel"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 6,
+        "time": 360.0,
+        "timestamp": "00:06:00",
+        "image": "frame_0006.jpg",
+        "reason": "periodic",
+        "ocr_text": "DÒ ve morse bbc o Start new coding session x * D TITO ® stirt n cocing session Co) v @É podcast . > el metadata Lînquale intervista del podcast abbiamo parlato dell'impatto psicologico sulle persone dell'\\#? CETRA * Mariarosaria Taddeo (09/10/2025) — “Parlo con un'esperta di Etica dell'A\" 2026-03-27-piero-savastano.md 2026-04-10-giovanni-cavaliere.md 2026-04-17-bias-ia-manuel... U > nti output Sell transcript. . \"@ attneo ® Thought fors 2025-07-04-nello-cristianini.md ‘2025-10-09-mariarosaria-taddeo. 2026-10-17-francesco-marino.md 2026-10-24-matteo-aliotta.md ® Globpattern: 2025-10-31-gennaro-romagnoli. 2025-11-07-luclanoorigL.md Sao ® Bash List transeript files è Vuoi che approfondisca guardando i transcript o i metadata di qualcuno di questi? guarda la puntata con romagnoli è dimmi se lui para della psicosi da IA, fammi un breve riepilogo del punto di vista che lo psicolo dice nella puntata *XUARTV È ® Glob pattern: transeript/sromagnolix\" 1s */Users/raffaele/Desktop/claude workspace/projects/podcast/transcript/\" 2026-12-05-virginia-padovese.md ie i 2025-07-04-nello-cristianini. nd PARODI 2025-10-09-nariarosaria-taddeo.n 2025-12-19-alessandro-de-conc... 2025-10-17-francesco-marino.md 2025-12-26-emilano-colangeli.md 2026-01-02-emanuela-girardi.md 2026-01-09-armando-bisogno.md |—° Read 2025-10-31-gennaro-ronagnoli.nd ‘2026-01-16-vincenzo-esposito.md ® Grop \"psico|psicosi|disturbo]ansia|dipendenza |salute mentale|benessere|solitudine|enotiv\" (in /Users/raffaele/Desktop/claude workspace/p scrip 2026-01-23-marcello-ascani.md 1/2025-10-31-gennaro-rosagnoLi.md) 2026-01-30-giovanna-panucci.md 251 lines of output 2026-02-06-vittorio-scarano.md 2026-02-13-enkk.md € Thinking. 2026-02-20-ivano-di-biasì.md 2026-02-27-mark-hammer.md 2026-03-05-nicol-trigione md 2026-03-ti-federica-brancale.md I 2026-03-24 -mario-moroni.md Ta ‘2026-03-25-piero-savastano.md! * Inferring... O)",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 361.2799987792969,
+          "end": 365.1600036621094,
+          "text": "pezzo di testo, me lo elabora e mi fa un riassunto, ecco qua,"
+        },
+        {
+          "start": 365.1600036621094,
+          "end": 368.9200134277344,
+          "text": "Gennaro Romagnoli affronta esplicitamente la psicosi da IA, cioè capite quanto ci ha"
+        },
+        {
+          "start": 368.9200134277344,
+          "end": 372.3999938964844,
+          "text": "messo? Dieci secondi per fare questa roba, capite quanto sarebbe stata complessa farla"
+        },
+        {
+          "start": 372.3999938964844,
+          "end": 379.2799987792969,
+          "text": "a mano. Ora immaginate questo quando ce l'avete sulla vostra knowledge base,"
+        },
+        {
+          "start": 379.2799987792969,
+          "end": 384.7200012207031,
+          "text": "sulla vostra base di conoscenza, quindi avete, che ne so, i dipendenti con i quali"
+        },
+        {
+          "start": 384.7200012207031,
+          "end": 389.9200134277344,
+          "text": "fate i meeting settimanali, perché siete un manager e avete tutto il transcript"
+        },
+        {
+          "start": 389.9200134277344,
+          "end": 394.79998779296875,
+          "text": "delle riunioni, oppure gli appunti che avete dettato voi, e voi potete dire la"
+        },
+        {
+          "start": 394.79998779296875,
+          "end": 400.20001220703125,
+          "text": "settimana scorsa cosa abbiamo detto con Marco, in quale appuntamento Giulia mi ha"
+        },
+        {
+          "start": 400.20001220703125,
+          "end": 404.239990234375,
+          "text": "detto che era alla ricerca di una promozione, oppure come siamo rimasti"
+        },
+        {
+          "start": 404.239990234375,
+          "end": 409.8399963378906,
+          "text": "con il team che avrebbe mandato la presentazione al cliente, cioè facciamo"
+        },
+        {
+          "start": 409.8399963378906,
+          "end": 414.3599853515625,
+          "text": "domande e lui va a pescare le cose, perché? Perché ha lo storico di tutto, e"
+        },
+        {
+          "start": 414.3599853515625,
+          "end": 419.0400085449219,
+          "text": "quindi c'è Gennaro Romagnoli, dice la parola viene usata male, ovviamente qua"
+        },
+        {
+          "start": 419.0400085449219,
+          "end": 423.1199951171875,
+          "text": "non mi metto a leggere l'output per far vedere che in pochi secondi ho"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 7,
+        "time": 420.0,
+        "timestamp": "00:07:00",
+        "image": "frame_0007.jpg",
+        "reason": "periodic",
+        "ocr_text": "e) *cE TV È O) unriTEO Workspac.. (è Pa G QD ei claude workopace . a projects o “ #i podcast . x ei metadata 5 2026-03-24-mario-moroni.md 2026-03-27-piero-savastano.md! 2026-04-10-giovanni-cavaliere.md. 2026-04-17-bias-ia-manuel... U > ni output Sell transcript . + gitkeep 2025-07-04-nello-cristianinimd ‘2025-10-09-mariarosaria-taddeo. 2026-10-17-francesco-marino.md 2026-10-24-matteo-allotta.md 2025-10-31-gennaro-romagnoli.. 2025-11-07-luciano-fioridi.md 2025-11-14-francesco-oggiano.md 2025-11-28-jacopo-perfetti.md 2025-12-05-virginia-padovese.md ‘2025-12-12-giuseppe-ragazzini 2025-12-19-alessandro-de-conc... 2025-12-26-emilano-colangeli.md ‘2026-01-02-emanuela-girardi.md 2026-01-09-armando-bisogno.md ‘2026-01-16-vincenzo-esposito.md! 2026-01-23-marcello-ascani.md 2026-01-30-giovanna-panucci.md 2026-02-06 -vittorio-scarano.md 2026-02-13-enkk.md 2026-02-20-ivano-di-biasi.md! ‘2026-02-27-mark-hammer.md 2026-03-05-nicola-triglione.md 2026-03-11-federica-brancale.md ‘2026-03-24-mario-moroni.md ‘2026-03-25-piero-savastano.md. X Start new coding session x * D Start new coding session (OC) ‘guarda la puntata con romagnoli e dimmi se lu paria della psicosi da IA, fammi un breve riepilogo del punto di vista che lo psicolo dice nella puntata @ Grop \"psico|psicosi|disturbo]ansia|dipendenza]salute mentale|benessere|solitudine[enotiv\" (in /Users/raffaele/Desktop/claude workspace/projects/padcast/transcrip 1/2025-10-31-gennaro-romagnoLi.nd) ® Thought for15s ® Sì, Romagnoli affronta esplicitamente la psicosi da IA. Ecco il suo punto di vista sintetizzato: Gennaro Romagnoli — psicologo e psicoterapeuta con -20 anni di esperienza La parola \"psicosi\" viene usata male Distingue nettamente due usi: quello giornalistico (paura generalizzata) e quello clinico (distacco dalla realtà). ricercatorî che parlano di “psicosi da IA\" intendono la versione clinica — un vero distacco dalla realtà causato da lunghe ore di frequentazione dei chatbot.. La psicosi da IA esiste, ma non per tutti Conferma che alcuni casì rientrano in una vera psicosi. Però chiarisce: non si contrae “da zero\". Serve una predisposizione — come per la schizofrenia. Chi è vulnerabile (predisposizioni psicotiche, neurodivergenze, familiarità in famiglia con schizofrenia) è a rischio maggiore. La radice è la solitudine, non la tecnologia Parla di una \"pandemia di solitudine\" già in atto, di natura socioculturale più che tecnologica. | chatbot non creano la vulnerabilità, ma la intercettano. Le persone sole che faticano a relazionarsi sono le più esposte. segnali d'allarme d Persone sole che passano troppo tempo sui chatbot, che iniziano a dire frasi tipo \"ll chatbot mi capisce più di te\", e che diventano sempre più diffcii da raggiungere razionalmente — il delirio non è contutabile dall'esterno. Come intervenire Non confrontare il dllrio direttamente. Bisogna \"allearsi\" con la persona, entrare nel suo mondo, e usare l'esempio (es. “io vado dallo psicologo, ci val anche tu?\"). Nei casi più gravi serve un intervento clinico con psichiatra e psicoterapeuta. Il paradosso positivo Nonostante i rischi, vede nell'IA un potenziale per restituire umanità — se automatizziamo le cose meccaniche, potremmo avere più tempo per le e del benessere psicologico. La soluzione: educazione Chiede che nelle scuole ci siano psicologi che spieghino bias di conferma e antropomorfismo — perché le persone capiscano che ll chatbot no! < Edit automatica",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 423.1199951171875,
+          "end": 426.9200134277344,
+          "text": "fatto una roba che avrebbe chiesto tantissimo tantissimo tempo, e questo è"
+        },
+        {
+          "start": 426.9200134277344,
+          "end": 431.55999755859375,
+          "text": "un esempio molto semplice, però reale, fatto su di me, immaginatela adesso, fatta"
+        },
+        {
+          "start": 431.55999755859375,
+          "end": 436.8800048828125,
+          "text": "sulla vostra base di conoscenza, nel vostro workspace, quanto è potente questa"
+        },
+        {
+          "start": 436.8800048828125,
+          "end": 439.1600036621094,
+          "text": "roba."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2426 @@
+{
+  "title": "Capire il metodo \"esplora, pianifica, esegui\"",
+  "sections": [
+    {
+      "keyframe": {
+        "index": 0,
+        "time": 0.0,
+        "timestamp": "00:00:00",
+        "image": "frame_0000.jpg",
+        "reason": "start",
+        "ocr_text": "Esplora - Pianifica - Esegui nifica - programma\" Versione per non prograi Azione, come sempre) Esplora - Pianifica - Es lema Esplora: capiscì l'esigenz dî sviluppo Pianifica: crea ice che implementa il piano Eseguì: faî ì p",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1.0,
+          "end": 5.0,
+          "text": "Vi voglio far vedere un approccio che cambierà completamente il vostro modo di lavorare con Cloud Code"
+        },
+        {
+          "start": 5.0,
+          "end": 9.0,
+          "text": "che si chiama Esplora, Pianifica e Segui."
+        },
+        {
+          "start": 9.0,
+          "end": 13.0,
+          "text": "Anche in questo caso non mi sono inventato niente di particolare."
+        },
+        {
+          "start": 13.0,
+          "end": 17.0,
+          "text": "Questa è una struttura, un framework di lavoro"
+        },
+        {
+          "start": 17.0,
+          "end": 21.0,
+          "text": "che in realtà è suggerito proprio da Antropic stesso nella documentazione."
+        },
+        {
+          "start": 21.0,
+          "end": 25.0,
+          "text": "Vi lascio come sempre il link nelle risorse extra per chi volesse approfondire."
+        },
+        {
+          "start": 25.0,
+          "end": 28.0,
+          "text": "Quando guardiamo le best practices di Cloud Code"
+        },
+        {
+          "start": 28.0,
+          "end": 32.0,
+          "text": "c'è questo paragrafo, questa sezione che si chiama proprio così"
+        },
+        {
+          "start": 32.0,
+          "end": 36.0,
+          "text": "Esplora, Pianifica e Poi Programma, Scrivi il codice."
+        },
+        {
+          "start": 36.0,
+          "end": 40.0,
+          "text": "Ricordiamoci ovviamente che Cloud Code originariamente nasce come strumento per il codice"
+        },
+        {
+          "start": 40.0,
+          "end": 45.0,
+          "text": "ma poi abbiamo scoperto ampiamente, se sei arrivato a questo punto del corso"
+        },
+        {
+          "start": 45.0,
+          "end": 50.0,
+          "text": "sai che si può usare per tutti i lavori d'ufficio, i lavori creativi e così via."
+        },
+        {
+          "start": 50.0,
+          "end": 54.0,
+          "text": "Quindi noi facciamo la stessa cosa, solo che invece di scrivere il codice"
+        },
+        {
+          "start": 54.0,
+          "end": 57.0,
+          "text": "scrivi il codice a noi e segui quello che devi fare, no?"
+        },
+        {
+          "start": 57.0,
+          "end": 59.0,
+          "text": "Fai le attività che devi fare."
+        },
+        {
+          "start": 59.0,
+          "end": 65.0,
+          "text": "Nella sua versione originale, quindi Esplora, Pianifica, Programma"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 1,
+        "time": 60.0,
+        "timestamp": "00:01:00",
+        "image": "frame_0001.jpg",
+        "reason": "periodic",
+        "ocr_text": "Esplora - Pianifica - Esegui nifica - programma\" Versione per non program Pzione, come sempre) Esplora - Pianifica - Esd_ lema Esplora: capisci l'esigenz di sviluppo Pianifica: crea ice che imolementa il piano Esegui: faî ì p a",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 65.0,
+          "end": 68.0,
+          "text": "che significano questi tre step?"
+        },
+        {
+          "start": 68.0,
+          "end": 70.0,
+          "text": "Analizza il problema."
+        },
+        {
+          "start": 70.0,
+          "end": 74.0,
+          "text": "Quindi invece di metterci subito a fare il task che vogliamo fare"
+        },
+        {
+          "start": 74.0,
+          "end": 77.0,
+          "text": "ci arriviamo un po' alla volta."
+        },
+        {
+          "start": 77.0,
+          "end": 81.0,
+          "text": "Poi, dopo che l'abbiamo analizzato, crea un piano di sviluppo"
+        },
+        {
+          "start": 81.0,
+          "end": 84.0,
+          "text": "e poi programma, quindi Code, la terza voce, no?"
+        },
+        {
+          "start": 84.0,
+          "end": 88.0,
+          "text": "Avete visto? Vi ricordate qua era Code, la terza voce, che significa programma?"
+        },
+        {
+          "start": 88.0,
+          "end": 90.0,
+          "text": "Scrivi il codice."
+        },
+        {
+          "start": 90.0,
+          "end": 94.0,
+          "text": "Programma, cioè scrivi il codice che implementa il piano che abbiamo fatto."
+        },
+        {
+          "start": 94.0,
+          "end": 98.0,
+          "text": "Quando lo usiamo nel nostro caso è praticamente identico come approccio"
+        },
+        {
+          "start": 98.0,
+          "end": 100.0,
+          "text": "cambia leggermente ovviamente il significato"
+        },
+        {
+          "start": 100.0,
+          "end": 103.0,
+          "text": "perché noi andiamo a fare la versione per non programmatori, ok?"
+        },
+        {
+          "start": 103.0,
+          "end": 106.0,
+          "text": "Come tutto quello che vi ho fatto vedere dentro questo corso."
+        },
+        {
+          "start": 106.0,
+          "end": 108.0,
+          "text": "Esplora, Pianifica, Esegui"
+        },
+        {
+          "start": 108.0,
+          "end": 111.0,
+          "text": "dove esplora significa capisce l'esigenza"
+        },
+        {
+          "start": 111.0,
+          "end": 113.0,
+          "text": "ma soprattutto esplora il materiale."
+        },
+        {
+          "start": 113.0,
+          "end": 117.0,
+          "text": "Quindi avete, che ne so, tanta documentazione che va letta"
+        },
+        {
+          "start": 117.0,
+          "end": 119.0,
+          "text": "prima di fare un determinato task."
+        },
+        {
+          "start": 119.0,
+          "end": 123.0,
+          "text": "Avete molti file di contesto che deve caricare."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 2,
+        "time": 120.0,
+        "timestamp": "00:02:00",
+        "image": "frame_0002.jpg",
+        "reason": "periodic",
+        "ocr_text": "segui e ao, 0,0, +, -.2,4,8,0, 4 Versione per non programmatori Esplora - Pianifica - Eseguì Esplora: capisci l'esigenza ed esplora il materiale Pianifica: crea una strategia Eseguì: fai ì passi per implementare la strategia",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 123.0,
+          "end": 128.0,
+          "text": "Avete del materiale extra, delle fonti che avete scaricato voi"
+        },
+        {
+          "start": 128.0,
+          "end": 130.0,
+          "text": "oppure che deve consultare e così via."
+        },
+        {
+          "start": 130.0,
+          "end": 134.0,
+          "text": "Poi pianifica, quindi qua crea una vera e propria strategia"
+        },
+        {
+          "start": 134.0,
+          "end": 136.0,
+          "text": "un piano che deve eseguire"
+        },
+        {
+          "start": 136.0,
+          "end": 139.0,
+          "text": "e esegui, diciamo, va a eseguire i passi"
+        },
+        {
+          "start": 139.0,
+          "end": 141.0,
+          "text": "che implementano questa strategia."
+        },
+        {
+          "start": 141.0,
+          "end": 144.0,
+          "text": "Quindi passa dalla teoria, sono proprio una serie di passi"
+        },
+        {
+          "start": 144.0,
+          "end": 147.0,
+          "text": "questo lo vedremo, è proprio fisicamente una sorta di to do list"
+        },
+        {
+          "start": 147.0,
+          "end": 150.0,
+          "text": "in una parte implementativa vera e propria."
+        },
+        {
+          "start": 150.0,
+          "end": 152.0,
+          "text": "Perché facciamo questa cosa?"
+        },
+        {
+          "start": 152.0,
+          "end": 156.0,
+          "text": "Come sempre, diciamo, prima di metterci a lavorare"
+        },
+        {
+          "start": 156.0,
+          "end": 157.0,
+          "text": "a vederlo dentro Cloud Code"
+        },
+        {
+          "start": 157.0,
+          "end": 160.0,
+          "text": "per me è importante farvi capire il perché facciamo la cosa"
+        },
+        {
+          "start": 160.0,
+          "end": 163.0,
+          "text": "così la comprendete bene e sapete padroneggiarla, no?"
+        },
+        {
+          "start": 163.0,
+          "end": 165.0,
+          "text": "Quando farla e quando no."
+        },
+        {
+          "start": 165.0,
+          "end": 167.0,
+          "text": "Allora, noi facciamo questa cosa per vari motivi"
+        },
+        {
+          "start": 167.0,
+          "end": 171.0,
+          "text": "innanzitutto perché è evidente di risolvere il problema sbagliato"
+        },
+        {
+          "start": 171.0,
+          "end": 172.0,
+          "text": "che significa?"
+        },
+        {
+          "start": 172.0,
+          "end": 176.0,
+          "text": "Significa che quando abbiamo uno strumento così potente"
+        },
+        {
+          "start": 176.0,
+          "end": 179.0,
+          "text": "come Cloud Code, quindi questi strumenti di tipo agentici"
+        },
+        {
+          "start": 179.0,
+          "end": 182.0,
+          "text": "e così via, è chiaro che una volta che li facciamo partire"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 3,
+        "time": 180.0,
+        "timestamp": "00:03:00",
+        "image": "frame_0003.jpg",
+        "reason": "periodic",
+        "ocr_text": "Perché lo facciamo: - evìtì dì risolvere il problema sbagliato - correggi quando costa poco hai il controllo di ogni step risultati migliorì su Flussi lunghi - meno rifacimenti (meno token consumati) =; deleghi con maggiore fiducia - il piano è un documento riutilizzabile - Claude resta \"concentrato\" (meno errori)",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 182.0,
+          "end": 184.0,
+          "text": "loro partono e iniziano a lavorare"
+        },
+        {
+          "start": 184.0,
+          "end": 185.0,
+          "text": "magari ti accorgi dopo un quarto d'ora"
+        },
+        {
+          "start": 185.0,
+          "end": 187.0,
+          "text": "che sta facendo una cosa sbagliata"
+        },
+        {
+          "start": 187.0,
+          "end": 189.0,
+          "text": "o che la sta facendo nel modo sbagliato."
+        },
+        {
+          "start": 189.0,
+          "end": 191.0,
+          "text": "Correggi quanto costa poco"
+        },
+        {
+          "start": 191.0,
+          "end": 194.0,
+          "text": "il fatto di separare la fase di pianificazione"
+        },
+        {
+          "start": 194.0,
+          "end": 195.0,
+          "text": "dalla fase di esecuzione"
+        },
+        {
+          "start": 195.0,
+          "end": 198.0,
+          "text": "significa che io nel piano dico"
+        },
+        {
+          "start": 198.0,
+          "end": 200.0,
+          "text": "no, guarda che hai fatto questi 7 punti"
+        },
+        {
+          "start": 200.0,
+          "end": 202.0,
+          "text": "ma il punto 5 non mi piace"
+        },
+        {
+          "start": 202.0,
+          "end": 203.0,
+          "text": "lo dobbiamo modificare"
+        },
+        {
+          "start": 203.0,
+          "end": 205.0,
+          "text": "oppure il punto 6 non serve"
+        },
+        {
+          "start": 205.0,
+          "end": 206.0,
+          "text": "lo dobbiamo cancellare"
+        },
+        {
+          "start": 206.0,
+          "end": 208.0,
+          "text": "oppure devi aggiungere un punto 8"
+        },
+        {
+          "start": 208.0,
+          "end": 209.0,
+          "text": "perché voglio che fai questa cosa"
+        },
+        {
+          "start": 209.0,
+          "end": 212.0,
+          "text": "e quindi non quando sta eseguendo"
+        },
+        {
+          "start": 212.0,
+          "end": 214.0,
+          "text": "e quindi quando potrebbe essere troppo tardi"
+        },
+        {
+          "start": 214.0,
+          "end": 215.0,
+          "text": "ma quando sta pianificando."
+        },
+        {
+          "start": 215.0,
+          "end": 218.0,
+          "text": "Abbiamo il controllo di ogni step"
+        },
+        {
+          "start": 218.0,
+          "end": 220.0,
+          "text": "perché avendo un piano"
+        },
+        {
+          "start": 220.0,
+          "end": 222.0,
+          "text": "immaginate che dovete fare"
+        },
+        {
+          "start": 223.0,
+          "end": 224.0,
+          "text": "una ricetta"
+        },
+        {
+          "start": 224.0,
+          "end": 228.0,
+          "text": "e avete gli step da seguire"
+        },
+        {
+          "start": 228.0,
+          "end": 230.0,
+          "text": "voi sapete che ad ogni step potete controllare"
+        },
+        {
+          "start": 230.0,
+          "end": 233.0,
+          "text": "e quindi quando c'è lo step di sbattere 4 uova"
+        },
+        {
+          "start": 233.0,
+          "end": 235.0,
+          "text": "se voi in frigo ne avete 0"
+        },
+        {
+          "start": 235.0,
+          "end": 237.0,
+          "text": "sapete che dovete procurarvi 4 uova"
+        },
+        {
+          "start": 237.0,
+          "end": 238.0,
+          "text": "prima di cominciare"
+        },
+        {
+          "start": 238.0,
+          "end": 241.0,
+          "text": "e se guardate la ricetta prima di cucinare"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 4,
+        "time": 240.0,
+        "timestamp": "00:04:00",
+        "image": "frame_0004.jpg",
+        "reason": "periodic",
+        "ocr_text": "Perché lo facciamo: - eviti di risolvere il problema sbagliato - correggi quando costa poco - hai il controllo di ogni step Compiti Grad - risultati migliori su Flussi lunghi - meno rifacimenti (meno token consumati) Se puoì descrive - deleghi con maggiore Fiducia - il piano è un documento riutilizzabile Quando stai - Claude resta \"concentrato\" (meno errorì) Se Vuoì mette",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 241.0,
+          "end": 243.0,
+          "text": "avete il tempo di andare a comprare quelle 4 uova"
+        },
+        {
+          "start": 243.0,
+          "end": 245.0,
+          "text": "se invece state cucinando sulle 9 di sera"
+        },
+        {
+          "start": 245.0,
+          "end": 246.0,
+          "text": "è tutto chiuso, è troppo tardi"
+        },
+        {
+          "start": 246.0,
+          "end": 248.0,
+          "text": "non potete via quelle 4 uova."
+        },
+        {
+          "start": 248.0,
+          "end": 250.0,
+          "text": "Risultati migliori su flussi lunghi"
+        },
+        {
+          "start": 250.0,
+          "end": 252.0,
+          "text": "dipende ovviamente da come lo utilizzate"
+        },
+        {
+          "start": 252.0,
+          "end": 253.0,
+          "text": "se siete già un po' più smanettoni"
+        },
+        {
+          "start": 253.0,
+          "end": 256.0,
+          "text": "ma probabilmente arrivati a questo modulo del corso"
+        },
+        {
+          "start": 256.0,
+          "end": 257.0,
+          "text": "lo siete"
+        },
+        {
+          "start": 257.0,
+          "end": 259.0,
+          "text": "risultati migliori su flussi lunghi"
+        },
+        {
+          "start": 259.0,
+          "end": 262.0,
+          "text": "quando fate delle cose che durano tanto"
+        },
+        {
+          "start": 262.0,
+          "end": 264.0,
+          "text": "e quindi magari dovete lasciarlo lavorare"
+        },
+        {
+          "start": 264.0,
+          "end": 266.0,
+          "text": "mezz'ora, un'ora in automatico"
+        },
+        {
+          "start": 266.0,
+          "end": 269.0,
+          "text": "perché sta leggendo file, scrivendo file e così via"
+        },
+        {
+          "start": 269.0,
+          "end": 271.0,
+          "text": "la differenza è abissale"
+        },
+        {
+          "start": 271.0,
+          "end": 273.0,
+          "text": "la differenza è proprio abissale"
+        },
+        {
+          "start": 273.0,
+          "end": 275.0,
+          "text": "meno rifacimenti"
+        },
+        {
+          "start": 275.0,
+          "end": 277.0,
+          "text": "che per me significa che consumiamo poco o meno"
+        },
+        {
+          "start": 278.0,
+          "end": 282.0,
+          "text": "e sappiamo che ovviamente il costo dei token è un tema importante"
+        },
+        {
+          "start": 282.0,
+          "end": 284.0,
+          "text": "siccome noi abbiamo fatto il piano"
+        },
+        {
+          "start": 284.0,
+          "end": 286.0,
+          "text": "ovviamente fare un piano costa"
+        },
+        {
+          "start": 286.0,
+          "end": 288.0,
+          "text": "però è un piccolo investimento"
+        },
+        {
+          "start": 288.0,
+          "end": 290.0,
+          "text": "di quello che risparmiamo dopo"
+        },
+        {
+          "start": 290.0,
+          "end": 292.0,
+          "text": "perché qua se lavoravamo in maniera tradizionale"
+        },
+        {
+          "start": 292.0,
+          "end": 294.0,
+          "text": "magari se lui sbaglia"
+        },
+        {
+          "start": 294.0,
+          "end": 296.0,
+          "text": "dobbiamo ricominciare da capo e consumiamo"
+        },
+        {
+          "start": 296.0,
+          "end": 297.0,
+          "text": "ricominciare da capo e consumiamo"
+        },
+        {
+          "start": 297.0,
+          "end": 300.0,
+          "text": "invece con il piano siamo molto più tranquilli"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 5,
+        "time": 300.0,
+        "timestamp": "00:05:00",
+        "image": "frame_0005.jpg",
+        "reason": "periodic",
+        "ocr_text": "Perché lo Facciamo: evitì dì risolvere il problema sbagliato correggi quando costa poco hai il controllo dî ogni step risultati migliori su Flussi lunghi meno rifacimenti (meno token consumati) Se puoi deserivd deleghi con maggiore fiducia il piano è un documento riutilizzabile - Claude resta \"concentrato\" (meno errori)",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 300.0,
+          "end": 301.0,
+          "text": "deleghi con maggiore fiducia"
+        },
+        {
+          "start": 301.0,
+          "end": 303.0,
+          "text": "questa è un po' una conseguenza"
+        },
+        {
+          "start": 303.0,
+          "end": 306.0,
+          "text": "diciamo di una cosa che ho notato io nel tempo"
+        },
+        {
+          "start": 306.0,
+          "end": 308.0,
+          "text": "facendolo lavorare con i piani"
+        },
+        {
+          "start": 308.0,
+          "end": 310.0,
+          "text": "sono molto più tranquillo a dire"
+        },
+        {
+          "start": 310.0,
+          "end": 312.0,
+          "text": "se si va nella prossima ora"
+        },
+        {
+          "start": 312.0,
+          "end": 313.0,
+          "text": "non mi chiedere il permesso"
+        },
+        {
+          "start": 313.0,
+          "end": 315.0,
+          "text": "perché tanto ci siamo guardati insieme il piano"
+        },
+        {
+          "start": 315.0,
+          "end": 317.0,
+          "text": "immaginate proprio che"
+        },
+        {
+          "start": 317.0,
+          "end": 319.0,
+          "text": "c'è uno stagista nuovo"
+        },
+        {
+          "start": 319.0,
+          "end": 321.0,
+          "text": "nel vostro team in ufficio"
+        },
+        {
+          "start": 321.0,
+          "end": 323.0,
+          "text": "una persona magari junior, no?"
+        },
+        {
+          "start": 323.0,
+          "end": 325.0,
+          "text": "Quindi ovviamente dovete fare tanta supervisione"
+        },
+        {
+          "start": 325.0,
+          "end": 328.0,
+          "text": "però prima di dargli un task molto lungo"
+        },
+        {
+          "start": 328.0,
+          "end": 330.0,
+          "text": "avete fatto insieme un piano"
+        },
+        {
+          "start": 330.0,
+          "end": 331.0,
+          "text": "allora gli dici"
+        },
+        {
+          "start": 331.0,
+          "end": 332.0,
+          "text": "guarda Marco, perfetto"
+        },
+        {
+          "start": 332.0,
+          "end": 333.0,
+          "text": "questi sono i 5 step"
+        },
+        {
+          "start": 333.0,
+          "end": 335.0,
+          "text": "io mi aspetto che tra un'ora mi consegni"
+        },
+        {
+          "start": 335.0,
+          "end": 338.0,
+          "text": "che ne so, questa presentazione, queste slide"
+        },
+        {
+          "start": 338.0,
+          "end": 339.0,
+          "text": "siete molto più tranquilli"
+        },
+        {
+          "start": 339.0,
+          "end": 340.0,
+          "text": "perché sapete che quei 5 step"
+        },
+        {
+          "start": 340.0,
+          "end": 341.0,
+          "text": "li avete costruiti insieme"
+        },
+        {
+          "start": 341.0,
+          "end": 343.0,
+          "text": "e li avete rivisti insieme"
+        },
+        {
+          "start": 343.0,
+          "end": 346.0,
+          "text": "poi il piano è un documento riutilizzabile"
+        },
+        {
+          "start": 346.0,
+          "end": 348.0,
+          "text": "questo lo vediamo tra un attimo"
+        },
+        {
+          "start": 348.0,
+          "end": 350.0,
+          "text": "può essere un motivo per alcuni"
+        },
+        {
+          "start": 350.0,
+          "end": 351.0,
+          "text": "un vantaggio, per altri no"
+        },
+        {
+          "start": 351.0,
+          "end": 353.0,
+          "text": "però per me è una cosa interessante"
+        },
+        {
+          "start": 353.0,
+          "end": 354.0,
+          "text": "e poi diciamo"
+        },
+        {
+          "start": 354.0,
+          "end": 356.0,
+          "text": "questo è un po' collegato al fatto"
+        },
+        {
+          "start": 356.0,
+          "end": 359.0,
+          "text": "di risultati migliori su flussi lunghi"
+        },
+        {
+          "start": 359.0,
+          "end": 361.0,
+          "text": "Claude resta più concentrato"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 6,
+        "time": 360.0,
+        "timestamp": "00:06:00",
+        "image": "frame_0006.jpg",
+        "reason": "periodic",
+        "ocr_text": "Perché lo Facciamo: evitì di risolvere il problema sbagliato correggi quando costa poco hai îl controllo di ogni step risultati migliori su Flussì lunghi meno rifacimenti (meno token consumati) deleghi con maggiore fiducia il piano è un documento riutilizzabile - Claude resta \"concentrato\" (meno errori) è",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 361.0,
+          "end": 363.0,
+          "text": "qua l'ho messo tra virgolette"
+        },
+        {
+          "start": 363.0,
+          "end": 364.0,
+          "text": "intendo dire che"
+        },
+        {
+          "start": 364.0,
+          "end": 365.0,
+          "text": "avendo un piano da seguire"
+        },
+        {
+          "start": 365.0,
+          "end": 368.0,
+          "text": "quando devo lavorare su cose molto lunghe"
+        },
+        {
+          "start": 368.0,
+          "end": 370.0,
+          "text": "sapendo in dettaglio"
+        },
+        {
+          "start": 370.0,
+          "end": 372.0,
+          "text": "cosa deve fare ad ogni step"
+        },
+        {
+          "start": 372.0,
+          "end": 373.0,
+          "text": "anche se è passato tanto"
+        },
+        {
+          "start": 373.0,
+          "end": 375.0,
+          "text": "tra lo step 1 e lo step 7"
+        },
+        {
+          "start": 375.0,
+          "end": 377.0,
+          "text": "lui ci ha scritto precisamente"
+        },
+        {
+          "start": 377.0,
+          "end": 378.0,
+          "text": "guarda che lo step 7"
+        },
+        {
+          "start": 378.0,
+          "end": 379.0,
+          "text": "devi fare questa cosa qua"
+        },
+        {
+          "start": 379.0,
+          "end": 380.0,
+          "text": "devi andare a prendere"
+        },
+        {
+          "start": 380.0,
+          "end": 382.0,
+          "text": "il risultato che ti è uscito nello step 1"
+        },
+        {
+          "start": 382.0,
+          "end": 384.0,
+          "text": "mischiarlo con quello che hai fatto"
+        },
+        {
+          "start": 384.0,
+          "end": 385.0,
+          "text": "nello step 3"
+        },
+        {
+          "start": 385.0,
+          "end": 386.0,
+          "text": "e così via"
+        },
+        {
+          "start": 386.0,
+          "end": 387.0,
+          "text": "cioè"
+        },
+        {
+          "start": 387.0,
+          "end": 390.0,
+          "text": "lo prendiamo e lo portiamo proprio per mano"
+        },
+        {
+          "start": 390.0,
+          "end": 391.0,
+          "text": "ok?"
+        },
+        {
+          "start": 391.0,
+          "end": 392.0,
+          "text": "Resta più concentrato"
+        },
+        {
+          "start": 392.0,
+          "end": 393.0,
+          "text": "tra virgolette"
+        },
+        {
+          "start": 393.0,
+          "end": 395.0,
+          "text": "vi faccio anche"
+        },
+        {
+          "start": 395.0,
+          "end": 396.0,
+          "text": "diciamo"
+        },
+        {
+          "start": 396.0,
+          "end": 397.0,
+          "text": "il solito confronto"
+        },
+        {
+          "start": 397.0,
+          "end": 398.0,
+          "text": "per dire quando lo dovete utilizzare"
+        },
+        {
+          "start": 398.0,
+          "end": 399.0,
+          "text": "e quando no"
+        },
+        {
+          "start": 399.0,
+          "end": 400.0,
+          "text": "poi non vi preoccupate"
+        },
+        {
+          "start": 400.0,
+          "end": 401.0,
+          "text": "perché questo schema ovviamente"
+        },
+        {
+          "start": 401.0,
+          "end": 402.0,
+          "text": "lo potete scaricare"
+        },
+        {
+          "start": 402.0,
+          "end": 403.0,
+          "text": "come sempre"
+        },
+        {
+          "start": 403.0,
+          "end": 405.0,
+          "text": "nelle risorse extra del corso"
+        },
+        {
+          "start": 405.0,
+          "end": 406.0,
+          "text": "ci sono dei casi"
+        },
+        {
+          "start": 406.0,
+          "end": 407.0,
+          "text": "in cui non vale la pena"
+        },
+        {
+          "start": 407.0,
+          "end": 408.0,
+          "text": "fare questa cosa ovviamente"
+        },
+        {
+          "start": 408.0,
+          "end": 409.0,
+          "text": "come tutte le cose"
+        },
+        {
+          "start": 409.0,
+          "end": 410.0,
+          "text": "che vi sto facendo vedere"
+        },
+        {
+          "start": 410.0,
+          "end": 411.0,
+          "text": "non è che sono"
+        },
+        {
+          "start": 411.0,
+          "end": 412.0,
+          "text": "sempre così"
+        },
+        {
+          "start": 412.0,
+          "end": 413.0,
+          "text": "dovete lavorare e così via"
+        },
+        {
+          "start": 413.0,
+          "end": 414.0,
+          "text": "tipo"
+        },
+        {
+          "start": 414.0,
+          "end": 415.0,
+          "text": "compiti banali"
+        },
+        {
+          "start": 415.0,
+          "end": 416.0,
+          "text": "piccole modifiche"
+        },
+        {
+          "start": 416.0,
+          "end": 417.0,
+          "text": "assolutamente"
+        },
+        {
+          "start": 417.0,
+          "end": 418.0,
+          "text": "non vi mettete a pianificare"
+        },
+        {
+          "start": 418.0,
+          "end": 419.0,
+          "text": "se è solo"
+        },
+        {
+          "start": 419.0,
+          "end": 420.0,
+          "text": "cambiami il nome di questo file"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 7,
+        "time": 420.0,
+        "timestamp": "00:07:00",
+        "image": "frame_0007.jpg",
+        "reason": "periodic",
+        "ocr_text": "e elo 0 0, +, -. 2, 4,8, 6, è Eseguî: faì î passi. per.implementare.la strategia Esplora - Pianifica - Esegui Compiti banali o piccole stoctifiche Non hai chiaro l'approccio o da dove partire Se puoi descrivere il task con una frase, fallo Il lavoro mette insieme più fonti, file o documenti Quando stai sperimentando Stai lavorando su materiale che conoscì poco o difficile Se vuoi mettere alla prova Claude su cose nuove Il compito è lungo e fatto di molti passaggi i so ddl rell-+to perché ci ACCORDIAMO con Claude su cosa fare prima di farlo lavorare os +",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 420.0,
+          "end": 421.0,
+          "text": "fammi un attimo"
+        },
+        {
+          "start": 421.0,
+          "end": 422.0,
+          "text": "una ricerca al volo su internet"
+        },
+        {
+          "start": 422.0,
+          "end": 423.0,
+          "text": "no"
+        },
+        {
+          "start": 423.0,
+          "end": 424.0,
+          "text": "quei prompt"
+        },
+        {
+          "start": 424.0,
+          "end": 425.0,
+          "text": "proprio di"
+        },
+        {
+          "start": 425.0,
+          "end": 426.0,
+          "text": "diciamo di"
+        },
+        {
+          "start": 426.0,
+          "end": 427.0,
+          "text": "cose al volo"
+        },
+        {
+          "start": 427.0,
+          "end": 428.0,
+          "text": "che facevate prima"
+        },
+        {
+          "start": 428.0,
+          "end": 429.0,
+          "text": "oppure dammi due idee"
+        },
+        {
+          "start": 429.0,
+          "end": 430.0,
+          "text": "per fare"
+        },
+        {
+          "start": 430.0,
+          "end": 431.0,
+          "text": "che ne so"
+        },
+        {
+          "start": 431.0,
+          "end": 432.0,
+          "text": "un video"
+        },
+        {
+          "start": 432.0,
+          "end": 433.0,
+          "text": "non vi mettete a pianificare"
+        },
+        {
+          "start": 433.0,
+          "end": 434.0,
+          "text": "in quel caso"
+        },
+        {
+          "start": 434.0,
+          "end": 435.0,
+          "text": "poi"
+        },
+        {
+          "start": 435.0,
+          "end": 436.0,
+          "text": "tutti i casi"
+        },
+        {
+          "start": 436.0,
+          "end": 437.0,
+          "text": "questo è diciamo"
+        },
+        {
+          "start": 437.0,
+          "end": 438.0,
+          "text": "il modo proprio facile"
+        },
+        {
+          "start": 438.0,
+          "end": 439.0,
+          "text": "per capire se serve"
+        },
+        {
+          "start": 439.0,
+          "end": 440.0,
+          "text": "pianificare o meno"
+        },
+        {
+          "start": 440.0,
+          "end": 441.0,
+          "text": "se il task"
+        },
+        {
+          "start": 441.0,
+          "end": 442.0,
+          "text": "che sta per fare"
+        },
+        {
+          "start": 442.0,
+          "end": 443.0,
+          "text": "lo puoi descrivere"
+        },
+        {
+          "start": 443.0,
+          "end": 444.0,
+          "text": "con una sola frase"
+        },
+        {
+          "start": 444.0,
+          "end": 445.0,
+          "text": "non serve un piano"
+        },
+        {
+          "start": 445.0,
+          "end": 446.0,
+          "text": "probabilmente"
+        },
+        {
+          "start": 446.0,
+          "end": 447.0,
+          "text": "quindi se"
+        },
+        {
+          "start": 447.0,
+          "end": 448.0,
+          "text": "mi servono tre idee"
+        },
+        {
+          "start": 448.0,
+          "end": 449.0,
+          "text": "per un nuovo video youtube"
+        },
+        {
+          "start": 449.0,
+          "end": 450.0,
+          "text": "non vi mettete a fare"
+        },
+        {
+          "start": 450.0,
+          "end": 451.0,
+          "text": "pianificazione"
+        },
+        {
+          "start": 451.0,
+          "end": 452.0,
+          "text": "ok"
+        },
+        {
+          "start": 452.0,
+          "end": 453.0,
+          "text": "scrivete"
+        },
+        {
+          "start": 453.0,
+          "end": 454.0,
+          "text": "la richiesta"
+        },
+        {
+          "start": 454.0,
+          "end": 455.0,
+          "text": "e basta"
+        },
+        {
+          "start": 455.0,
+          "end": 456.0,
+          "text": "quando state sperimentando"
+        },
+        {
+          "start": 456.0,
+          "end": 457.0,
+          "text": "per esempio"
+        },
+        {
+          "start": 457.0,
+          "end": 458.0,
+          "text": "io a volte sto"
+        },
+        {
+          "start": 458.0,
+          "end": 459.0,
+          "text": "facendo delle prove"
+        },
+        {
+          "start": 459.0,
+          "end": 460.0,
+          "text": "di cose"
+        },
+        {
+          "start": 460.0,
+          "end": 461.0,
+          "text": "e la non voglio pianificare"
+        },
+        {
+          "start": 461.0,
+          "end": 462.0,
+          "text": "la voglio proprio vedere"
+        },
+        {
+          "start": 462.0,
+          "end": 463.0,
+          "text": "come reagisce Claude"
+        },
+        {
+          "start": 463.0,
+          "end": 464.0,
+          "text": "allora non mi metto a pianificare"
+        },
+        {
+          "start": 464.0,
+          "end": 465.0,
+          "text": "oppure"
+        },
+        {
+          "start": 465.0,
+          "end": 466.0,
+          "text": "se vuoi mettere alla prova"
+        },
+        {
+          "start": 466.0,
+          "end": 467.0,
+          "text": "Claude su cose nuove"
+        },
+        {
+          "start": 467.0,
+          "end": 468.0,
+          "text": "quindi"
+        },
+        {
+          "start": 468.0,
+          "end": 469.0,
+          "text": "se avete un task"
+        },
+        {
+          "start": 469.0,
+          "end": 470.0,
+          "text": "che non avete mai fatto prima"
+        },
+        {
+          "start": 470.0,
+          "end": 471.0,
+          "text": "volete farlo"
+        },
+        {
+          "start": 471.0,
+          "end": 472.0,
+          "text": "magari piccolino"
+        },
+        {
+          "start": 472.0,
+          "end": 473.0,
+          "text": "che ne so"
+        },
+        {
+          "start": 473.0,
+          "end": 474.0,
+          "text": "state facendo"
+        },
+        {
+          "start": 474.0,
+          "end": 475.0,
+          "text": "se avete un"
+        },
+        {
+          "start": 475.0,
+          "end": 476.0,
+          "text": "un grosso pdf"
+        },
+        {
+          "start": 476.0,
+          "end": 477.0,
+          "text": "da 100 pagine"
+        },
+        {
+          "start": 477.0,
+          "end": 478.0,
+          "text": "e lo dovete dividere"
+        },
+        {
+          "start": 478.0,
+          "end": 479.0,
+          "text": "in tanti pdf"
+        },
+        {
+          "start": 479.0,
+          "end": 480.0,
+          "text": "da una pagina"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 8,
+        "time": 480.0,
+        "timestamp": "00:08:00",
+        "image": "frame_0008.jpg",
+        "reason": "periodic",
+        "ocr_text": "e eo, 0,0, >, -,2, 4,8, 6, è Eseguì: faì î passi.per.implementarela strategia Esplora - Pianifica - Esegui Quando NON usarlo | Quondo usarlo Compiti banali o piccole modifiche Non hai chiaro l'approccio o da dove partire Se puoi descrivere il task con una frase, fallo Il lavoro mette insieme più Fonti, file o documenti Quando stai sperimentando Stai lavorando su materiale che conoscì poco o difficile Se vuoì mettere alla prova Clayde su cose nuove Il compito è lungo e fatto di molti passaggi i — vo ddh.rell.+to perché ci ACCORDIAMO con Claude su cosa fare prima di farlo lavorare",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 480.0,
+          "end": 481.0,
+          "text": "questa cosa"
+        },
+        {
+          "start": 481.0,
+          "end": 482.0,
+          "text": "la volete testare"
+        },
+        {
+          "start": 482.0,
+          "end": 483.0,
+          "text": "la prima volta"
+        },
+        {
+          "start": 483.0,
+          "end": 484.0,
+          "text": "lo fate"
+        },
+        {
+          "start": 484.0,
+          "end": 485.0,
+          "text": "senza pianificare"
+        },
+        {
+          "start": 485.0,
+          "end": 486.0,
+          "text": "vedete se funziona"
+        },
+        {
+          "start": 486.0,
+          "end": 487.0,
+          "text": "se vi torna tutto"
+        },
+        {
+          "start": 487.0,
+          "end": 488.0,
+          "text": "poi dopo"
+        },
+        {
+          "start": 488.0,
+          "end": 489.0,
+          "text": "invece"
+        },
+        {
+          "start": 489.0,
+          "end": 490.0,
+          "text": "quando lo fate"
+        },
+        {
+          "start": 490.0,
+          "end": 491.0,
+          "text": "su un archivio"
+        },
+        {
+          "start": 491.0,
+          "end": 492.0,
+          "text": "di 1000 pdf"
+        },
+        {
+          "start": 492.0,
+          "end": 493.0,
+          "text": "dite"
+        },
+        {
+          "start": 493.0,
+          "end": 494.0,
+          "text": "ok"
+        },
+        {
+          "start": 494.0,
+          "end": 495.0,
+          "text": "ora però"
+        },
+        {
+          "start": 495.0,
+          "end": 496.0,
+          "text": "mi faccio un piano"
+        },
+        {
+          "start": 496.0,
+          "end": 497.0,
+          "text": "perché per farlo"
+        },
+        {
+          "start": 497.0,
+          "end": 498.0,
+          "text": "su 1000 pdf"
+        },
+        {
+          "start": 498.0,
+          "end": 499.0,
+          "text": "questo deve lavorare"
+        },
+        {
+          "start": 499.0,
+          "end": 500.0,
+          "text": "un'ora e mezza"
+        },
+        {
+          "start": 500.0,
+          "end": 501.0,
+          "text": "senza il mio intervento"
+        },
+        {
+          "start": 501.0,
+          "end": 502.0,
+          "text": "ok"
+        },
+        {
+          "start": 502.0,
+          "end": 503.0,
+          "text": "e quindi conseguenza"
+        },
+        {
+          "start": 503.0,
+          "end": 504.0,
+          "text": "quando usarlo"
+        },
+        {
+          "start": 504.0,
+          "end": 505.0,
+          "text": "quando non è chiaro"
+        },
+        {
+          "start": 505.0,
+          "end": 506.0,
+          "text": "l'approccio"
+        },
+        {
+          "start": 506.0,
+          "end": 507.0,
+          "text": "o da dove partire"
+        },
+        {
+          "start": 508.0,
+          "end": 509.0,
+          "text": "lo sviluppo a Claude"
+        },
+        {
+          "start": 509.0,
+          "end": 510.0,
+          "text": "e voi lo supervisionate"
+        },
+        {
+          "start": 510.0,
+          "end": 511.0,
+          "text": "quindi ci potrebbe essere"
+        },
+        {
+          "start": 511.0,
+          "end": 512.0,
+          "text": "un caso"
+        },
+        {
+          "start": 512.0,
+          "end": 513.0,
+          "text": "dove voi"
+        },
+        {
+          "start": 513.0,
+          "end": 514.0,
+          "text": "non sapete ancora"
+        },
+        {
+          "start": 514.0,
+          "end": 515.0,
+          "text": "una cosa tecnicamente"
+        },
+        {
+          "start": 515.0,
+          "end": 516.0,
+          "text": "come la farà Claude"
+        },
+        {
+          "start": 516.0,
+          "end": 517.0,
+          "text": "e magari avrà bisogno"
+        },
+        {
+          "start": 517.0,
+          "end": 518.0,
+          "text": "di installare qualcosa"
+        },
+        {
+          "start": 518.0,
+          "end": 519.0,
+          "text": "no"
+        },
+        {
+          "start": 519.0,
+          "end": 520.0,
+          "text": "l'abbiamo visto nel modulo"
+        },
+        {
+          "start": 520.0,
+          "end": 522.0,
+          "text": "sul installare le app"
+        },
+        {
+          "start": 522.0,
+          "end": 523.0,
+          "text": "avrà bisogno"
+        },
+        {
+          "start": 523.0,
+          "end": 524.0,
+          "text": "di scrivere del codice"
+        },
+        {
+          "start": 525.0,
+          "end": 526.0,
+          "text": "e così via"
+        },
+        {
+          "start": 526.0,
+          "end": 527.0,
+          "text": "in quel caso"
+        },
+        {
+          "start": 527.0,
+          "end": 528.0,
+          "text": "è fondamentale avere un piano"
+        },
+        {
+          "start": 528.0,
+          "end": 529.0,
+          "text": "perché Claude vi spiega"
+        },
+        {
+          "start": 529.0,
+          "end": 530.0,
+          "text": "allora guarda"
+        },
+        {
+          "start": 530.0,
+          "end": 531.0,
+          "text": "che per ottenere questa cosa"
+        },
+        {
+          "start": 531.0,
+          "end": 532.0,
+          "text": "che tu mi hai chiesto"
+        },
+        {
+          "start": 532.0,
+          "end": 533.0,
+          "text": "io dovrò fare questo"
+        },
+        {
+          "start": 533.0,
+          "end": 534.0,
+          "text": "poi dovrò fare questo"
+        },
+        {
+          "start": 534.0,
+          "end": 535.0,
+          "text": "e così via"
+        },
+        {
+          "start": 535.0,
+          "end": 536.0,
+          "text": "oppure state creando una skill"
+        },
+        {
+          "start": 536.0,
+          "end": 537.0,
+          "text": "una skill molto complessa"
+        },
+        {
+          "start": 537.0,
+          "end": 538.0,
+          "text": "volete farvi un piano"
+        },
+        {
+          "start": 538.0,
+          "end": 539.0,
+          "text": "di come sarà quella skill"
+        },
+        {
+          "start": 539.0,
+          "end": 540.0,
+          "text": "quello è uno dei casi"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 9,
+        "time": 540.0,
+        "timestamp": "00:09:00",
+        "image": "frame_0009.jpg",
+        "reason": "periodic",
+        "ocr_text": "e ao, 0,0. +, -. 2, 4,8, 6, è Esegui: faì ì passì per ìmplementare..ia strategia... _ Quando usero Non hai chiaro l'approccio o da dove partire Il lavoro mette insieme più Fonti, file o documenti Stai lavorando su materiale che conosci poco o difficile Il compito è lungo e fatto di molti passaggi xa (ASTI ACCORDIAMO con Claude su cosa fare prima di farlo lavorare",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 540.0,
+          "end": 541.0,
+          "text": "nei quali farlo semplice"
+        },
+        {
+          "start": 541.0,
+          "end": 542.0,
+          "text": "tutti i casi"
+        },
+        {
+          "start": 542.0,
+          "end": 543.0,
+          "text": "in cui ci sono"
+        },
+        {
+          "start": 543.0,
+          "end": 544.0,
+          "text": "grosse modifiche"
+        },
+        {
+          "start": 544.0,
+          "end": 545.0,
+          "text": "al workspace"
+        },
+        {
+          "start": 545.0,
+          "end": 546.0,
+          "text": "vi consiglio sempre"
+        },
+        {
+          "start": 546.0,
+          "end": 547.0,
+          "text": "sempre sempre"
+        },
+        {
+          "start": 547.0,
+          "end": 548.0,
+          "text": "sempre di pianificare"
+        },
+        {
+          "start": 549.0,
+          "end": 550.0,
+          "text": "poi"
+        },
+        {
+          "start": 550.0,
+          "end": 551.0,
+          "text": "il lavoro mette insieme"
+        },
+        {
+          "start": 551.0,
+          "end": 552.0,
+          "text": "più fonti"
+        },
+        {
+          "start": 552.0,
+          "end": 553.0,
+          "text": "file o documenti"
+        },
+        {
+          "start": 553.0,
+          "end": 554.0,
+          "text": "come dicevo prima"
+        },
+        {
+          "start": 554.0,
+          "end": 555.0,
+          "text": "dovete fare"
+        },
+        {
+          "start": 555.0,
+          "end": 556.0,
+          "text": "un report"
+        },
+        {
+          "start": 556.0,
+          "end": 557.0,
+          "text": "e in questo report"
+        },
+        {
+          "start": 557.0,
+          "end": 558.0,
+          "text": "deve andare a leggere"
+        },
+        {
+          "start": 558.0,
+          "end": 559.0,
+          "text": "della roba da internet"
+        },
+        {
+          "start": 559.0,
+          "end": 560.0,
+          "text": "della roba"
+        },
+        {
+          "start": 560.0,
+          "end": 561.0,
+          "text": "di file pdf"
+        },
+        {
+          "start": 561.0,
+          "end": 562.0,
+          "text": "che avete scaricato voi"
+        },
+        {
+          "start": 562.0,
+          "end": 563.0,
+          "text": "della roba"
+        },
+        {
+          "start": 563.0,
+          "end": 564.0,
+          "text": "di file md"
+        },
+        {
+          "start": 564.0,
+          "end": 565.0,
+          "text": "che sono già"
+        },
+        {
+          "start": 565.0,
+          "end": 566.0,
+          "text": "presenti"
+        },
+        {
+          "start": 566.0,
+          "end": 567.0,
+          "text": "nel workspace"
+        },
+        {
+          "start": 567.0,
+          "end": 568.0,
+          "text": "quindi deve"
+        },
+        {
+          "start": 568.0,
+          "end": 569.0,
+          "text": "combinare tante cose"
+        },
+        {
+          "start": 569.0,
+          "end": 570.0,
+          "text": "la"
+        },
+        {
+          "start": 570.0,
+          "end": 571.0,
+          "text": "il piano è fondamentale"
+        },
+        {
+          "start": 571.0,
+          "end": 572.0,
+          "text": "oppure ancora"
+        },
+        {
+          "start": 572.0,
+          "end": 573.0,
+          "text": "state lavorando"
+        },
+        {
+          "start": 573.0,
+          "end": 574.0,
+          "text": "su materiale che conosci"
+        },
+        {
+          "start": 574.0,
+          "end": 575.0,
+          "text": "poco o difficile"
+        },
+        {
+          "start": 575.0,
+          "end": 576.0,
+          "text": "quindi"
+        },
+        {
+          "start": 576.0,
+          "end": 577.0,
+          "text": "magari fate quella cosa"
+        },
+        {
+          "start": 577.0,
+          "end": 578.0,
+          "text": "su un materiale"
+        },
+        {
+          "start": 578.0,
+          "end": 579.0,
+          "text": "che non avete prodotto voi"
+        },
+        {
+          "start": 579.0,
+          "end": 580.0,
+          "text": "oppure quello"
+        },
+        {
+          "start": 580.0,
+          "end": 581.0,
+          "text": "è molto utile"
+        },
+        {
+          "start": 581.0,
+          "end": 582.0,
+          "text": "pianificare"
+        },
+        {
+          "start": 582.0,
+          "end": 583.0,
+          "text": "così capite lui"
+        },
+        {
+          "start": 583.0,
+          "end": 584.0,
+          "text": "cosa andrà a leggere"
+        },
+        {
+          "start": 584.0,
+          "end": 585.0,
+          "text": "quale"
+        },
+        {
+          "start": 585.0,
+          "end": 586.0,
+          "text": "quale starà pigliando"
+        },
+        {
+          "start": 586.0,
+          "end": 587.0,
+          "text": "come lo utilizzerà"
+        },
+        {
+          "start": 587.0,
+          "end": 588.0,
+          "text": "e così via"
+        },
+        {
+          "start": 588.0,
+          "end": 589.0,
+          "text": "e poi in generale"
+        },
+        {
+          "start": 589.0,
+          "end": 590.0,
+          "text": "tutti i compiti lunghi"
+        },
+        {
+          "start": 590.0,
+          "end": 591.0,
+          "text": "i compiti fatti"
+        },
+        {
+          "start": 591.0,
+          "end": 592.0,
+          "text": "di molti passaggi"
+        },
+        {
+          "start": 592.0,
+          "end": 593.0,
+          "text": "questo per me"
+        },
+        {
+          "start": 593.0,
+          "end": 594.0,
+          "text": "è fondamentale"
+        },
+        {
+          "start": 594.0,
+          "end": 595.0,
+          "text": "perché io voglio sapere"
+        },
+        {
+          "start": 595.0,
+          "end": 596.0,
+          "text": "i passaggi"
+        },
+        {
+          "start": 596.0,
+          "end": 597.0,
+          "text": "che lui farà"
+        },
+        {
+          "start": 597.0,
+          "end": 598.0,
+          "text": "soprattutto"
+        },
+        {
+          "start": 598.0,
+          "end": 599.0,
+          "text": "se questi passaggi"
+        },
+        {
+          "start": 599.0,
+          "end": 600.0,
+          "text": "richiedono"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 10,
+        "time": 600.0,
+        "timestamp": "00:10:00",
+        "image": "frame_0010.jpg",
+        "reason": "periodic",
+        "ocr_text": "8 eo, 0,0. +, -, 0, 4,8, 0 è Esegui: faì ì passi per ìmplementare la strategia GEEE © piccole modifiche Non hai chiaro l'approccio o da dove partire ivere il task con una frase, Fallo Il lavoro mette insieme più Fonti, file o documenti imentando Stai lavorando su materiale che conosci poco o difficile alla prova Clauee su cose nuove Il compito è lungo e fatto di melti passaggi ORDIAMO con Claude su cosa fare prima di farlo lavorare",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 600.0,
+          "end": 601.0,
+          "text": "scrivere del codice"
+        },
+        {
+          "start": 601.0,
+          "end": 602.0,
+          "text": "e"
+        },
+        {
+          "start": 602.0,
+          "end": 603.0,
+          "text": "diciamo fare della"
+        },
+        {
+          "start": 603.0,
+          "end": 604.0,
+          "text": "installare delle app"
+        },
+        {
+          "start": 604.0,
+          "end": 605.0,
+          "text": "io voglio saperlo"
+        },
+        {
+          "start": 605.0,
+          "end": 606.0,
+          "text": "voglio dire"
+        },
+        {
+          "start": 606.0,
+          "end": 607.0,
+          "text": "ok"
+        },
+        {
+          "start": 607.0,
+          "end": 608.0,
+          "text": "si"
+        },
+        {
+          "start": 608.0,
+          "end": 609.0,
+          "text": "tu scrivi del codice python"
+        },
+        {
+          "start": 609.0,
+          "end": 610.0,
+          "text": "fammi vedere che stai facendo"
+        },
+        {
+          "start": 610.0,
+          "end": 611.0,
+          "text": "oppure vuoi installare un app"
+        },
+        {
+          "start": 611.0,
+          "end": 612.0,
+          "text": "ma quest'app a che serve"
+        },
+        {
+          "start": 612.0,
+          "end": 613.0,
+          "text": "no"
+        },
+        {
+          "start": 613.0,
+          "end": 614.0,
+          "text": "lo voglio per motivi di sicurezza"
+        },
+        {
+          "start": 614.0,
+          "end": 615.0,
+          "text": "ma anche per avere chiaro"
+        },
+        {
+          "start": 615.0,
+          "end": 616.0,
+          "text": "quello che sta per succedere"
+        },
+        {
+          "start": 616.0,
+          "end": 617.0,
+          "text": "e qua diciamo"
+        },
+        {
+          "start": 617.0,
+          "end": 618.0,
+          "text": "un po'"
+        },
+        {
+          "start": 618.0,
+          "end": 619.0,
+          "text": "riassunto tutto"
+        },
+        {
+          "start": 619.0,
+          "end": 620.0,
+          "text": "per"
+        },
+        {
+          "start": 620.0,
+          "end": 621.0,
+          "text": "diciamo"
+        },
+        {
+          "start": 621.0,
+          "end": 622.0,
+          "text": "per"
+        },
+        {
+          "start": 622.0,
+          "end": 623.0,
+          "text": "per togliere"
+        },
+        {
+          "start": 624.0,
+          "end": 626.0,
+          "text": "noi facciamo questa roba qua"
+        },
+        {
+          "start": 626.0,
+          "end": 627.0,
+          "text": "usiamo l'approccio"
+        },
+        {
+          "start": 627.0,
+          "end": 628.0,
+          "text": "che diciamo"
+        },
+        {
+          "start": 628.0,
+          "end": 629.0,
+          "text": "che le best practice"
+        },
+        {
+          "start": 629.0,
+          "end": 630.0,
+          "text": "consigliano"
+        },
+        {
+          "start": 630.0,
+          "end": 631.0,
+          "text": "nel mondo della programmazione"
+        },
+        {
+          "start": 631.0,
+          "end": 632.0,
+          "text": "lo portiamo"
+        },
+        {
+          "start": 632.0,
+          "end": 633.0,
+          "text": "nel nostro lavoro"
+        },
+        {
+          "start": 633.0,
+          "end": 634.0,
+          "text": "non di programmatore"
+        },
+        {
+          "start": 635.0,
+          "end": 636.0,
+          "text": "fondamentalmente"
+        },
+        {
+          "start": 636.0,
+          "end": 637.0,
+          "text": "perché stiamo facendo"
+        },
+        {
+          "start": 637.0,
+          "end": 638.0,
+          "text": "un accordo"
+        },
+        {
+          "start": 638.0,
+          "end": 639.0,
+          "text": "con Claude"
+        },
+        {
+          "start": 639.0,
+          "end": 640.0,
+          "text": "prima di farlo lavorare"
+        },
+        {
+          "start": 640.0,
+          "end": 641.0,
+          "text": "questo"
+        },
+        {
+          "start": 641.0,
+          "end": 642.0,
+          "text": "è il senso"
+        },
+        {
+          "start": 642.0,
+          "end": 643.0,
+          "text": "e all'inizio"
+        },
+        {
+          "start": 643.0,
+          "end": 644.0,
+          "text": "lo so"
+        },
+        {
+          "start": 644.0,
+          "end": 645.0,
+          "text": "perché è successo pure a me"
+        },
+        {
+          "start": 645.0,
+          "end": 646.0,
+          "text": "vi sembrerà"
+        },
+        {
+          "start": 646.0,
+          "end": 647.0,
+          "text": "che state perdendo tempo"
+        },
+        {
+          "start": 647.0,
+          "end": 648.0,
+          "text": "state dicendo"
+        },
+        {
+          "start": 648.0,
+          "end": 649.0,
+          "text": "madonna mia"
+        },
+        {
+          "start": 649.0,
+          "end": 650.0,
+          "text": "ma io per fare sta cosa"
+        },
+        {
+          "start": 650.0,
+          "end": 651.0,
+          "text": "del botta e risposta col piano"
+        },
+        {
+          "start": 651.0,
+          "end": 652.0,
+          "text": "so 5 minuti"
+        },
+        {
+          "start": 652.0,
+          "end": 653.0,
+          "text": "che ci sto lavorando"
+        },
+        {
+          "start": 653.0,
+          "end": 654.0,
+          "text": "in realtà"
+        },
+        {
+          "start": 654.0,
+          "end": 655.0,
+          "text": "quello che stiamo facendo"
+        },
+        {
+          "start": 655.0,
+          "end": 656.0,
+          "text": "è un investimento"
+        },
+        {
+          "start": 656.0,
+          "end": 657.0,
+          "text": "per un secondo momento"
+        },
+        {
+          "start": 657.0,
+          "end": 658.0,
+          "text": "sia di tempo"
+        },
+        {
+          "start": 658.0,
+          "end": 659.0,
+          "text": "sia di token"
+        },
+        {
+          "start": 659.0,
+          "end": 660.0,
+          "text": "se ci pensate"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 11,
+        "time": 660.0,
+        "timestamp": "00:11:00",
+        "image": "frame_0011.jpg",
+        "reason": "periodic",
+        "ocr_text": "— © 0 Compiti banali 0 piccole modifiche Non hai chiaro l'approccio o da dove partire Se puoi descrivere il task con una frase, fallo Il lavoro mette insieme più Fonti, file o documenti Quondo stai sperimentando Stai lavorando su materiale che conoscì poco o difficili lo\" (meno errori) Se vuoi mettere alla prova Claude su cose nuove Il compito è lungo e fatto di molti passaggi S È utile anche nei lavori d'ufficio/d'intelletto perché ci ACCORDIAMO con Claude su cosa fare prima di farlo lavorare Quel tempo che sembra “perso\" in fase di pianificazione fa risparmiare molto (tempo e token) în un secondo momento",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 660.0,
+          "end": 661.0,
+          "text": "questo succede pure normalmente"
+        },
+        {
+          "start": 661.0,
+          "end": 662.0,
+          "text": "con esseri umani"
+        },
+        {
+          "start": 662.0,
+          "end": 663.0,
+          "text": "spesso vi faccio questo parallelismo"
+        },
+        {
+          "start": 663.0,
+          "end": 664.0,
+          "text": "con gli esseri umani"
+        },
+        {
+          "start": 664.0,
+          "end": 665.0,
+          "text": "è chiaro che"
+        },
+        {
+          "start": 665.0,
+          "end": 666.0,
+          "text": "fare la strategia"
+        },
+        {
+          "start": 666.0,
+          "end": 668.0,
+          "text": "sembra una perdita di tempo"
+        },
+        {
+          "start": 668.0,
+          "end": 669.0,
+          "text": "ma la strategia"
+        },
+        {
+          "start": 669.0,
+          "end": 670.0,
+          "text": "è quella che dopo"
+        },
+        {
+          "start": 670.0,
+          "end": 671.0,
+          "text": "non ci fa perdere tempo"
+        },
+        {
+          "start": 671.0,
+          "end": 672.0,
+          "text": "quindi investiamo"
+        },
+        {
+          "start": 672.0,
+          "end": 674.0,
+          "text": "quel tempo iniziale"
+        },
+        {
+          "start": 674.0,
+          "end": 676.0,
+          "text": "per buttare giù un piano"
+        },
+        {
+          "start": 676.0,
+          "end": 677.0,
+          "text": "per fare anche una semplice"
+        },
+        {
+          "start": 677.0,
+          "end": 678.0,
+          "text": "to do list"
+        },
+        {
+          "start": 678.0,
+          "end": 679.0,
+          "text": "per farci un piccolo schemino"
+        },
+        {
+          "start": 679.0,
+          "end": 680.0,
+          "text": "quando lo facciamo"
+        },
+        {
+          "start": 680.0,
+          "end": 681.0,
+          "text": "con carta e penna"
+        },
+        {
+          "start": 681.0,
+          "end": 683.0,
+          "text": "nel nostro lavoro quotidiano"
+        },
+        {
+          "start": 683.0,
+          "end": 684.0,
+          "text": "e sappiamo che quella cosa"
+        },
+        {
+          "start": 684.0,
+          "end": 686.0,
+          "text": "poi ci è da guida"
+        },
+        {
+          "start": 686.0,
+          "end": 687.0,
+          "text": "in quello che faremo dopo"
+        },
+        {
+          "start": 687.0,
+          "end": 688.0,
+          "text": "ecco perché"
+        },
+        {
+          "start": 688.0,
+          "end": 689.0,
+          "text": "è un investimento"
+        },
+        {
+          "start": 689.0,
+          "end": 691.0,
+          "text": "lo stiamo perdendo tempo"
+        },
+        {
+          "start": 691.0,
+          "end": 692.0,
+          "text": "e adesso"
+        },
+        {
+          "start": 692.0,
+          "end": 693.0,
+          "text": "vediamo come lo facciamo"
+        },
+        {
+          "start": 693.0,
+          "end": 694.0,
+          "text": "praticamente"
+        }
+      ]
+    }
+  ]
+}

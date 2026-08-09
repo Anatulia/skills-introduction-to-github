@@ -1,0 +1,4479 @@
+{
+  "title": "Workshop Company Brain - 1a serata: La Diagnosi",
+  "sections": [
+    {
+      "keyframe": {
+        "index": 0,
+        "time": 0.0,
+        "timestamp": "00:00:00",
+        "image": "frame_0000.jpg",
+        "reason": "start",
+        "ocr_text": "",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1.0,
+          "end": 9.039999961853027,
+          "text": "Eccoci qua, buonasera! Buonasera, signori! Come state, signori e signore?"
+        },
+        {
+          "start": 10.800000190734863,
+          "end": 17.440000534057617,
+          "text": "Siamo in un bel po', eh? Siamo già in un bel po'. Bene, bene, bene. Da dove scrivete,"
+        },
+        {
+          "start": 17.440000534057617,
+          "end": 24.479999542236328,
+          "text": "ragazzi? Ditemi un po'. Aspettiamo giusto quei cinque minuti, gli ultimi ritardatari,"
+        },
+        {
+          "start": 24.479999542236328,
+          "end": 33.47999954223633,
+          "text": "e poi si inizia. Tante mi confermate che mi vedete, mi sentite bene? Roma, Ravenna, Milano,"
+        },
+        {
+          "start": 33.47999954223633,
+          "end": 45.880001068115234,
+          "text": "Roviglio, Padova, Berlino. Bene, bene, bene. State bene i carichi? Bologna, Benga, dalla Svizzera,"
+        },
+        {
+          "start": 45.880001068115234,
+          "end": 51.880001068115234,
+          "text": "grande Michele, Reggio Emilia. Perfetto, in Bologna che mi sentite, mi vedete bene. Aspettiamo,"
+        },
+        {
+          "start": 51.880001068115234,
+          "end": 57.959999084472656,
+          "text": "siamo già in più di 400 persone, eh? Bene, bene, bene. Comunque, ragazzi,"
+        },
+        {
+          "start": 57.959999084472656,
+          "end": 61.7599983215332,
+          "text": "dato che, ve lo dicevo anche oggi, dato che alcuni di voi hanno scritto il numero sbagliato,"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 1,
+        "time": 60.0,
+        "timestamp": "00:01:00",
+        "image": "frame_0001.jpg",
+        "reason": "periodic",
+        "ocr_text": "Michele Cotti ve",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 61.7599983215332,
+          "end": 65.72000122070312,
+          "text": "magari non hanno ricevuto il messaggio del tutor, eccetera, state super tranquilli. Il link comunque"
+        },
+        {
+          "start": 65.72000122070312,
+          "end": 71.68000030517578,
+          "text": "l'ho inviato direttamente in community, quindi nel caso poi a fine serata assegniamo il tutor,"
+        },
+        {
+          "start": 71.68000030517578,
+          "end": 76.63999938964844,
+          "text": "se ancora non ce l'avete, però super, super tranquilli. Ti vedo e ti sento, perfetto Pietro."
+        },
+        {
+          "start": 77.0,
+          "end": 83.27999877929688,
+          "text": "Ottimo, ottimo, ottimo. Ma spero solo tu, Antonio, mi vedi bloccato, perché io spero"
+        },
+        {
+          "start": 83.27999877929688,
+          "end": 93.4000015258789,
+          "text": "mi vediate tutti bene. Allora, bene, bene, bene. Datemi un feedback, dai, ancora un paio di persone"
+        },
+        {
+          "start": 93.4000015258789,
+          "end": 102.27999877929688,
+          "text": "mi diano un feedback se mi sentite, mi vedete bene così. Perfetto. Come state? Ditemi un po',"
+        },
+        {
+          "start": 102.27999877929688,
+          "end": 113.95999908447266,
+          "text": "come siete messi lato AI? Come siete messi lato AI? Che stasera vediamo un po' di così. L'importante,"
+        },
+        {
+          "start": 113.95999908447266,
+          "end": 119.80000305175781,
+          "text": "raga, partecipate a tutte e tre le serate, eh, anche perché un po' di cose da far vedere,"
+        },
+        {
+          "start": 119.80000305175781,
+          "end": 124.36000061035156,
+          "text": "un po' di cose da darvi, quindi belli carichi."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 2,
+        "time": 120.0,
+        "timestamp": "00:02:00",
+        "image": "frame_0002.jpg",
+        "reason": "periodic",
+        "ocr_text": "Michele Cotti ve",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 124.36000061035156,
+          "end": 135.32000732421875,
+          "text": "Olgono dalle 5 ore di risalto che è un qualcosa, costantemente. Grande, grande Simone. Calcola che"
+        },
+        {
+          "start": 135.32000732421875,
+          "end": 140.8000030517578,
+          "text": "io ho il max per 20 e mi capita pure a me, quindi io non so tu che abbonamento abbia,"
+        },
+        {
+          "start": 140.8000030517578,
+          "end": 148.8000030517578,
+          "text": "ma capita, capita, capita. Quando si immacina. Francesco, sviluppatore? Grande, beh, sicuramente,"
+        },
+        {
+          "start": 148.83999633789062,
+          "end": 159.1999969482422,
+          "text": "sicuramente. Ottimo, ottimo, ottimo, ottimo. Sì, ormai sembra che ho più magliette uguali di questo"
+        },
+        {
+          "start": 159.1999969482422,
+          "end": 163.0399932861328,
+          "text": "colore. Ho più magliette, sennò sempre mi vesto sempre uguale, non cambia mai la maglia. Comunque"
+        },
+        {
+          "start": 163.0399932861328,
+          "end": 169.52000427246094,
+          "text": "no, più magliette uguali e il blu, se non si è capito, mi piace. Comunque dai, siamo 4 e 50,"
+        },
+        {
+          "start": 169.52000427246094,
+          "end": 177.67999267578125,
+          "text": "lasciamo ancora giusto 5 minutini, ragazzi, così, 5 minutini e poi si parte che andiamo a vedere un"
+        },
+        {
+          "start": 177.67999267578125,
+          "end": 185.0399932861328,
+          "text": "bel po' di cose. Vedrete che in entrambe le serate, poi domani vedremo effettivamente nel vivo,"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 3,
+        "time": 180.0,
+        "timestamp": "00:03:00",
+        "image": "frame_0003.jpg",
+        "reason": "periodic",
+        "ocr_text": "Michele Cotti va",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 185.0399932861328,
+          "end": 190.9600067138672,
+          "text": "anche nell'operatività, quindi dai. Iniziatore per lo sviluppo, concludo, ormai un collegatisso. Grande,"
+        },
+        {
+          "start": 190.9600067138672,
+          "end": 197.8000030517578,
+          "text": "grande, grande. Bravi, bravi, bravi che siete già belli sul pezzo. In realtà ho visto anche un po'"
+        },
+        {
+          "start": 197.8000030517578,
+          "end": 203.27999877929688,
+          "text": "di vostri, un bel po', quasi praticamente tutti i vostri questionari e tante, tante persone molto"
+        },
+        {
+          "start": 203.27999877929688,
+          "end": 213.44000244140625,
+          "text": "avanti, quindi bravi. Seed Premium Cloud Team, brava, bravo Daniele, ci sta. Allora, bene, bene,"
+        },
+        {
+          "start": 213.44000244140625,
+          "end": 219.32000732421875,
+          "text": "bene, bene, bene. Spero che anche, dato che abbiamo fatto anche il VIP Pass, che ho visto che un bel"
+        },
+        {
+          "start": 219.32000732421875,
+          "end": 223.24000549316406,
+          "text": "po' di voi l'hanno preso, spero vi sia piaciuto il video che avete trovato all'interno, dato che"
+        },
+        {
+          "start": 223.24000549316406,
+          "end": 231.67999267578125,
+          "text": "era già un qualcosa di bello croccante, per modo di dire. Era un bel framework che spero vi sia,"
+        },
+        {
+          "start": 232.39999389648438,
+          "end": 239.55999755859375,
+          "text": "spero vi sia piaciuto. Chi ha preso il VIP e chi ha preso il VIP e si è guardato il video che c'era"
+        },
+        {
+          "start": 239.55999755859375,
+          "end": 246.36000061035156,
+          "text": "con la guida del Framework Orbit, veramente datemi poi un feedback, perché sono curioso,"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 4,
+        "time": 240.0,
+        "timestamp": "00:04:00",
+        "image": "frame_0004.jpg",
+        "reason": "periodic",
+        "ocr_text": "Michele Cotti VI",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 246.36000061035156,
+          "end": 252.8800048828125,
+          "text": "è quello che utilizzo anch'io sempre in azienda, quindi spero vi sia valore, insomma."
+        },
+        {
+          "start": 252.8800048828125,
+          "end": 264.3599853515625,
+          "text": "Sì, Michele, lo lasciamo, lasciamo la possibilità di prenderlo, tranquilli. Allora,"
+        },
+        {
+          "start": 264.3599853515625,
+          "end": 269.3999938964844,
+          "text": "le registrazioni in realtà erano per chi aveva preso il VIP Pass, quindi avevamo dato la possibilità"
+        },
+        {
+          "start": 269.3999938964844,
+          "end": 274.760009765625,
+          "text": "di prendere il VIP giusto per questa cosa, tenere le registrazioni, in più c'erano dentro un po' di"
+        },
+        {
+          "start": 274.760009765625,
+          "end": 280.20001220703125,
+          "text": "bonus interessanti, quindi nel caso poi potete andare a prenderlo, non c'è problema, nel caso"
+        },
+        {
+          "start": 280.20001220703125,
+          "end": 285.55999755859375,
+          "text": "chiedete al vostro... Ottimo video VIP, bene, bene, bene, bene. Non c'è nessun video, davvero,"
+        },
+        {
+          "start": 285.55999755859375,
+          "end": 291.8399963378906,
+          "text": "come no? Max mi sa che non sei entrato nel portale giusto. Orbit è già operativo, ottimo, ottimo,"
+        },
+        {
+          "start": 291.8399963378906,
+          "end": 300.3999938964844,
+          "text": "ottimo. Perfetto, perfetto. Vabbè, vai tranquillo, Maximilian. Perfetto, io direi che a breve,"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 5,
+        "time": 300.0,
+        "timestamp": "00:05:00",
+        "image": "frame_0005.jpg",
+        "reason": "periodic",
+        "ocr_text": "Michele Cotti",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 300.3999938964844,
+          "end": 306.79998779296875,
+          "text": "dai, ancora due minutini di numero, che siamo a 4,82 persone, siamo un bel po' di persone."
+        },
+        {
+          "start": 307.3999938964844,
+          "end": 312.8800048828125,
+          "text": "Spero mi vediate tutti, perché tanti dicono video bloccato, però io spero che voi mi vediate bene,"
+        },
+        {
+          "start": 312.8800048828125,
+          "end": 328.3999938964844,
+          "text": "insomma. Spero sia un vostro problema e non il mio, ecco. Ottimo. Sono reduce da troppi servitori"
+        },
+        {
+          "start": 328.3999938964844,
+          "end": 334.8399963378906,
+          "text": "che erano solo grandi marchettate. Ci sta, Sergio. Vabbè, calcola che il VIP, come ripeto,"
+        },
+        {
+          "start": 335.79998779296875,
+          "end": 341.3999938964844,
+          "text": "l'abbiamo apprezzato a 37 euro. Simbolico, credimi, di ciò che trovi all'interno è molto,"
+        },
+        {
+          "start": 341.3999938964844,
+          "end": 346.2799987792969,
+          "text": "molto di più. Comunque era giusto per avere registrazioni e tutto il resto, quindi... Bene,"
+        },
+        {
+          "start": 346.2799987792969,
+          "end": 352.7200012207031,
+          "text": "bene, bene, bene, bene. Ci siamo, dai. Ci siamo, ci siamo, ci siamo. Nota sui fogliettini a 4."
+        },
+        {
+          "start": 352.7200012207031,
+          "end": 358.6400146484375,
+          "text": "Ottimo. Video ok? Anche a me un po' da telefono invece vedo bene. Raga, io ve l'ho detto,"
+        },
+        {
+          "start": 358.8800048828125,
+          "end": 365.0400085449219,
+          "text": "se potete partecipare da computer, fatelo da computer che è molto meglio, ok? Così ci si"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 6,
+        "time": 360.0,
+        "timestamp": "00:06:00",
+        "image": "frame_0006.jpg",
+        "reason": "periodic",
+        "ocr_text": "Michele Cotti SE",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 365.0400085449219,
+          "end": 372.7200012207031,
+          "text": "vede belli grandi, si può... Capite? Un attimo, poi va benissimo anche da telefono, non è necessario,"
+        },
+        {
+          "start": 372.7200012207031,
+          "end": 383.9200134277344,
+          "text": "ok? Ci sta, ci sta, Sergio. Capibile, capibile. Allora, workshop quanto dura? Allora,"
+        },
+        {
+          "start": 383.9200134277344,
+          "end": 388.79998779296875,
+          "text": "ti do indicativamente saremo sull'oretta, oretta e mezza, ok? Cambia un po' da serata e serata,"
+        },
+        {
+          "start": 388.79998779296875,
+          "end": 393.32000732421875,
+          "text": "però all'incirca saremo sull'oretta, oretta e mezza. Probabilmente questa prima serata potrebbe"
+        },
+        {
+          "start": 393.32000732421875,
+          "end": 398.6000061035156,
+          "text": "essere anche un attimo la più veloce, poi serata di domani importante e la terza ancora più"
+        },
+        {
+          "start": 398.6000061035156,
+          "end": 404.0,
+          "text": "importante. Quindi l'importante è accedere ed esserci, ok? L'importante è esserci. Quindi"
+        },
+        {
+          "start": 404.0,
+          "end": 411.4800109863281,
+          "text": "durata più o meno di tutte e tre le serate questo come tempo, ok? Allora, allora, allora,"
+        },
+        {
+          "start": 411.760009765625,
+          "end": 415.7200012207031,
+          "text": "purtroppo solo da smartphone, va benissimo, benissimo, benissimo. Dai, dai, ci siamo. Io"
+        },
+        {
+          "start": 415.7200012207031,
+          "end": 425.9599914550781,
+          "text": "direi che... Cosa dite? Siamo pronti? Possiamo iniziare? Che dite? È un problema per chiamarti"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 7,
+        "time": 420.0,
+        "timestamp": "00:07:00",
+        "image": "frame_0007.jpg",
+        "reason": "periodic",
+        "ocr_text": "Michele Cotti LS",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 425.9599914550781,
+          "end": 432.9200134277344,
+          "text": "da zero? No, assolutamente, Gianni. Anzi, tanto meglio, perché spesso ci sono persone che hanno"
+        },
+        {
+          "start": 432.9200134277344,
+          "end": 436.32000732421875,
+          "text": "visto una marea di video YouTube e hanno solo che tanta confusione in testa, quindi in realtà"
+        },
+        {
+          "start": 436.32000732421875,
+          "end": 442.0400085449219,
+          "text": "ciò che vedremo sarà per chiunque in realtà, anche per uno che parte da zero, anche perché"
+        },
+        {
+          "start": 442.0400085449219,
+          "end": 448.8399963378906,
+          "text": "vedrete poi che non servirà scrivere una riga di code. L'importante è essere bravi a parlare,"
+        },
+        {
+          "start": 448.8399963378906,
+          "end": 455.2799987792969,
+          "text": "a spiegare a aziende, eccetera. Paolo, che dici già te invece? Mamma mia, no, Paolo, no, grazie."
+        },
+        {
+          "start": 455.2799987792969,
+          "end": 460.6400146484375,
+          "text": "Dai, si parte. Il mio amico si sta per collegare, dai, ultimo minutino, ultimo minutino e poi"
+        },
+        {
+          "start": 460.6400146484375,
+          "end": 470.7200012207031,
+          "text": "partiamo. Ultimo minutino e poi partiamo. Roberto è sempre quello, l'ho già detto,"
+        },
+        {
+          "start": 470.7200012207031,
+          "end": 475.760009765625,
+          "text": "se volete vedere le registrazioni delle serate c'è il pass VIP, però io vi consiglio davvero"
+        },
+        {
+          "start": 475.760009765625,
+          "end": 480.239990234375,
+          "text": "di essere in live, perché questo è davvero della live. Comunicazione, interazione, cioè,"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 8,
+        "time": 480.0,
+        "timestamp": "00:08:00",
+        "image": "frame_0008.jpg",
+        "reason": "periodic",
+        "ocr_text": "Michele Cotti JIM \\&",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 480.239990234375,
+          "end": 484.1600036621094,
+          "text": "è un'altra cosa vedere se è registrato, ok? Quindi cercate di essere partecipi tutte e tre"
+        },
+        {
+          "start": 484.1600036621094,
+          "end": 496.4800109863281,
+          "text": "della live. Soprattutto a quella di domani e quella di dopodomani, ok? Allora, rilasciamo,"
+        },
+        {
+          "start": 496.4800109863281,
+          "end": 505.3599853515625,
+          "text": "sì, adesso arriviamo, adesso vi diciamo un attimo di tutto. Ok, hai ragione, hai ragione,"
+        },
+        {
+          "start": 505.3599853515625,
+          "end": 510.8800048828125,
+          "text": "ottenenza, ottenenza, stanno entrando le ultime, direi che possiamo iniziare. Quindi, dai,"
+        },
+        {
+          "start": 511.4800109863281,
+          "end": 516.9600219726562,
+          "text": "iniziamo ragazzi, direi, dato che siamo in tanti, per non creare confusione io vado a bloccare la"
+        },
+        {
+          "start": 516.9600219726562,
+          "end": 523.760009765625,
+          "text": "chat, quindi vado a bloccare la chat in modo tale che riaminiamo belli concentrati, belli focus sulla"
+        },
+        {
+          "start": 523.760009765625,
+          "end": 529.3599853515625,
+          "text": "serata, poi nel caso vi faccio domande, riapriamo la chat, però l'importante è che siamo belli,"
+        },
+        {
+          "start": 529.3599853515625,
+          "end": 535.7999877929688,
+          "text": "belli concentrati. Quindi io direi che possiamo partire. Quindi inizio a condividervi e benvenuti"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 9,
+        "time": 532.25,
+        "timestamp": "00:08:52",
+        "image": "frame_0009.jpg",
+        "reason": "scene",
+        "ocr_text": "Michele Cotti",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 535.7999877929688,
+          "end": 541.9600219726562,
+          "text": "alla prima serata del workshop Company Brain. Io sono Michele e sono un imprenditore da ormai"
+        },
+        {
+          "start": 541.9600219726562,
+          "end": 549.5999755859375,
+          "text": "otto anni, ma di me vi parlo tra un attimo, adesso con calma, perché stasera non si parte da me,"
+        },
+        {
+          "start": 549.5999755859375,
+          "end": 557.52001953125,
+          "text": "ma voglio partire da voi, dalle vostre necessità, da quello che vi tiene svegli. Da lì poi costruiamo"
+        },
+        {
+          "start": 557.52001953125,
+          "end": 562.8800048828125,
+          "text": "tutto il resto, è una cosa molto importante. Prima ci mettiamo però d'accordo su due cose,"
+        },
+        {
+          "start": 563.239990234375,
+          "end": 568.280029296875,
+          "text": "perché da come ne viviamo dipende da quello che vi portate a casa. Quindi prima cosa,"
+        },
+        {
+          "start": 568.280029296875,
+          "end": 572.4400024414062,
+          "text": "sono tre serate, ve l'ho già detto adesso, anche mentre chiacchieravamo un attimo, questa è la"
+        },
+        {
+          "start": 572.4400024414062,
+          "end": 577.3200073242188,
+          "text": "prima e chi arriva fino in fondo, fino all'ultima sera, si porta a casa una sorpresa che per adesso"
+        },
+        {
+          "start": 577.3200073242188,
+          "end": 583.6799926757812,
+          "text": "io non vi posso anticipare, altrimenti il team s'arrabbia. Vi dico solo che vale la pena esserci"
+        },
+        {
+          "start": 583.6799926757812,
+          "end": 590.3599853515625,
+          "text": "fino alla fine. Seconda cosa, ogni sera ve ne andate con qualcosa di concreto in mano. Stasera"
+        },
+        {
+          "start": 590.3599853515625,
+          "end": 596.239990234375,
+          "text": "ci sarà un workbook che vi daremo a fine serata, un documento che vi fate su misura e resta a voi."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 10,
+        "time": 592.25,
+        "timestamp": "00:09:52",
+        "image": "frame_0010.jpg",
+        "reason": "periodic",
+        "ocr_text": "Stasera un workbook, un documento che vi fate su misura e vi resta.",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 596.239990234375,
+          "end": 601.280029296875,
+          "text": "Insieme al workbook stasera c'è anche un regalo che non avevo ne ancora annunciato da nessuna"
+        },
+        {
+          "start": 601.280029296875,
+          "end": 607.239990234375,
+          "text": "parte, si chiama l'impronta. Cosa farei preciso? Ve lo faccio vedere poi a fine serata, quando"
+        },
+        {
+          "start": 607.239990234375,
+          "end": 612.6799926757812,
+          "text": "avrete capito effettivamente perché vi serve quella cosa. Ma ve li do solamente ad una condizione,"
+        },
+        {
+          "start": 612.6799926757812,
+          "end": 618.2000122070312,
+          "text": "come vi ripeto, che restiate fino alla fine. A chi molla la metà non li mando dopo per email,"
+        },
+        {
+          "start": 618.52001953125,
+          "end": 623.9600219726562,
+          "text": "molto molto importante. Belli concentrati, rimaniamo. Non è per cattiveria, è che le cose"
+        },
+        {
+          "start": 623.9600219726562,
+          "end": 627.8800048828125,
+          "text": "che contano le diamo a chi c'è. Come abbiamo già detto abbiamo fatto una selezione, si sono"
+        },
+        {
+          "start": 627.8800048828125,
+          "end": 632.6400146484375,
+          "text": "iscritti in tanti, ma voglio solo persone che davvero gli interessa l'argomento e sono sul"
+        },
+        {
+          "start": 632.6400146484375,
+          "end": 638.0800170898438,
+          "text": "pezzo. Un'ultimissima cosa, ognuno di voi ha un tutor di riferimento, una persona con cui potete"
+        },
+        {
+          "start": 638.0800170898438,
+          "end": 643.5999755859375,
+          "text": "parlare in privato in questi giorni, potete parlarci di qualsiasi cosa. Un dubbio sull'azienda,"
+        },
+        {
+          "start": 643.5999755859375,
+          "end": 649.4000244140625,
+          "text": "una domanda su quello che vedete, usatelo, ok? È lì per voi. Tartassatevi questi tutor,"
+        },
+        {
+          "start": 649.4000244140625,
+          "end": 654.4400024414062,
+          "text": "ok? Sono lì apposta, se c'è qualcosa che non vi è chiaro, chiedete. Ogni domanda va bene,"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 11,
+        "time": 652.25,
+        "timestamp": "00:10:52",
+        "image": "frame_0011.jpg",
+        "reason": "periodic",
+        "ocr_text": "pr Usatelo, è li per voi.",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 654.4400024414062,
+          "end": 661.0,
+          "text": "non esistono domande stupide, ok? Quindi partiamo. Adesso vi faccio una domanda e voglio che ci"
+        },
+        {
+          "start": 661.0,
+          "end": 666.5999755859375,
+          "text": "pensiate un attimo davvero. Vi siete mai chiesti perché le aziende di intelligenza artificiale ad"
+        },
+        {
+          "start": 666.5999755859375,
+          "end": 672.4000244140625,
+          "text": "oggi valgono migliaia di miliardi di euro? Trilioni in alcuni casi. Non so se avete visto"
+        },
+        {
+          "start": 672.5599975585938,
+          "end": 680.6799926757812,
+          "text": "che si puoteranno anche OpenAI, Antropic per cifre spropositate, ok? E sono le aziende più ricche"
+        },
+        {
+          "start": 680.6799926757812,
+          "end": 685.719970703125,
+          "text": "della storia dell'umanità. E poi voi aprite la stessa intelligenza artificiale, le chiedete di"
+        },
+        {
+          "start": 685.719970703125,
+          "end": 691.52001953125,
+          "text": "scrivervi un'email per un cliente e vi tira fuori una roba fredda, generica, che dovete riscrivere"
+        },
+        {
+          "start": 691.52001953125,
+          "end": 698.280029296875,
+          "text": "praticamente da capo. Com'è possibile questa cosa? La cosa più potente mai costruita dall'uomo e a"
+        },
+        {
+          "start": 698.280029296875,
+          "end": 703.7999877929688,
+          "text": "voi in mano sembra un giocattolo che non azzecca nemmeno un email. Ecco, la risposta a questa"
+        },
+        {
+          "start": 703.7999877929688,
+          "end": 708.5999755859375,
+          "text": "domanda è la cosa più importante di tutta la serata e ve la voglio dare subito perché almeno"
+        },
+        {
+          "start": 708.5999755859375,
+          "end": 713.9600219726562,
+          "text": "voglio togliervi un peso dallo stomaco prima ancora di cominciare. Non è perché la usate male voi,"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 12,
+        "time": 712.25,
+        "timestamp": "00:11:52",
+        "image": "frame_0012.jpg",
+        "reason": "periodic",
+        "ocr_text": "Non è perché la usate male voi.",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 713.9600219726562,
+          "end": 721.0800170898438,
+          "text": "ok? Sia chiaro. Non è che siete negati, non è che siete indietro, non è colpa vostra. È che ve"
+        },
+        {
+          "start": 721.0800170898438,
+          "end": 727.52001953125,
+          "text": "l'hanno consegnata a metà. Ve l'hanno data senza la parte che la rende davvero vostra. Senza il"
+        },
+        {
+          "start": 727.5599975585938,
+          "end": 733.8800048828125,
+          "text": "pezzo che la fa funzionare per la vostra azienda. E in queste tre sere io vi faccio vedere esattamente"
+        },
+        {
+          "start": 733.8800048828125,
+          "end": 740.1599731445312,
+          "text": "qual è quel pezzo e come si costruisce ovviamente. Vi dico anche una cosa, anche cosa succede in"
+        },
+        {
+          "start": 740.1599731445312,
+          "end": 745.9199829101562,
+          "text": "queste tre sere, così sapete dove stiamo andando. Stasera capite una volta per tutte perché finora"
+        },
+        {
+          "start": 745.9199829101562,
+          "end": 751.5599975585938,
+          "text": "l'AI non vi ha neancora cambiato l'azienda e vi fate la diagnosi della vostra situazione. Nero"
+        },
+        {
+          "start": 751.5599975585938,
+          "end": 757.9199829101562,
+          "text": "su bianco sul vostro caso specifico. Domani sera vedete il sistema lavorare dal vivo davanti a voi"
+        },
+        {
+          "start": 757.9199829101562,
+          "end": 764.0399780273438,
+          "text": "e vi prendete la mappa esatta per costruire la cosa importante. E poi l'ultima sera colleghiamo"
+        },
+        {
+          "start": 764.0399780273438,
+          "end": 769.3200073242188,
+          "text": "tutto, ok? E vi mostro come si passa da un'azienda che gira solo se ci siete voi a un'azienda che"
+        },
+        {
+          "start": 769.3200073242188,
+          "end": 774.3599853515625,
+          "text": "invece ha un cervello suo che lavora anche quando voi non ci siete, che è questo l'obiettivo di"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 13,
+        "time": 772.25,
+        "timestamp": "00:12:52",
+        "image": "frame_0013.jpg",
+        "reason": "periodic",
+        "ocr_text": "aun'azienda che ha un cervello suo, che lavora anche quando voi non ci siete.",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 774.3599853515625,
+          "end": 780.8800048828125,
+          "text": "perché siamo qua. Quindi io direi che si può partire, ok? Come vi ho detto prima, partiamo"
+        },
+        {
+          "start": 780.8800048828125,
+          "end": 786.0,
+          "text": "da voi. Vi avviso, mentre parlo, più di una di queste cose che vi dirò probabilmente ve le"
+        },
+        {
+          "start": 786.0,
+          "end": 792.239990234375,
+          "text": "sentirete addosso, è normalissimo. Siamo tutti sulla stessa barca e adesso ve lo dimostro. Nei"
+        },
+        {
+          "start": 792.239990234375,
+          "end": 797.1199951171875,
+          "text": "giorni scorsi ho fatto una cosa, ho preso tutte le vostre risposte al questionario, quelle che"
+        },
+        {
+          "start": 797.1199951171875,
+          "end": 803.3599853515625,
+          "text": "avete compilato quando vi siete iscritti, insomma, centinaia di risposte e le ho lette una per una."
+        },
+        {
+          "start": 803.3599853515625,
+          "end": 807.280029296875,
+          "text": "Dopo averle fatte analizzare nel mio company brain, le ho lette una per una perché volevo davvero"
+        },
+        {
+          "start": 807.4400024414062,
+          "end": 813.2000122070312,
+          "text": "capire cosa vi pesa davvero, ok? Senza tirare ad indovinare. E sapete qual è la cosa che mi ruba"
+        },
+        {
+          "start": 813.2000122070312,
+          "end": 819.8800048828125,
+          "text": "più tempo? Quella che è tornata più di ogni altra cosa? Il lavoro ripetitivo, ok? Il lavoro"
+        },
+        {
+          "start": 819.8800048828125,
+          "end": 827.1599731445312,
+          "text": "ripetitivo. E le stesse identiche cose, ogni giorno, ogni settimana, fatte a mano da voi. Uno"
+        },
+        {
+          "start": 827.1599731445312,
+          "end": 831.760009765625,
+          "text": "su quattro di voi ha scritto proprio questo con parole diverse. E uno su quattro è tanto, ragazzi."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 14,
+        "time": 832.25,
+        "timestamp": "00:13:52",
+        "image": "frame_0014.jpg",
+        "reason": "periodic",
+        "ocr_text": "E allora ve le dico, una per una, le cose più ricorrenti.",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 832.3599853515625,
+          "end": 837.1599731445312,
+          "text": "E allora ve le dico, una per una, le cose più ricorrenti. E scommetto che mentre io le elenco,"
+        },
+        {
+          "start": 837.1599731445312,
+          "end": 844.3200073242188,
+          "text": "riconoscerete anche la vostra. Prima cosa, le email. Leggere, smistarle, rispondere ai clienti"
+        },
+        {
+          "start": 844.3200073242188,
+          "end": 848.760009765625,
+          "text": "che vi fanno sempre le stesse tre domande, aprite la casella la mattina e sono già a 40,"
+        },
+        {
+          "start": 848.760009765625,
+          "end": 855.3599853515625,
+          "text": "la chiudete la sera e probabilmente sono ancora a 40. Oppure i preventivi e le offerte. Quanti di"
+        },
+        {
+          "start": 855.3599853515625,
+          "end": 860.239990234375,
+          "text": "voi hanno scritto preventivi e offerte? Ogni volta da rifare da zero, ogni volta a ripensare"
+        },
+        {
+          "start": 860.4400024414062,
+          "end": 865.0399780273438,
+          "text": "al prezzo, a scrivere le stesse condizioni, a rincorrere il cliente che poi magari non vi"
+        },
+        {
+          "start": 865.0399780273438,
+          "end": 870.760009765625,
+          "text": "risponde nemmeno. Oppure cercare un documento. Questa la conoscete bene perché tanti di voi"
+        },
+        {
+          "start": 870.760009765625,
+          "end": 875.1199951171875,
+          "text": "hanno scritto proprio questo. Quanti documenti abbiamo sparsi? Cercare un documento. Dov'è"
+        },
+        {
+          "start": 875.1199951171875,
+          "end": 881.9600219726562,
+          "text": "finito il contratto di quel determinato cliente? Era nell'email? No. Era magari sul drive? No."
+        },
+        {
+          "start": 881.9600219726562,
+          "end": 887.1599731445312,
+          "text": "Ce l'ha il commercialista? No. Forse nella vecchia cartella? Chi lo sa quante volte è"
+        },
+        {
+          "start": 887.1599731445312,
+          "end": 892.1599731445312,
+          "text": "capitata questa cosa? Intanto sono passati magari 20 minuti per una cosa che dovrebbe"
+        },
+        {
+          "start": 892.1599731445312,
+          "end": 898.3200073242188,
+          "text": "richiederne 20 secondi, non 20 minuti. Perché quello che la vostra azienda sa è sparso in"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 15,
+        "time": 892.25,
+        "timestamp": "00:14:52",
+        "image": "frame_0015.jpg",
+        "reason": "periodic",
+        "ocr_text": "E intanto sono passati venti minuti per una cosa che dovrebbe richiedere venti tn secondi.",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 898.3200073242188,
+          "end": 900.0,
+          "text": "cinque posti diversi, più la"
+        },
+        {
+          "start": 900.0,
+          "end": 902.0,
+          "text": "Oggi parliamo di business online, prodotti digitali e mindsetti digitali."
+        },
+        {
+          "start": 930.0,
+          "end": 932.0,
+          "text": "Oggi parliamo di business online, prodotti digitali e mindsetti digitali."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 16,
+        "time": 952.25,
+        "timestamp": "00:15:52",
+        "image": "frame_0016.jpg",
+        "reason": "periodic",
+        "ocr_text": "e Non \"diventare ricchi\" Non \"fatturare il doppio\"",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 960.0,
+          "end": 962.8800010681152,
+          "text": "Oggi parliamo di business online, prodotti digitali e mindsetti digitali."
+        },
+        {
+          "start": 990.0,
+          "end": 993.4000015258789,
+          "text": "Un collaboratore che vi chiede una cosa che vi avete già spiegato la settimana scorsa."
+        },
+        {
+          "start": 993.4000015258789,
+          "end": 997.5999984741211,
+          "text": "Riattaccate, avete perso il filo della mail e quindi ricominciate."
+        },
+        {
+          "start": 997.5999984741211,
+          "end": 1002.8000030517578,
+          "text": "Poi vi ricordate del preventivo che avevate promesso alla persona che vi ha scritto che era per ieri."
+        },
+        {
+          "start": 1002.8000030517578,
+          "end": 1007.8000030517578,
+          "text": "Bene, lo cercate, non trovate l'istituto aggiornato, chiamate l'amministrazione,"
+        },
+        {
+          "start": 1007.8000030517578,
+          "end": 1010.8000030517578,
+          "text": "guardate l'orologio ed è praticamente mezzogiorno"
+        },
+        {
+          "start": 1010.8000030517578,
+          "end": 1015.8000030517578,
+          "text": "e non avete neancora fatto una delle cose importanti che vi eravate segnati stamattina."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 17,
+        "time": 1012.25,
+        "timestamp": "00:16:52",
+        "image": "frame_0017.jpg",
+        "reason": "periodic",
+        "ocr_text": "è mezzogiorno, e non avete ancora fatto una sola delle cose importanti che vi eravate segnati stamattina.",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1016.1999969482422,
+          "end": 1020.5999984741211,
+          "text": "E questo era solo lunedì, poi c'è il martedì, poi c'è il mercoledì"
+        },
+        {
+          "start": 1020.5999984741211,
+          "end": 1023.4000015258789,
+          "text": "e il sabato, quando poi tutti gli altri staccano,"
+        },
+        {
+          "start": 1023.4000015258789,
+          "end": 1027.599998474121,
+          "text": "voi siete lì a recuperare quelle che non siete riusciti a fare in settimana."
+        },
+        {
+          "start": 1027.599998474121,
+          "end": 1031.6000061035156,
+          "text": "Adesso vi faccio la domanda scomoda della serata."
+        },
+        {
+          "start": 1031.6000061035156,
+          "end": 1036.6000061035156,
+          "text": "Pensatela bene, con onestà, come se non vi vedesse nessuno, ok?"
+        },
+        {
+          "start": 1036.6000061035156,
+          "end": 1041.0,
+          "text": "Se domani mattina spariste per una settimana, telefono spento proprio,"
+        },
+        {
+          "start": 1041.0,
+          "end": 1043.8000030517578,
+          "text": "niente mail, ok? Niente di tutto."
+        },
+        {
+          "start": 1043.8000030517578,
+          "end": 1047.8000030517578,
+          "text": "La vostra azienda andrebbe avanti da sola? Sì oppure no?"
+        },
+        {
+          "start": 1047.8000030517578,
+          "end": 1050.6000061035156,
+          "text": "Oppure si inceppa? Si blocca?"
+        },
+        {
+          "start": 1050.6000061035156,
+          "end": 1054.8000030517578,
+          "text": "Perché metà delle cose che servono per farla girare vivono solo dentro la vostra testa?"
+        },
+        {
+          "start": 1054.8000030517578,
+          "end": 1058.0,
+          "text": "Siate sinceri, siate sinceri con questo."
+        },
+        {
+          "start": 1058.0,
+          "end": 1061.0,
+          "text": "Pensateci un attimo e rispondetevi dentro di voi."
+        },
+        {
+          "start": 1061.0,
+          "end": 1065.3999938964844,
+          "text": "Se la risposta è si ferma, sappiate che non siate soli."
+        },
+        {
+          "start": 1065.3999938964844,
+          "end": 1070.8000030517578,
+          "text": "Era così anche per me e sono sicuro che la situazione di molti di voi qui stasera è proprio questa."
+        },
+        {
+          "start": 1070.8000030517578,
+          "end": 1075.8000030517578,
+          "text": "La vostra azienda gira e gira magari anche molto bene, fate anche un sacco di soldi magari."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 18,
+        "time": 1072.25,
+        "timestamp": "00:17:52",
+        "image": "frame_0018.jpg",
+        "reason": "periodic",
+        "ocr_text": "La vostra azienda gira. Gira anche bene, magari.",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1075.8000030517578,
+          "end": 1079.8000030517578,
+          "text": "Ma gira perché ci siete voi, ok? Gira perché ci siete voi."
+        },
+        {
+          "start": 1079.8000030517578,
+          "end": 1083.3999938964844,
+          "text": "E questa non è una cosa che potete tenere in piedi per sempre."
+        },
+        {
+          "start": 1083.3999938964844,
+          "end": 1087.8000030517578,
+          "text": "Perché fermatevi un secondo e pensateci davvero, ognuno per sé."
+        },
+        {
+          "start": 1087.8000030517578,
+          "end": 1092.3999938964844,
+          "text": "Qual è la cosa, una sola, che ruba più tempo a voi?"
+        },
+        {
+          "start": 1092.3999938964844,
+          "end": 1096.3999938964844,
+          "text": "Qual è quella singola cosa che vi ruba più tempo in assoluto? Pensateci bene."
+        },
+        {
+          "start": 1097.0,
+          "end": 1101.8000030517578,
+          "text": "E se avete già provato a risolverla con le AI, con magari c'è GPT, con un'automazione,"
+        },
+        {
+          "start": 1101.8000030517578,
+          "end": 1106.0,
+          "text": "ripensate anche a dove vi siete arenati, dove vi siete incastrati su questa cosa."
+        },
+        {
+          "start": 1106.0,
+          "end": 1113.3999938964844,
+          "text": "E tenetevelo bene in mente perché tra pochissimo vi spiego esattamente perché finora non ci siete ancora riusciti."
+        },
+        {
+          "start": 1113.3999938964844,
+          "end": 1115.6000061035156,
+          "text": "È sempre la stessa storia, vero?"
+        },
+        {
+          "start": 1115.6000061035156,
+          "end": 1122.8000030517578,
+          "text": "Le stesse cose, gli stessi blocchi, per un'agenzia come magari per uno studio, come per una cosa di produzione, ok?"
+        },
+        {
+          "start": 1122.8000030517578,
+          "end": 1126.8000030517578,
+          "text": "E io questa storia la conosco bene, praticamente la conosco a memoria."
+        },
+        {
+          "start": 1126.8000030517578,
+          "end": 1131.6000061035156,
+          "text": "Perché l'ho vissuta pure io sulla mia pelle per otto anni, ok?"
+        },
+        {
+          "start": 1131.6000061035156,
+          "end": 1137.6000061035156,
+          "text": "E adesso, giusto un secondo, lasciate che vi rubi giusto cinque minuti per raccontarvi un attimo chi sono,"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 19,
+        "time": 1132.25,
+        "timestamp": "00:18:52",
+        "image": "frame_0019.jpg",
+        "reason": "periodic",
+        "ocr_text": "Allora lasciate che vi rubi cinque minuti per raccontarvi chi sono.",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1137.6000061035156,
+          "end": 1139.6000061035156,
+          "text": "dato che magari tanti di voi non mi conoscono."
+        },
+        {
+          "start": 1139.6000061035156,
+          "end": 1144.8000030517578,
+          "text": "Ma non voglio farvi la lista delle cose che ho fatto, non voglio farvi il curriculum, ok?"
+        },
+        {
+          "start": 1144.8000030517578,
+          "end": 1146.3999938964844,
+          "text": "Vi racconto una sola cosa."
+        },
+        {
+          "start": 1146.3999938964844,
+          "end": 1150.8000030517578,
+          "text": "L'errore che ho ripetuto in ogni singola azienda che io ho costruito negli ultimi anni."
+        },
+        {
+          "start": 1150.8000030517578,
+          "end": 1155.3999938964844,
+          "text": "Perché il sistema che vi faccio vedere in queste sere non nasce da una teoria, ok?"
+        },
+        {
+          "start": 1155.3999938964844,
+          "end": 1159.6000061035156,
+          "text": "Non è che l'ho letto in un libro o l'ho visto su un video di YouTube, ok?"
+        },
+        {
+          "start": 1159.6000061035156,
+          "end": 1162.2000122070312,
+          "text": "Nasce da lì, da quell'errore."
+        },
+        {
+          "start": 1162.2000122070312,
+          "end": 1166.3999938964844,
+          "text": "Io vengo da un paesino della Vallecamonica, in provincia di Brescia."
+        },
+        {
+          "start": 1166.3999938964844,
+          "end": 1169.3999938964844,
+          "text": "Magari tanti di voi sono anche della zona, non lo so."
+        },
+        {
+          "start": 1169.3999938964844,
+          "end": 1174.0,
+          "text": "E a vent'anni io lavoravo come Fabbro con mio padre in officina."
+        },
+        {
+          "start": 1174.0,
+          "end": 1177.3999938964844,
+          "text": "Andavamo a montare cancelli, il Fabbro, insomma."
+        },
+        {
+          "start": 1177.7999877929688,
+          "end": 1182.2000122070312,
+          "text": "Nel frattempo, la sera, io studiavo Ingegneria Informatica a Brescia."
+        },
+        {
+          "start": 1182.2000122070312,
+          "end": 1185.6000061035156,
+          "text": "Perché? Perché la tecnologia a me è sempre piaciuta, ok?"
+        },
+        {
+          "start": 1185.6000061035156,
+          "end": 1190.3999938964844,
+          "text": "Da quando ero ragazzino, prima ancora di sapere effettivamente cosa farci, mi piaceva la tecnologia."
+        },
+        {
+          "start": 1190.3999938964844,
+          "end": 1194.6000061035156,
+          "text": "Poi ad un certo punto, però, ho scoperto che con l'online si poteva costruire un'azienda vera,"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 20,
+        "time": 1192.25,
+        "timestamp": "00:19:52",
+        "image": "frame_0020.jpg",
+        "reason": "periodic",
+        "ocr_text": "Poi a uncerto punto ho scoperto che conl'online si potevano costruire aziende vere.",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1194.6000061035156,
+          "end": 1199.0,
+          "text": "fare qualcosa, poter far soldi, viaggiare e costruire davvero aziende."
+        },
+        {
+          "start": 1199.0,
+          "end": 1203.0,
+          "text": "Allora lì ho mollato completamente l'università al secondo anno, non l'ho finita."
+        },
+        {
+          "start": 1203.2000122070312,
+          "end": 1208.3999938964844,
+          "text": "E mi ci sono buttato sull'online con tutto me stesso e non sono praticamente più tornato indietro."
+        },
+        {
+          "start": 1208.3999938964844,
+          "end": 1212.3999938964844,
+          "text": "Ma, attenzione, voglio dirvi una cosa perché, e questo voglio che ve lo segnate,"
+        },
+        {
+          "start": 1212.3999938964844,
+          "end": 1215.0,
+          "text": "io non ho mai fatto il programmatore in vita mia, ok?"
+        },
+        {
+          "start": 1215.0,
+          "end": 1217.0,
+          "text": "Mai scritto una riga di codice per lavoro."
+        },
+        {
+          "start": 1217.0,
+          "end": 1221.3999938964844,
+          "text": "Questo ve lo dico perché so già cosa scatta nella testa di tante quando sentono"
+        },
+        {
+          "start": 1221.3999938964844,
+          "end": 1226.0,
+          "text": "«eh, questo ha fatto Ingegneria Informatica, allora è facile per lui, è un tecnico»."
+        },
+        {
+          "start": 1226.0,
+          "end": 1228.3999938964844,
+          "text": "No, ok? Niente di tutto ciò."
+        },
+        {
+          "start": 1228.6000061035156,
+          "end": 1234.0,
+          "text": "Non ho sempre stato appassionato di tecnologia, non ho mai scritto però una linea di codice con le mie mani, ok?"
+        },
+        {
+          "start": 1234.0,
+          "end": 1238.7999877929688,
+          "text": "Quello che vi faccio vedere in questa sera non lo tiene in piedi un programmatore,"
+        },
+        {
+          "start": 1238.7999877929688,
+          "end": 1242.7999877929688,
+          "text": "lo tiene in piedi uno che ha imparato a spiegare bene la propria azienda."
+        },
+        {
+          "start": 1242.7999877929688,
+          "end": 1248.2000122070312,
+          "text": "Ora, il codice, quando serve, come vi ripeto, lo scrive l'AI da sola."
+        },
+        {
+          "start": 1248.2000122070312,
+          "end": 1251.6000061035156,
+          "text": "Io le dico solo cosa voglio, ok? È l'AI che lo scrive per me."
+        },
+        {
+          "start": 1251.6000061035156,
+          "end": 1254.7999877929688,
+          "text": "Vi faccio però l'elenco veloce e poi vi spiego perché ve lo dico."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 21,
+        "time": 1252.25,
+        "timestamp": "00:20:52",
+        "image": "frame_0021.jpg",
+        "reason": "periodic",
+        "ocr_text": "Vi faccio l'elenco veloce, e poi vispiego perché ve lo dico.",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1255.0,
+          "end": 1260.0,
+          "text": "In questi anni io ho costruito un e-commerce, l'ho fatto crescere e poi l'ho venduto."
+        },
+        {
+          "start": 1260.0,
+          "end": 1265.6000061035156,
+          "text": "Ho tirato su anche un'azienda di formazione, 863 clienti seguiti in 5 anni."
+        },
+        {
+          "start": 1265.6000061035156,
+          "end": 1269.6000061035156,
+          "text": "Un team di circa 10 persone, processi, l'assistenza, tutto."
+        },
+        {
+          "start": 1269.6000061035156,
+          "end": 1272.6000061035156,
+          "text": "Tante di queste persone sono anche all'interno di quello del workshop di stasera"
+        },
+        {
+          "start": 1272.6000061035156,
+          "end": 1275.6000061035156,
+          "text": "o ho letto tanti nomi a me familiari."
+        },
+        {
+          "start": 1275.6000061035156,
+          "end": 1280.6000061035156,
+          "text": "E poi, nel frattempo, con un altro socio, ho anche tirato su un altro e-commerce di prodotti digitali"
+        },
+        {
+          "start": 1280.6000061035156,
+          "end": 1283.7999877929688,
+          "text": "che in un solo anno ha fatto circa 700.000 Euro."
+        },
+        {
+          "start": 1283.7999877929688,
+          "end": 1287.7999877929688,
+          "text": "Erano 715.000 Dollari di fatturato a mercato americano."
+        },
+        {
+          "start": 1287.7999877929688,
+          "end": 1291.6000061035156,
+          "text": "Vi faccio vedere questi numeri, non perché non è che voglio vantarmi,"
+        },
+        {
+          "start": 1291.6000061035156,
+          "end": 1296.7999877929688,
+          "text": "non me ne frega niente di impressionarvi, anche perché probabilmente molti di voi faranno numeri molto più alti"
+        },
+        {
+          "start": 1296.7999877929688,
+          "end": 1299.7999877929688,
+          "text": "di quelli che ho fatto io, a livello di impresa proprio."
+        },
+        {
+          "start": 1299.7999877929688,
+          "end": 1305.7999877929688,
+          "text": "Ve li faccio vedere perché il punto vero è proprio quello che in questi screenshot non si vede."
+        },
+        {
+          "start": 1306.0,
+          "end": 1313.0,
+          "text": "Perché se io guardo indietro a tutte queste aziende, che in sé a prima vista sembrano cose diverse,"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 22,
+        "time": 1312.25,
+        "timestamp": "00:21:52",
+        "image": "frame_0022.jpg",
+        "reason": "periodic",
+        "ocr_text": "Perché se io guardo indietro a tutte queste aziende, che a prima vista sembrano cose diverse,",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1313.0,
+          "end": 1317.0,
+          "text": "un e-commerce, la formazione, i prodotti digitali, mi accorgo di una cosa,"
+        },
+        {
+          "start": 1317.0,
+          "end": 1320.0,
+          "text": "che io ho sempre fatto lo stesso identico lavoro."
+        },
+        {
+          "start": 1320.0,
+          "end": 1323.0,
+          "text": "Cambiava il prodotto, ma il mestiere non cambiava."
+        },
+        {
+          "start": 1323.0,
+          "end": 1328.0,
+          "text": "Il mio mestiere non è mai stato vendere magliette o vendere corsi o il prodotto digitale."
+        },
+        {
+          "start": 1328.0,
+          "end": 1333.0,
+          "text": "No, il mio mestiere è sempre stato uno solo, costruire la macchina."
+        },
+        {
+          "start": 1333.2000122070312,
+          "end": 1337.2000122070312,
+          "text": "I processi, i sistemi, le automazioni, tutta la roba che fa girare un'azienda,"
+        },
+        {
+          "start": 1337.2000122070312,
+          "end": 1341.2000122070312,
+          "text": "anche quando tu non ci sei fisicamente, sapete meglio di me,"
+        },
+        {
+          "start": 1341.2000122070312,
+          "end": 1344.2000122070312,
+          "text": "quella è sempre stata la parte che mi accendeva,"
+        },
+        {
+          "start": 1344.2000122070312,
+          "end": 1348.2000122070312,
+          "text": "quella che mi faceva alzare la mattina a carico di fare quello che stavo facendo."
+        },
+        {
+          "start": 1348.2000122070312,
+          "end": 1353.2000122070312,
+          "text": "E in tutte quelle aziende, tutte, io ho fatto lo stesso identico errore."
+        },
+        {
+          "start": 1353.2000122070312,
+          "end": 1358.2000122070312,
+          "text": "La macchina la costruivo, sì, ma la costruivo intorno a me."
+        },
+        {
+          "start": 1358.3999938964844,
+          "end": 1363.3999938964844,
+          "text": "Quindi tutto quello che sapevamo, come si fa un preventivo giusto,"
+        },
+        {
+          "start": 1363.3999938964844,
+          "end": 1366.3999938964844,
+          "text": "come si risponde a un cliente incazzato senza perderlo,"
+        },
+        {
+          "start": 1366.3999938964844,
+          "end": 1371.3999938964844,
+          "text": "perché quella campagna l'anno scorso è andata male mentre quell'altra invece è andata bene,"
+        },
+        {
+          "start": 1371.3999938964844,
+          "end": 1374.3999938964844,
+          "text": "stava tutto qua, nella mia testa."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 23,
+        "time": 1372.25,
+        "timestamp": "00:22:52",
+        "image": "frame_0023.jpg",
+        "reason": "periodic",
+        "ocr_text": "stava tutto qui, nella mia testa.",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1374.3999938964844,
+          "end": 1378.3999938964844,
+          "text": "Non era scritto da nessuna parte, era tutto dentro di me."
+        },
+        {
+          "start": 1378.3999938964844,
+          "end": 1381.3999938964844,
+          "text": "Tutto dentro di me, tutte le sante volte."
+        },
+        {
+          "start": 1381.3999938964844,
+          "end": 1383.3999938964844,
+          "text": "E sapete qual era il risultato?"
+        },
+        {
+          "start": 1383.3999938964844,
+          "end": 1387.3999938964844,
+          "text": "Che guadagnavo più che mai, andava bene, l'azienda andava, guadagnavo,"
+        },
+        {
+          "start": 1387.6000061035156,
+          "end": 1390.6000061035156,
+          "text": "ma io non potevo staccare tre giorni di fila, mai."
+        },
+        {
+          "start": 1390.6000061035156,
+          "end": 1394.6000061035156,
+          "text": "Ogni decisione, anche la più piccola, passava da me."
+        },
+        {
+          "start": 1394.6000061035156,
+          "end": 1397.6000061035156,
+          "text": "E sono sicuro che tanti di voi probabilmente sono nella stessa situazione."
+        },
+        {
+          "start": 1397.6000061035156,
+          "end": 1399.6000061035156,
+          "text": "Ogni volta che entrava una persona nuova del team,"
+        },
+        {
+          "start": 1399.6000061035156,
+          "end": 1403.6000061035156,
+          "text": "ricominciavo da zero a spiegarle tutto, le stesse cose, per l'ennesima volta."
+        },
+        {
+          "start": 1403.6000061035156,
+          "end": 1406.6000061035156,
+          "text": "E c'è un momento che non dimenticherò mai,"
+        },
+        {
+          "start": 1406.6000061035156,
+          "end": 1410.6000061035156,
+          "text": "quando ho venduto l'e-commerce, quello che avevo tirato su in anni di lavoro,"
+        },
+        {
+          "start": 1410.6000061035156,
+          "end": 1412.5999755859375,
+          "text": "alla fine non mi è rimasto praticamente niente."
+        },
+        {
+          "start": 1412.5999755859375,
+          "end": 1415.5999755859375,
+          "text": "Cioè, i soldi sì, quelli della vendita, ovvio, se fai una exit,"
+        },
+        {
+          "start": 1415.7999877929688,
+          "end": 1417.7999877929688,
+          "text": "però nient'altro, ok? Mal sistema."
+        },
+        {
+          "start": 1417.7999877929688,
+          "end": 1423.7999877929688,
+          "text": "Tutto quello che avevo imparato, tutto il know-how di due anni, zero, ok? Sparito."
+        },
+        {
+          "start": 1423.7999877929688,
+          "end": 1426.7999877929688,
+          "text": "Perché non esisteva, perché non esisteva fuori dalla mia testa, ok?"
+        },
+        {
+          "start": 1426.7999877929688,
+          "end": 1427.7999877929688,
+          "text": "Era solamente qui."
+        },
+        {
+          "start": 1427.7999877929688,
+          "end": 1431.7999877929688,
+          "text": "E non potevo lasciarlo a nessuno, non potevo trasferirlo, perché non era mai stato scritto."
+        },
+        {
+          "start": 1431.7999877929688,
+          "end": 1436.7999877929688,
+          "text": "Il cervello dell'azienda ero completamente e solo io."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 24,
+        "time": 1432.25,
+        "timestamp": "00:23:52",
+        "image": "frame_0024.jpg",
+        "reason": "periodic",
+        "ocr_text": "ali ® 7 Il cervello dell'azienda ero io.",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1436.7999877929688,
+          "end": 1439.7999877929688,
+          "text": "E un cervello solo, credetemi che non basta, ok?"
+        },
+        {
+          "start": 1439.7999877929688,
+          "end": 1441.7999877929688,
+          "text": "Non si moltiplica, non lo puoi dare ad un altro,"
+        },
+        {
+          "start": 1441.7999877929688,
+          "end": 1443.7999877929688,
+          "text": "e non va mai in ferie, ok?"
+        },
+        {
+          "start": 1444.0,
+          "end": 1447.0,
+          "text": "Poi, invece, arriva l'intelligenza artificiale."
+        },
+        {
+          "start": 1447.0,
+          "end": 1453.0,
+          "text": "E io, come immaginato, ci salto dentro subito, perché mi piace la tecnologia, ok? Mi piace."
+        },
+        {
+          "start": 1453.0,
+          "end": 1455.0,
+          "text": "E inizio ad utilizzarlo ogni giorno."
+        },
+        {
+          "start": 1455.0,
+          "end": 1459.0,
+          "text": "Ormai lo uso da prima che c'è GPT diventasse così conosciuto, ok?"
+        },
+        {
+          "start": 1459.0,
+          "end": 1461.0,
+          "text": "Vedete che c'è GPT e già qualche anno che c'è,"
+        },
+        {
+          "start": 1461.0,
+          "end": 1464.0,
+          "text": "io lo utilizzavo già prima all'interno delle aziende."
+        },
+        {
+          "start": 1464.0,
+          "end": 1467.0,
+          "text": "E non per farci video su internet, ok?"
+        },
+        {
+          "start": 1467.0,
+          "end": 1469.0,
+          "text": "Ma per far girare le mie aziende via."
+        },
+        {
+          "start": 1469.0,
+          "end": 1473.0,
+          "text": "E lì, indovinate un po', ho rifatto praticamente lo stesso identico errore."
+        },
+        {
+          "start": 1473.2000122070312,
+          "end": 1476.2000122070312,
+          "text": "Come probabilmente lo state facendo anche voi, ok?"
+        },
+        {
+          "start": 1476.2000122070312,
+          "end": 1477.2000122070312,
+          "text": "Come lo fanno tutti."
+        },
+        {
+          "start": 1477.2000122070312,
+          "end": 1481.2000122070312,
+          "text": "Un prompt di qua, un tool di là, un'automazione,"
+        },
+        {
+          "start": 1481.2000122070312,
+          "end": 1483.2000122070312,
+          "text": "un pezzo attaccato dall'altro con lo scotch."
+        },
+        {
+          "start": 1483.2000122070312,
+          "end": 1485.2000122070312,
+          "text": "Niente di concreto, ok?"
+        },
+        {
+          "start": 1485.2000122070312,
+          "end": 1487.2000122070312,
+          "text": "Funzionava una volta, ci prendevo gusto,"
+        },
+        {
+          "start": 1487.2000122070312,
+          "end": 1489.2000122070312,
+          "text": "e la volta dopo si rompeva."
+        },
+        {
+          "start": 1489.2000122070312,
+          "end": 1491.2000122070312,
+          "text": "E soprattutto, ogni volta che aprivo una chat nuova,"
+        },
+        {
+          "start": 1491.2000122070312,
+          "end": 1494.2000122070312,
+          "text": "dovevo ricominciare da capo a spiegare chi ero,"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 25,
+        "time": 1492.25,
+        "timestamp": "00:24:52",
+        "image": "frame_0025.jpg",
+        "reason": "periodic",
+        "ocr_text": "E soprattutto, ogni volta che aprivo una chat nuova dovevo ricominciare da capo a spiegargli chi ero,",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1494.2000122070312,
+          "end": 1496.2000122070312,
+          "text": "cosa vendevo, come lavoravo,"
+        },
+        {
+          "start": 1496.2000122070312,
+          "end": 1498.2000122070312,
+          "text": "chi erano i miei clienti, e tutta sta roba."
+        },
+        {
+          "start": 1498.2000122070312,
+          "end": 1501.2000122070312,
+          "text": "Ok? Ogni singola volta."
+        },
+        {
+          "start": 1501.4000244140625,
+          "end": 1503.4000244140625,
+          "text": "Ho buttato via mesi così, ok?"
+        },
+        {
+          "start": 1503.4000244140625,
+          "end": 1505.4000244140625,
+          "text": "E mi ricordo ancora una notte,"
+        },
+        {
+          "start": 1505.4000244140625,
+          "end": 1507.4000244140625,
+          "text": "saranno state le 11 passate,"
+        },
+        {
+          "start": 1507.4000244140625,
+          "end": 1510.4000244140625,
+          "text": "e ero lì che rifacevo per la terza volta"
+        },
+        {
+          "start": 1510.4000244140625,
+          "end": 1512.4000244140625,
+          "text": "la stessa identica automazione che si era rotta di nuovo."
+        },
+        {
+          "start": 1512.4000244140625,
+          "end": 1514.4000244140625,
+          "text": "Ad un certo punto mi sono fermato,"
+        },
+        {
+          "start": 1514.4000244140625,
+          "end": 1516.4000244140625,
+          "text": "ho guardato lo schermo e mi sono detto"
+        },
+        {
+          "start": 1516.4000244140625,
+          "end": 1519.4000244140625,
+          "text": "ma io sto lavorando per le AI,"
+        },
+        {
+          "start": 1519.4000244140625,
+          "end": 1520.4000244140625,
+          "text": "non è le AI che lavora per me."
+        },
+        {
+          "start": 1520.4000244140625,
+          "end": 1524.4000244140625,
+          "text": "Quanti di voi hanno pensato questa cosa qua?"
+        },
+        {
+          "start": 1524.4000244140625,
+          "end": 1526.4000244140625,
+          "text": "Perché credetemi io, io l'ho pensato, ad un certo punto ho detto"
+        },
+        {
+          "start": 1526.4000244140625,
+          "end": 1529.4000244140625,
+          "text": "cazzo ma io sto, sono qua davvero che sto io lavorando per le AI,"
+        },
+        {
+          "start": 1529.5999755859375,
+          "end": 1531.5999755859375,
+          "text": "non è le AI che lavora per me."
+        },
+        {
+          "start": 1531.5999755859375,
+          "end": 1533.5999755859375,
+          "text": "E lì ho preso il problema al contrario."
+        },
+        {
+          "start": 1533.5999755859375,
+          "end": 1536.5999755859375,
+          "text": "Quindi finché ho capito la cosa che mi ha ribaltato tutto"
+        },
+        {
+          "start": 1536.5999755859375,
+          "end": 1539.5999755859375,
+          "text": "ed è esattamente la cosa che sto per dire a voi."
+        },
+        {
+          "start": 1539.5999755859375,
+          "end": 1541.5999755859375,
+          "text": "Il problema non era il tool,"
+        },
+        {
+          "start": 1541.5999755859375,
+          "end": 1543.5999755859375,
+          "text": "non era mai stato il tool, lo strumento,"
+        },
+        {
+          "start": 1543.5999755859375,
+          "end": 1545.5999755859375,
+          "text": "chiamatelo come volete,"
+        },
+        {
+          "start": 1545.5999755859375,
+          "end": 1547.5999755859375,
+          "text": "il problema era che il cervello della mia azienda"
+        },
+        {
+          "start": 1547.5999755859375,
+          "end": 1549.5999755859375,
+          "text": "non esisteva da nessuna parte"
+        },
+        {
+          "start": 1549.5999755859375,
+          "end": 1551.5999755859375,
+          "text": "fuori che dalla mia testa."
+        },
+        {
+          "start": 1551.5999755859375,
+          "end": 1553.5999755859375,
+          "text": "E allora come potevo darlo all'intelligenza artificiale"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 26,
+        "time": 1552.25,
+        "timestamp": "00:25:52",
+        "image": "frame_0026.jpg",
+        "reason": "periodic",
+        "ocr_text": "E allora come potevo darlo all'intelligenza artificiale,",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1553.5999755859375,
+          "end": 1555.5999755859375,
+          "text": "se non ero nemmeno mai riuscito neanche"
+        },
+        {
+          "start": 1555.5999755859375,
+          "end": 1557.5999755859375,
+          "text": "a darlo ad un dipendente in carne ed ossa?"
+        },
+        {
+          "start": 1557.7999877929688,
+          "end": 1559.7999877929688,
+          "text": "Il cervello dell'azienda ero io."
+        },
+        {
+          "start": 1559.7999877929688,
+          "end": 1561.7999877929688,
+          "text": "Di nuovo."
+        },
+        {
+          "start": 1561.7999877929688,
+          "end": 1563.7999877929688,
+          "text": "Lo stesso identico errore per la terza volta"
+        },
+        {
+          "start": 1563.7999877929688,
+          "end": 1565.7999877929688,
+          "text": "dopo otto anni, ok?"
+        },
+        {
+          "start": 1565.7999877929688,
+          "end": 1567.7999877929688,
+          "text": "Solo che stavolta finalmente"
+        },
+        {
+          "start": 1567.7999877929688,
+          "end": 1569.7999877929688,
+          "text": "l'avevo visto."
+        },
+        {
+          "start": 1569.7999877929688,
+          "end": 1571.7999877929688,
+          "text": "E allora ho smesso di rincorrere il tool"
+        },
+        {
+          "start": 1571.7999877929688,
+          "end": 1573.7999877929688,
+          "text": "e ho costruito il cervello."
+        },
+        {
+          "start": 1573.7999877929688,
+          "end": 1575.7999877929688,
+          "text": "Prima quello."
+        },
+        {
+          "start": 1575.7999877929688,
+          "end": 1577.7999877929688,
+          "text": "E lì, credetemi, è cambiato davvero tutto."
+        },
+        {
+          "start": 1577.7999877929688,
+          "end": 1579.7999877929688,
+          "text": "Dentro le mie aziende, perché non te lo dico a parlare,"
+        },
+        {
+          "start": 1579.7999877929688,
+          "end": 1581.7999877929688,
+          "text": "è cambiato davvero tutto all'interno."
+        },
+        {
+          "start": 1581.7999877929688,
+          "end": 1583.7999877929688,
+          "text": "Vi dico solo dove sono arrivato oggi"
+        },
+        {
+          "start": 1583.7999877929688,
+          "end": 1585.7999877929688,
+          "text": "e poi torniamo di nuovo a voi."
+        },
+        {
+          "start": 1586.0,
+          "end": 1588.0,
+          "text": "In pochissimo tempo è tutto su una cosa sola."
+        },
+        {
+          "start": 1588.0,
+          "end": 1590.0,
+          "text": "Quindi l'azienda con cui costruisco esattamente"
+        },
+        {
+          "start": 1590.0,
+          "end": 1592.0,
+          "text": "quello che vi faccio vedere in queste serate."
+        },
+        {
+          "start": 1592.0,
+          "end": 1594.0,
+          "text": "E intorno a questo modo di lavorare"
+        },
+        {
+          "start": 1594.0,
+          "end": 1596.0,
+          "text": "in pochissimo tempo sono anche nati"
+        },
+        {
+          "start": 1596.0,
+          "end": 1598.0,
+          "text": "una community di quasi 2.900 Imprenditori."
+        },
+        {
+          "start": 1598.0,
+          "end": 1600.0,
+          "text": "Ormai siamo quasi a 3.000."
+        },
+        {
+          "start": 1600.0,
+          "end": 1602.0,
+          "text": "E un canale con quasi 10.000 Iscritti"
+        },
+        {
+          "start": 1602.0,
+          "end": 1604.0,
+          "text": "su YouTube."
+        },
+        {
+          "start": 1604.0,
+          "end": 1606.0,
+          "text": "Magari tanti di voi mi seguono."
+        },
+        {
+          "start": 1606.0,
+          "end": 1608.0,
+          "text": "Non è da tanto che mi sono messo a fare i video."
+        },
+        {
+          "start": 1608.0,
+          "end": 1610.0,
+          "text": "Le iai lo usiamo da tanto."
+        },
+        {
+          "start": 1610.0,
+          "end": 1612.0,
+          "text": "Volevo anche darvi un po' di contesto di me."
+        },
+        {
+          "start": 1612.0,
+          "end": 1614.0,
+          "text": "Perché in giro si vedono tanta gente"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 27,
+        "time": 1612.25,
+        "timestamp": "00:26:52",
+        "image": "frame_0027.jpg",
+        "reason": "periodic",
+        "ocr_text": "AI NELLA PRATICA A Michele Cotti @michelecottiai IMPARA A COSTRUIRE CON L'AI",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1614.2000122070312,
+          "end": 1616.2000122070312,
+          "text": "No, io sono un imprenditore."
+        },
+        {
+          "start": 1616.2000122070312,
+          "end": 1618.2000122070312,
+          "text": "Ho sempre applicato le iai in azienda."
+        },
+        {
+          "start": 1618.2000122070312,
+          "end": 1620.2000122070312,
+          "text": "E da poco mi sono messo"
+        },
+        {
+          "start": 1620.2000122070312,
+          "end": 1622.2000122070312,
+          "text": "online a disporlo."
+        },
+        {
+          "start": 1622.2000122070312,
+          "end": 1624.2000122070312,
+          "text": "A far vedere quello che effettivamente faccio."
+        },
+        {
+          "start": 1624.2000122070312,
+          "end": 1626.2000122070312,
+          "text": "I canali sono cresciuti molto in fretta."
+        },
+        {
+          "start": 1626.2000122070312,
+          "end": 1628.2000122070312,
+          "text": "Adesso vedete il canale è un pochettino di più."
+        },
+        {
+          "start": 1628.2000122070312,
+          "end": 1630.2000122070312,
+          "text": "Gli iscritti sono dell'altro giorno."
+        },
+        {
+          "start": 1630.2000122070312,
+          "end": 1632.2000122070312,
+          "text": "La community siamo a 2.900."
+        },
+        {
+          "start": 1632.2000122070312,
+          "end": 1634.2000122070312,
+          "text": "Questi sono un po' di feedback di persone"
+        },
+        {
+          "start": 1634.2000122070312,
+          "end": 1636.2000122070312,
+          "text": "che hanno scritto in community un po' di feedback"
+        },
+        {
+          "start": 1636.2000122070312,
+          "end": 1638.2000122070312,
+          "text": "positivi, insomma."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 28,
+        "time": 1637.09,
+        "timestamp": "00:27:17",
+        "image": "frame_0028.jpg",
+        "reason": "scene",
+        "ocr_text": "pr Tutto il resto, oggi, gira E senza di me.",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1638.2000122070312,
+          "end": 1640.2000122070312,
+          "text": "Tutto il resto oggi gira senza di me."
+        },
+        {
+          "start": 1640.2000122070312,
+          "end": 1642.2000122070312,
+          "text": "Quell'e-commerce di prodotti digitali"
+        },
+        {
+          "start": 1642.4000244140625,
+          "end": 1644.4000244140625,
+          "text": "da 700.000 Euro non è nemmeno più un e-commerce."
+        },
+        {
+          "start": 1644.4000244140625,
+          "end": 1646.4000244140625,
+          "text": "L'abbiamo fatto diventare"
+        },
+        {
+          "start": 1646.4000244140625,
+          "end": 1648.4000244140625,
+          "text": "un software di intelligenza artificiale"
+        },
+        {
+          "start": 1648.4000244140625,
+          "end": 1650.4000244140625,
+          "text": "per i terapisti negli Stati Uniti."
+        },
+        {
+          "start": 1650.4000244140625,
+          "end": 1652.4000244140625,
+          "text": "E quello va avanti con i suoi clienti."
+        },
+        {
+          "start": 1652.4000244140625,
+          "end": 1654.4000244140625,
+          "text": "Che è un software, e-iai,"
+        },
+        {
+          "start": 1654.4000244140625,
+          "end": 1656.4000244140625,
+          "text": "per terapisti, psicologi, eccetera"
+        },
+        {
+          "start": 1656.4000244140625,
+          "end": 1658.4000244140625,
+          "text": "in US."
+        },
+        {
+          "start": 1658.4000244140625,
+          "end": 1660.4000244140625,
+          "text": "E l'azienda di formazione, invece, è quella da 863 clienti."
+        },
+        {
+          "start": 1660.4000244140625,
+          "end": 1662.4000244140625,
+          "text": "Quella che l'anno scorso ha fatto"
+        },
+        {
+          "start": 1662.4000244140625,
+          "end": 1664.4000244140625,
+          "text": "428.000 Euro cash"
+        },
+        {
+          "start": 1664.4000244140625,
+          "end": 1666.4000244140625,
+          "text": "non l'ho chiusa e non l'ho venduta."
+        },
+        {
+          "start": 1666.4000244140625,
+          "end": 1668.4000244140625,
+          "text": "Va avanti con qualche mia ora al mese."
+        },
+        {
+          "start": 1668.4000244140625,
+          "end": 1670.4000244140625,
+          "text": "Tutto il lavoro che prima passava"
+        },
+        {
+          "start": 1670.5999755859375,
+          "end": 1672.5999755859375,
+          "text": "dalle mie mani, dall'assistenza,"
+        },
+        {
+          "start": 1672.5999755859375,
+          "end": 1674.5999755859375,
+          "text": "i contenuti, la gestione dei clienti,"
+        },
+        {
+          "start": 1674.5999755859375,
+          "end": 1676.5999755859375,
+          "text": "le operazioni e quant'altro, oggi lo fa"
+        },
+        {
+          "start": 1676.5999755859375,
+          "end": 1678.5999755859375,
+          "text": "il sistema che vi sto raccontando."
+        },
+        {
+          "start": 1678.5999755859375,
+          "end": 1680.5999755859375,
+          "text": "Ed è per questo che sono qui"
+        },
+        {
+          "start": 1680.5999755859375,
+          "end": 1682.5999755859375,
+          "text": "stasera. Non perché"
+        },
+        {
+          "start": 1682.5999755859375,
+          "end": 1684.5999755859375,
+          "text": "l'e-iai va di moda e ci si fanno"
+        },
+        {
+          "start": 1684.5999755859375,
+          "end": 1686.5999755859375,
+          "text": "i soldi, perché per la prima"
+        },
+        {
+          "start": 1686.5999755859375,
+          "end": 1688.5999755859375,
+          "text": "volta in 8 anni le mie aziende non dipendono"
+        },
+        {
+          "start": 1688.5999755859375,
+          "end": 1690.5999755859375,
+          "text": "più da me. Non dipendono più completamente"
+        },
+        {
+          "start": 1690.5999755859375,
+          "end": 1692.5999755859375,
+          "text": "da me. E quel giorno lì,"
+        },
+        {
+          "start": 1692.5999755859375,
+          "end": 1694.5999755859375,
+          "text": "il giorno in cui ho smesso di essere"
+        },
+        {
+          "start": 1694.5999755859375,
+          "end": 1696.5999755859375,
+          "text": "il cervello delle mie aziende,"
+        },
+        {
+          "start": 1696.5999755859375,
+          "end": 1698.5999755859375,
+          "text": "è stato il giorno più importante della mia vita"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 29,
+        "time": 1697.09,
+        "timestamp": "00:28:17",
+        "image": "frame_0029.jpg",
+        "reason": "periodic",
+        "ocr_text": "i è stato il giorno più importante », della mia vita da imprenditore. Ss",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1698.7999877929688,
+          "end": 1700.7999877929688,
+          "text": "come imprenditore. E se stasera siete"
+        },
+        {
+          "start": 1700.7999877929688,
+          "end": 1702.7999877929688,
+          "text": "qui, seduti davanti a questo schermo,"
+        },
+        {
+          "start": 1702.7999877929688,
+          "end": 1704.7999877929688,
+          "text": "quel problema ce l'avete anche voi"
+        },
+        {
+          "start": 1704.7999877929688,
+          "end": 1706.7999877929688,
+          "text": "probabilmente. E, come ripeto,"
+        },
+        {
+          "start": 1706.7999877929688,
+          "end": 1708.7999877929688,
+          "text": "lo so perché ci sono passato."
+        },
+        {
+          "start": 1708.7999877929688,
+          "end": 1710.7999877929688,
+          "text": "E allora adesso vi dico la cosa"
+        },
+        {
+          "start": 1710.7999877929688,
+          "end": 1712.7999877929688,
+          "text": "per cui vale davvero la pena"
+        },
+        {
+          "start": 1712.7999877929688,
+          "end": 1714.7999877929688,
+          "text": "essere qui stasera."
+        },
+        {
+          "start": 1714.7999877929688,
+          "end": 1716.7999877929688,
+          "text": "Quella da segnarsi, ok?"
+        },
+        {
+          "start": 1716.7999877929688,
+          "end": 1718.7999877929688,
+          "text": "Se stasera vi portate a casa"
+        },
+        {
+          "start": 1718.7999877929688,
+          "end": 1720.7999877929688,
+          "text": "una frase sola,"
+        },
+        {
+          "start": 1720.7999877929688,
+          "end": 1722.7999877929688,
+          "text": "è questa. Non vi manca"
+        },
+        {
+          "start": 1722.7999877929688,
+          "end": 1724.7999877929688,
+          "text": "l'automazione giusta,"
+        },
+        {
+          "start": 1724.7999877929688,
+          "end": 1726.7999877929688,
+          "text": "non vi manca il modello di e-iai"
+        },
+        {
+          "start": 1727.0,
+          "end": 1729.0,
+          "text": "più potente, non vi manca"
+        },
+        {
+          "start": 1729.0,
+          "end": 1731.0,
+          "text": "il prompt segreto, ok?"
+        },
+        {
+          "start": 1731.0,
+          "end": 1733.0,
+          "text": "Mi fanno ridere, ragazzi, quanti in giro"
+        },
+        {
+          "start": 1733.0,
+          "end": 1735.0,
+          "text": "online su e-za mi dicono, eh, vi do"
+        },
+        {
+          "start": 1735.0,
+          "end": 1737.0,
+          "text": "il prompt segreto magico per fare..."
+        },
+        {
+          "start": 1737.0,
+          "end": 1739.0,
+          "text": "Ragazzi, capiamoci, ok?"
+        },
+        {
+          "start": 1739.0,
+          "end": 1741.0,
+          "text": "Sta roba è da chi fa"
+        },
+        {
+          "start": 1741.0,
+          "end": 1743.0,
+          "text": "i videini e basta, ok?"
+        },
+        {
+          "start": 1743.0,
+          "end": 1745.0,
+          "text": "Non vi manca nemmeno il corso"
+        },
+        {
+          "start": 1745.0,
+          "end": 1747.0,
+          "text": "da comprare, vi manca il"
+        },
+        {
+          "start": 1747.0,
+          "end": 1749.0,
+          "text": "cervello, ok? Ve lo spiego"
+        },
+        {
+          "start": 1749.0,
+          "end": 1751.0,
+          "text": "nel modo più semplice"
+        },
+        {
+          "start": 1751.0,
+          "end": 1753.0,
+          "text": "che c'è, così è chiaro per tutti."
+        },
+        {
+          "start": 1753.0,
+          "end": 1755.0,
+          "text": "Quando voi aprite GPT"
+        },
+        {
+          "start": 1755.2000122070312,
+          "end": 1757.2000122070312,
+          "text": "o qualsiasi altri e-iai e le chiedete"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 30,
+        "time": 1757.09,
+        "timestamp": "00:29:17",
+        "image": "frame_0030.jpg",
+        "reason": "periodic",
+        "ocr_text": "Quando voi aprite ChatGPT, o qualsiasi altra AI, e le chiedete qualcosa sulla vostra azienda, leinonsa chisiete.",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1757.2000122070312,
+          "end": 1759.2000122070312,
+          "text": "qualcosa sulla vostra azienda, lei"
+        },
+        {
+          "start": 1759.2000122070312,
+          "end": 1761.2000122070312,
+          "text": "non sa chi siete, ok? Lei non sa"
+        },
+        {
+          "start": 1761.2000122070312,
+          "end": 1763.2000122070312,
+          "text": "chi siete. Punto."
+        },
+        {
+          "start": 1763.2000122070312,
+          "end": 1765.2000122070312,
+          "text": "Non sa cosa attendete,"
+        },
+        {
+          "start": 1765.2000122070312,
+          "end": 1767.2000122070312,
+          "text": "non conosce i vostri clienti,"
+        },
+        {
+          "start": 1767.2000122070312,
+          "end": 1769.2000122070312,
+          "text": "non sa come parlate,"
+        },
+        {
+          "start": 1769.2000122070312,
+          "end": 1771.2000122070312,
+          "text": "non ha la più pallida idea di come fare"
+        },
+        {
+          "start": 1771.2000122070312,
+          "end": 1773.2000122070312,
+          "text": "un preventivo o che margini avete,"
+        },
+        {
+          "start": 1773.2000122070312,
+          "end": 1775.2000122070312,
+          "text": "ok? Non lo sa, come fa a"
+        },
+        {
+          "start": 1775.2000122070312,
+          "end": 1777.2000122070312,
+          "text": "saperlo? E allora,"
+        },
+        {
+          "start": 1777.2000122070312,
+          "end": 1779.2000122070312,
+          "text": "cos'è che fa? Tira di indovinare,"
+        },
+        {
+          "start": 1779.2000122070312,
+          "end": 1781.2000122070312,
+          "text": "ok? È un modello probabilistico."
+        },
+        {
+          "start": 1781.2000122070312,
+          "end": 1783.2000122070312,
+          "text": "Vi dà la risposta più media,"
+        },
+        {
+          "start": 1783.4000244140625,
+          "end": 1785.4000244140625,
+          "text": "più generica possibile, più vicino a quello che potrebbe"
+        },
+        {
+          "start": 1785.4000244140625,
+          "end": 1787.4000244140625,
+          "text": "andarvi bene. Quella che andrebbe bene"
+        },
+        {
+          "start": 1787.4000244140625,
+          "end": 1789.4000244140625,
+          "text": "però per chiunque e quindi non va bene"
+        },
+        {
+          "start": 1789.4000244140625,
+          "end": 1791.4000244140625,
+          "text": "per nessuno. E"
+        },
+        {
+          "start": 1791.4000244140625,
+          "end": 1793.4000244140625,
+          "text": "voi cosa fate? La correggete"
+        },
+        {
+          "start": 1793.4000244140625,
+          "end": 1795.4000244140625,
+          "text": "a mano, la riscrivete,"
+        },
+        {
+          "start": 1795.4000244140625,
+          "end": 1797.4000244140625,
+          "text": "ogni volta da capo."
+        },
+        {
+          "start": 1797.4000244140625,
+          "end": 1799.4000244140625,
+          "text": "È come avere un consulente bravissimo,"
+        },
+        {
+          "start": 1799.4000244140625,
+          "end": 1801.4000244140625,
+          "text": "il più bello"
+        },
+        {
+          "start": 1801.4000244140625,
+          "end": 1803.4000244140625,
+          "text": "del mondo."
+        },
+        {
+          "start": 1800.0,
+          "end": 1805.119999885559,
+          "text": "Del mondo, probabilmente, che però ogni mattina si sveglia e ha dimenticato tutto di voi."
+        },
+        {
+          "start": 1805.119999885559,
+          "end": 1812.920000076294,
+          "text": "Tutte le mattine dovete ripresentarvi, rispiegarvi l'azienda, ricontestualizzare tutto. Un genio,"
+        },
+        {
+          "start": 1812.920000076294,
+          "end": 1820.079999923706,
+          "text": "ma senza memoria. E ve lo faccio vedere in concreto, così è chiaro. Mi chiedete di"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 31,
+        "time": 1817.09,
+        "timestamp": "00:30:17",
+        "image": "frame_0031.jpg",
+        "reason": "periodic",
+        "ocr_text": "Ve lo faccio vedere in concreto, cosi è chiaro.",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1820.079999923706,
+          "end": 1824.7600002288818,
+          "text": "scrivere magari la risposta a un cliente che si lamenta per un ritardo. E lui vi tira fuori"
+        },
+        {
+          "start": 1824.7600002288818,
+          "end": 1829.4400005340576,
+          "text": "una roba del tipo, gentile cliente, ci scusiamo per il disagio arrecato, la sua richiesta"
+        },
+        {
+          "start": 1829.4400005340576,
+          "end": 1834.7999992370605,
+          "text": "è per noi molto importante. Prova che sono sicuro probabilmente non direste mai che non"
+        },
+        {
+          "start": 1834.7999992370605,
+          "end": 1840.840000152588,
+          "text": "è vostra quella cosa qua, che sa proprio di vero il proprio consenso. Ditemi se è"
+        },
+        {
+          "start": 1840.840000152588,
+          "end": 1847.2000007629395,
+          "text": "così o meno. Quante volte vi capita una roba del genere? Adesso voglio fermarmi giusto"
+        },
+        {
+          "start": 1847.2000007629395,
+          "end": 1853.6399993896484,
+          "text": "un secondo. Apriamo giusto due secondini la chat e voglio effettivamente capire quanti"
+        },
+        {
+          "start": 1853.6399993896484,
+          "end": 1864.6399993896484,
+          "text": "di voi lo usano in questo modo e gli da risposte di questo genere. Così, generica. Datemi"
+        },
+        {
+          "start": 1864.6399993896484,
+          "end": 1873.9599990844727,
+          "text": "un feedback. Abbiamo riaperto la chat, dopo si riparte. Tutti i giorni, ottimo. Lo so,"
+        },
+        {
+          "start": 1873.9599990844727,
+          "end": 1887.9199981689453,
+          "text": "ragazzi. Sempre. Mai ma gioca in casa, vabbè, di bene. Ok, sempre, a volte sì, sempre. Sono"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 32,
+        "time": 1877.09,
+        "timestamp": "00:31:17",
+        "image": "frame_0032.jpg",
+        "reason": "periodic",
+        "ocr_text": "Roba che voi non direste mai. Che non è vostra. Che sa di call center.",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1887.9199981689453,
+          "end": 1892.8399963378906,
+          "text": "sicuro, lo sapevo. Perché? Ma perché la maggior parte delle persone usa così, è la cosa più"
+        },
+        {
+          "start": 1892.8399963378906,
+          "end": 1900.4400024414062,
+          "text": "importante al mondo, più potente al mondo, ma è un genio senza memoria. Ok? Il contesto è tutto,"
+        },
+        {
+          "start": 1900.4400024414062,
+          "end": 1906.0800018310547,
+          "text": "sono d'accordo, ci arriviamo. Perfetto. Tantissimi di voi, ok? Praticamente la maggior parte"
+        },
+        {
+          "start": 1906.0800018310547,
+          "end": 1912.8000030517578,
+          "text": "state scrivendo sempre, può capitare, spesso, spesso, ok. Ottimo. Torniamo alla nostra presentazione,"
+        },
+        {
+          "start": 1912.8000030517578,
+          "end": 1921.0400009155273,
+          "text": "richiudiamo la chat che via, ok? Ok. Quindi, roba che non direste mai, che non è vostra,"
+        },
+        {
+          "start": 1921.0400009155273,
+          "end": 1925.9199981689453,
+          "text": "che sa praticamente di call center. E allora io lo so che la fate, la cancellate, la riscrivete"
+        },
+        {
+          "start": 1925.9199981689453,
+          "end": 1931.3200073242188,
+          "text": "a mano, con il vostro tono, con i vostri modi, magari ricordandovi che quel cliente lì lo"
+        },
+        {
+          "start": 1931.3200073242188,
+          "end": 1936.240005493164,
+          "text": "conoscete da anni e ci scherzate pure, ok? Perché? Perché lui non lo può sapere. Alla fine ci avete"
+        },
+        {
+          "start": 1936.240005493164,
+          "end": 1941.7200012207031,
+          "text": "messo più tempo che a scrivervelo a voi da zero, senza utilizzare le AI. E ecco cos'è un genio"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 33,
+        "time": 1937.09,
+        "timestamp": "00:32:17",
+        "image": "frame_0033.jpg",
+        "reason": "periodic",
+        "ocr_text": "Alla fine ci avete messo più tempo che a scriverla da zero.",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1941.7200012207031,
+          "end": 1946.8399963378906,
+          "text": "senza memoria. La cosa più potente del mondo, ma per la vostra azienda, è come se fosse il suo"
+        },
+        {
+          "start": 1946.8399963378906,
+          "end": 1953.8399963378906,
+          "text": "primo giorno di lavoro. Ogni singolo giorno. L'avete scritto voi stessi? Ogni singolo giorno. Ed è per"
+        },
+        {
+          "start": 1953.8399963378906,
+          "end": 1959.3200073242188,
+          "text": "questo, e adesso lo capite, che tutto quello che vi montate sopra, le automazioni, i tool,"
+        },
+        {
+          "start": 1959.3200073242188,
+          "end": 1965.0800018310547,
+          "text": "qualsiasi cosa, invecchia in fretta. E ve lo ritrovate scollegato un pezzo qua e un pezzo di là,"
+        },
+        {
+          "start": 1965.0800018310547,
+          "end": 1970.3600006103516,
+          "text": "che dovete tenere insieme voi a mano, altrimenti si rompe, ok? State versando acqua sempre più in"
+        },
+        {
+          "start": 1970.3600006103516,
+          "end": 1976.520004272461,
+          "text": "fretta dentro un secchio bucato. Più correte, più si svuota. Semplice. E allora la domanda è,"
+        },
+        {
+          "start": 1976.520004272461,
+          "end": 1982.3600006103516,
+          "text": "di chi è la colpa? Ve l'ho detto all'inizio e ve lo ripeto adesso, guardandovi dritto negli occhi."
+        },
+        {
+          "start": 1982.3600006103516,
+          "end": 1987.8000030517578,
+          "text": "Non è colpa vostra, ok? Non è colpa vostra. Vi hanno messo in mano, ve l'hanno messo in mano"
+        },
+        {
+          "start": 1987.8000030517578,
+          "end": 1994.1199951171875,
+          "text": "così, questa AI, ok? Vi hanno dato il motore più potente mai costruito e insieme una casella di"
+        },
+        {
+          "start": 1994.1199951171875,
+          "end": 1999.5599975585938,
+          "text": "testo vuoto. Nient'altro. È questo. Nessun libretto di istruzioni, nessuno che vi dicesse come si fa"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 34,
+        "time": 1997.09,
+        "timestamp": "00:33:17",
+        "image": "frame_0034.jpg",
+        "reason": "periodic",
+        "ocr_text": "Nessunlibretto di istruzioni, nessuno che vi dicesse come si fa davvero.",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1999.5599975585938,
+          "end": 2004.9600067138672,
+          "text": "davvero. Vi hanno fatto credere che usare l'AI fosse aprire quella chat e scriverci dentro"
+        },
+        {
+          "start": 2004.9600067138672,
+          "end": 2011.6399993896484,
+          "text": "qualcosa. Quanti di voi la usano così? Tantissimi. Tantissimi. E quando non ha funzionato,"
+        },
+        {
+          "start": 2011.6799926757812,
+          "end": 2016.479995727539,
+          "text": "vi siete sentiti negati voi. Ma quella chat, finché non ha un posto dove vive la vostra"
+        },
+        {
+          "start": 2016.479995727539,
+          "end": 2022.0399932861328,
+          "text": "azienda, resterà per sempre un genio con l'amnesia. E non importa quanto siete bravi voi,"
+        },
+        {
+          "start": 2022.0399932861328,
+          "end": 2027.479995727539,
+          "text": "non siete voi che la usate male, ok? Deve esservi chiaro questa cosa. Ve l'hanno data senza la"
+        },
+        {
+          "start": 2027.479995727539,
+          "end": 2033.3999938964844,
+          "text": "parte che la rende vostra. E se in questo momento, dentro di voi, state pensando, cazzo, è vero,"
+        },
+        {
+          "start": 2033.3999938964844,
+          "end": 2038.1999969482422,
+          "text": "è esattamente quello che mi succede, allora vuol dire che finora nessuno ve l'aveva mai detta,"
+        },
+        {
+          "start": 2038.759994506836,
+          "end": 2043.479995727539,
+          "text": "magari alcuni di voi sì, magari tanti di voi sì, ma a tanti di voi sono sicuro che nessuno ve l'aveva"
+        },
+        {
+          "start": 2043.479995727539,
+          "end": 2048.520004272461,
+          "text": "mai detta. E vuol dire che siamo sulla strada giusta, ok? Adesso due cose veloci prima di andare"
+        },
+        {
+          "start": 2048.520004272461,
+          "end": 2054.5599975585938,
+          "text": "avanti, perché sono importanti e riguardano il tempo. Il vostro tempo e i vostri soldi."
+        },
+        {
+          "start": 2054.5599975585938,
+          "end": 2061.4400024414062,
+          "text": "1. Nell'ultimo anno le aziende italiane che usano l'AI sono raddoppiate, ok? Raddoppiate"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 35,
+        "time": 2057.09,
+        "timestamp": "00:34:17",
+        "image": "frame_0035.jpg",
+        "reason": "periodic",
+        "ocr_text": "01 p\" Nell'ultimo anno è le aziende italiane che usano l'Alsono raddoppiate.",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 2061.4400024414062,
+          "end": 2067.8399963378906,
+          "text": "in 12 mesi, non è un numero da poco. Sembra anche una buona notizia, no? Il problema è come la usano,"
+        },
+        {
+          "start": 2068.239990234375,
+          "end": 2072.8800048828125,
+          "text": "quasi tutta la usano come un Google un pochettino più sveglio. Fanno una domanda, ottengono una"
+        },
+        {
+          "start": 2072.8800048828125,
+          "end": 2078.1199951171875,
+          "text": "risposta e finisce lì. E la gente ci spende davvero ore qua sotto, che non servono a nulla."
+        },
+        {
+          "start": 2078.1199951171875,
+          "end": 2083.720001220703,
+          "text": "Grattano la superficie, ok? Stanno vedendo l'1% di quello che davvero può fare. Ma quei pochi"
+        },
+        {
+          "start": 2083.720001220703,
+          "end": 2088.6000061035156,
+          "text": "che invece partono dal cervello, nell'ordine giusto, si stanno costruendo un vantaggio che"
+        },
+        {
+          "start": 2088.6000061035156,
+          "end": 2093.959991455078,
+          "text": "ogni mese che passa diventa sempre più difficile da recuperare per gli altri. E i vostri concorrenti"
+        },
+        {
+          "start": 2094.0,
+          "end": 2099.6000061035156,
+          "text": "sono già là fuori, stasera. Alcuni di loro hanno già iniziato, potenzialmente il doppio di quanti"
+        },
+        {
+          "start": 2099.6000061035156,
+          "end": 2105.3599853515625,
+          "text": "non erano un anno fa. Abbiamo visto la raddoppiata in 12 mesi. E questa invece la toccate con mano,"
+        },
+        {
+          "start": 2105.3599853515625,
+          "end": 2110.239990234375,
+          "text": "perché è la più concreta di tutte, la seconda. Quelle ore ripetitive di cui parlavamo prima,"
+        },
+        {
+          "start": 2110.239990234375,
+          "end": 2117.3599853515625,
+          "text": "quelle che vi mangiano la settimana, un prezzo, ce l'hanno. Non sono gratis. E oggi voi le pagate"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 36,
+        "time": 2117.09,
+        "timestamp": "00:35:17",
+        "image": "frame_0036.jpg",
+        "reason": "periodic",
+        "ocr_text": "E oggi voi le pagate in uno di questi tre modi, non ce n'è un quarto.",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 2117.3599853515625,
+          "end": 2122.0799865722656,
+          "text": "in uno di questi tre modi, ok? Non c'è un quarto modo, le pagate in questi tre modi. O ve la fate"
+        },
+        {
+          "start": 2122.0799865722656,
+          "end": 2129.0799865722656,
+          "text": "voi di sera, nei weekend, quando gli altri staccano. E la paga, in questo caso, è la vostra"
+        },
+        {
+          "start": 2129.0799865722656,
+          "end": 2134.519989013672,
+          "text": "vita, ok? Il vostro tempo. Il tempo che non passate con i figli, con vostra moglie, a riposare magari,"
+        },
+        {
+          "start": 2134.519989013672,
+          "end": 2140.3999938964844,
+          "text": "a fare sport, a fare quello che vi piace. Oppure lo date ad un dipendente, che magari tra stipendi"
+        },
+        {
+          "start": 2140.3999938964844,
+          "end": 2145.4400024414062,
+          "text": "o contributi, tutto vi costa sui 30 mila euro all'anno, se siete in Italia. E deve pure essere"
+        },
+        {
+          "start": 2145.4400024414062,
+          "end": 2151.480010986328,
+          "text": "bravo e restare, ok? Altrimenti tempo sprecato. Oppure, la terza opzione, non la date a nessuno."
+        },
+        {
+          "start": 2151.9200134277344,
+          "end": 2156.5599975585938,
+          "text": "E quindi, perché quel dipendente giusto magari non lo trovate, o non ve lo potete permettere. E"
+        },
+        {
+          "start": 2156.5599975585938,
+          "end": 2162.8399963378906,
+          "text": "allora restano lì, quelle cose, ad accumularsi. Il cervello di cui vi sto parlando è la quarta via,"
+        },
+        {
+          "start": 2162.8399963378906,
+          "end": 2167.7999877929688,
+          "text": "quella che nessuno vi ha mai raccontato. E attenzione a come lo dico, perché è importante."
+        },
+        {
+          "start": 2167.7999877929688,
+          "end": 2172.3200073242188,
+          "text": "Non sostituisce nessuno, ok? Non manda a casa i vostri collaboratori, a meno che voi non lo"
+        },
+        {
+          "start": 2172.3200073242188,
+          "end": 2178.1199951171875,
+          "text": "vogliate, chiaramente. Vi restituisce le ore, ve le ridà indietro, ok? Quindi tenetevi in testa"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 37,
+        "time": 2177.09,
+        "timestamp": "00:36:17",
+        "image": "frame_0037.jpg",
+        "reason": "periodic",
+        "ocr_text": "Quindi tenetevi in testa un numero, da adesso: le ore che vi mangia il lavoro ripetitivo, ogni settimana.",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 2178.1199951171875,
+          "end": 2183.720001220703,
+          "text": "un numero, da adesso, le ore che vi mangia il lavoro ripetitivo ogni settimana, ok? Segnatevele"
+        },
+        {
+          "start": 2183.720001220703,
+          "end": 2189.760009765625,
+          "text": "mentalmente quante ore mangiate a settimana. Perché tra due sere, quel numero lo trasformiamo"
+        },
+        {
+          "start": 2189.760009765625,
+          "end": 2195.3999938964844,
+          "text": "in un conto preciso, in euro, con i vostri numeri. E vi assicuro che quando lo vedete scritto,"
+        },
+        {
+          "start": 2195.3999938964844,
+          "end": 2200.519989013672,
+          "text": "credetemi che cambia tutto e fa la differenza. E adesso facciamo la cosa più importante della"
+        },
+        {
+          "start": 2200.519989013672,
+          "end": 2206.6799926757812,
+          "text": "serata per voi. Non per me, ok? Per voi. Perché di chiacchiere sulle IAI ne avete sentite probabilmente"
+        },
+        {
+          "start": 2206.720001220703,
+          "end": 2211.5599975585938,
+          "text": "tante, ma io voglio che stasera usciate con una cosa chiara in testa, sulla vostra azienda,"
+        },
+        {
+          "start": 2211.5599975585938,
+          "end": 2217.720001220703,
+          "text": "non in generale. Non dovete aprire niente, non cercate documenti, ok? Non vi disperdete. Vi"
+        },
+        {
+          "start": 2217.720001220703,
+          "end": 2223.959991455078,
+          "text": "faccio una domanda sola e voglio che ci rispondiate davvero, con onestà, dentro di voi. Se avete un"
+        },
+        {
+          "start": 2223.959991455078,
+          "end": 2230.720001220703,
+          "text": "foglio a portata di mano, scrivetela, che scritta pesa anche di più, ma una sola. Eccola. Qual è"
+        },
+        {
+          "start": 2230.720001220703,
+          "end": 2236.6000061035156,
+          "text": "l'attività che vi ruba più tempo ogni singola settimana? Quella che, se domani mattina sparisse"
+        },
+        {
+          "start": 2236.6000061035156,
+          "end": 2244.040008544922,
+          "text": "dalla vostra scrivania, vi cambierebbe le giornate? Non tre, non cinque. Una, ok? La più pesante in"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 38,
+        "time": 2237.09,
+        "timestamp": "00:37:17",
+        "image": "frame_0038.jpg",
+        "reason": "periodic",
+        "ocr_text": "Quella che, se domani mattina sparisse dalla vostra scrivania, vicambierebbe la giornata.",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 2244.040008544922,
+          "end": 2249.8800048828125,
+          "text": "assoluto. Scrivetela. Probabilmente è già quella a cui avete pensato prima, quando vi facevo l'elenco."
+        },
+        {
+          "start": 2249.8800048828125,
+          "end": 2258.2000122070312,
+          "text": "Probabilmente è una di quelle. Ce l'avete in testa? Pensateci, ok? Pensateci un attimo. Tenetevela"
+        },
+        {
+          "start": 2258.2000122070312,
+          "end": 2264.6000061035156,
+          "text": "stretta, perché quella lì è il vostro primo collo di bottiglia, è il punto esatto da cui, quando vorrete,"
+        },
+        {
+          "start": 2264.6000061035156,
+          "end": 2272.1199951171875,
+          "text": "si parte a costruire il cervello. Si comincia sempre da lì, non dalla cosa che vi pesa di più, ok? O"
+        },
+        {
+          "start": 2272.1199951171875,
+          "end": 2276.6000061035156,
+          "text": "meglio, dalla cosa che vi pesa di più. Si comincia sempre da quell'unica cosa, non da cinque, non da"
+        },
+        {
+          "start": 2276.6000061035156,
+          "end": 2283.1199951171875,
+          "text": "tre, è una, ok? È solamente una. Vi faccio qualche esempio, così vedete cosa cambia a seconda di,"
+        },
+        {
+          "start": 2283.279998779297,
+          "end": 2288.6400146484375,
+          "text": "come cambia di base a seconda di chi siete. Se avete uno studio di commercialisti, di solito"
+        },
+        {
+          "start": 2288.6400146484375,
+          "end": 2294.2000122070312,
+          "text": "è rispondere alle stesse domande fiscali dieci volte al giorno. Se avete un e-commerce, è l'assistenza"
+        },
+        {
+          "start": 2294.2000122070312,
+          "end": 2300.519989013672,
+          "text": "dei clienti, le stesse email all'infinito. Se siete nella produzione, sono i preventivi e le commesse"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 39,
+        "time": 2297.09,
+        "timestamp": "00:38:17",
+        "image": "frame_0039.jpg",
+        "reason": "periodic",
+        "ocr_text": "Se avete un e-commerce, è l'assistenza clienti, le stesse mail all'infinito.",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 2300.519989013672,
+          "end": 2305.720001220703,
+          "text": "da rifare ogni volta da capo. Vedete, di base, cambia il settore, cambia l'attività, ma il"
+        },
+        {
+          "start": 2305.720001220703,
+          "end": 2312.5599975585938,
+          "text": "ragionamento è sempre lo stesso. C'è una cosa, una, che vi sta invororando le ore. Adesso,"
+        },
+        {
+          "start": 2312.5599975585938,
+          "end": 2317.47998046875,
+          "text": "tenetela lì, ok? Scrivetevela sul foglio, tenetevela lì. Perché a fine serata vi consegno"
+        },
+        {
+          "start": 2317.47998046875,
+          "end": 2323.719970703125,
+          "text": "il workbook completo ed è quello il vostro regalo vero, ok? Lì dentro c'è la diagnosi per intero,"
+        },
+        {
+          "start": 2323.719970703125,
+          "end": 2328.1599731445312,
+          "text": "tutte le domande giuste per fotografare la vostra situazione attuale. Ed è importante,"
+        },
+        {
+          "start": 2328.1599731445312,
+          "end": 2332.7999877929688,
+          "text": "perché senza di questa non si va a nessuna parte. Ma quello lo fate con calma, ok? Da soli,"
+        },
+        {
+          "start": 2332.7999877929688,
+          "end": 2337.1199951171875,
+          "text": "quando la diretta è finita, nessuno vi distrae e non perdiamo tempo, ok? Lo fate con calma."
+        },
+        {
+          "start": 2337.6799926757812,
+          "end": 2344.0,
+          "text": "Stasera mi basta che abbiate messo il dito su quella prima cosa, che ci abbiate pensato e l'abbiate"
+        },
+        {
+          "start": 2344.0,
+          "end": 2348.8400268554688,
+          "text": "scritta. Adesso, che avete la vostra diagnosi in mano, che sapete qual è il vostro collo di"
+        },
+        {
+          "start": 2348.8400268554688,
+          "end": 2355.3200073242188,
+          "text": "bottiglia, diamo finalmente un nome alla cosa che lo scioglie, ok? Il fulcro di tutto. A quel"
+        },
+        {
+          "start": 2355.3200073242188,
+          "end": 2360.7999877929688,
+          "text": "pezzo che vi manca, quello che rende le IAI davvero vostra. Si chiama company brain, ok?"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 40,
+        "time": 2357.09,
+        "timestamp": "00:39:17",
+        "image": "frame_0040.jpg",
+        "reason": "periodic",
+        "ocr_text": "A quel pezzo che vi manca, quello che rende l'Al davvero vostra.",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 2360.7999877929688,
+          "end": 2365.47998046875,
+          "text": "Company brain. E' una cosa di questo tipo, qui poi ci andremo a collegare tutto e poi ve lo"
+        },
+        {
+          "start": 2365.47998046875,
+          "end": 2371.719970703125,
+          "text": "faccio vedere. Il cervello dell'azienda. E voglio essere chiaro su cos'è, perché è facile"
+        },
+        {
+          "start": 2371.719970703125,
+          "end": 2376.760009765625,
+          "text": "fraintendere e voglio togliervi subito l'idea sbagliata. Non è semplicemente una cartella"
+        },
+        {
+          "start": 2376.760009765625,
+          "end": 2382.239990234375,
+          "text": "dove buttate dentro tutti i file sperando che le IAI in qualche modo si capisca, ok? Un mucchio"
+        },
+        {
+          "start": 2382.239990234375,
+          "end": 2386.8800048828125,
+          "text": "documenti in una cartella non è un cervello. Esattamente come un mucchio di libri buttati"
+        },
+        {
+          "start": 2386.8800048828125,
+          "end": 2391.4400024414062,
+          "text": "per terra non è una biblioteca, ok? Stiamo parlando di due cose diverse. E non è nemmeno"
+        },
+        {
+          "start": 2391.5999755859375,
+          "end": 2396.1599731445312,
+          "text": "un'app in più da scaricare o l'ennesimo abbonamento da aggiungere alla lista di quelli"
+        },
+        {
+          "start": 2396.1599731445312,
+          "end": 2401.6400146484375,
+          "text": "che già state pagando e magari non aprite nemmeno. È un posto solo, uno, dove vive tutto quello che"
+        },
+        {
+          "start": 2401.6400146484375,
+          "end": 2407.2000122070312,
+          "text": "la vostra azienda sa. Chi siete, cosa vendete, i vostri clienti con la loro storia, i vostri"
+        },
+        {
+          "start": 2407.2000122070312,
+          "end": 2413.3200073242188,
+          "text": "processi, le vostre offerte, perfino il modo in cui parlate ai clienti, ok? Il vostro tono di voce."
+        },
+        {
+          "start": 2413.3200073242188,
+          "end": 2419.760009765625,
+          "text": "Tutto scritto, tutto in ordine, tutto collegato tra loro. Non sparsi in sei posti diversi come"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 41,
+        "time": 2417.09,
+        "timestamp": "00:40:17",
+        "image": "frame_0041.jpg",
+        "reason": "periodic",
+        "ocr_text": "È Tutto scritto, tutto in ordine, tutto collegato tra loro.",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 2419.760009765625,
+          "end": 2426.3599853515625,
+          "text": "adesso, ok? In uno. E quando le IAI ha questo posto sotto, cambia natura, credetemi. Cambia"
+        },
+        {
+          "start": 2426.3599853515625,
+          "end": 2430.9600219726562,
+          "text": "completamente natura. Smette di essere lo sconosciuto che vi incontra ogni mattina per"
+        },
+        {
+          "start": 2430.9600219726562,
+          "end": 2436.0800170898438,
+          "text": "la prima volta e diventa un socio che lavora con voi da anni, che vi conosce, che sa come"
+        },
+        {
+          "start": 2436.0800170898438,
+          "end": 2441.280029296875,
+          "text": "rispondereste a voi, ok? Vi faccio un esempio semplice. Se chiedete ad un dipendente appena"
+        },
+        {
+          "start": 2441.280029296875,
+          "end": 2447.2000122070312,
+          "text": "assunto di preparare un'offerta per un cliente, sono sicuro che ve la fa a casa. Generica,"
+        },
+        {
+          "start": 2447.2000122070312,
+          "end": 2452.6400146484375,
+          "text": "perché non sa niente della vostra azienda. Non sa niente della vostra azienda. Se la stessa"
+        },
+        {
+          "start": 2452.6400146484375,
+          "end": 2458.1599731445312,
+          "text": "offerta la chiedete invece ad un socio che lavora con voi da dieci anni, ve la fa quasi"
+        },
+        {
+          "start": 2458.1599731445312,
+          "end": 2463.8400268554688,
+          "text": "come se la fareste voi, o sbaglio, ok? Conosce i clienti, sa dove potete scendere sul prezzo e dove"
+        },
+        {
+          "start": 2463.8400268554688,
+          "end": 2468.0800170898438,
+          "text": "no, ci mette il vostro tono, ok? Vi conosce davvero bene, lavora con voi da tanto tempo."
+        },
+        {
+          "start": 2468.0800170898438,
+          "end": 2473.8800048828125,
+          "text": "Ecco, il company brain fa esattamente questo. Quindi prende le IAI, che oggi per voi è il"
+        },
+        {
+          "start": 2473.8800048828125,
+          "end": 2479.0399780273438,
+          "text": "dipendente appena assunto, e lo fa diventare il socio da dieci anni, ok? Stesso strumento,"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 42,
+        "time": 2477.09,
+        "timestamp": "00:41:17",
+        "image": "frame_0042.jpg",
+        "reason": "periodic",
+        "ocr_text": "prende l'Al, che oggi per voi è il dipendente appena assunto, e la fa diventare il socio da dieci anni.",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 2479.0399780273438,
+          "end": 2485.239990234375,
+          "text": "ma uno sa tutto della vostra azienda, l'altro invece no. E il metodo per costruirlo ha una"
+        },
+        {
+          "start": 2485.239990234375,
+          "end": 2490.8800048828125,
+          "text": "regola d'oro, una sola, e voglio che ve la ricordiate. Prima il cervello, poi le automazioni,"
+        },
+        {
+          "start": 2490.8800048828125,
+          "end": 2497.3599853515625,
+          "text": "ok? In quest'ordine, mai al contrario. È una cosa fondamentale. Io lo chiamo Brain First,"
+        },
+        {
+          "start": 2497.3599853515625,
+          "end": 2503.4400024414062,
+          "text": "ok? Prima il cervello, il metodo Brain First, perché è lì che sbaglia il 90% delle persone."
+        },
+        {
+          "start": 2503.760009765625,
+          "end": 2509.5599975585938,
+          "text": "Partono dall'automazione, dal pezzo che lucica e saltano le fondamenta. Sono sicuro che il 90% di"
+        },
+        {
+          "start": 2509.5599975585938,
+          "end": 2514.7999877929688,
+          "text": "voi sta costruendo automazioni su automazioni senza avere una base su cui costruire automazioni,"
+        },
+        {
+          "start": 2514.7999877929688,
+          "end": 2522.4000244140625,
+          "text": "senza avere un brain dove costruire automazioni. E si costruisce il secchio buccato, ok? Ora ve"
+        },
+        {
+          "start": 2522.4000244140625,
+          "end": 2529.1199951171875,
+          "text": "lo faccio vedere nel concreto. Come si costruisce invece gli strati, ok? L'ordine esatto. Ve lo"
+        },
+        {
+          "start": 2529.1199951171875,
+          "end": 2536.1199951171875,
+          "text": "faccio vedere tutto domani sera, pezzo per pezzo, ok? Stasera vi basta che vi portiate a casa due"
+        },
+        {
+          "start": 2536.1199951171875,
+          "end": 2543.2000122070312,
+          "text": "cose. Il concetto e la diagnosi che avete appena fatto. Non lasciamo il Company Brain a un concetto"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 43,
+        "time": 2537.09,
+        "timestamp": "00:42:17",
+        "image": "frame_0043.jpg",
+        "reason": "periodic",
+        "ocr_text": "Stasera mi basta che vi portiate a acasa due cose: ilconcetto, e ® la diagnosi che avete appena fatto.",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 2543.2000122070312,
+          "end": 2548.4400024414062,
+          "text": "astratto, che tanto le parole poi, si sa, se le porta via il vento, ok? Ve lo faccio vedere così"
+        },
+        {
+          "start": 2548.4400024414062,
+          "end": 2555.760009765625,
+          "text": "ci mettiamo, ci mettete gli occhi sopra. Ora andiamo e vi faccio vedere effettivamente quello"
+        },
+        {
+          "start": 2555.760009765625,
+          "end": 2562.2000122070312,
+          "text": "che è il mio Company Brain. Però prima, prima di farvelo vedere, voglio chiedervi una cosa. Nel"
+        },
+        {
+          "start": 2562.2000122070312,
+          "end": 2568.8400268554688,
+          "text": "senso, quanti di voi effettivamente ad oggi stanno magari costruendo automazioni, cose,"
+        },
+        {
+          "start": 2568.8400268554688,
+          "end": 2575.8800048828125,
+          "text": "sistemi AI sulla base però del nulla, ok? E non hanno un brain sotto, non hanno davvero un posto"
+        },
+        {
+          "start": 2575.8800048828125,
+          "end": 2580.0399780273438,
+          "text": "che due celle AI che conosce la vostra azienda. Quanti stanno costruendo automazioni? Ditemelo"
+        },
+        {
+          "start": 2580.0399780273438,
+          "end": 2585.4000244140625,
+          "text": "un attimo in chat. Intanto che parto con la condivisione, ditemi un attimo in chat quanti"
+        },
+        {
+          "start": 2585.4000244140625,
+          "end": 2606.2000122070312,
+          "text": "di voi. Ok. Io, io, io, io. Ok. Va formata comunque per raggiungere certi standard sul"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 44,
+        "time": 2597.09,
+        "timestamp": "00:43:17",
+        "image": "frame_0044.jpg",
+        "reason": "periodic",
+        "ocr_text": "Michele Cotti (ce",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 2606.2000122070312,
+          "end": 2613.3599853515625,
+          "text": "cervello. Io, io, io. Poca automazione, un po' di brain ma non tutto collegato. Io, io, automazioni"
+        },
+        {
+          "start": 2613.3599853515625,
+          "end": 2617.7999877929688,
+          "text": "su Trello. Praticamente, guardate la quantità di persone che stanno dicendo io con Claude,"
+        },
+        {
+          "start": 2617.7999877929688,
+          "end": 2624.719970703125,
+          "text": "io, io. È bello, ma perché? Perché quelle sono le cose che luccicano, ok? L'automazione è quello"
+        },
+        {
+          "start": 2624.719970703125,
+          "end": 2630.760009765625,
+          "text": "che si vede subito. Ma se la costruite funziona, sì, ma poi si rompe. Con il cervello cambia"
+        },
+        {
+          "start": 2630.760009765625,
+          "end": 2638.47998046875,
+          "text": "completamente tutto, ok? Ora richiudiamo un attimo la chat e vi porto finalmente a effettivamente"
+        },
+        {
+          "start": 2638.47998046875,
+          "end": 2643.6400146484375,
+          "text": "farvi vedere quello che è il quartier generale, ok? Un po' quello che è il mio company brain."
+        },
+        {
+          "start": 2643.6400146484375,
+          "end": 2648.7999877929688,
+          "text": "Quindi adesso vi aggiungo sul palco e vi faccio vedere proprio questo. Allora,"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 45,
+        "time": 2645.89,
+        "timestamp": "00:44:06",
+        "image": "frame_0045.jpg",
+        "reason": "scene",
+        "ocr_text": "",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 2648.7999877929688,
+          "end": 2654.3599853515625,
+          "text": "questa è un po' la parte visuale, ok? Qui vedete come c'è la mia azienda che è connessa a vari"
+        },
+        {
+          "start": 2654.3599853515625,
+          "end": 2658.760009765625,
+          "text": "reparti. Quindi reparto marketing, reparto amministrazione, vendita e clienti. E poi"
+        },
+        {
+          "start": 2658.760009765625,
+          "end": 2663.8800048828125,
+          "text": "c'è all'interno tutte quelle che sono le connessioni. Quindi se ti faccio vedere guarda"
+        },
+        {
+          "start": 2663.8800048828125,
+          "end": 2669.9600219726562,
+          "text": "cosa c'è dentro. Qua di base vive tutta la conoscenza della mia azienda, ok? Sono tutti i"
+        },
+        {
+          "start": 2669.9600219726562,
+          "end": 2674.9199829101562,
+          "text": "file, documenti, clienti e aziende, progetti, conoscenza, produzione, lo vedete qua sotto,"
+        },
+        {
+          "start": 2674.9199829101562,
+          "end": 2680.9199829101562,
+          "text": "ok? Tutti che sono connessi tra di loro, ok? Quindi io posso chiedere una cosa e lui mi"
+        },
+        {
+          "start": 2680.9199829101562,
+          "end": 2685.6799926757812,
+          "text": "ritorna indietro. Ora torniamo all'azienda e questi sono i vari reparti. All'interno di questa"
+        },
+        {
+          "start": 2685.6799926757812,
+          "end": 2691.47998046875,
+          "text": "dashboard chiaramente è collegato a tutto quello che è il mio brain. Poi questa, ragazzi, è la"
+        },
+        {
+          "start": 2691.47998046875,
+          "end": 2696.6400146484375,
+          "text": "parte visuale. Il succo è quello che ci sta dietro, ok? Il succo è quello che ci sta dietro. Poi io"
+        },
+        {
+          "start": 2696.6400146484375,
+          "end": 2700.0800170898438,
+          "text": "ho i vari reparti. Quindi ho la parte dei reparti,"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 46,
+        "time": 2698.72,
+        "timestamp": "00:44:59",
+        "image": "frame_0046.jpg",
+        "reason": "scene",
+        "ocr_text": "\"E amminisTRAZIONE tl cervelio è sveglio fi Rapporto email del mattino Report dal campo È Recapriunione € Solleciti incassi Rispondi al cliente Gonera fattura",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 2700.3199999928474,
+          "end": 2705.3600001335144,
+          "text": "Ad esempio per l'amministrazione c'è il report del mattino, c'è la parte di solleciti incassi,"
+        },
+        {
+          "start": 2705.3600001335144,
+          "end": 2710.4799995422363,
+          "text": "c'è il genere a fattura, il genere a contratto. Io clicco e partono i lavori. La parte di marketing,"
+        },
+        {
+          "start": 2710.4799995422363,
+          "end": 2716.2000007629395,
+          "text": "cioè quello che io vado mi genera delle ads, ok? Il sistema delle copertine, le copertine di video"
+        },
+        {
+          "start": 2716.2000007629395,
+          "end": 2719.6000003814697,
+          "text": "che io faccio su YouTube. Se le facessi dovrei pagare a qualcuno e spenderci tanti soldi,"
+        },
+        {
+          "start": 2719.6000003814697,
+          "end": 2724.7199993133545,
+          "text": "oppure spenderci tempo. Io qua metto il nome del mio video e mi genera le copertine. Oppure"
+        },
+        {
+          "start": 2724.7199993133545,
+          "end": 2730.680000305176,
+          "text": "i caruselli che vedete su Instagram. La parte di amministrazione, ok? La parte di venite cliente,"
+        },
+        {
+          "start": 2730.680000305176,
+          "end": 2736.1199989318848,
+          "text": "la parte di preventivi, il quadro di un cliente, la riattivazione di clienti dormienti. Tutte cose"
+        },
+        {
+          "start": 2736.1199989318848,
+          "end": 2741.9199981689453,
+          "text": "che sono collegate al mio brain. E poi io vedo anche tutti i lavori che i miei agenti fanno."
+        },
+        {
+          "start": 2741.9199981689453,
+          "end": 2746.4799995422363,
+          "text": "Quindi di base, adesso poi non ve li faccio partire, ve li tengo per domani sera, voglio"
+        },
+        {
+          "start": 2746.4799995422363,
+          "end": 2753.0,
+          "text": "solo darvi una panoramica generale, ok? Qui io vedo i miei vari, come dire, i miei vari agenti"
+        },
+        {
+          "start": 2753.0,
+          "end": 2757.0400009155273,
+          "text": "che lavorano, quello che ha fatto il preventivo, posso riaprirlo, posso farglielo rifare e quant'altro."
+        },
+        {
+          "start": 2757.0400009155273,
+          "end": 2763.599998474121,
+          "text": "E poi in parte io posso sempre parlare con il mio cervello, con il mio brain. Ha accesso a tutto"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 47,
+        "time": 2758.72,
+        "timestamp": "00:45:59",
+        "image": "frame_0047.jpg",
+        "reason": "periodic",
+        "ocr_text": "Michele Cotti Marco Costruzioni — estensione all'ufficio gare dentisti Parma, italia Rossi Costruzioni — estensione all'ufficio gare Idraulici - Piacenza, I Ristoranti. brescia 5 Skil i calude che devi avere - tcervello è sveglio",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 2763.599998474121,
+          "end": 2769.319999694824,
+          "text": "quello che è la mia knowledge base, la conoscenza della mia azienda, i miei clienti,"
+        },
+        {
+          "start": 2769.319999694824,
+          "end": 2775.4400024414062,
+          "text": "i documenti, le procedure, il team e quant'altro. E qua sotto, se vedete, è connesso a praticamente"
+        },
+        {
+          "start": 2775.4400024414062,
+          "end": 2782.400001525879,
+          "text": "tutto. È connesso a Gmail, a Notion, a Calendly, a Tileform, a Stripe. Potete connesserci le macchine,"
+        },
+        {
+          "start": 2782.400001525879,
+          "end": 2787.2399978637695,
+          "text": "potete connesserci quello che volete, ok? Di base ci si può connettere qualsiasi cosa,"
+        },
+        {
+          "start": 2787.2399978637695,
+          "end": 2791.879997253418,
+          "text": "e questo è il bello, ok? Poi ho la parte di email. Io so che tanti di voi dicono,"
+        },
+        {
+          "start": 2791.879997253418,
+          "end": 2796.879997253418,
+          "text": "eh ma l'email è la cosa da gestire. Io qui ho tutte le mie email per come mi arrivano. Adesso"
+        },
+        {
+          "start": 2796.879997253418,
+          "end": 2801.5199966430664,
+          "text": "c'ho una attaccata, una chiaramente per farlo vedere in live, altrimenti c'ho attaccata sei"
+        },
+        {
+          "start": 2801.5199966430664,
+          "end": 2806.6399993896484,
+          "text": "caselle email diverse che mi arrivano, posso generare la bozza, qua posso chiedere a chi"
+        },
+        {
+          "start": 2806.6399993896484,
+          "end": 2811.0400009155273,
+          "text": "devo rispondere. Lui prende, si guarda le mie email che è arrivata nella giornata, si guarda se quel"
+        },
+        {
+          "start": 2811.0400009155273,
+          "end": 2815.1600036621094,
+          "text": "cliente gli avevo fatto un preventivo e quant'altro, se devo fare un follow up, e mi genera"
+        },
+        {
+          "start": 2815.1600036621094,
+          "end": 2821.400001525879,
+          "text": "le bozze. Le bozze vanno di qua e io poi le posso inviare o eliminare. Poi c'è tutta la parte di"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 48,
+        "time": 2818.72,
+        "timestamp": "00:46:59",
+        "image": "frame_0048.jpg",
+        "reason": "periodic",
+        "ocr_text": "La casella è collegata. tl cervello è sveglio",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 2821.400001525879,
+          "end": 2826.4400024414062,
+          "text": "contabilità, ok? C'è tutta la parte di contabilità che è attaccata ai gestionali, c'è tutta la parte"
+        },
+        {
+          "start": 2826.4400024414062,
+          "end": 2831.0,
+          "text": "del mentre dormivi, quindi cose che succedono quando io non sono lì. Quindi il report di tutte"
+        },
+        {
+          "start": 2831.0,
+          "end": 2836.960006713867,
+          "text": "le email lo fa di notte ma arriva poi la mattina e poi io lo vedo subito. Si fa una copia del brain,"
+        },
+        {
+          "start": 2836.960006713867,
+          "end": 2842.6399993896484,
+          "text": "controlla tutta la mia conoscenza che sia ben integrata, che ci siano le connessioni corrette,"
+        },
+        {
+          "start": 2842.6399993896484,
+          "end": 2849.1199951171875,
+          "text": "oppure fa praticamente ogni notte, rilegge tutte le conversazioni che io faccio con il mio compagny"
+        },
+        {
+          "start": 2849.1199951171875,
+          "end": 2854.5599975585938,
+          "text": "brain, i lavori, le email della settimana e la mattina porta quello che ho capito. Quindi mi"
+        },
+        {
+          "start": 2854.5599975585938,
+          "end": 2858.759994506836,
+          "text": "dà dei suggerimenti, magari i preventivi escono in giornata ma il follow up parte in media dopo"
+        },
+        {
+          "start": 2858.759994506836,
+          "end": 2863.199996948242,
+          "text": "sei giorni, un promemoria automatico al terzo giorno chiuderebbe prima, eccetera eccetera eccetera."
+        },
+        {
+          "start": 2863.520004272461,
+          "end": 2870.759994506836,
+          "text": "Questo è il quadro generale, poi questa è la parte visuale, come vi ripeto, e si adatterà poi a quello"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 49,
+        "time": 2865.39,
+        "timestamp": "00:47:45",
+        "image": "frame_0049.jpg",
+        "reason": "scene",
+        "ocr_text": "",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 2870.759994506836,
+          "end": 2875.1199951171875,
+          "text": "che sarà la vostra azienda. Perché? Perché voi potete avere reparti diversi, potete avere cose"
+        },
+        {
+          "start": 2875.1199951171875,
+          "end": 2879.8800048828125,
+          "text": "diverse. L'importante è che sappiate che si adatta bene ad un'azienda, ci si può collegare gli"
+        },
+        {
+          "start": 2879.8800048828125,
+          "end": 2887.720001220703,
+          "text": "strumenti, possono entrarci i collaboratori e poi questa è la parte visuale, ma poi nel concreto è"
+        },
+        {
+          "start": 2888.039993286133,
+          "end": 2893.5599975585938,
+          "text": "quello che ci sta dietro, ok? È quello che ci sta dietro che conta. Perché? Perché si vedono spesso"
+        },
+        {
+          "start": 2893.5599975585938,
+          "end": 2897.9199981689453,
+          "text": "in giro dashboard anche su Instagram gente, eh, batti le mani e parli con Jarvis. Sì, però se poi"
+        },
+        {
+          "start": 2897.9199981689453,
+          "end": 2904.479995727539,
+          "text": "gli chiedi che meteo c'è nella tua città, capiamoci che non serve a niente, ok? Capiamoci che non serve"
+        },
+        {
+          "start": 2904.479995727539,
+          "end": 2910.5599975585938,
+          "text": "a niente. Questo è un anteprima di quello che domani andiamo a vedere cosa ci sta dietro,"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 50,
+        "time": 2904.55,
+        "timestamp": "00:48:25",
+        "image": "frame_0050.jpg",
+        "reason": "scene",
+        "ocr_text": "",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 2910.5599975585938,
+          "end": 2916.3200073242188,
+          "text": "perché la dashboard è bella, vi farò vedere poi domani dei lavori che partono in autonomia e che"
+        },
+        {
+          "start": 2916.3999938964844,
+          "end": 2924.3200073242188,
+          "text": "mi fa dei lavori, effettivamente. Si prende il lavoro al posto mio, ok? Ma quella è la parte"
+        },
+        {
+          "start": 2924.3200073242188,
+          "end": 2932.0,
+          "text": "grafica, ok? È la parte comunicativa. Tutto quello che ci sta dietro è la parte importante e domani"
+        },
+        {
+          "start": 2932.0,
+          "end": 2936.960006713867,
+          "text": "sera andiamo a vederlo, ok? Domani sera capiamo effettivamente, strato per strato, come si va a"
+        },
+        {
+          "start": 2936.960006713867,
+          "end": 2946.8399963378906,
+          "text": "fare, costruire. Io adesso, innanzitutto, vi è piaciuta l'anteprima di questo Brain? Ovvio,"
+        },
+        {
+          "start": 2946.8399963378906,
+          "end": 2950.9199981689453,
+          "text": "come ripeto, vi ho dato un anteprima, domani ve lo faccio vedere lavorare. Appriamo due secondi"
+        },
+        {
+          "start": 2950.9199981689453,
+          "end": 2959.7999877929688,
+          "text": "la chat, così bevo e vi ricondivido un attimo, così vi do anche le varie cose della serata. Allora,"
+        },
+        {
+          "start": 2960.1199951171875,
+          "end": 2968.5599975585938,
+          "text": "perfetto, ditemi un attimo. Moltissimo, top, molto, molto, molto, wow, bene, bene, bene, bene,"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 51,
+        "time": 2964.55,
+        "timestamp": "00:49:25",
+        "image": "frame_0051.jpg",
+        "reason": "periodic",
+        "ocr_text": "Michele Cotti RE",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 2968.5599975585938,
+          "end": 2980.4400024414062,
+          "text": "ok? È una figata, eh ragazzi? C'è quella roba che poi davvero vi delega di quel lavoro. Lo"
+        },
+        {
+          "start": 2980.4400024414062,
+          "end": 2987.1600036621094,
+          "text": "fa vedere o spiega cosa fare. Su che motore AI gira? Questo dipende da te, ok? Tipo il mio gira"
+        },
+        {
+          "start": 2987.1600036621094,
+          "end": 2992.519989013672,
+          "text": "su Globe? Dipende da te. Il bello di questo, ragazzi, è che il motore lo cambiate quando esce"
+        },
+        {
+          "start": 2992.519989013672,
+          "end": 2996.6799926757812,
+          "text": "il modello nuovo, si mette quello, ok? Non voglio spoilerarvi troppo perché poi lo vedremo tutto"
+        },
+        {
+          "start": 2996.6799926757812,
+          "end": 3002.720001220703,
+          "text": "domani sera, perché è bello, mi piace, ok? Mi piace, mi piace, mi piace. Domani però andiamo"
+        },
+        {
+          "start": 3002.720001220703,
+          "end": 3006.760009765625,
+          "text": "sul concreto, son d'accordo, son d'accordo, assolutamente. Ora, torniamo sul palco,"
+        },
+        {
+          "start": 3006.760009765625,
+          "end": 3013.3200073242188,
+          "text": "richiudiamo la chat e si parte, ok? Torniamo un attimo alla nostra presentazione. Quindi,"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 52,
+        "time": 3009.79,
+        "timestamp": "00:50:10",
+        "image": "frame_0052.jpg",
+        "reason": "scene",
+        "ocr_text": "",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 3013.3200073242188,
+          "end": 3017.3999938964844,
+          "text": "questo, signori, è il cervello di cui vi ho parlato praticamente per un'oretta,"
+        },
+        {
+          "start": 3017.3999938964844,
+          "end": 3021.6000061035156,
+          "text": "ok? Meno di un'ora, una quarantina di minuti. Stasera vi ho fatto vedere che esiste davvero,"
+        },
+        {
+          "start": 3021.6000061035156,
+          "end": 3025.7999877929688,
+          "text": "mi conosce. Domani sera facciamo il passo dopo, quindi lo vedete davvero lavorare come vi ho"
+        },
+        {
+          "start": 3025.7999877929688,
+          "end": 3031.0,
+          "text": "appena anticipato. Non solo rispondere, ma eseguire un lavoro vero, dall'inizio alla"
+        },
+        {
+          "start": 3031.0,
+          "end": 3036.959991455078,
+          "text": "fine davanti a voi, ok? E soprattutto vi faccio vedere come si costruisce, così capite come averne"
+        },
+        {
+          "start": 3036.959991455078,
+          "end": 3042.1199951171875,
+          "text": "uno anche voi all'interno della vostra azienda. Senza scrivere una riga di codice, ve lo garantisco,"
+        },
+        {
+          "start": 3042.279998779297,
+          "end": 3046.959991455078,
+          "text": "ok? Come ripeto, non si scrive una riga di codice, lo scrive AI per noi. Bene,"
+        },
+        {
+          "start": 3046.959991455078,
+          "end": 3052.0,
+          "text": "siamo praticamente arrivati alla fine della prima sera e, come promesso, non ve ne andate a mani"
+        },
+        {
+          "start": 3052.0,
+          "end": 3059.1199951171875,
+          "text": "vuote, ok? Punto numero uno, il workbook della biagnosi. Lì dentro ci sono tutte le domande"
+        },
+        {
+          "start": 3059.1199951171875,
+          "end": 3064.3599853515625,
+          "text": "giuste per fotografare la vostra situazione attuale, perché si parte da quello, ok? Per"
+        },
+        {
+          "start": 3064.3599853515625,
+          "end": 3069.040008544922,
+          "text": "arrivare a quello che vi ho fatto vedere bisogna partire da lì. Compilatelo con calma, stanotte o"
+        },
+        {
+          "start": 3069.0799865722656,
+          "end": 3074.3599853515625,
+          "text": "domani, quando la diretta è finita e nessuno vi può distrarre, ok? Perché quello che scrivete lì"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 53,
+        "time": 3069.79,
+        "timestamp": "00:51:10",
+        "image": "frame_0053.jpg",
+        "reason": "periodic",
+        "ocr_text": "Compilatelo con calma, stanotte o domani, quando la diretta è finita e nessuno vi distrae.",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 3074.3599853515625,
+          "end": 3078.6400146484375,
+          "text": "dentro, il vostro collo di bottiglia, l'analisi che andrete a fare è il punto esatto dal cui"
+        },
+        {
+          "start": 3078.6400146484375,
+          "end": 3084.959991455078,
+          "text": "partiremo per costruire il vostro cervello, ok? Ma il regalo vero di stasera è un'altra cosa,"
+        },
+        {
+          "start": 3084.959991455078,
+          "end": 3092.239990234375,
+          "text": "è uno strumento, ok? E ve lo do adesso. Si chiama l'impronta. Fa esattamente quello di cui vi ho"
+        },
+        {
+          "start": 3092.239990234375,
+          "end": 3097.7999877929688,
+          "text": "parlato stasera. Prende l'intelligenza artificiale, che oggi per voi è il genio senza memoria,"
+        },
+        {
+          "start": 3097.7999877929688,
+          "end": 3104.279998779297,
+          "text": "e le dà il primo pezzo di memoria, il primo pezzo del vostro cervello. Come funziona? Poi,"
+        },
+        {
+          "start": 3104.279998779297,
+          "end": 3109.0799865722656,
+          "text": "nel documento che vi diamo, c'è dentro comunque le istruzioni. Lo aprite dentro una chat di Cloud,"
+        },
+        {
+          "start": 3109.0799865722656,
+          "end": 3113.9200134277344,
+          "text": "o se lo caricate come skill o usate il prompt, e lei comincia a farvi delle domande sulla vostra"
+        },
+        {
+          "start": 3113.9200134277344,
+          "end": 3118.8399963378906,
+          "text": "azienda. Chi siete? Cosa vendete? Chi sono i vostri clienti? Come parlate? Come lavorate?"
+        },
+        {
+          "start": 3118.8399963378906,
+          "end": 3124.9200134277344,
+          "text": "Voi rispondete come se stesse spiegando l'azienda a un collaboratore nuovo il primo giorno e qui vi"
+        },
+        {
+          "start": 3124.9200134277344,
+          "end": 3129.519989013672,
+          "text": "do un consiglio. Se ancora non l'avete scaricato, so che magari tanti di voi guardano i video di"
+        },
+        {
+          "start": 3129.519989013672,
+          "end": 3135.480010986328,
+          "text": "YouTube e magari già ce l'hanno, se non l'avete scaricato ci sono dei dettatori vocali. Io ad"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 54,
+        "time": 3129.79,
+        "timestamp": "00:52:10",
+        "image": "frame_0054.jpg",
+        "reason": "periodic",
+        "ocr_text": "Voi rispondete come se steste spiegando l'azienda a un collaboratore nuovo il primo giorno.",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 3135.480010986328,
+          "end": 3141.2000122070312,
+          "text": "esempio uso WhisperFlow, non mi pagano, non fa niente. Magari se lo utilizzate, quando spiegate"
+        },
+        {
+          "start": 3141.2000122070312,
+          "end": 3145.0799865722656,
+          "text": "alla vostra azienda è più comodo, perché invece che perdere tre ore a digitare, tenete un pulsantino,"
+        },
+        {
+          "start": 3145.0799865722656,
+          "end": 3151.0,
+          "text": "si parla, ok? E detti tutto a lei. Io, da quando ho iniziato ad usarlo, ho risparmiato un po' di"
+        },
+        {
+          "start": 3151.0,
+          "end": 3156.1199951171875,
+          "text": "tempo. Quindi rispondete all'interno come se state spiegando l'azienda ad un collaboratore nuovo il"
+        },
+        {
+          "start": 3156.1199951171875,
+          "end": 3162.6799926757812,
+          "text": "primo giorno e mentre voi rispondete, lei scrive. Alla fine vi ritrovate in mano cinque file già"
+        },
+        {
+          "start": 3162.6799926757812,
+          "end": 3169.3999938964844,
+          "text": "pronti. Chi siete? Cosa vendete? I vostri clienti? Il vostro tono? E come lavorate? I primi cinque"
+        },
+        {
+          "start": 3169.3999938964844,
+          "end": 3175.1600036621094,
+          "text": "mattoni del vostro cervello, scritti, vostri, ok? Da stasera lei smette di essere il genio senza"
+        },
+        {
+          "start": 3175.279998779297,
+          "end": 3181.760009765625,
+          "text": "memoria di cui vi parlavo. Comincia a sapere chi siete e comincia a scrivere come voi, ok? Ora"
+        },
+        {
+          "start": 3181.760009765625,
+          "end": 3187.480010986328,
+          "text": "ve lo manderà il vostro tutor su WhatsApp, ma ovviamente solo perché è arrivato fino a qui,"
+        },
+        {
+          "start": 3187.480010986328,
+          "end": 3192.2000122070312,
+          "text": "fino alla fine. Quindi bravi, ok? Perché le cose che contano le diamo a chi c'è, come vi ho detto."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 55,
+        "time": 3189.79,
+        "timestamp": "00:53:10",
+        "image": "frame_0055.jpg",
+        "reason": "periodic",
+        "ocr_text": "Le cose che contano le diamo a chic'è.",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 3192.2000122070312,
+          "end": 3197.3599853515625,
+          "text": "E questo è solo il primo pezzo, ok? È solo il primo pezzo. Domani vi faccio vedere cosa,"
+        },
+        {
+          "start": 3197.3599853515625,
+          "end": 3202.6799926757812,
+          "text": "come tutti gli altri si mettono insieme, strato dopo strato. Ma questo stanotte potete già"
+        },
+        {
+          "start": 3202.6799926757812,
+          "end": 3208.279998779297,
+          "text": "cominciare ad utilizzarlo. Inoltre, domani facciamo il vero salto. Vi faccio vedere i sei"
+        },
+        {
+          "start": 3208.279998779297,
+          "end": 3212.280029296875,
+          "text": "strati con cui si costruisce il company brain, uno per uno, nell'ordine giusto, come vi ho già"
+        },
+        {
+          "start": 3212.280029296875,
+          "end": 3217.3200073242188,
+          "text": "detto. E soprattutto lo vedete lavorare da lì. Oggi vi ho fatto vedere una panoramica, ok? Domani"
+        },
+        {
+          "start": 3217.3200073242188,
+          "end": 3222.760009765625,
+          "text": "lo vedete eseguire un lavoro vero, mentre voi guardate, ok? E però fatemi una promessa, non"
+        },
+        {
+          "start": 3222.760009765625,
+          "end": 3228.4000244140625,
+          "text": "mancate, ok? Arrivate con la vostra diagnosi compilata, perché domani non si parte da zero,"
+        },
+        {
+          "start": 3228.4000244140625,
+          "end": 3232.719970703125,
+          "text": "si parte da lì, dal vostro collo di bottiglie. Quindi davvero compilate quel benedetto workshop,"
+        },
+        {
+          "start": 3232.719970703125,
+          "end": 3238.2000122070312,
+          "text": "prendetevi quei 15, 20, mezz'ora di tempo che vi serve, ma compilatelo, ok? Ci vediamo domani"
+        },
+        {
+          "start": 3238.2000122070312,
+          "end": 3247.3599853515625,
+          "text": "sera alle ore 8 e 30. Adesso qui in chat, qui in chat, invieremo il link per il workbook e il link"
+        },
+        {
+          "start": 3247.3599853515625,
+          "end": 3254.5999755859375,
+          "text": "per la skill. Io vi invito comunque a salvarli, dato che siete qua in live, ok? Li invierà Gaia."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 56,
+        "time": 3249.79,
+        "timestamp": "00:54:10",
+        "image": "frame_0056.jpg",
+        "reason": "periodic",
+        "ocr_text": "\\ Ci vediamo domani alle 20:30",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 3254.5999755859375,
+          "end": 3263.6400146484375,
+          "text": "Salvateli, ok? Li sta inviando Gaia, vedete? Se ancora non avete il numero, vi ha già inviato"
+        },
+        {
+          "start": 3263.6400146484375,
+          "end": 3271.280029296875,
+          "text": "i numeri e in più ci sono il workbook e la skill dell'impronta, ok? Salvateveli, ok? Salvateveli,"
+        },
+        {
+          "start": 3271.280029296875,
+          "end": 3277.9600219726562,
+          "text": "ragazzi. Workbook, compilatelo, anche perché domani, ok? Domani vedo di... Vediamo un attimo"
+        },
+        {
+          "start": 3277.9600219726562,
+          "end": 3282.3200073242188,
+          "text": "chi l'ha compilato e chi non l'ha compilato, ok? Chiederò il mio company brain e chi di voi l'ha"
+        },
+        {
+          "start": 3282.3200073242188,
+          "end": 3285.5999755859375,
+          "text": "compilato e non l'ha compilato e vedremo effettivamente. Dato che è collegato a tutto,"
+        },
+        {
+          "start": 3285.5999755859375,
+          "end": 3289.52001953125,
+          "text": "ok? È collegato a tutti gli strumenti, domani chiederemo direttamente al brain chi l'ha compilato"
+        },
+        {
+          "start": 3289.52001953125,
+          "end": 3296.6400146484375,
+          "text": "o no. E vi consiglio di farlo, ok? Vi consiglio di farlo. Perché? Perché è da lì che parte tutto,"
+        },
+        {
+          "start": 3296.6400146484375,
+          "end": 3301.0800170898438,
+          "text": "ok? È da lì che parte tutto. E poi avete la skill che vi ho dato dell'impronta. La potete"
+        },
+        {
+          "start": 3301.0800170898438,
+          "end": 3305.5999755859375,
+          "text": "usare come skill oppure come prompt. Quando siete nelle AI, state lì, parlate, parlate,"
+        },
+        {
+          "start": 3305.5999755859375,
+          "end": 3312.8400268554688,
+          "text": "come vi ripeto, se utilizzate Wistair Flow o quello che volete, un dettatore vocale, ok? Vi va"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 57,
+        "time": 3309.79,
+        "timestamp": "00:55:10",
+        "image": "frame_0057.jpg",
+        "reason": "periodic",
+        "ocr_text": "ì Ci vediamo domani alle ; 20:30",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 3312.8400268554688,
+          "end": 3316.6799926757812,
+          "text": "a produrre cinque documenti che poi potranno essere la base di quello che è il vostro company"
+        },
+        {
+          "start": 3316.6799926757812,
+          "end": 3324.239990234375,
+          "text": "brain, ok? Bene, intanto io vi dico, vi è piaciuta sta prima serata? Datemi un check qua in chat. Non"
+        },
+        {
+          "start": 3324.239990234375,
+          "end": 3330.6799926757812,
+          "text": "è neanche durata tantissimo, vi abbiamo fatto anche più che veloci. Bene, bene, bene. Spero"
+        },
+        {
+          "start": 3330.6799926757812,
+          "end": 3336.9199829101562,
+          "text": "che la demo vi sia piaciuta. Come ripeto, raga, compilate, ok? Compilate. Il messaggio è questo,"
+        },
+        {
+          "start": 3336.9199829101562,
+          "end": 3343.3200073242188,
+          "text": "ok? È questo qui. Io adesso lo tolgo da qua che disturba un pochettino la vista, ma lo trovate"
+        },
+        {
+          "start": 3343.3200073242188,
+          "end": 3350.760009765625,
+          "text": "qua in parte nella parte di chat, ok? Sta inviando Gaia. Vedete, Gaia di AI Builders Club, ok? Sono"
+        },
+        {
+          "start": 3350.760009765625,
+          "end": 3358.6799926757812,
+          "text": "quei due lì. Link workbook, link notion, che c'è dentro tutto, ok? Adesso si è frizzato tutto"
+        },
+        {
+          "start": 3358.719970703125,
+          "end": 3363.0399780273438,
+          "text": "nella chat. Ottimo, ottimo. Tutto ok. Sì, bellissima. Sì, sintetico. Ottimo. Bene, bene,"
+        },
+        {
+          "start": 3363.0399780273438,
+          "end": 3367.6799926757812,
+          "text": "mi fa piacere. Grazie, ragazzi. Grazie mille per i feedback. Ottimo, ottimo, ottimo, ottimo. Sono"
+        },
+        {
+          "start": 3367.6799926757812,
+          "end": 3371.52001953125,
+          "text": "contento di servirvi. Anche perché, raga, bisogna arrivare al dunque, ok? Stasera vi ho fatto una"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 58,
+        "time": 3369.79,
+        "timestamp": "00:56:10",
+        "image": "frame_0058.jpg",
+        "reason": "periodic",
+        "ocr_text": "o Ci vediamo domani alle d 20:30",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 3371.52001953125,
+          "end": 3374.4000244140625,
+          "text": "bella panoramica, vi ho anche fatto vedere chi sono, ve l'ho fatto vedere. Domani entriamo"
+        },
+        {
+          "start": 3374.4000244140625,
+          "end": 3383.1599731445312,
+          "text": "vero nel completo. Quindi domani sera esserci, ok? Domani sera esserci, ok? Sono bello carico,"
+        },
+        {
+          "start": 3383.1599731445312,
+          "end": 3388.52001953125,
+          "text": "non vedevo l'ora di questo bel workshop. Siamo davvero in, siamo stati tanti per tutta la"
+        },
+        {
+          "start": 3388.52001953125,
+          "end": 3397.719970703125,
+          "text": "serata. Se uno più ne indica cosa suggerisci di fare, fatela doppia. Vai tranquillo. Molto"
+        },
+        {
+          "start": 3397.719970703125,
+          "end": 3403.2000122070312,
+          "text": "interessante. Poi la terza cosa, sistema setup precedentemente. Ma guarda, ti dico dipende che"
+        },
+        {
+          "start": 3403.2000122070312,
+          "end": 3408.760009765625,
+          "text": "setup avevi prima, ok? Molto probabilmente sì, dipende che setup. Perché è quello, no? Quando"
+        },
+        {
+          "start": 3408.760009765625,
+          "end": 3415.9600219726562,
+          "text": "prima qualcuno mi diceva, ma se parto da zero si può? Sì, raga, si può e tante volte è meglio,"
+        },
+        {
+          "start": 3415.9600219726562,
+          "end": 3420.1599731445312,
+          "text": "perché? Perché in giro si vede gente che vi fa costruire robe che non servono a un cazzo,"
+        },
+        {
+          "start": 3420.1599731445312,
+          "end": 3424.6799926757812,
+          "text": "passatemi il termine, e poi vi ritrovate lì con tanta roba che alla fine non serve a nulla,"
+        },
+        {
+          "start": 3424.6799926757812,
+          "end": 3432.6799926757812,
+          "text": "ok? E spesso partire da zero è meglio che di base aver già costruito tante cose che poi non vanno"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 59,
+        "time": 3429.79,
+        "timestamp": "00:57:10",
+        "image": "frame_0059.jpg",
+        "reason": "periodic",
+        "ocr_text": "Ci vediamo domani alle e 20:30",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 3432.6799926757812,
+          "end": 3438.0399780273438,
+          "text": "bene. Poi spesso si può switchare, ok? Però davvero anche perché in giro c'è gente che mi"
+        },
+        {
+          "start": 3438.0399780273438,
+          "end": 3443.4000244140625,
+          "text": "lanta costruzioni di qua e di là e non fa l'imprenditore magari neanche da un anno,"
+        },
+        {
+          "start": 3443.4000244140625,
+          "end": 3448.0800170898438,
+          "text": "ok? Ragazzini che si mettono online perché sono gli AI, voi. No ragazzi, io quello che vi porto,"
+        },
+        {
+          "start": 3448.0800170898438,
+          "end": 3452.7999877929688,
+          "text": "ve lo porto perché faccio impresa da un po', tanti di voi probabilmente faranno numeri molto più"
+        },
+        {
+          "start": 3452.7999877929688,
+          "end": 3456.2000122070312,
+          "text": "grandi di me, ok? Non sono qui per questo. Ma l'AI l'ho usato da davvero tanto tempo,"
+        },
+        {
+          "start": 3456.2000122070312,
+          "end": 3460.7999877929688,
+          "text": "l'ho integrato nelle aziende. E quello che porto, e lo vedete anche su YouTube, comunque quello che"
+        },
+        {
+          "start": 3460.7999877929688,
+          "end": 3467.0,
+          "text": "porto, lo porto perché è creato un qualcosa di concreto, che sia utile ad un'azienda,"
+        },
+        {
+          "start": 3467.280029296875,
+          "end": 3473.0800170898438,
+          "text": "utile alle persone, ok? I dati, lo vedrai domani sera, rimarranno sempre sul tuo computer,"
+        },
+        {
+          "start": 3473.0800170898438,
+          "end": 3477.6400146484375,
+          "text": "ok? Ovviamente ci gireranno i modelli AI, però i dati li trarai sul computer, se vuoi."
+        },
+        {
+          "start": 3477.6400146484375,
+          "end": 3485.8400268554688,
+          "text": "Alessandro, ok. Guarda, ti dico, domani vediamo un attimo, ok? Domani guardiamo un attimo,"
+        },
+        {
+          "start": 3485.8400268554688,
+          "end": 3489.3599853515625,
+          "text": "effettivamente ciò che hai in testa sarà in linea con quello che andremo a vedere. Comunque"
+        },
+        {
+          "start": 3489.3599853515625,
+          "end": 3497.9600219726562,
+          "text": "domani. Allora, puoi permettere la copia? La pagina Notion? Guardiamo, sennò in realtà ti"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 60,
+        "time": 3489.79,
+        "timestamp": "00:58:10",
+        "image": "frame_0060.jpg",
+        "reason": "periodic",
+        "ocr_text": "È Ci vediamo domani alle L 20:30",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 3497.9600219726562,
+          "end": 3503.8400268554688,
+          "text": "prendi, o ti fai un copy and call e te la metti tu dall'altra parte, ok? Commanda,"
+        },
+        {
+          "start": 3503.8400268554688,
+          "end": 3510.3200073242188,
+          "text": "commanda, fai copia di tutto e via. Ottimo, dai, dai, dai. Io, ragazzi, direi che ci siamo,"
+        },
+        {
+          "start": 3510.3200073242188,
+          "end": 3516.0,
+          "text": "ok? Gaia, come ripeto, vi sta andando il link, salvatevelo. Io vi consiglio di salvarlo da qua,"
+        },
+        {
+          "start": 3516.0,
+          "end": 3521.280029296875,
+          "text": "ok? Anche perché siete comunque in tanti, magari i tutor ci tengono un attimo a contattarvi tutti,"
+        },
+        {
+          "start": 3521.280029296875,
+          "end": 3527.719970703125,
+          "text": "ok? Quindi di conseguenza io vi consiglio di prendere direttamente il link da qua, da Gaia,"
+        },
+        {
+          "start": 3527.719970703125,
+          "end": 3534.280029296875,
+          "text": "che ve li sta inviando. Poi, nel caso, comunque ve li girerà anche il tutor, ok? Ve li girerà"
+        },
+        {
+          "start": 3534.280029296875,
+          "end": 3541.0,
+          "text": "comunque anche il tutor e, raga, sono contento che siete stati belli numerosi. Mi raccomando,"
+        },
+        {
+          "start": 3541.0399780273438,
+          "end": 3546.9199829101562,
+          "text": "domani sera, sempre 20 e 30 in punto, si riparte, ok? Entriamo davvero nel vivo,"
+        },
+        {
+          "start": 3546.9199829101562,
+          "end": 3554.3200073242188,
+          "text": "ok? Entriamo davvero nel vivo. Io vi mando un grande abbraccio, ok? Vi mando un grande"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 61,
+        "time": 3549.79,
+        "timestamp": "00:59:10",
+        "image": "frame_0061.jpg",
+        "reason": "periodic",
+        "ocr_text": "3 Ci vediamo domani alle 4 20:30",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 3554.3200073242188,
+          "end": 3559.5999755859375,
+          "text": "abbraccio e ci vediamo domani sera, ok? Un abbraccio. Ciao, ragazzi!"
+        },
+        {
+          "start": 3571.0,
+          "end": 3573.47998046875,
+          "text": "Sottotitoli e revisione a cura di QTSS"
+        },
+        {
+          "start": 3600.0,
+          "end": 3604.0,
+          "text": "Sottotitoli e revisione a cura di QTSS"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 62,
+        "time": 3609.79,
+        "timestamp": "01:00:10",
+        "image": "frame_0062.jpg",
+        "reason": "periodic",
+        "ocr_text": "Ci vediamo domani alle 20:30",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 3630.0,
+          "end": 3634.0,
+          "text": "Sottotitoli e revisione a cura di QTSS"
+        },
+        {
+          "start": 3660.0,
+          "end": 3663.0,
+          "text": "Sottotitoli e revisione a cura di QTSS"
+        }
+      ]
+    }
+  ]
+}

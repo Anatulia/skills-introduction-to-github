@@ -1,0 +1,2637 @@
+{
+  "title": "Creiamo una skill semplice",
+  "sections": [
+    {
+      "keyframe": {
+        "index": 0,
+        "time": 0.0,
+        "timestamp": "00:00:00",
+        "image": "frame_0000.jpg",
+        "reason": "start",
+        "ocr_text": "E Escaira iiabosrd > sue > clienti > template ® CIAVDE md X Claude Code Youve come to th absolutely right piace!",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 0.3199999928474426,
+          "end": 3.5999999046325684,
+          "text": "Bene, ora siamo pronti per crearci la nostra prima skill."
+        },
+        {
+          "start": 3.5999999046325684,
+          "end": 7.400000095367432,
+          "text": "Partiamo con una skill molto semplice e poi dopo proviamo a crearne di più complesse."
+        },
+        {
+          "start": 7.400000095367432,
+          "end": 12.399999618530273,
+          "text": "Se vi ricordate abbiamo detto che fondamentalmente la skill è una cartellina che ha un nome"
+        },
+        {
+          "start": 12.399999618530273,
+          "end": 17.600000381469727,
+          "text": "e questo è il nome con il quale chiameremo quella skill, quindi invocheremo quella funzionalità."
+        },
+        {
+          "start": 17.600000381469727,
+          "end": 22.399999618530273,
+          "text": "E dentro c'è un file che si chiama skill.Md, si chiama sempre uguale questo file,"
+        },
+        {
+          "start": 22.399999618530273,
+          "end": 24.600000381469727,
+          "text": "che ha le istruzioni della skill."
+        },
+        {
+          "start": 24.600000381469727,
+          "end": 29.200000762939453,
+          "text": "Poi c'è anche altra roba, ma a noi non servono in questo momento perché le nostre skill saranno molto semplici."
+        },
+        {
+          "start": 30.0,
+          "end": 34.599998474121094,
+          "text": "Se voi andate sulla documentazione ufficiale di Cloud Code, che ovviamente vi lascio il link qua sotto,"
+        },
+        {
+          "start": 34.599998474121094,
+          "end": 41.20000076293945,
+          "text": "vi fa vedere che poi il contenuto di questo file skill.Md è un contenuto semplicissimo perché è puro testo."
+        },
+        {
+          "start": 41.20000076293945,
+          "end": 47.20000076293945,
+          "text": "C'è una riga con il nome e quindi il nome della skill, come la chiameremo, proprio il comando come si chiama,"
+        },
+        {
+          "start": 47.20000076293945,
+          "end": 53.20000076293945,
+          "text": "una descrizione e la descrizione, attenzione, non è che serve a noi per ricordarci cosa fa la skill,"
+        },
+        {
+          "start": 53.20000076293945,
+          "end": 58.20000076293945,
+          "text": "la descrizione la utilizzerà Cloud Code per capire quando deve intervenire o meno."
+        },
+        {
+          "start": 58.20000076293945,
+          "end": 63.20000076293945,
+          "text": "Quindi dice, ah, Raffaele ha chiesto questa cosa, quindi forse devo invocare questa skill perché è quello che gli serve."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 1,
+        "time": 60.0,
+        "timestamp": "00:01:00",
+        "image": "frame_0001.jpg",
+        "reason": "periodic",
+        "ocr_text": "© © © EB eucaisimitaboara x R Extend Cda wie O + | € > @ codecisudecom[docsfen/skils S€Claude Code Docs Engl @ Search. XK 39 ASKAI | Claude Developer Platform Getting started Bulkdwith Claude Code Deployment | Administration Configuration | Reference | AgentSDK | WhatksNew Resource Claude follows when the skills invoked. The: nane fleld becomes the /stash- command Agente and the. description. helps Claude decide when to load It automatically = Onthispage Create custom subagenta è Bondi kia i cosi Create -/.claude/skills/explain-code/SKILL.md Runagent tesma Getting started = o Creato your first sli Tools and plugins none: explain-code Where sile ve description: Explains code with visual. diagri ve change detection Mo) ve change detect Automatic discovery fromnested Discover an Install prebul airectories nen explaining code, always include plugins Skls from adeltion lrectorles Create plugins saStart mith an analogyes: Conpare the code to something fron everyday Life ‘Draw a diagranea: Use ASCII art to show the flow, structure, or relations ER TVpes ol sk content. . safalk through the codes: Explain step-by-step what happens Configure ski seitighitight a gotchava: What's a conson nistake or misconception? Frontmatter reference atti Avallble string substitutione. Keep explanations conversational. For conplex concepts, use multiple anatogies Automate with hooks Add supporting files Pusiiexteralevents to Claude Control who invokes a skii Run rompts on a schedule Ski content Iecycle 3° Testtheskil Pre-approve tools fora sl Programmati usage Passarguments to kl You can testit two ways E Advanced patterns. Troubleshosting Let Claude invoke it automatically by asking something that matches the description: ‘nioci drei contri Troubleshooting Runskilc ina subagent Error reference ska question. Example: Research sil using Explore agent Restrit Clude sll access",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 63.20000076293945,
+          "end": 68.19999694824219,
+          "text": "E poi sotto c'è il funzionamento e il funzionamento è scritto in linguaggio naturale,"
+        },
+        {
+          "start": 68.19999694824219,
+          "end": 71.19999694824219,
+          "text": "qua in inglese, ma vedremo che lo possiamo scrivere pure in italiano."
+        },
+        {
+          "start": 71.19999694824219,
+          "end": 76.19999694824219,
+          "text": "Quindi fondamentalmente la skill è un file di testo, in inglese o in italiano,"
+        },
+        {
+          "start": 76.19999694824219,
+          "end": 78.19999694824219,
+          "text": "con dentro le istruzioni di quello che deve fare."
+        },
+        {
+          "start": 78.19999694824219,
+          "end": 80.19999694824219,
+          "text": "È una roba di una semplicità devastante."
+        },
+        {
+          "start": 80.19999694824219,
+          "end": 85.19999694824219,
+          "text": "Ma noi non la creiamo a mano, volendo lo possiamo fare, ma lo faremo tramite Cloud Code,"
+        },
+        {
+          "start": 85.19999694824219,
+          "end": 87.19999694824219,
+          "text": "vi faccio vedere come lo può fare direttamente Cloud Code."
+        },
+        {
+          "start": 87.19999694824219,
+          "end": 91.19999694824219,
+          "text": "Ma ricordandoci che è un file di testo, volendo poi dopo la possiamo modificare a mano."
+        },
+        {
+          "start": 91.19999694824219,
+          "end": 93.19999694824219,
+          "text": "Dove vanno queste skill?"
+        },
+        {
+          "start": 93.19999694824219,
+          "end": 95.19999694824219,
+          "text": "Possono essere in vari luoghi, ok?"
+        },
+        {
+          "start": 95.19999694824219,
+          "end": 99.19999694824219,
+          "text": "Si possono mettere in vari luoghi, anzi la documentazione qua lo fa vedere anche,"
+        },
+        {
+          "start": 99.19999694824219,
+          "end": 102.19999694824219,
+          "text": "dice fondamentalmente esistono tre luoghi dove le puoi installare, eccetera."
+        },
+        {
+          "start": 102.19999694824219,
+          "end": 107.19999694824219,
+          "text": "Noi per semplicità ce le installeremo dentro il nostro workspace dove stiamo lavorando,"
+        },
+        {
+          "start": 107.19999694824219,
+          "end": 111.19999694824219,
+          "text": "in modo tale che se ce lo spostiamo, perché andiamo su un altro computer, no?"
+        },
+        {
+          "start": 111.19999694824219,
+          "end": 114.19999694824219,
+          "text": "Perché lo dobbiamo passare al team e così via, le skill vengono con noi."
+        },
+        {
+          "start": 114.19999694824219,
+          "end": 117.19999694824219,
+          "text": "Questa è solo una cosa che per comodità faccio io, ok?"
+        },
+        {
+          "start": 117.19999694824219,
+          "end": 121.19999694824219,
+          "text": "Si possono installare dentro il workspace oppure a livello di sistema, ok?"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 2,
+        "time": 120.0,
+        "timestamp": "00:02:00",
+        "image": "frame_0002.jpg",
+        "reason": "periodic",
+        "ocr_text": "E Ercalirna Wisbonrd D00 cla gna ce womsnice | (è Ea C © de Clo Code x > ag ) archi Duskonciaud workpaca] cioe > chien Untied % Claude Code > tempiato % CIAUDEmd ouve coma to th absolutely ih pace!",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 121.19999694824219,
+          "end": 123.19999694824219,
+          "text": "Però per comodità vi faccio vedere dentro il workspace."
+        },
+        {
+          "start": 123.19999694824219,
+          "end": 129.1999969482422,
+          "text": "Quindi qua dentro, sotto diciamo la cartella .Cloud che è una cartella speciale,"
+        },
+        {
+          "start": 129.1999969482422,
+          "end": 133.1999969482422,
+          "text": "quando hai delle cartelle che iniziano col punto sono delle cartelle speciali, ok?"
+        },
+        {
+          "start": 133.1999969482422,
+          "end": 135.1999969482422,
+          "text": "Che usa Cloud Code."
+        },
+        {
+          "start": 135.1999969482422,
+          "end": 138.1999969482422,
+          "text": "Come facciamo a creare una skill usando Cloud Code?"
+        },
+        {
+          "start": 138.1999969482422,
+          "end": 142.1999969482422,
+          "text": "Dobbiamo installare prima una skill speciale."
+        },
+        {
+          "start": 142.1999969482422,
+          "end": 147.1999969482422,
+          "text": "Cioè c'è bisogno di una skill che ci fa creare le skill, ma questa è ufficiale di Cloud Code."
+        },
+        {
+          "start": 147.1999969482422,
+          "end": 153.1999969482422,
+          "text": "Andiamo qua nel menu, quello diciamo slash, andiamo nella voce plugins."
+        },
+        {
+          "start": 153.1999969482422,
+          "end": 158.1999969482422,
+          "text": "I plugin sono, li potremmo chiamare come dei pacchetti di skill, ok?"
+        },
+        {
+          "start": 158.1999969482422,
+          "end": 163.1999969482422,
+          "text": "È un po' più complesso perché dentro contengono anche altra roba, ma immaginate come dei pacchetti di skill."
+        },
+        {
+          "start": 163.1999969482422,
+          "end": 167.1999969482422,
+          "text": "Quindi qua c'è una lista enorme di cose che possiamo installare gratis di Cloud Code."
+        },
+        {
+          "start": 167.1999969482422,
+          "end": 169.1999969482422,
+          "text": "E qua cerchiamo skill creator."
+        },
+        {
+          "start": 169.1999969482422,
+          "end": 171.1999969482422,
+          "text": "Ops, scusatemi."
+        },
+        {
+          "start": 173.1999969482422,
+          "end": 177.1999969482422,
+          "text": "Perdonatemi, ho chiuso per sbaglio la schermata."
+        },
+        {
+          "start": 177.1999969482422,
+          "end": 178.1999969482422,
+          "text": "Eccola qua."
+        },
+        {
+          "start": 178.1999969482422,
+          "end": 181.1999969482422,
+          "text": "Noi mettiamo la skill che si chiama skill creator."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 3,
+        "time": 180.0,
+        "timestamp": "00:03:00",
+        "image": "frame_0003.jpg",
+        "reason": "periodic",
+        "ocr_text": "(0 settings scaljson > archivio > cileni > template è ciAUDEmd + cita voice suporponere svi Superpowers tasche Cie brainstorming, suiagent rive development it uit n odo resin, systamatie debugging, and redigraen TOO. dio f taehis Cau how 0 author and ost wi si e ne pica ailcretor 60 eat si, improve existing kl, and mensu skll poformanca. Use ‘in sere want to croste a kl rom scratch, uplto o aptimize an visting 6, ru val 0 test a 3, o benchmark performance mt variance anabae E] gooce Rca tua cortei i cirie cltude-code-setup \" Anabyia codebases and recommend tlored Claude Code automation sui ‘as hooks, kl, MCP servers, and subagonts. inse pigri, sore Masa comit sie acne plugin dev dazi Compraensie toi fr developing Claude Co plugin. incius 7 expert as conering hook, MCP intogratin, commands, agata, and best pratico». Al-assstd pigin creation and vali.",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 181.1999969482422,
+          "end": 182.1999969482422,
+          "text": "Eccola qua."
+        },
+        {
+          "start": 182.1999969482422,
+          "end": 186.1999969482422,
+          "text": "Che dice questa skill ti permette di creare skill, migliorarle, eccetera eccetera."
+        },
+        {
+          "start": 186.1999969482422,
+          "end": 187.1999969482422,
+          "text": "Facciamo installa."
+        },
+        {
+          "start": 187.1999969482422,
+          "end": 189.1999969482422,
+          "text": "Dice oh, sei sicuro?"
+        },
+        {
+          "start": 189.1999969482422,
+          "end": 190.1999969482422,
+          "text": "Ti fidi?"
+        },
+        {
+          "start": 190.1999969482422,
+          "end": 191.1999969482422,
+          "text": "Stai installando una cosa?"
+        },
+        {
+          "start": 191.1999969482422,
+          "end": 192.1999969482422,
+          "text": "Chi è il creatore di questa skill?"
+        },
+        {
+          "start": 192.1999969482422,
+          "end": 196.1999969482422,
+          "text": "Ovviamente questa è una skill ufficiale di Antropic, quindi siamo tranquilli."
+        },
+        {
+          "start": 196.1999969482422,
+          "end": 201.1999969482422,
+          "text": "Però siccome le skill si trovano pure gratis in rete, io ve ne lascio qualcuna anche mia dopo da poter scaricare."
+        },
+        {
+          "start": 201.1999969482422,
+          "end": 203.1999969482422,
+          "text": "Ma le trovate gratis in rete, no?"
+        },
+        {
+          "start": 203.1999969482422,
+          "end": 207.1999969482422,
+          "text": "Che la gente le regala, ci sono questi pacchetti con centinaia di skill gratuite."
+        },
+        {
+          "start": 207.1999969482422,
+          "end": 212.1999969482422,
+          "text": "Attenzione quando installate la roba di terze parti perché potrebbe contenere del codice pericoloso."
+        },
+        {
+          "start": 212.1999969482422,
+          "end": 215.1999969482422,
+          "text": "Quindi qua dice dove la vogliamo mettere?"
+        },
+        {
+          "start": 215.1999969482422,
+          "end": 217.1999969482422,
+          "text": "La vogliamo mettere in tutti i progetti, vedete?"
+        },
+        {
+          "start": 217.1999969482422,
+          "end": 219.1999969482422,
+          "text": "Quindi locally."
+        },
+        {
+          "start": 219.1999969482422,
+          "end": 221.1999969482422,
+          "text": "Noi mettiamola localmente."
+        },
+        {
+          "start": 221.1999969482422,
+          "end": 225.1999969482422,
+          "text": "La vogliamo specifica che si crei qua dentro, ok?"
+        },
+        {
+          "start": 225.1999969482422,
+          "end": 231.1999969482422,
+          "text": "Quindi facciamo locally e mi dice devi riavviare Cloud Code per farla funzionare."
+        },
+        {
+          "start": 231.1999969482422,
+          "end": 237.1999969482422,
+          "text": "Faccio restart e posso semplicemente, vedete, aprirmi una nuova istanza e chiudere questa istanza qua."
+        },
+        {
+          "start": 237.1999969482422,
+          "end": 241.1999969482422,
+          "text": "Cloud in questo momento è in grado di creare delle skill."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 4,
+        "time": 240.0,
+        "timestamp": "00:04:00",
+        "image": "frame_0004.jpg",
+        "reason": "periodic",
+        "ocr_text": "(6) 6? ? do) * < claude (0 settings socaljeon > archivio > centi > tempito % CIAVDEMd E Clause code x Untited + % Claude Code Make CLAUDE ml fo instructions Cla wi red every single time.",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 241.1999969482422,
+          "end": 243.1999969482422,
+          "text": "Io gli posso chiedere questa cosa qua."
+        },
+        {
+          "start": 243.1999969482422,
+          "end": 246.1999969482422,
+          "text": "Quali skill hai installato al momento?"
+        },
+        {
+          "start": 246.1999969482422,
+          "end": 249.1999969482422,
+          "text": "Ce ne saranno, diciamo, alcune di sistema, ok?"
+        },
+        {
+          "start": 249.1999969482422,
+          "end": 252.1999969482422,
+          "text": "Che sono sempre presenti dentro Cloud."
+        },
+        {
+          "start": 252.1999969482422,
+          "end": 256.20001220703125,
+          "text": "E poi mi dirà sicuramente che c'è la skill creator."
+        },
+        {
+          "start": 256.20001220703125,
+          "end": 257.20001220703125,
+          "text": "Eccola qua."
+        },
+        {
+          "start": 257.20001220703125,
+          "end": 260.20001220703125,
+          "text": "Vedete quindi queste qua sono skill di sistema che sono dentro di default."
+        },
+        {
+          "start": 260.20001220703125,
+          "end": 265.20001220703125,
+          "text": "A noi non ci interessano adesso ma adesso c'è questa skill creator che è quella che ci permette di creare delle skill."
+        },
+        {
+          "start": 265.20001220703125,
+          "end": 267.20001220703125,
+          "text": "Allora proviamo a creare la nostra prima skill."
+        },
+        {
+          "start": 267.20001220703125,
+          "end": 269.20001220703125,
+          "text": "Facciamo una cosa molto semplice."
+        },
+        {
+          "start": 269.20001220703125,
+          "end": 274.20001220703125,
+          "text": "Diciamo che vogliamo questo comando che noi lanciamo per esempio tutte le mattine"
+        },
+        {
+          "start": 274.20001220703125,
+          "end": 279.20001220703125,
+          "text": "che mi deve dare le ultime news sull'intelligenza artificiale."
+        },
+        {
+          "start": 279.20001220703125,
+          "end": 281.20001220703125,
+          "text": "Ok, partiamo con una cosa poco banalissima."
+        },
+        {
+          "start": 281.20001220703125,
+          "end": 282.20001220703125,
+          "text": "Proviamo a migliorarla."
+        },
+        {
+          "start": 282.20001220703125,
+          "end": 296.20001220703125,
+          "text": "Allora, creami una semplice skill che mi fa una ricerca e mi dà le ultime news sull'intelligenza artificiale."
+        },
+        {
+          "start": 296.20001220703125,
+          "end": 303.20001220703125,
+          "text": "La skill si deve chiamare news-ai."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 5,
+        "time": 300.0,
+        "timestamp": "00:05:00",
+        "image": "frame_0005.jpg",
+        "reason": "periodic",
+        "ocr_text": "3 Quali ste na ita. x Quali its ha installato al momento (0 setta socaljeon > arenivio > clnti > template % CALDE md ©. Thought for ua sh a istat al momento? » Ecco le sl instalte: * update-config — configura settings json (nok, permessi, vrab d'ambiente) * Koybindings-hep — personalizza scorciatle da tastiera * simplify— revision lì codice modificato per quaità e eficienza * less-permission-prompts — riduce | prompt di permesso aggiungendo un ali * Hoop — esegue un prompt a intervalli icorrenti * schedule — craa agenti remoti sehadulti con cron * elaude-api— costisce è ottimizza app con l'API Antivpie/Ciaude * akii-crentor— crea e modifica skill It — Inizilzza un le CLAUDE mi * review — cevisiona una pu reques * secuity-review — ovsione di sicurezza del cambiamenti branch crtami una semplice sil che mi fa una ricerca e mì da e utime news ull'inelignza artificiale 1a sl lieve chie",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 303.20001220703125,
+          "end": 305.20001220703125,
+          "text": "Qua ci mettete quello che volete voi."
+        },
+        {
+          "start": 305.20001220703125,
+          "end": 310.20001220703125,
+          "text": "Creala in locale dentro questo workspace."
+        },
+        {
+          "start": 310.20001220703125,
+          "end": 315.20001220703125,
+          "text": "Questo glielo dico per sicurezza perché altrimenti va a fine che lui diciamo me la crea a livello di sistema."
+        },
+        {
+          "start": 315.20001220703125,
+          "end": 318.20001220703125,
+          "text": "Invece la voglio qua dentro così la possiamo anche vedere insieme."
+        },
+        {
+          "start": 318.20001220703125,
+          "end": 328.20001220703125,
+          "text": "Poi gli dico pure se non trovi la cartella skills dentro .Cloud creala tu."
+        },
+        {
+          "start": 328.20001220703125,
+          "end": 331.20001220703125,
+          "text": "La potremmo creare in un attimo al mano."
+        },
+        {
+          "start": 331.20001220703125,
+          "end": 333.20001220703125,
+          "text": "Però diciamo lo faccio per semplicità."
+        },
+        {
+          "start": 334.20001220703125,
+          "end": 339.20001220703125,
+          "text": "Questa prima versione è molto semplice."
+        },
+        {
+          "start": 339.20001220703125,
+          "end": 347.20001220703125,
+          "text": "Mi serve solo la skill senza i test o le valutazioni."
+        },
+        {
+          "start": 347.20001220703125,
+          "end": 350.20001220703125,
+          "text": "Ok, qua andiamo un po' più veloce."
+        },
+        {
+          "start": 350.20001220703125,
+          "end": 352.20001220703125,
+          "text": "Gli dico vai modifica automaticamente."
+        },
+        {
+          "start": 352.20001220703125,
+          "end": 354.20001220703125,
+          "text": "Allora perché io ho messo pure quella cosa finale?"
+        },
+        {
+          "start": 354.20001220703125,
+          "end": 358.20001220703125,
+          "text": "Siccome ricordatevi questo è uno strumento che nasce per il codice."
+        },
+        {
+          "start": 358.20001220703125,
+          "end": 363.20001220703125,
+          "text": "A volte il tool di creazione delle skill si mette e fa un lavoro incredibile."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 6,
+        "time": 360.0,
+        "timestamp": "00:06:00",
+        "image": "frame_0006.jpg",
+        "reason": "periodic",
+        "ocr_text": "S claudo (0 setingaJocaljson > arenivio > centi > template % CALDE + de Quali site na ita. x Quali its ha installato al momento ati st ha istalto al momento? » Ecco le slitte: * update-config — configura settings json (ok, permessi, varab 'ambiente) * Kaybindings-help — personalizza scorcitle da tastiera * almpliy — revision i codice modificato per quà a eficenza * less-permission- prompts — riduce | prompt di permesso aggiungendo un list * 1oop — esegue un prompt 3 intervalli iorrenti * schedule — ras agenti remoti sehadulti con cron * elaude-api— costisce e ttiiza app con API Antivpie/Ciaude * skii-crento — rese modifica ski \"il — inizia un file CIAUDE md * review — revisiona un pu reques * secuity-review — ovsione di icuezza del cambiamenti branch ertami una semplice sil che mi fa una ricerca mid e ultime new ullinelignza artificiale 1a ail sì deve chiamare “nows-a creaa n locale dentro questo workspace, so non tia cartalla sis dentro claudio crea tu questa versione è moto semplice, mi serve slo la I, senza est stazioni è skicerentor suit # Forino",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 363.20001220703125,
+          "end": 368.20001220703125,
+          "text": "Dopo aver creato la skill mi fa anche i test."
+        },
+        {
+          "start": 368.20001220703125,
+          "end": 372.20001220703125,
+          "text": "Aspettate che qua gli diamo l'autorizzazione a creare la cartella."
+        },
+        {
+          "start": 372.20001220703125,
+          "end": 374.20001220703125,
+          "text": "Quindi crea anche dei test."
+        },
+        {
+          "start": 374.20001220703125,
+          "end": 378.20001220703125,
+          "text": "Cioè lui vi crea la skill e poi si mette anche a testarla."
+        },
+        {
+          "start": 378.20001220703125,
+          "end": 381.20001220703125,
+          "text": "Però siccome questa è una skill molto semplice a noi non serve questa cosa."
+        },
+        {
+          "start": 381.20001220703125,
+          "end": 383.20001220703125,
+          "text": "Perciò io ho detto questa roba qua."
+        },
+        {
+          "start": 383.20001220703125,
+          "end": 385.20001220703125,
+          "text": "Mi serve solo la skill senza i test e le valutazioni."
+        },
+        {
+          "start": 385.20001220703125,
+          "end": 387.20001220703125,
+          "text": "A volte aiuta."
+        },
+        {
+          "start": 388.20001220703125,
+          "end": 391.20001220703125,
+          "text": "Altrimenti si mette lì e si mette a fare 200 file."
+        },
+        {
+          "start": 391.20001220703125,
+          "end": 396.20001220703125,
+          "text": "Si mette a fare le ricerche da solo per vedere se trovi i risultati giusti eccetera eccetera."
+        },
+        {
+          "start": 396.20001220703125,
+          "end": 398.20001220703125,
+          "text": "Invece avete visto ci abbiamo messo 10 secondi."
+        },
+        {
+          "start": 398.20001220703125,
+          "end": 404.20001220703125,
+          "text": "Allora si è creata la cartellina skill e qua dentro abbiamo la cartella news.Ai."
+        },
+        {
+          "start": 404.20001220703125,
+          "end": 409.20001220703125,
+          "text": "Nella cartella news.Ai abbiamo il file skill.Md."
+        },
+        {
+          "start": 409.20001220703125,
+          "end": 412.20001220703125,
+          "text": "Apriamo questo file skill.Md perché questa è la nostra prima skill."
+        },
+        {
+          "start": 412.20001220703125,
+          "end": 414.20001220703125,
+          "text": "Ci abbiamo messo 10 secondi."
+        },
+        {
+          "start": 414.20001220703125,
+          "end": 416.20001220703125,
+          "text": "Le skill iniziano tutte quante così."
+        },
+        {
+          "start": 416.20001220703125,
+          "end": 417.20001220703125,
+          "text": "Con questo blocco."
+        },
+        {
+          "start": 417.20001220703125,
+          "end": 418.20001220703125,
+          "text": "Quindi tre trattini."
+        },
+        {
+          "start": 418.20001220703125,
+          "end": 420.20001220703125,
+          "text": "E' chiuso da tre trattini."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 7,
+        "time": 420.0,
+        "timestamp": "00:07:00",
+        "image": "frame_0007.jpg",
+        "reason": "periodic",
+        "ocr_text": "EI Escair tabonrd + 000 cuoeronene 66 CD 6 qualsiasi > claude > all nov + Kina (0 settings ocatjcon > archivio > enti > template + ciauDEmd Quali sis ha installato al momento creami una semplice SK che mi fa una ricerca e mid e utime news sul'inelgnza artificiale a sal sl deve chiamare “news-al creaa in Jocale dentro questo wrkspace, se non toi la cartello sis entro claude creata tu questa prima versione è molto semplice, mi serve solo a Sl, senza test valutazioni root cartella kl rettamente Basti Check cinude fd st in orkspace cauta vorispace/ sele) 2/ Sei] || 00 \"NO ESISTE settinga. 0a. json Bash Crete sitnemii dectony mie /Users/rtaela/Desktop/ cla vorbepace/ claute/ skills /nesa!* (tas completed with no output) Write tion description: Cerca e mostra le ultime notizie sull'intelligenza artificiale, Usa questa suit ‘Sl reta. Puo trovra in claud/sl/nems-aSKLL mo. De ora puo usata digitando /nic-ai e far una ricerca web sull ultime notizie A, presentano in tano con sintesi beve fonte. + stalla x luo) sd > pesi > & SL md > 1 2 3 none: nevinsi description: Cerca e nostra le ultime notizie sull'intetligenza artificiale, Usa questa SkIUL quando l'utente vuole sapere le pes recenti SULL'AL, aggiornamenti sul mondo dell'intelligenza artificia novità su modelli o aziende AT, o chiede “cosa succede nell'AI'. Attivata anche se l'utente dice \"news AI\", \"ultime notizie Al\", \"aggiornamenti intel igenza artificiale” 0 varianti sintli. e ren dt Fai una ricerca ueb per trovare le notizie più recenti sull'intelligenza artificiale e presentale in italiano in modo chiaro e utile, n0 processo 1. Usa WebSearch con query recenti, per esempio: — ‘intelligenza artificiale nevs oggi 2025*\" 2 seAt ness tosay latest\" — SVAFEIFICIOI intellpence latest developmente* 2. Fal 2-3 ricerche per coprire sia fonti italiane che internazionali. 3. Raccogli le notizie più rilevanti e recenti (ultimi 7 giorni preferibilmente) n0 Formato di risposta Presento 1 risuttoti così: 20 Uttine news sUTUAT metritoto notizialee 2-3 righe gi sintesi in itattano) Fonte: [nose fonte] — [data se disponibile) mefritoto notizialee 2-3 righe di sintesi in itattano) Fonte: (none fonte] — [Soto se disponibile] Trccattre notizie...1",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 420.20001220703125,
+          "end": 422.20001220703125,
+          "text": "Sembra uno scioglilingua."
+        },
+        {
+          "start": 422.20001220703125,
+          "end": 423.20001220703125,
+          "text": "Tre trattini."
+        },
+        {
+          "start": 423.20001220703125,
+          "end": 424.20001220703125,
+          "text": "Come 33 trentini."
+        },
+        {
+          "start": 424.20001220703125,
+          "end": 425.20001220703125,
+          "text": "Nome."
+        },
+        {
+          "start": 425.20001220703125,
+          "end": 426.20001220703125,
+          "text": "Quindi name."
+        },
+        {
+          "start": 426.20001220703125,
+          "end": 427.20001220703125,
+          "text": "Due punti news e a."
+        },
+        {
+          "start": 427.20001220703125,
+          "end": 433.20001220703125,
+          "text": "Questo non è banale perché questo è il comando che noi useremo per lanciarlo diciamo da qua."
+        },
+        {
+          "start": 433.20001220703125,
+          "end": 434.20001220703125,
+          "text": "Da dentro la chat."
+        },
+        {
+          "start": 434.20001220703125,
+          "end": 435.20001220703125,
+          "text": "La descrizione."
+        },
+        {
+          "start": 435.20001220703125,
+          "end": 439.20001220703125,
+          "text": "Quindi proprio la descrizione vi ho detto è fondamentale perché la userà Cloud Code"
+        },
+        {
+          "start": 439.20001220703125,
+          "end": 441.20001220703125,
+          "text": "per capire quando far partire questa skill."
+        },
+        {
+          "start": 441.20001220703125,
+          "end": 442.20001220703125,
+          "text": "Dice."
+        },
+        {
+          "start": 442.20001220703125,
+          "end": 445.20001220703125,
+          "text": "Cerca e mostra le ultime notizie sull'intelligenza artificiale."
+        },
+        {
+          "start": 445.20001220703125,
+          "end": 448.20001220703125,
+          "text": "Usa questa skill quando l'utente vuole sapere le news recenti sull'IA."
+        },
+        {
+          "start": 448.20001220703125,
+          "end": 450.20001220703125,
+          "text": "Aggiornamenti sul mondo dell'intelligenza artificiale."
+        },
+        {
+          "start": 450.20001220703125,
+          "end": 452.20001220703125,
+          "text": "Novità su modelli e aziende."
+        },
+        {
+          "start": 452.20001220703125,
+          "end": 453.20001220703125,
+          "text": "E o chiede cose."
+        },
+        {
+          "start": 453.20001220703125,
+          "end": 455.20001220703125,
+          "text": "Cosa succede nella I?"
+        },
+        {
+          "start": 455.20001220703125,
+          "end": 458.20001220703125,
+          "text": "Attivala anche se l'utente dice news e ai."
+        },
+        {
+          "start": 458.20001220703125,
+          "end": 460.20001220703125,
+          "text": "Oppure ultime notizie e ai."
+        },
+        {
+          "start": 460.20001220703125,
+          "end": 462.20001220703125,
+          "text": "Oppure aggiornamenti a intelligenza artificiale."
+        },
+        {
+          "start": 462.20001220703125,
+          "end": 463.20001220703125,
+          "text": "Cioè significa."
+        },
+        {
+          "start": 463.20001220703125,
+          "end": 465.20001220703125,
+          "text": "Che io non solo posso chiamare questa skill."
+        },
+        {
+          "start": 465.20001220703125,
+          "end": 466.20001220703125,
+          "text": "Nella chat."
+        },
+        {
+          "start": 466.20001220703125,
+          "end": 468.20001220703125,
+          "text": "Scrivendo slash news e ai."
+        },
+        {
+          "start": 468.20001220703125,
+          "end": 470.20001220703125,
+          "text": "Ma se io in una frase."
+        },
+        {
+          "start": 470.20001220703125,
+          "end": 471.20001220703125,
+          "text": "Scrivo."
+        },
+        {
+          "start": 471.20001220703125,
+          "end": 474.20001220703125,
+          "text": "Dammi le novità sull'intelligenza artificiale."
+        },
+        {
+          "start": 474.20001220703125,
+          "end": 475.20001220703125,
+          "text": "Siccome."
+        },
+        {
+          "start": 475.20001220703125,
+          "end": 477.20001220703125,
+          "text": "In questa descrizione."
+        },
+        {
+          "start": 477.20001220703125,
+          "end": 478.20001220703125,
+          "text": "C'è scritto."
+        },
+        {
+          "start": 478.20001220703125,
+          "end": 479.20001220703125,
+          "text": "Lui capisce."
+        },
+        {
+          "start": 479.20001220703125,
+          "end": 480.20001220703125,
+          "text": "Che quella cosa."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 8,
+        "time": 480.0,
+        "timestamp": "00:08:00",
+        "image": "frame_0008.jpg",
+        "reason": "periodic",
+        "ocr_text": "< claude gle news + SKitimd (0 settigs.ocatjson > ln > template + cLAWDEI © x Qofo + 3 Cai so na ita Quali sis ha installato al momento creami una semplice sl che mi fa una ricerca © mid e time news sulenza artificiale a sil i deve chiamare “news-a ceaa in locale dentro questo wrkspace, so non toi a carta ski entro claude creata tu ‘questa prima versione è molto semplice, mi serve solo a sl, senza | test valutazioni Creo ta carte ol kl rttamente Bash Check cinudefoide st in orkspace 18 Users /rtfeete/Desktog/claase vorkspnce/ clause/* 2/dev mlt || cho \"NO ESISTE settige. 0. json Bash Crono sitzenni diectony mite = Mbsers/rffaele/Desktop/ cla vorkapre/ claute/ skills /nea!® (tas complete with no tout) Write Stino description: Cerca e mostra le ultime potizie sull'inelLipenza artificiale, Usa questa siti Sl creata. Puo trovara i clade/sli/news-a/SKILL me. De ora puo usata digitando /nis-a! 0 far una ricerca web sull ite nz A, presentano in tano con sintesi beve fonte. EDO *20 lugo) sile > pesi > & SL md > none: nevi-si description: Cerca e mostra le ultime notizie sull'intettigenza artificiate. Usa questa shiUL quando l'utente vuole sapere le ness recenti SULL AL, aggiornamenti sul mondo dell intelligenza artificiale, novità su modelli o aziende AT, o chiede “cosa succede nell'Ar'. Attivata anche se l'utente dice \"news AÎS, \"ultime notizie Al\", \"aggiornamenti intelligenza artificiale” o varianti sinii.] DINI Fai una ricerca veb per trovare le notizie più recenti sull'intellipenza artificiale e presentale in italiano in modo chiaro e utile, n0 processo 1. Usa WebSearch con query recenti, per esempio: — ‘intelligenza artificiale nevs oggi 2025\" 2 svAt ness tosay latest\" — ‘Vartificial intelligence latest developnente* 2. Fal 2-3 ricerche per coprire sia fonti italiane che internazionali. 3. Raccogli le notizie più rilevanti è recenti (ultimi 7 gior preferibitnente) n0 tornato di risposta Presenta i risultati così: 20 Utine news sottiAT metritoto notizialee 2-3 righe di sintesi in italiano) ronte: [nose fonte] — [data se disponibile) mefritoto notizialee Î2-3 righe di sintesi in itettano! rante: [nose fonte] — [date se dispontbite) Tccattre notizie...1",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 480.20001220703125,
+          "end": 482.20001220703125,
+          "text": "La deve fare questa skill specifica."
+        },
+        {
+          "start": 482.20001220703125,
+          "end": 484.20001220703125,
+          "text": "Sta roba è di una potenza devastante."
+        },
+        {
+          "start": 485.20001220703125,
+          "end": 487.20001220703125,
+          "text": "Avete capito cosa vi ho detto?"
+        },
+        {
+          "start": 487.20001220703125,
+          "end": 488.20001220703125,
+          "text": "Ora immaginate questo."
+        },
+        {
+          "start": 488.20001220703125,
+          "end": 489.20001220703125,
+          "text": "Sto facendo news e ai."
+        },
+        {
+          "start": 489.20001220703125,
+          "end": 490.20001220703125,
+          "text": "Ma se voi vi occupate di."
+        },
+        {
+          "start": 490.20001220703125,
+          "end": 491.20001220703125,
+          "text": "Non lo so."
+        },
+        {
+          "start": 491.20001220703125,
+          "end": 492.20001220703125,
+          "text": "Di formula 1."
+        },
+        {
+          "start": 492.20001220703125,
+          "end": 493.20001220703125,
+          "text": "Gli dite."
+        },
+        {
+          "start": 493.20001220703125,
+          "end": 495.20001220703125,
+          "text": "Le ultime news sulla formula 1."
+        },
+        {
+          "start": 495.20001220703125,
+          "end": 497.20001220703125,
+          "text": "E potete creare una skill."
+        },
+        {
+          "start": 497.20001220703125,
+          "end": 498.20001220703125,
+          "text": "Che c'ha dei comandi diversi."
+        },
+        {
+          "start": 498.20001220703125,
+          "end": 499.20001220703125,
+          "text": "Per esempio."
+        },
+        {
+          "start": 499.20001220703125,
+          "end": 500.20001220703125,
+          "text": "Dammi le news."
+        },
+        {
+          "start": 500.20001220703125,
+          "end": 501.20001220703125,
+          "text": "Politica."
+        },
+        {
+          "start": 501.20001220703125,
+          "end": 503.20001220703125,
+          "text": "Ma le voglio solo politica internazionale."
+        },
+        {
+          "start": 503.20001220703125,
+          "end": 504.20001220703125,
+          "text": "Solo politica italiana."
+        },
+        {
+          "start": 504.20001220703125,
+          "end": 506.20001220703125,
+          "text": "Solo politica europea."
+        },
+        {
+          "start": 506.20001220703125,
+          "end": 508.20001220703125,
+          "text": "Le voglio solo dell'ultima settimana."
+        },
+        {
+          "start": 508.20001220703125,
+          "end": 509.20001220703125,
+          "text": "Solo dell'ultimo giorno."
+        },
+        {
+          "start": 509.20001220703125,
+          "end": 510.20001220703125,
+          "text": "E così via."
+        },
+        {
+          "start": 510.20001220703125,
+          "end": 511.20001220703125,
+          "text": "Vi occupate di finanza."
+        },
+        {
+          "start": 511.20001220703125,
+          "end": 512.2000122070312,
+          "text": "Stessa cosa."
+        },
+        {
+          "start": 512.2000122070312,
+          "end": 514.2000122070312,
+          "text": "Quello che è successo di importanti."
+        },
+        {
+          "start": 514.2000122070312,
+          "end": 515.2000122070312,
+          "text": "Oggi."
+        },
+        {
+          "start": 515.2000122070312,
+          "end": 516.2000122070312,
+          "text": "In borsa."
+        },
+        {
+          "start": 516.2000122070312,
+          "end": 517.2000122070312,
+          "text": "E così via."
+        },
+        {
+          "start": 517.2000122070312,
+          "end": 518.2000122070312,
+          "text": "Cioè ve le potete stendere come volete."
+        },
+        {
+          "start": 518.2000122070312,
+          "end": 519.2000122070312,
+          "text": "E qua sotto."
+        },
+        {
+          "start": 519.2000122070312,
+          "end": 521.2000122070312,
+          "text": "C'è il funzionamento."
+        },
+        {
+          "start": 521.2000122070312,
+          "end": 522.2000122070312,
+          "text": "Cioè mi dice."
+        },
+        {
+          "start": 522.2000122070312,
+          "end": 523.2000122070312,
+          "text": "Fai una ricerca web."
+        },
+        {
+          "start": 523.2000122070312,
+          "end": 524.2000122070312,
+          "text": "Per trovare le notizie più recenti."
+        },
+        {
+          "start": 524.2000122070312,
+          "end": 525.2000122070312,
+          "text": "Sull'intelligenza artificiale."
+        },
+        {
+          "start": 525.2000122070312,
+          "end": 526.2000122070312,
+          "text": "Presenta le."
+        },
+        {
+          "start": 526.2000122070312,
+          "end": 527.2000122070312,
+          "text": "In italiano."
+        },
+        {
+          "start": 527.2000122070312,
+          "end": 528.2000122070312,
+          "text": "In modo chiare e utile."
+        },
+        {
+          "start": 528.2000122070312,
+          "end": 529.2000122070312,
+          "text": "Usa web search."
+        },
+        {
+          "start": 529.2000122070312,
+          "end": 530.2000122070312,
+          "text": "E fai queste query."
+        },
+        {
+          "start": 530.2000122070312,
+          "end": 531.2000122070312,
+          "text": "Per esempio."
+        },
+        {
+          "start": 531.2000122070312,
+          "end": 532.2000122070312,
+          "text": "Per esempio."
+        },
+        {
+          "start": 532.2000122070312,
+          "end": 533.2000122070312,
+          "text": "Intelligenza artificiale."
+        },
+        {
+          "start": 533.2000122070312,
+          "end": 534.2000122070312,
+          "text": "Oggi."
+        },
+        {
+          "start": 534.2000122070312,
+          "end": 535.2000122070312,
+          "text": "2025."
+        },
+        {
+          "start": 535.2000122070312,
+          "end": 536.2000122070312,
+          "text": "Vedete."
+        },
+        {
+          "start": 536.2000122070312,
+          "end": 537.2000122070312,
+          "text": "Questo è un errore."
+        },
+        {
+          "start": 537.2000122070312,
+          "end": 538.2000122070312,
+          "text": "No."
+        },
+        {
+          "start": 538.2000122070312,
+          "end": 539.2000122070312,
+          "text": "Io lo tolgo."
+        },
+        {
+          "start": 539.2000122070312,
+          "end": 540.2000122070312,
+          "text": "Questo qua."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 9,
+        "time": 540.0,
+        "timestamp": "00:09:00",
+        "image": "frame_0009.jpg",
+        "reason": "periodic",
+        "ocr_text": "> template + CLAUDEmÀ + ca voga 3 cai so na it Quali ks hai instaato al momento creami una semplice sil che mi fa una ricerca e mid e utime news sul'inelignza article a sl sl deve chiamare “news-a' ceaa in localo dentro questo wrkspace, so non tv] a carta kl entro claude creata tu questa prima versione è molto semplice, mi serve olo a Sl, senza | test valutazioni Creo la cartella sk rttamente. Basti Check cinude fido st in morkspace 18 MSers/rffaete/Desktog/clause vorkspnce/ cluute/* 2/dev mlt || echo \"NO ESISTE settige. 0 json Bash Crete stem directory mite = /0sers/rafaete/Desktop/claute vorkopoe/ claute/skiUs/nea!* (bash conpintes with no tp) Writo Stttond a e vitine notizie sull'intelligenza Sl reata. Puo trovarla i ciao/sil/news-a/SKILL me. 0a ora puo usata digtando /ness-a! © far na ricerca web sulle itime notizie A, presentano in tano con sintesi bre e fonte E + skiLma ud > a > nea > 8 SKILL md > nc New Al > = 9 Processo © Fai una ricerca ved per trovare le notizie più recenti sull'intelligenza artificiale e presentate in Staiano in nodo chiaro e utile. 9 10 #6 Processo 12.1, Us vebSeareh con query recenti, per esenpio: 13 || — ‘*intettigenza artificiote ness oggi 025\" 38° 2, Fab 2-3 ricerche per coprire sia fonti italiane che internazionali. 173. Raccogli le notizie più rilevanti & recenti (ultimi 7 giorni preferibitnente) 39° #0 Formato di risposta 21° Presento 1 risultati così: 2A 90 Ultime neve soML'AL 26. seltitoto notiziale» 27. 2-3 righe di sintesi in italiano! 28° Fonte: [none fonte] — [data se disponibile) 32 seftitolo notiziale» 33. 2-3 righe di sintesi in italiano] BA Fonte [none fonte] — [data se disponibile) do saicerea effettuata Il (data odiernale CISS - Dal priorità a notizie degli ultini giorni, non vecchie di mesi \" mnelgi 5-0 notizie, non di più = se trovi sia notizie italiano che internazioneli, niscetate \" iraguci £ titoli in Italiano se sono in inglese — Sintetizza in nodo semplice, evita gergo tecnico inutile 7 se una notizia è particolarmente rilevante (es. lancio di un nuovo modello Iaportante), evidenziola per prima in ia. Colep Spose. UTRE",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 540.2000122070312,
+          "end": 541.2000122070312,
+          "text": "Quindi non è."
+        },
+        {
+          "start": 541.2000122070312,
+          "end": 542.2000122070312,
+          "text": "Intelligenza artificiale."
+        },
+        {
+          "start": 542.2000122070312,
+          "end": 543.2000122070312,
+          "text": "News."
+        },
+        {
+          "start": 543.2000122070312,
+          "end": 544.2000122070312,
+          "text": "2025."
+        },
+        {
+          "start": 544.2000122070312,
+          "end": 545.2000122070312,
+          "text": "Ma scrivo."
+        },
+        {
+          "start": 545.2000122070312,
+          "end": 546.2000122070312,
+          "text": "Intelligenza artificiale."
+        },
+        {
+          "start": 546.2000122070312,
+          "end": 547.2000122070312,
+          "text": "News."
+        },
+        {
+          "start": 547.2000122070312,
+          "end": 548.2000122070312,
+          "text": "Anzi."
+        },
+        {
+          "start": 548.2000122070312,
+          "end": 549.2000122070312,
+          "text": "Facciamo così."
+        },
+        {
+          "start": 549.2000122070312,
+          "end": 550.2000122070312,
+          "text": "Novità."
+        },
+        {
+          "start": 550.2000122070312,
+          "end": 551.2000122070312,
+          "text": "Fai due."
+        },
+        {
+          "start": 551.2000122070312,
+          "end": 552.2000122070312,
+          "text": "Tre ricerche."
+        },
+        {
+          "start": 552.2000122070312,
+          "end": 553.2000122070312,
+          "text": "Per coprire."
+        },
+        {
+          "start": 553.2000122070312,
+          "end": 554.2000122070312,
+          "text": "Sia fonti italiane."
+        },
+        {
+          "start": 554.2000122070312,
+          "end": 555.2000122070312,
+          "text": "Che internazionali."
+        },
+        {
+          "start": 555.2000122070312,
+          "end": 556.2000122070312,
+          "text": "Raccoglie notizie più rilevanti."
+        },
+        {
+          "start": 556.2000122070312,
+          "end": 557.2000122070312,
+          "text": "E recenti."
+        },
+        {
+          "start": 557.2000122070312,
+          "end": 558.2000122070312,
+          "text": "Ultimi sette giorni."
+        },
+        {
+          "start": 558.2000122070312,
+          "end": 559.2000122070312,
+          "text": "Preferibilmente."
+        },
+        {
+          "start": 559.2000122070312,
+          "end": 560.2000122070312,
+          "text": "Formato di risposta."
+        },
+        {
+          "start": 561.2000122070312,
+          "end": 562.2000122070312,
+          "text": "Poi."
+        },
+        {
+          "start": 562.2000122070312,
+          "end": 563.2000122070312,
+          "text": "Titolo della notizia."
+        },
+        {
+          "start": 563.2000122070312,
+          "end": 564.2000122070312,
+          "text": "Due."
+        },
+        {
+          "start": 564.2000122070312,
+          "end": 565.2000122070312,
+          "text": "Tre righe di sintesi in italiano."
+        },
+        {
+          "start": 565.2000122070312,
+          "end": 566.2000122070312,
+          "text": "E la fonte."
+        },
+        {
+          "start": 566.2000122070312,
+          "end": 567.2000122070312,
+          "text": "Eccetera."
+        },
+        {
+          "start": 567.2000122070312,
+          "end": 568.2000122070312,
+          "text": "Eccetera."
+        },
+        {
+          "start": 568.2000122070312,
+          "end": 569.2000122070312,
+          "text": "Poi."
+        },
+        {
+          "start": 569.2000122070312,
+          "end": 570.2000122070312,
+          "text": "Note."
+        },
+        {
+          "start": 570.2000122070312,
+          "end": 571.2000122070312,
+          "text": "Dai priorità a notizie degli ultimi giorni."
+        },
+        {
+          "start": 571.2000122070312,
+          "end": 572.2000122070312,
+          "text": "Non vecchie di mesi."
+        },
+        {
+          "start": 572.2000122070312,
+          "end": 573.2000122070312,
+          "text": "Includi cinque."
+        },
+        {
+          "start": 573.2000122070312,
+          "end": 574.2000122070312,
+          "text": "Otto notizie."
+        },
+        {
+          "start": 574.2000122070312,
+          "end": 575.2000122070312,
+          "text": "Non di più."
+        },
+        {
+          "start": 575.2000122070312,
+          "end": 576.2000122070312,
+          "text": "Se trovi sia notizie in italiano."
+        },
+        {
+          "start": 576.2000122070312,
+          "end": 577.2000122070312,
+          "text": "Che internazionali."
+        },
+        {
+          "start": 577.2000122070312,
+          "end": 578.2000122070312,
+          "text": "Miscela le."
+        },
+        {
+          "start": 578.2000122070312,
+          "end": 579.2000122070312,
+          "text": "Traduce in italiano."
+        },
+        {
+          "start": 579.2000122070312,
+          "end": 580.2000122070312,
+          "text": "Se solo in inglese."
+        },
+        {
+          "start": 580.2000122070312,
+          "end": 581.2000122070312,
+          "text": "Sintetizza in modo semplice."
+        },
+        {
+          "start": 581.2000122070312,
+          "end": 582.2000122070312,
+          "text": "Se la notizia è particolarmente rilevante."
+        },
+        {
+          "start": 582.2000122070312,
+          "end": 583.2000122070312,
+          "text": "Evidenziala per prima."
+        },
+        {
+          "start": 583.2000122070312,
+          "end": 584.2000122070312,
+          "text": "Se a noi ci piace."
+        },
+        {
+          "start": 584.2000122070312,
+          "end": 585.2000122070312,
+          "text": "Salviamo."
+        },
+        {
+          "start": 585.2000122070312,
+          "end": 586.2000122070312,
+          "text": "E noi abbiamo la nostra prima skill."
+        },
+        {
+          "start": 586.2000122070312,
+          "end": 587.2000122070312,
+          "text": "Questa skill."
+        },
+        {
+          "start": 588.2000122070312,
+          "end": 589.2000122070312,
+          "text": "Quando faccio il comando slash."
+        },
+        {
+          "start": 590.2000122070312,
+          "end": 591.2000122070312,
+          "text": "Adesso."
+        },
+        {
+          "start": 591.2000122070312,
+          "end": 592.2000122070312,
+          "text": "Qua."
+        },
+        {
+          "start": 592.2000122070312,
+          "end": 593.2000122070312,
+          "text": "Non mi compare."
+        },
+        {
+          "start": 593.2000122070312,
+          "end": 594.2000122070312,
+          "text": "Perché devo riavviare cloud code."
+        },
+        {
+          "start": 594.2000122070312,
+          "end": 595.2000122070312,
+          "text": "Vedete qua."
+        },
+        {
+          "start": 595.2000122070312,
+          "end": 596.2000122070312,
+          "text": "Quando faccio slash."
+        },
+        {
+          "start": 596.2000122070312,
+          "end": 597.2000122070312,
+          "text": "Posso chiamare le skill."
+        },
+        {
+          "start": 597.2000122070312,
+          "end": 598.2000122070312,
+          "text": "Adesso."
+        },
+        {
+          "start": 598.2000122070312,
+          "end": 599.2000122070312,
+          "text": "Se io."
+        },
+        {
+          "start": 599.2000122070312,
+          "end": 600.2000122070312,
+          "text": "Mi apro una nuova chat."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 10,
+        "time": 600.0,
+        "timestamp": "00:10:00",
+        "image": "frame_0010.jpg",
+        "reason": "periodic",
+        "ocr_text": "EI Ercalra iabonrd + D00 cine gare cioe womsnce | (è Pa 3 quali sto ha istat. x > laude è sqm (0 settigs.ocatison > archivio > cllenti 3 cone ne ni > tei de EE akioreator suit Quali tha installato al momento creami una semplice sil che mi fa una ricerca e mid e time news sul'inelignza artificiale 1a sil si deve chiamare “news-a creaa i Jcale dentro questo workspace, se non ti la cartella sklls dentro. cloud creo tu Creo ta carte 01 i rettamente. nni Check ciau folder set workapace 18 “MUsara/ratfete/Desktop/clause voriopac/ claute/* 2/dee/mll || cero \"NO ESISTE Bandi Greta sl a dici ne MUsars/rafste/Desktop/clause vorkspae/ claite/skits/neo0* (hash complete with no tt) rito SciLion scriptHon: Cerca e mostra le ultine notizie sull'intelligenza artificiale. Usa questa shiUI quando l'utente vuole sapere le news recenti SuLL'AT, aggiornamenti sul mondo dell'intet genza Skilireaa. Puo trovarla i cia) sil /news-a/SKILL mò. Da ora puo usai digitando /iess-èL e fard una ricerca web sulle ultimo notizie A, presentano i iano con siti brevi font ®© 8 +0 Omm Tana",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 600.2000122070312,
+          "end": 601.2000122070312,
+          "text": "Di cloud code."
+        },
+        {
+          "start": 601.2000122070312,
+          "end": 602.2000122070312,
+          "text": "Perché in questa."
+        },
+        {
+          "start": 602.2000122070312,
+          "end": 603.2000122070312,
+          "text": "Diciamo."
+        },
+        {
+          "start": 603.2000122070312,
+          "end": 604.2000122070312,
+          "text": "Va riavviato."
+        },
+        {
+          "start": 604.2000122070312,
+          "end": 605.2000122070312,
+          "text": "Quindi."
+        },
+        {
+          "start": 605.2000122070312,
+          "end": 606.2000122070312,
+          "text": "Chiudiamo questa qui."
+        },
+        {
+          "start": 606.2000122070312,
+          "end": 607.2000122070312,
+          "text": "In una nuova chat."
+        },
+        {
+          "start": 607.2000122070312,
+          "end": 608.2000122070312,
+          "text": "Faccio slash."
+        },
+        {
+          "start": 608.2000122070312,
+          "end": 609.2000122070312,
+          "text": "E scrivo news."
+        },
+        {
+          "start": 609.2000122070312,
+          "end": 610.2000122070312,
+          "text": "E hai."
+        },
+        {
+          "start": 610.2000122070312,
+          "end": 611.2000122070312,
+          "text": "Eccola qua."
+        },
+        {
+          "start": 611.2000122070312,
+          "end": 612.2000122070312,
+          "text": "Abbiamo la skill news e hai."
+        },
+        {
+          "start": 612.2000122070312,
+          "end": 613.2000122070312,
+          "text": "Quindi in qualsiasi momento."
+        },
+        {
+          "start": 613.2000122070312,
+          "end": 614.2000122070312,
+          "text": "Apro cloud."
+        },
+        {
+          "start": 614.2000122070312,
+          "end": 615.2000122070312,
+          "text": "Scrivo news e hai."
+        },
+        {
+          "start": 615.2000122070312,
+          "end": 616.2000122070312,
+          "text": "Do semplicemente invio."
+        },
+        {
+          "start": 616.2000122070312,
+          "end": 617.2000122070312,
+          "text": "Capisce."
+        },
+        {
+          "start": 617.2000122070312,
+          "end": 618.2000122070312,
+          "text": "Che questa è una skill."
+        },
+        {
+          "start": 618.2000122070312,
+          "end": 619.2000122070312,
+          "text": "Perché si chiamano così le skill."
+        },
+        {
+          "start": 619.2000122070312,
+          "end": 620.2000122070312,
+          "text": "Facendo."
+        },
+        {
+          "start": 620.2000122070312,
+          "end": 621.2000122070312,
+          "text": "Slash."
+        },
+        {
+          "start": 621.2000122070312,
+          "end": 622.2000122070312,
+          "text": "E il nome della skill."
+        },
+        {
+          "start": 622.2000122070312,
+          "end": 623.2000122070312,
+          "text": "Sta facendo partire."
+        },
+        {
+          "start": 623.2000122070312,
+          "end": 624.2000122070312,
+          "text": "La."
+        },
+        {
+          "start": 624.2000122070312,
+          "end": 625.2000122070312,
+          "text": "La."
+        },
+        {
+          "start": 625.2000122070312,
+          "end": 626.2000122070312,
+          "text": "La skill."
+        },
+        {
+          "start": 626.2000122070312,
+          "end": 627.2000122070312,
+          "text": "Quindi la skill."
+        },
+        {
+          "start": 627.2000122070312,
+          "end": 628.2000122070312,
+          "text": "Cosa deve fare."
+        },
+        {
+          "start": 628.2000122070312,
+          "end": 629.2000122070312,
+          "text": "La ricerca."
+        },
+        {
+          "start": 629.2000122070312,
+          "end": 630.2000122070312,
+          "text": "Vedete."
+        },
+        {
+          "start": 630.2000122070312,
+          "end": 631.2000122070312,
+          "text": "Ricordatevi proprio il processo."
+        },
+        {
+          "start": 631.2000122070312,
+          "end": 632.2000122070312,
+          "text": "Che abbiamo descritto."
+        },
+        {
+          "start": 632.2000122070312,
+          "end": 633.2000122070312,
+          "text": "Fai la ricerca."
+        },
+        {
+          "start": 633.2000122070312,
+          "end": 634.2000122070312,
+          "text": "Raccogli le notizie più rilevanti."
+        },
+        {
+          "start": 634.2000122070312,
+          "end": 635.2000122070312,
+          "text": "Degli ultimi sette giorni."
+        },
+        {
+          "start": 635.2000122070312,
+          "end": 636.2000122070312,
+          "text": "Formattali in questo modo."
+        },
+        {
+          "start": 636.2000122070312,
+          "end": 637.2000122070312,
+          "text": "Quindi mettimi."
+        },
+        {
+          "start": 637.2000122070312,
+          "end": 638.2000122070312,
+          "text": "Ultime news."
+        },
+        {
+          "start": 638.2000122070312,
+          "end": 639.2000122070312,
+          "text": "Poi titolo notizia."
+        },
+        {
+          "start": 639.2000122070312,
+          "end": 640.2000122070312,
+          "text": "Riassunto fonte."
+        },
+        {
+          "start": 640.2000122070312,
+          "end": 641.2000122070312,
+          "text": "Titolo notizia."
+        },
+        {
+          "start": 641.2000122070312,
+          "end": 642.2000122070312,
+          "text": "Riassunto fonte."
+        },
+        {
+          "start": 642.2000122070312,
+          "end": 643.2000122070312,
+          "text": "E così via."
+        },
+        {
+          "start": 643.2000122070312,
+          "end": 644.2000122070312,
+          "text": "Ora."
+        },
+        {
+          "start": 644.2000122070312,
+          "end": 645.2000122070312,
+          "text": "Noi quello che ci aspettiamo."
+        },
+        {
+          "start": 645.2000122070312,
+          "end": 646.2000122070312,
+          "text": "Sta già succedendo."
+        },
+        {
+          "start": 646.2000122070312,
+          "end": 647.2000122070312,
+          "text": "Senza che ve lo descrivo."
+        },
+        {
+          "start": 647.2000122070312,
+          "end": 648.2000122070312,
+          "text": "Perché adesso lo vedete."
+        },
+        {
+          "start": 648.2000122070312,
+          "end": 652.2000122070312,
+          "text": "Ovviamente nel momento in cui sto registrando."
+        },
+        {
+          "start": 652.2000122070312,
+          "end": 654.7999877929688,
+          "text": "E poi magari voi quando le vedete queste news sono superate."
+        },
+        {
+          "start": 654.7999877929688,
+          "end": 655.7999877929688,
+          "text": "Però diciamo."
+        },
+        {
+          "start": 655.7999877929688,
+          "end": 657.2000122070312,
+          "text": "Il senso è esattamente questo."
+        },
+        {
+          "start": 657.2000122070312,
+          "end": 660.5999755859375,
+          "text": "Noi abbiamo ufficialmente fatto la nostra prima skill."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 11,
+        "time": 660.0,
+        "timestamp": "00:11:00",
+        "image": "frame_0011.jpg",
+        "reason": "periodic",
+        "ocr_text": "@ cuorromnee V laude è SKtL md (0 settings ocatjson > elenti > template Bò + ciuvoemd * È * Ultime news sull'AI laude Opus 47 in arrivo questa settimana Antivoie si prepara a lanciare Claude Opus 47 prossimo modello lagshp, insieme a Un nuovo tol pr la creazione di st eb e presentazioni. La ntza è emersa 14 apre dopo un ek. OpanA o Anthopi stanno ‘ntrambe sceglenco rilasci controllati per! modeli più potenti Fonte: Oataconom IT 5 apre 2026 pena lancia OPT-5.4-Cyber per la cybersicurezza Opendi ha riascito GPT-54-Cyber, na versione speciazata in cybersicurezza difensiva, distribuita con acceso limitato professionisti verificati. La mossa aria pochi giorni dopo modello \"ithos* i Anto, ‘segnalando chel sicurezza informatica è diventata nuovo fonte della compettzione ts bg ell’ Fonte: CyberSecitaia = 1 apr 2028 Google svela Gemini Robotics ER 1.6 Google Deepwind ha presentato un nuovo modello che dta robot di percezione spaziale avanzata e maggiore autonomia. sitema è pensato per ambienti industrie Somestic, 0 segna un passo imporianto verso FA Fonte: Matrice Digitale — 15 arl 2026 D Stanford Al index 2026: l'A avanza, la governance no Aitapporto ennio di Stanford mostra che i modeli A continuano a migliorare nonostanto le previsioni dl abetamento. Antvopie quia o classifiche di performance, seguita da xl, Googl a Operai tema centrale: P'tligenza article core più veloce dll capacità de govermi di regolari. Fonte: (EE Spectrum — apre 2026. Solo 20% delle aziende cattura ll 78% dei guadagni economici dell'A ‘Secondo PuC, | banii economici dell’ sono concentrati in un numero ristretto di aziende lexder che puntano sula crescita, non ol sula produttività. opta chi dott I srismente e ch ancora indietro si sta atargando rapidamente, Fonte: Pa — apre 2026 Nuovo approccio ridi consumo energetico dell'A i 100 vote data centr Al consumano oggi 2.6 gigavatt vello mondiale. Ricercatori hanno però sviluppato un metodo che combina reti neurali on ragionamento simbolo (sie a quell umano, riducano rasticara fabbisogno energetico migliorando anche a proisicne. Fonte: SclenceDady — 5 aprile 2028. Enchantin.",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 660.5999755859375,
+          "end": 662.239990234375,
+          "text": "Ci abbiamo messo dieci secondi."
+        },
+        {
+          "start": 662.239990234375,
+          "end": 665.1599731445312,
+          "text": "Avete l'idea in testa."
+        },
+        {
+          "start": 665.1599731445312,
+          "end": 667.9600219726562,
+          "text": "La trasformate in una skill."
+        },
+        {
+          "start": 667.9600219726562,
+          "end": 670.3599853515625,
+          "text": "La skill può essere complessa quanto volete voi."
+        },
+        {
+          "start": 670.3599853515625,
+          "end": 674.52001953125,
+          "text": "I più sbanettoni possono andare qua nella documentazione e possono vedere che le skill"
+        },
+        {
+          "start": 674.52001953125,
+          "end": 675.52001953125,
+          "text": "hanno i parametri."
+        },
+        {
+          "start": 675.52001953125,
+          "end": 676.52001953125,
+          "text": "Per esempio."
+        },
+        {
+          "start": 676.52001953125,
+          "end": 680.1199951171875,
+          "text": "Le skill possono avere dei funzionamenti particolari."
+        },
+        {
+          "start": 680.1199951171875,
+          "end": 682.1199951171875,
+          "text": "Possono essere vietate in alcuni casi."
+        },
+        {
+          "start": 682.1199951171875,
+          "end": 684.0,
+          "text": "Utilizzate solo con un certo formato."
+        },
+        {
+          "start": 684.0,
+          "end": 686.0,
+          "text": "Noi non entreremo in questo livello di dettaglio."
+        },
+        {
+          "start": 686.0,
+          "end": 688.1599731445312,
+          "text": "Ma se qualcuno di voi è un po' più sbanettone."
+        },
+        {
+          "start": 688.1599731445312,
+          "end": 690.8400268554688,
+          "text": "Poi quella roba veramente ve le fa personalizzare tantissimo."
+        },
+        {
+          "start": 690.8400268554688,
+          "end": 692.4400024414062,
+          "text": "Ma diciamo che vogliamo migliorarle."
+        },
+        {
+          "start": 692.4400024414062,
+          "end": 694.4400024414062,
+          "text": "Questa skill che abbiamo appena creato."
+        },
+        {
+          "start": 694.4400024414062,
+          "end": 695.4400024414062,
+          "text": "Facciamogli qualche miglioria."
+        },
+        {
+          "start": 695.4400024414062,
+          "end": 696.4400024414062,
+          "text": "Facciamo un secondo passaggio."
+        },
+        {
+          "start": 696.4400024414062,
+          "end": 697.4400024414062,
+          "text": "Gli diciamo."
+        },
+        {
+          "start": 697.4400024414062,
+          "end": 698.4400024414062,
+          "text": "Migliorami."
+        },
+        {
+          "start": 698.4400024414062,
+          "end": 699.4400024414062,
+          "text": "La skill."
+        },
+        {
+          "start": 699.4400024414062,
+          "end": 701.719970703125,
+          "text": "E qua ci mettiamo il nome."
+        },
+        {
+          "start": 701.719970703125,
+          "end": 702.719970703125,
+          "text": "Come si chiama?"
+        },
+        {
+          "start": 702.719970703125,
+          "end": 703.719970703125,
+          "text": "News."
+        },
+        {
+          "start": 704.719970703125,
+          "end": 706.7999877929688,
+          "text": "Facendo queste modifiche."
+        },
+        {
+          "start": 706.7999877929688,
+          "end": 708.7999877929688,
+          "text": "E qua gli dico."
+        },
+        {
+          "start": 708.7999877929688,
+          "end": 712.760009765625,
+          "text": "Cerca solo fonti internazionali."
+        },
+        {
+          "start": 712.760009765625,
+          "end": 713.760009765625,
+          "text": "Internazionali."
+        },
+        {
+          "start": 713.760009765625,
+          "end": 716.6400146484375,
+          "text": "Niente fonti italiane."
+        },
+        {
+          "start": 716.6400146484375,
+          "end": 718.760009765625,
+          "text": "Qua gli dico."
+        },
+        {
+          "start": 718.760009765625,
+          "end": 722.1599731445312,
+          "text": "Mostrami a schermo solo 3 news."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 12,
+        "time": 720.0,
+        "timestamp": "00:12:00",
+        "image": "frame_0012.jpg",
+        "reason": "periodic",
+        "ocr_text": "EB Encacia istobcri cioe vomsnce (a 9 CD Mi pnemsi x V claude + SqtLma (0 settingsiocatison > archivio entrambe scegiando rase controati pr | model più potenti > centi Fonte: Dataconomy IT 6 arie 2026 > template + CLAUDE Md ev VITESI pena lancia OPT-5.4-Cyber perla cyborsicurezza pena ha rascito GPT-54-Cybe, ua versione specitzata n cybersicuezzadieniva, distribuita con acceso limitato professionisti vrifati. La mossa aria pochi gen dopo modelo \"Myhos* i nto, segnalando che la sicurezza Informatica è diventata l nuowo fonte dll competzone ta big ell’ Fonte: CyberSsetalia — 15 ep 2028 ‘Google svela Gemini Robotics ER 1.6. Google Deepiind ha presentato un nuovo modello che data robot i percezione spaziale avanza e maggiore autonomia. sistema è pensato pa ambienti incustriai e Some, segna un paso importante verso TA ‘nei mongo fisico. Fonte: Matrice Digitale — 15 arl 2026 Stanford Al index 2026; 'Al avanza, la governance no rapporto annual di Stanford mostra che | modali A coninano a migliorate nonostante lo previsioni di rabentamento Anthvpie quia lo ciasifich di performance, seguita da xl, Googl 0 Opel tema centrale: intligenza ariciale core pù veloce dll capacità de governi di regolari. Fonte (EE Spectrum — apre 2028, Solo 20% dll aziende cattura ll 75% di guadagni economici dell'A ‘Secondo PUC, | benlici economici el’ sono concentrati in un numero ristretto d aziende leader che puntano sula crescita, nn solo sula produttivi. gap tra hi adotta Al seriamente atargando rapidamente. Fonte: PC — pre 2028 Nuovo approccio riduce consumo energetico dell'A! di 00 volte ata centr AI consumano ogg 296 gigawatt Ivell mondiale. Ricercato hanno però sviluppato un metodo che combina rei neurali on ragionamento simbolico sile a quell umano, riducendo drasticamente ll fabbisogno energetico migliorando anche la precisione. Fonte: SclenceDaly — 5 apri 2026) ‘TSMC: profitti +58% grzi lla domanda di chip AI gigante taiwanese di semiconduttori ha battute timo del primo trimestre 2028, cn chip avanzati che rappresentano ormai 76% del ica. a corsa allardware AI non accenna a rallentare. Fonte: CBC — 16 apri 2026 Ricerca etetusa 17 pri 2026. giri la sl ‘news -a* facendo queste mogfich: — cara sol fon internazionali nente fot alano “mostrami a sche + Osa",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 722.1599731445312,
+          "end": 725.0,
+          "text": "E poi cos'altro gli potrei dire?"
+        },
+        {
+          "start": 725.0,
+          "end": 727.47998046875,
+          "text": "Il riassunto in italiano già ce l'ha fatto."
+        },
+        {
+          "start": 727.47998046875,
+          "end": 729.0399780273438,
+          "text": "La fonte già me l'ha messa."
+        },
+        {
+          "start": 729.0399780273438,
+          "end": 731.0800170898438,
+          "text": "Quindi già mi piace come cosa."
+        },
+        {
+          "start": 731.4000244140625,
+          "end": 734.0,
+          "text": "Vabbè lasciamogli questa qua."
+        },
+        {
+          "start": 734.0,
+          "end": 735.0,
+          "text": "Solo fonti internazionali."
+        },
+        {
+          "start": 735.0,
+          "end": 736.0,
+          "text": "Niente fonti internazionali."
+        },
+        {
+          "start": 736.0,
+          "end": 737.0,
+          "text": "Mostrami a schermo solo 3 news."
+        },
+        {
+          "start": 737.0,
+          "end": 738.0,
+          "text": "Vai."
+        },
+        {
+          "start": 738.0,
+          "end": 739.719970703125,
+          "text": "Diamogli invio."
+        },
+        {
+          "start": 739.719970703125,
+          "end": 740.719970703125,
+          "text": "Adesso."
+        },
+        {
+          "start": 740.719970703125,
+          "end": 743.719970703125,
+          "text": "Utilizzando sempre Cloud Code."
+        },
+        {
+          "start": 743.719970703125,
+          "end": 747.760009765625,
+          "text": "Quindi non sono andato io manualmente nel file a fare le modifiche."
+        },
+        {
+          "start": 747.760009765625,
+          "end": 748.760009765625,
+          "text": "Ho descritto."
+        },
+        {
+          "start": 748.760009765625,
+          "end": 749.760009765625,
+          "text": "Quindi ho immaginato."
+        },
+        {
+          "start": 749.760009765625,
+          "end": 750.760009765625,
+          "text": "Avevo in testa l'idea giusta."
+        },
+        {
+          "start": 750.760009765625,
+          "end": 751.760009765625,
+          "text": "Ho immaginato quello che voglio."
+        },
+        {
+          "start": 751.760009765625,
+          "end": 752.760009765625,
+          "text": "Glielo descrivo e lui lo fa."
+        },
+        {
+          "start": 752.760009765625,
+          "end": 753.760009765625,
+          "text": "Adesso mi dice."
+        },
+        {
+          "start": 753.760009765625,
+          "end": 754.760009765625,
+          "text": "Guarda."
+        },
+        {
+          "start": 754.760009765625,
+          "end": 755.760009765625,
+          "text": "Sto per fare queste modifiche."
+        },
+        {
+          "start": 755.760009765625,
+          "end": 756.760009765625,
+          "text": "Qua vi fa vedere anche come cambia il testo."
+        },
+        {
+          "start": 756.760009765625,
+          "end": 757.760009765625,
+          "text": "Ok?"
+        },
+        {
+          "start": 757.760009765625,
+          "end": 758.760009765625,
+          "text": "Questa cosa che è molto interessante."
+        },
+        {
+          "start": 758.760009765625,
+          "end": 760.52001953125,
+          "text": "Qua vi fa vedere anche come cambia il testo."
+        },
+        {
+          "start": 760.52001953125,
+          "end": 761.52001953125,
+          "text": "Ok?"
+        },
+        {
+          "start": 761.52001953125,
+          "end": 762.52001953125,
+          "text": "Questa cosa che vedete un po' strana qua."
+        },
+        {
+          "start": 762.52001953125,
+          "end": 763.52001953125,
+          "text": "Se non siete abituati."
+        },
+        {
+          "start": 763.52001953125,
+          "end": 766.0,
+          "text": "E' semplicemente che vi fa vedere la differenza tra prima e dopo."
+        },
+        {
+          "start": 766.0,
+          "end": 767.0,
+          "text": "Ok?"
+        },
+        {
+          "start": 767.0,
+          "end": 768.0,
+          "text": "Lo diciamo."
+        },
+        {
+          "start": 768.0,
+          "end": 769.0,
+          "text": "Gli diamo di sì."
+        },
+        {
+          "start": 769.0,
+          "end": 772.5999755859375,
+          "text": "Quindi gli confermiamo che può fare questa modifica."
+        },
+        {
+          "start": 772.5999755859375,
+          "end": 776.2000122070312,
+          "text": "Aspettiamo qualche secondo che finisca di scrivere."
+        },
+        {
+          "start": 776.2000122070312,
+          "end": 778.52001953125,
+          "text": "Qua vediamo la vecchia versione e la nuova versione."
+        },
+        {
+          "start": 778.52001953125,
+          "end": 779.52001953125,
+          "text": "Ok?"
+        },
+        {
+          "start": 779.52001953125,
+          "end": 781.760009765625,
+          "text": "Infatti vedete la vecchia versione diceva."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 13,
+        "time": 780.0,
+        "timestamp": "00:13:00",
+        "image": "frame_0013.jpg",
+        "reason": "periodic",
+        "ocr_text": "S ciaudo gle new + Sqttima (0 settima .ocatjson > archivio > clnti > template + cuAUDEmA © to] x Qodo + % Irons x nona girai asl ‘new facendo queste modifiche — cara sol fon intorazionl pento fot talane — mostrami schermo solo 3 new ® Logo ife dell si. è Feng Stio EEE EJ ein per: esempio? 08, Fa 25 ricerche per coprire sia font tane che internazionali. sa arch fi Aron ENO RICE MG PRI naccogi le notizie più ritevnti e recenti (uttini 7 gii preeribitente) 3. Rccogli e notizie più rilevanti è recenti (tini 7 gioni proferibitante). è Eat Sci dai priorità a notizie degli ultini giorni, non vecchie di sest — dai priorità a notizie degli ultini giorni, nen vecchie di nest ca notizie, non di più «fi notizie, non di più di: Internazionali; miscelato sd interazioni 7 indu tito in italiano se sono in lngtese È fradoei 1 titoti in Itatino se sono i ingese. % ‘Fato. Le modifiche apportate a SKILL 1 olo font internazionali — i query ra sono i Ingiese e puntano a testate come MT Technology Review EEE, Natur, Wired, TeehCrunch 2 Solo 3 notizie — ridoto da 5-8\" a esattamente 3.",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 781.760009765625,
+          "end": 783.6799926757812,
+          "text": "Includi 5-8 notizie."
+        },
+        {
+          "start": 783.6799926757812,
+          "end": 784.6799926757812,
+          "text": "Non di più."
+        },
+        {
+          "start": 784.6799926757812,
+          "end": 785.6799926757812,
+          "text": "La nuova versione dice."
+        },
+        {
+          "start": 785.6799926757812,
+          "end": 786.6799926757812,
+          "text": "Mostra esattamente 3 notizie."
+        },
+        {
+          "start": 786.6799926757812,
+          "end": 787.6799926757812,
+          "text": "Non di più."
+        },
+        {
+          "start": 787.6799926757812,
+          "end": 789.6799926757812,
+          "text": "La vecchia versione diceva."
+        },
+        {
+          "start": 789.6799926757812,
+          "end": 792.3200073242188,
+          "text": "Se trovi sia notizie italiane che internazionali miscelale."
+        },
+        {
+          "start": 792.3200073242188,
+          "end": 793.3200073242188,
+          "text": "La nuova dice."
+        },
+        {
+          "start": 793.3200073242188,
+          "end": 794.3200073242188,
+          "text": "Usa solo fonti internazionali."
+        },
+        {
+          "start": 794.3200073242188,
+          "end": 795.3200073242188,
+          "text": "No siti italiani."
+        },
+        {
+          "start": 795.3200073242188,
+          "end": 796.3200073242188,
+          "text": "Ok?"
+        },
+        {
+          "start": 796.3200073242188,
+          "end": 797.3200073242188,
+          "text": "Quindi per esempio ce la riapriamo."
+        },
+        {
+          "start": 797.3200073242188,
+          "end": 798.760009765625,
+          "text": "E vediamo com'è cambiato."
+        },
+        {
+          "start": 798.760009765625,
+          "end": 799.760009765625,
+          "text": "Tattattattattatà."
+        },
+        {
+          "start": 799.760009765625,
+          "end": 803.3599853515625,
+          "text": "Innanzitutto è cambiato che le ricerche me le fa in inglese."
+        },
+        {
+          "start": 803.3599853515625,
+          "end": 804.3599853515625,
+          "text": "Vedete?"
+        },
+        {
+          "start": 804.3599853515625,
+          "end": 806.239990234375,
+          "text": "Prima invece ce l'ha scritto in italiano."
+        },
+        {
+          "start": 806.239990234375,
+          "end": 809.719970703125,
+          "text": "Poi ci ha messo mese corrente, anno corrente."
+        },
+        {
+          "start": 809.719970703125,
+          "end": 810.7999877929688,
+          "text": "Per renderlo ancora più attuale."
+        },
+        {
+          "start": 810.7999877929688,
+          "end": 814.47998046875,
+          "text": "Ha messo dentro le fonti, alcune fonti di esempio."
+        },
+        {
+          "start": 814.47998046875,
+          "end": 819.0800170898438,
+          "text": "Meet, Nature, Wild, TechCrunch, un po' di fonti importanti."
+        },
+        {
+          "start": 819.0800170898438,
+          "end": 821.4400024414062,
+          "text": "Ah, potremmo fare questa modifica per esempio a mano."
+        },
+        {
+          "start": 821.4400024414062,
+          "end": 823.3200073242188,
+          "text": "Potremmo dire raccogli le notizie più rilevanti e recenti."
+        },
+        {
+          "start": 823.3200073242188,
+          "end": 824.3200073242188,
+          "text": "Ultimi 7 giorni."
+        },
+        {
+          "start": 824.3200073242188,
+          "end": 825.3200073242188,
+          "text": "Diciamo no."
+        },
+        {
+          "start": 825.3200073242188,
+          "end": 826.3200073242188,
+          "text": "Vogliamo ultimi 3 giorni."
+        },
+        {
+          "start": 826.3200073242188,
+          "end": 828.52001953125,
+          "text": "Le vogliamo super recenti."
+        },
+        {
+          "start": 828.52001953125,
+          "end": 829.52001953125,
+          "text": "Ok?"
+        },
+        {
+          "start": 829.52001953125,
+          "end": 830.52001953125,
+          "text": "Salvo."
+        },
+        {
+          "start": 830.52001953125,
+          "end": 834.9199829101562,
+          "text": "E adesso mi riapre una nuova chat."
+        },
+        {
+          "start": 834.9199829101562,
+          "end": 839.3599853515625,
+          "text": "In qualsiasi momento io posso chiamare la skill, facendo così, avete visto no?"
+        },
+        {
+          "start": 839.3599853515625,
+          "end": 840.3599853515625,
+          "text": "News-AI."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 14,
+        "time": 840.0,
+        "timestamp": "00:14:00",
+        "image": "frame_0014.jpg",
+        "reason": "periodic",
+        "ocr_text": "000 O susevonme V claude [news è SKttma fo U'setngasoaison > enti > contea molto B$ + cuuvemd x 4 Claude Code Type model to pick the right olor the ob Inevsal + Ogm",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 840.3599853515625,
+          "end": 844.7999877929688,
+          "text": "Ma vi ricordate che io posso semplicemente anche descrivere questa cosa?"
+        },
+        {
+          "start": 844.7999877929688,
+          "end": 849.3599853515625,
+          "text": "Quindi dammi le ultime news sull'IA."
+        },
+        {
+          "start": 849.3599853515625,
+          "end": 856.719970703125,
+          "text": "Ho descritto una cosa di cui ho bisogno, lui ha capito che questa cosa è un task associato"
+        },
+        {
+          "start": 856.719970703125,
+          "end": 860.52001953125,
+          "text": "a News-AI e ha fatto partire la skill."
+        },
+        {
+          "start": 860.52001953125,
+          "end": 864.280029296875,
+          "text": "Ora immaginate questa skill per esempio con creami il preventivo."
+        },
+        {
+          "start": 864.280029296875,
+          "end": 868.760009765625,
+          "text": "Io scrivo in chat creami il preventivo per l'azienda Toyota."
+        },
+        {
+          "start": 868.760009765625,
+          "end": 869.760009765625,
+          "text": "Bam, invio."
+        },
+        {
+          "start": 870.1599731445312,
+          "end": 873.7999877929688,
+          "text": "Lui ha capito già che deve andare a chiamare la skill creami il preventivo."
+        },
+        {
+          "start": 873.7999877929688,
+          "end": 878.3200073242188,
+          "text": "Manda la mail di conferma al cliente Raffaele Gaito."
+        },
+        {
+          "start": 878.3200073242188,
+          "end": 881.0399780273438,
+          "text": "Bam, lui trova la skill della mail di conferma e lo fa."
+        },
+        {
+          "start": 881.0399780273438,
+          "end": 882.0399780273438,
+          "text": "E così via."
+        },
+        {
+          "start": 882.0399780273438,
+          "end": 884.0,
+          "text": "Cioè capite la potenza di questa roba qua?"
+        },
+        {
+          "start": 884.0,
+          "end": 889.9199829101562,
+          "text": "Ecco qua, sono 3, sono solo su fondi internazionali, ha fatto le modifiche che volevamo noi."
+        },
+        {
+          "start": 889.9199829101562,
+          "end": 891.6400146484375,
+          "text": "Proviamo a fare un'altra modifica ancora."
+        },
+        {
+          "start": 891.6400146484375,
+          "end": 895.47998046875,
+          "text": "No, la rendiamo ancora un pochino più complessa, poi mi fermo, ne creiamo un'altra da zero."
+        },
+        {
+          "start": 895.47998046875,
+          "end": 897.3599853515625,
+          "text": "Però voglio far vedere come la possiamo fare evolvere."
+        },
+        {
+          "start": 897.3599853515625,
+          "end": 899.3599853515625,
+          "text": "No, migliora."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 15,
+        "time": 900.0,
+        "timestamp": "00:15:00",
+        "image": "frame_0015.jpg",
+        "reason": "periodic",
+        "ocr_text": "(6) < laude [news + Sqttma (0 settmgsocatjson > archivio > elenti > template + CLAVDEmd + E Gt test AI news upat. x Get tatast Al mews updates ri e lt e suli Wal Sesreh rtificiat intel Ligence neue Jprst 2026 ud sent resotta for queyi \"artifici intelligence ne soril 2028\" Lbnksi [(sElet2rOpersecuriby firm sha Dow Dackers are 0619 AL to Breschi neturis = CDS Mesa\", \"ui \"httpa//nai china, con/vL6eo/bersecuity-fira-ohoa-hoc-Mackers-are-asinai-todre We Search AI Latest ns Aprit 2026 ud seed esatto for quer “AI latest ps Apri 2026% Links: [CViE1e\" Sesia Electronics Shovases 2026 Al-Posereg TI Tmovations Ahead af Market Launch t Europea Tech Seminar — Samsung Global Messroca, \"url\": \"https: //nees.sonsung. con/globai Ultime news sull'AI La Cina quasi colma gap con ll USA nel'Al ‘econo nuovo Stafor Al index 2026, pubblicato 16 apr divario di performance tra | modelli americani cinesi è ridotto ol 9 punti Arena l modelo top USA (Cada Opus 45 gi Antirope) super il cinese ‘Dola-Seed 20 di appena l 7%. Un cambio gi scenario rispetto a pochi an a. Fonte: Fortune / Stanford Al Inox — 16 april 2026 ‘OPT-8.4 supera performance umane ne task su desktop modello \"Trnking* di Open ha superato e capacità umana nel benchmark OSrk-Veriad, con Un punteggio del T5. Significa che Al riesce ora completare task complessi su computer melo di un essre umano medi. Fonte devfiokers — Al News Aprl 2026 — ape 2028 Solo 20% delle aziende cattura Il 75% del valore economico dell'A Iirepor aC 2028 mostra chel vantaggio economico dell'A è fortemente concentrate aziende axder usano per crescere, non slo per agiar | cost. CN è nero ischia di estro escluso dala croazi alor. Fonte: PA Peiormance Study 2026 — aprile 2026 cerca affetta 117 apri 2028. migra + Ogm",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 901.0,
+          "end": 906.0,
+          "text": "Facendo le seguenti modifiche."
+        },
+        {
+          "start": 906.0,
+          "end": 913.0,
+          "text": "A sto giro ci mettiamo che voglio l'output."
+        },
+        {
+          "start": 913.0,
+          "end": 921.0,
+          "text": "Non devi mostrarlo a schermo, ma salvarlo in un file che ha questo nome."
+        },
+        {
+          "start": 921.0,
+          "end": 927.0,
+          "text": "Facciamo anno, mese, giorno."
+        },
+        {
+          "start": 927.0,
+          "end": 934.0,
+          "text": "Cosa abbiamo qua? Archivio, clienti, context."
+        },
+        {
+          "start": 934.0,
+          "end": 941.0,
+          "text": "Facciamo così, ci facciamo una cartella news."
+        },
+        {
+          "start": 941.0,
+          "end": 946.0,
+          "text": "Metti l'output."
+        },
+        {
+          "start": 946.0,
+          "end": 951.0,
+          "text": "Anzi facciamo così, la cartella news me la creo prima."
+        },
+        {
+          "start": 951.0,
+          "end": 956.0,
+          "text": "Perchè così siamo sicuri che..."
+        },
+        {
+          "start": 956.0,
+          "end": 961.0,
+          "text": "Aspettate che la sposto fuori."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 16,
+        "time": 960.0,
+        "timestamp": "00:16:00",
+        "image": "frame_0016.jpg",
+        "reason": "periodic",
+        "ocr_text": "Ultime news si",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 961.0,
+          "end": 966.0,
+          "text": "Non dentro clienti, perdonatemi."
+        },
+        {
+          "start": 966.0,
+          "end": 971.0,
+          "text": "Ecco qua, quindi ho la cartella news."
+        },
+        {
+          "start": 971.0,
+          "end": 976.0,
+          "text": "Metti l'output nella cartella news."
+        },
+        {
+          "start": 976.0,
+          "end": 982.0,
+          "text": "Inizia a diventare interessante perchè ricordatevi che siccome Cloud lavora tutto in locale,"
+        },
+        {
+          "start": 982.0,
+          "end": 985.0,
+          "text": "più roba noi abbiamo nei file locali, meglio è."
+        },
+        {
+          "start": 985.0,
+          "end": 988.0,
+          "text": "Non ha senso avere l'output nelle chat, perchè le perdiamo."
+        },
+        {
+          "start": 988.0,
+          "end": 996.0,
+          "text": "Le chat non sono più importanti come lo erano quando venivamo da GPT, Gemini, Grok, da altri strumenti."
+        },
+        {
+          "start": 996.0,
+          "end": 1002.0,
+          "text": "Adesso è meglio avere i file e io mi posso salvare tutti i giorni le news che ci sono sulle AI."
+        },
+        {
+          "start": 1002.0,
+          "end": 1008.0,
+          "text": "Immaginate dopo un anno, questi file possono diventare un archivio con il quale io poi lancio un altro comando e faccio un'altra roba."
+        },
+        {
+          "start": 1008.0,
+          "end": 1013.0,
+          "text": "Quindi accumulare questa roba va a far crescere la nostra knowledge base."
+        },
+        {
+          "start": 1013.0,
+          "end": 1018.0,
+          "text": "Questo è fondamentale, ricordate, stiamo lavorando sempre su questa roba di avere una knowledge base sempre più completa."
+        },
+        {
+          "start": 1018.0,
+          "end": 1023.0,
+          "text": "Possono essere le news, ma possono essere andamenti di dati in borsa, se vi occupate di quello."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 17,
+        "time": 1020.0,
+        "timestamp": "00:17:00",
+        "image": "frame_0017.jpg",
+        "reason": "periodic",
+        "ocr_text": "O) (0) # SKiLImo (0 settings .ocatjson lenti template CLAUDE ma + E Gt itest Al news upaat. x Get tatast Ales updatos armi e lt eve uti ue sese esatta for queryi \"artificio intelipence nes sorit 2028\" Links: [SEME POpersecoity Fira shoe how Rockers are 519 AL to bresch netorks = CIS News\", turi\": \"https//nachsnea, con/viseocaersecuity-fira-inov-hnMacarstre Mel Search AT Latest osa Aprit 2826 ue send results for query \"AL latest evo Apri 2026 Links: [(titte\":\"Samng Electronics Showcases 2026 l-Poversd TV Imovations Abesd of Market Launch at Europesn Tek Seminar — Santung Global Moaroon,\"url* Ultime news sull'AI La Cina quasi colma il gap con gli USA nell'Al ‘econo uovo Stanford AI Index 2026, pubbleatol 6 spl, varo di performance tra | modelli americani cinesi sl ridotto ol 39 punti ren modello top USA (Cud Opus 4 i Anthope) super cinese [Doia-Seed 20 di appena 17%. Un cambio dl scenario rispetto a poch nn fa. Fonte Fortune / Stato Al Inca — 16 aprile 2026 ‘OPT-S.4 supera i performance umano ne task su desktop modello \"Trnking* i Open ha superato e capacità umane nel benchmark OSWerk-Veried, con un punteggio del 75%. Sinica chel riesce ora completare task complessi su computer meglio di un essre umano medio. Fonte: dvflokrs — I News Api 2026 — aprle 2028 Solo 20% delle aziende cattura | 75% del valore economico dll’ Uiroport PC 2028 mostra chel vantaggio economico dell'A è fortemente concentrato: le aziende leader usano A er crescera, non sl pa age cost. hè Indietro rischia i estro escluso dala creazione di salore. Fonte: PC Al Performance Study 2026 — pre 2026 Ricerca etetuta 17 apri 2026. gira a sl ‘new -a* facenco e seguenti motfch: — output non ded mostra schermo ma savrio in un le che ha questo nome Y\\YYYMMDD mea loutpur nel carte ‘ns +9 Denim VEST",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1023.0,
+          "end": 1031.0,
+          "text": "Possono essere, non lo so, io per esempio ho tutte le trascrizioni delle interviste che faccio nel podcast."
+        },
+        {
+          "start": 1031.0,
+          "end": 1035.0,
+          "text": "Voi potreste avere le trascrizioni degli incontri che fate con i vostri clienti."
+        },
+        {
+          "start": 1035.0,
+          "end": 1040.0,
+          "text": "No, quello che volete voi, però accumuliamo questi dati perchè poi dopo li possiamo riutilizzare per fare altro."
+        },
+        {
+          "start": 1040.0,
+          "end": 1051.0,
+          "text": "Quindi gli dicevo, l'output non deve mostrare la scherma, salvarlo in un file con questo nome, metti l'output nella cartella news e basta."
+        },
+        {
+          "start": 1051.0,
+          "end": 1053.0,
+          "text": "Facciamogli quest'ultima modifica qua."
+        },
+        {
+          "start": 1054.0,
+          "end": 1064.0,
+          "text": "Ovviamente qua ci possiamo tenere sempre skill md aperto, ma ci dice me la leggo un attimo, adesso ci proporrà ovviamente a schermo le differenze."
+        },
+        {
+          "start": 1064.0,
+          "end": 1069.0,
+          "text": "Quando lui va a modificare un file ci mostra sempre le differenze, ci dice ok questa era la vecchia, ecco come andrò a modificarla."
+        },
+        {
+          "start": 1069.0,
+          "end": 1074.0,
+          "text": "In modo tale che voi capite se Cloud Code sta facendo qualche cazzata e dovete fermarlo in tempo."
+        },
+        {
+          "start": 1074.0,
+          "end": 1082.0,
+          "text": "Per esempio qua vedete aggiunto adesso una nuova parte, formato di risposta, mettilo nei file, nella cartella news e così via."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 18,
+        "time": 1080.0,
+        "timestamp": "00:18:00",
+        "image": "frame_0018.jpg",
+        "reason": "periodic",
+        "ocr_text": "© © © EB Fcaldiam Witt x (Exte Claude mihi C x + 000 perno G Cei) eve womsnice (a fa DE Ge test Ines ups. # & [Claude Code] SKILL md x <*90r620 ile User fai Destioo claude ope ciau sii > nem 8 SK md i # em Al > gldlis/nows-ai Sal si ala) 9 69 News AL è stiLmd artificio e RANE in ILA 0 seta scan 16 se proce cio È cher . 3 1. Uso bebserch con query in inglese per trovar. fonti interazioni, | Tim conto per esente ce - ; sa aa DTEdFAffcir sntrtioenco pos (mese corrente amo correntel* =. HET SH vet n te corno Tao corrente CALDE iO 2. Fal 20 ricerche g fonti internazio. (TT Tcholopy favi, 168, stro, Wired, ecirne, ecc): - metti l'output nella cartella \"news\" LI 18 3. Raccogli le notizie più ilevnti e recenti (tini 3 giorni preferibieto). e Travo » ® Leggo prima asl tti. è Rena Stima e E GILL Fa una ricerca eb per troare le notizie più recenti sutl'intelligenz rtiticite © p i - ne time no salt “Pak un ricerca ue er trovare le notizie più recente su intetgenza 28 Uttine evo SuLl'ALTE ESA III] rescue e salle {n saftitoto otiziale 12-3 righe di sintesi in italiano! Fonte: [nose fonte] — [data se disponibile) 1. Usa Webisareh con query {n inglese per trovare fonti Internazionali, per esempi Mak th ect o SKILL. ce ttioto notizie» Fonte! hne fonte) = [dna se disponibil 2 fallo lan. orti in ano tere notizie... egicerca effettuato LU [ta ogiernale LO BC Spocenis_ UTO U",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1083.0,
+          "end": 1085.0,
+          "text": "Eccetera eccetera."
+        },
+        {
+          "start": 1085.0,
+          "end": 1089.0,
+          "text": "Dopo aver salvato il file comunica all'utente solo il percorso del file, perfetto."
+        },
+        {
+          "start": 1089.0,
+          "end": 1091.0,
+          "text": "Direi che ci piace."
+        },
+        {
+          "start": 1091.0,
+          "end": 1098.0,
+          "text": "Gli diamo invio e aspettiamo che faccia questa modifica, quindi che semplicemente riscriva il file skill md."
+        },
+        {
+          "start": 1098.0,
+          "end": 1103.0,
+          "text": "Mi dice perfetto, la skill md è aggiornata, ora salva l'input, possiamo fare subito una prova, lanciamola."
+        },
+        {
+          "start": 1103.0,
+          "end": 1110.0,
+          "text": "News AI, adesso l'ho lanciata col comando ma io potrei pure scrivere dammi le ultime novità."
+        },
+        {
+          "start": 1110.0,
+          "end": 1119.0,
+          "text": "Novità intelligenza artificiale, perché avete capito che lui la richiama in vari modi in base a come tu l'hai descritta nel file skill md."
+        },
+        {
+          "start": 1119.0,
+          "end": 1125.0,
+          "text": "Siccome qua abbiamo detto che deve chiamarla anche quando vede queste cose in chat, questi sono una sorta di trigger."
+        },
+        {
+          "start": 1125.0,
+          "end": 1132.0,
+          "text": "Sono le parole che lui va a tenere sotto controllo e dice ah se Raffaele ha usato queste parole allora voleva che io chiamassi questa skill."
+        },
+        {
+          "start": 1133.0,
+          "end": 1141.0,
+          "text": "Questa è la cartella news che stiamo creando, me la apro perché a breve dovremmo vedere qua dentro il primo file che va a creare."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 19,
+        "time": 1140.0,
+        "timestamp": "00:19:00",
+        "image": "frame_0019.jpg",
+        "reason": "periodic",
+        "ocr_text": "EB Encacia Wstebcrd + O suorvomme © t 36 Go iatost Al news updat.. x > laude QQ sissi + qttima fol etigsscaicon > elnti 2 > contea Usa Websearch con query in inglese per trovare fonti intemazionali, per esenpio: | 1. Uca WebSearch con query in inglese per trovare fonti internazionali, per esempio: wi — ‘fartificial intelligence nes [nese corrente). [anna corrente] — tvartsficiat intelligence news [nese corrente). [anno corrente) es - AI Latest neve [nese corrente] [anno correntel*” 2 AI tatest nov [eese corrente) [anno correntel* tam Design morispaco/nee + CIAUDE md Get itast Almows updates migra a sl ‘newa-l\" facendo le seguenti motfiche: l'output on dev mostri schermo ma salvro in n le che ha questo nome YYYYMMDD.md me loutpur nel carta “news” ‘Fato La sk ILL mo è ogglomate: ra salva l'output in 1/YNIPOO.A e risponde all'utente solo con l percorso del rest. tresca Mel Search artifici intetLigence nico gprit 2026 net perch esulta fr quei \"artificial intelligence neve 4prit 2028\" Ltaksr [tit let\" Opersecurity firm show how Bockrs are uzig AT to bresch petvrko = CIS Newturi*:\"http//um china, con/video/epbersecuritytra-stomi-bov-chera-ae-astno Web Search I latest news Agrit 17 226 net sere resotta for query “AI latest nos Mori 17 2028 Links: [EMAE1e Sosia Eleetronics Shoucases 2026 Al-posreg TV Imevotione Abend af Mrket Launch at Luropesa Th Seminar — Samsung Globo Mesa rom, \"url\": \"ntt9s://nec.snnungcon/obal Gant Crete na folder utt = “/0sers/raffaete/Destop/claue vorkspace/noo* Wanderina: + Osdiumi",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1141.0,
+          "end": 1151.0,
+          "text": "Gli abbiamo detto anche che il formato del file deve essere esatto, vedete anno 2026, mese 04, giorno 17, che è il momento in cui sto registrando."
+        },
+        {
+          "start": 1151.0,
+          "end": 1153.0,
+          "text": "Io ci posso cliccare sopra, eccolo qua."
+        },
+        {
+          "start": 1154.0,
+          "end": 1163.0,
+          "text": "Ovviamente questo è sempre il formato md, quindi se volete questo file ve lo potete sempre vedere in anteprima e vi guardate come si vede formatato bene, però è un file di testo."
+        },
+        {
+          "start": 1163.0,
+          "end": 1174.0,
+          "text": "Immaginate questa roba che l'ho fatta per un anno e io ho 365 file con tutte le news messe qua dentro e poi posso dopo dare un comando e dire"
+        },
+        {
+          "start": 1174.0,
+          "end": 1181.0,
+          "text": "qual è l'azienda che compare più spesso nell'ultimo anno di news, per dire la prima cosa che mi è venuta in mente."
+        },
+        {
+          "start": 1181.0,
+          "end": 1189.0,
+          "text": "Oppure l'estate da quale novità è stata dominata in termini di news e così via."
+        },
+        {
+          "start": 1189.0,
+          "end": 1196.0,
+          "text": "L'accumulare file, quindi knowledge base, ci permette di fare più cose dopo in avanti."
+        },
+        {
+          "start": 1196.0,
+          "end": 1199.0,
+          "text": "Questa è la nostra prima skill, molto molto semplice."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 20,
+        "time": 1200.0,
+        "timestamp": "00:20:00",
+        "image": "frame_0020.jpg",
+        "reason": "periodic",
+        "ocr_text": "EI Cc toni + DOO € + (annoia Gi © cuiorronsice 1 fa CO A Gerin Arm upant. x i 8 2026047 > laude ©) news) 20260477 > = SW Ultime neve sull — 17 aprile 2026. + alli neve Sie 120 Ultino news SSLL'AI — 17 aprite 2026 qui. l'output non devi mostraio a schermo ma salvaro n un fle che ha questo nome YYYYMML ? ni [Spice mimmo 00m i—-—-rrc=5>s e Renn are sro i o (eta Cane indietro molte organizzazioni. + 20260817 sa aprite 6 > template # CIAVDEMI Mal Sanreh artificial intetLigece neue April 2026 pia nen nota Cina quasi colma Îl gap con gli USA: solo 2,74 di distanzave. Links: [Cit le\" persecaity Fira show how Rockers are sig AT to bresch netoris T nuovo Stanford AI Index 2026 rivela che Il asvario tra 1 migliori modelli americani € cinesi si è ridotto a soli 39 punti Arena. Claude Opus 4.6 di Anthropie guida la classifica globale, na Dota-Sesd 2.0 è è Un cambio di scenario che ridisegna gli equilibri nella corsa Web Search I tatest ovs Apri 17 226 ue sent result for queyi “AI latest neve April 17 2026\" Cinti [CRiLle*\"Sasing Eletronics Shoucases 2026 Al-poweres TI Imovatione Anesd of ousolo 11 200 delle aziende cattura il 75% del valore econonico dell'Ale Bash Create new folder I report PRC 2026 nostra che Il vantaggio econonico dell'AL è fortesente concentrato: le aziende lesder la usano per crescere, non solo per tagliare i costi. (NI è già indietro risenia di restare escluso dallo creazione di valore nei prossimi anni. Fonte: [Pu AT Performance Study 2826] (bttpst//u ue. coa/gu/eny ness-roGa/press-releases/2026/puc-2026-01-perfornance- study. heat) - Write as2en4 aprile 2026 mbe <p *AUsers/raffete/Desktop/claae vorkspoce/ news 10 Vitis ness SUNLAT — 17 sprite 2026 nAicerca effettuata 11 17 aprile 20268 Fl sabnto n new/20260417.m O) a DI Disse x Goho",
+        "description": ""
+      },
+      "transcript": []
+    }
+  ]
+}

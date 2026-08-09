@@ -1,0 +1,508 @@
+{
+  "title": "Creiamo una skill di sistema",
+  "sections": [
+    {
+      "keyframe": {
+        "index": 0,
+        "time": 0.0,
+        "timestamp": "00:00:00",
+        "image": "frame_0000.jpg",
+        "reason": "start",
+        "ocr_text": "[TI x EE) video — eta eve womsnice [a ta C 36 Clause code x eo x Claude Code preme pedi oca Make CLAUDE mul for instructions Ciau wil rad every single time.",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1.0,
+          "end": 15.0,
+          "text": "Facciamo un altro esempio di creazione skill e questa volta facciamo una skill che ci serve per la gestione, la manutenzione del nostro workspace, del posto dove lavoriamo."
+        },
+        {
+          "start": 15.0,
+          "end": 23.0,
+          "text": "Abbiamo visto delle skill che fanno delle cose, vi ricordate ci sono due tipi di skill, l'avevamo detto qua, c'era scritto su uno di questi grafici, eccolo qua."
+        },
+        {
+          "start": 23.0,
+          "end": 32.0,
+          "text": "Abbiamo fatto delle skill di lavoro e vi faccio vedere come facciamo una skill di sistema, cioè adesso siccome abbiamo visto che spesso dobbiamo aggiornare il contesto,"
+        },
+        {
+          "start": 32.0,
+          "end": 43.0,
+          "text": "quindi il file cloud, i file nella cartella contesto, creare cartelle e così via, potrebbe essere utile, questa è una cosa che io faccio spesso, avere una skill che lanciamo una volta al mese,"
+        },
+        {
+          "start": 43.0,
+          "end": 54.0,
+          "text": "una volta ogni due mesi, quello che volete voi, pure una volta al giorno nelle fasi iniziali, che ci fa delle domande, cerca di capire se il nostro lavoro è cambiato, la nostra organizzazione è cambiata,"
+        },
+        {
+          "start": 54.0,
+          "end": 64.0,
+          "text": "i nostri processi sono cambiati e va a fare un po' di manutenzione all'interno del contesto. Quindi facciamo una roba molto semplice, poi quello che faccio è che vi faccio vedere la mia."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 1,
+        "time": 60.0,
+        "timestamp": "00:01:00",
+        "image": "frame_0001.jpg",
+        "reason": "periodic",
+        "ocr_text": "> riassunto unione (0 setigssocalison S archivio > tn FE Mino — ta % Claude Code Make CLAUDE ma fl for instructions Claude wil road every sing time. ESS",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 64.0,
+          "end": 78.0,
+          "text": "Allora, aiutami a creare una skill dentro questo workspace che mi permetta di tenere aggiornato il contesto."
+        },
+        {
+          "start": 78.0,
+          "end": 101.0,
+          "text": "Facciamo così, la skill mi fa una serie di domande e in base alle risposte che do, raccoglie le informazioni necessarie e aggiorna il contesto di conseguenza."
+        },
+        {
+          "start": 102.0,
+          "end": 121.0,
+          "text": "Facciamo che il contesto sia nel file cloud.Md che nei file presenti nella cartella context, ma vi ricordate che noi abbiamo detto che poi vogliamo fare che in futuro ci saranno anche dei file di contesto nelle cartelle,"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 2,
+        "time": 120.0,
+        "timestamp": "00:02:00",
+        "image": "frame_0002.jpg",
+        "reason": "periodic",
+        "ocr_text": "EB encaicia Witebcni 000 cioe momenice | (af E Clause code x + claude gite > ri > riassuntounione (0 sottigasocaljson chio Selen > scempio cento Aiphaaigha33 Untited > fuor > tempie % CIAVDEmd EE pe teo — Claude Code Mako a CLAUDE md fl for struione Cla il rog avey single time. aiutami crearo una ski, dentro questo werkspace, che mi permetta di tenere aggiornato l contesto a ili fauna sere di doman in base lle risposte che o racogle ie Informazioni necssari sogioma l contesto di conseguenza 1 contesto è sa ne fl claude md che n fl presenti nella crtla contest gle SS)",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 121.0,
+          "end": 138.0,
+          "text": "per esempio, dei progetti o dei clienti, quindi se noi qua dentro avremo dei file di contesto dei clienti, gli dico di guardare pure quello nella cartella context e nelle cartelle dei singoli clienti, che si chiamano file context.Md."
+        },
+        {
+          "start": 138.0,
+          "end": 142.0,
+          "text": "Quelli li chiameremo tutti uguali in modo tale che Cloud Code li troverà molto facilmente."
+        },
+        {
+          "start": 143.0,
+          "end": 148.0,
+          "text": "Cosa è importante? Gli dico di non fare automaticamente le modifiche, ma di propormi un piano."
+        },
+        {
+          "start": 148.0,
+          "end": 164.0,
+          "text": "Quindi facciamo così, quando la skill ha deciso che modifiche fare, mi deve proporre a schermo un piano che io devo manualmente approvare."
+        },
+        {
+          "start": 164.0,
+          "end": 171.0,
+          "text": "Se non approvo il piano di modifiche, non deve cambiare nulla."
+        },
+        {
+          "start": 172.0,
+          "end": 176.0,
+          "text": "La teniamo molto semplice, giusto per farvi capire che significa ci andiamo a fare."
+        },
+        {
+          "start": 176.0,
+          "end": 185.0,
+          "text": "Questo è un piccolo tool, una piccola utility di sistema che io lancio, questo parte mi fa una serie di interviste, mi dice oh ma tu fai ancora questa cosa?"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 3,
+        "time": 180.0,
+        "timestamp": "00:03:00",
+        "image": "frame_0003.jpg",
+        "reason": "periodic",
+        "ocr_text": "x_1 3 Eatend Cid mila CX SE My video — ela claude masi > rissuntorunone % Claude Code () settings scaljsoo archivio > clienti esempio. > Aphatiphass > prevent report > traserizioni % context Mak a CLAUDE md la for instrucione Ciau il rad very single time. 10 sil mi fa una sere dl domande e I bas lle risposte che o raccoglie informazioni necessari angina conteso ci conseguenza 1 contsto è sa nol laude md che n fi presenti nella carte context, e nell catia de singoli lenti fl conte.) quando la sl ha deciso che modiche ar, mi deve proporre a schermo un pano che o devo monualmento approvare ‘80 non approvo ll piano di modifiche non deve cambiare null",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 185.0,
+          "end": 190.0,
+          "text": "Oh ma sta cartella vuoi ancora così? Oh ma sta istruzione che mi hai dato due mesi fa è ancora valida?"
+        },
+        {
+          "start": 191.0,
+          "end": 197.0,
+          "text": "E facciamo la solita cosa, gli diciamo creami, ah la skill come la vogliamo chiamare?"
+        },
+        {
+          "start": 197.0,
+          "end": 218.0,
+          "text": "La skill si chiama aggiornacontesto, la voglio dentro questo workspace e non mi servono i file di test, crea solo la skill vera e propria."
+        },
+        {
+          "start": 218.0,
+          "end": 226.0,
+          "text": "Questo io lo dico sempre perché so io che so diciamo fissato, che voglio che vada veloce altrimenti si mette a fare tutta la roba avanzata."
+        },
+        {
+          "start": 226.0,
+          "end": 240.0,
+          "text": "Quindi adesso cosa succede? Lui ci fa questa sorta di piccolo questionario, questa sorta di piccola intervista a cui noi risponderemo e in base a quello che gli diamo noi come risposta, lui va a fare delle modifiche all'interno del workspace."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 4,
+        "time": 240.0,
+        "timestamp": "00:04:00",
+        "image": "frame_0004.jpg",
+        "reason": "periodic",
+        "ocr_text": "rinsuntounione (0 settings ocaljson archivio > centi > _ssempio-clento > Aphatihasa > prevent repo > traserizioni % contertmd > template * CUAWDE md Estendi Cin wi sila) x ST My video — Tata 6 Create contet update sk. x Croato contet update ski for workspace cid uti a eeare una sl, dentro questo werkspace, che mi permetti onere soglomato contesto akicorentor sist Esplora la sruitura del workspace per capre dove colcer a sl. fsh Ls worspac nd ca dieci contents | p 14 2 evase” raffaele pesktop/elae varaspace/® LA li Aa */Users/ratfaele/ clande/* 2/d00/0lL | beré 230 ner nr-n 11 raffaele staff. 352 A07 rm \"2 ‘I raffse staft 224 or 2",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 241.0,
+          "end": 268.0,
+          "text": "Immaginate che questa cosa vi può essere utile in vari casi, come vi dicevo qua, vado un attimo qua, skill di sistema servono dietro le quinte per gestire il sistema, il workspace, il contesto non producono nulla, cioè non sono delle skill che vanno poi a farvi che ne so la presentazione per il cliente, il preventivo per il cliente, il riassunto della minuta, no la cover per i contenuti social e così via, no servono per tenere sempre aggiornato il modo con il quale lavorate."
+        },
+        {
+          "start": 268.0,
+          "end": 292.0,
+          "text": "Adesso cosa sta facendo? Si sta leggendo un po' di cose, vedete quindi è andata a leggersi le varie cartelle, gli diamo accesso, sta entrando nelle varie cartelle, si è letto un po' come funziona il nostro contesto e adesso mi sta creando la cartella aggiornacontesto, qua dentro tra un attimo ci sarà un file che si chiama skill.Md con il vero e proprio contenuto della skill, quindi con le istruzioni della skill di come lavorerà."
+        },
+        {
+          "start": 292.0,
+          "end": 312.0,
+          "text": "Appena l'ha creata ce la guardiamo un attimo, vediamo com'è fatta e poi la lanciamo subito per vederla all'opera, così gli facciamo anche fare delle modifiche al workspace e al contesto, così vediamo questo lavoro di manutenzione che stiamo facendo, poi in cosa si riflette concretamente e come vi dicevo io qua ho anche la mia, vedete questo file sul desktop skill.Md?"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 5,
+        "time": 300.0,
+        "timestamp": "00:05:00",
+        "image": "frame_0005.jpg",
+        "reason": "periodic",
+        "ocr_text": "(0 settings icaljson x archivio Sl _osempio-clente > Apnagipha39. > report % contesta content > riunioni > template * CALDE ® Estendi Cino wi sla- i x E My video — ta 36 Create conte update sk. x Croato contet update sl for workspace ata reo un i, det questo Workspac, che permetti tener agiata l contesto irc 4 reffante aa 1028 resero 4 cottone statf_ 228 Apr 20 Rend SL Rendi protito.ne Rand istruzioni.ni Aigrattpsa 0 tutto quello che mi serve. Creo la sid ra. Gand Croato sli ict LA /Usars/ratele/Besktop/ claude voraspae/contert/* ne = MUsers/rafete/Destop/claue vorkspne/ claude/skis/aggiorno- contesto + Ocuwen",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 312.0,
+          "end": 334.0,
+          "text": "Quindi la mia è molto avanzata, ve la faccio vedere, faccio una cosa, ve la lascio qui scaricabile proprio come regalo extra, mi raccomando quella è impostata sul mio workspace, quindi non la copiate e incollate perché sennò non vi funziona, pigliatela più come spunto per dire ok visto che ci ha messo Raffaele fa fa sta cosa, poi fa fa quest'altra cosa, cioè è bella avanzata la mia e potete partire da quella."
+        },
+        {
+          "start": 334.0,
+          "end": 354.0,
+          "text": "Ovviamente quando dico la mia, questa roba che ho trovato in rete, che ho preso pezzi da vari esempi che mi sono piaciuti, che ho costruito insieme a Claude, cioè di sta roba qua nessuno si inventa niente di nuovo, sia chiaro, è tutto un costruire sulle spalle dei giganti, prendere spunto, remixare cose e così via."
+        },
+        {
+          "start": 354.0,
+          "end": 368.0,
+          "text": "Allora mi dice ho creato la skill, quando dice aggiorna il contesto parte ti fa una serie di domande, legge i file e così via, ti fa le domande una alla volta, vi ricordate perché ci fa le domande una alla volta? Perché è una delle prime cose che gli abbiamo detto all'inizio di questo corso."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 6,
+        "time": 360.0,
+        "timestamp": "00:06:00",
+        "image": "frame_0006.jpg",
+        "reason": "periodic",
+        "ocr_text": "EB eucaiion iebcord x Etna Cino miao x ST My video — ta 000 cla orga avoe WomsoicE o) E Create contet update sk. x Ss Create content update sil for workspace © aggioma-contsto Tana i ciAvvEnd > ri aiutami a ereare una sil, dentro questo werspace, che mi permetta di tenere aggiornato l contesto (0 settings ocatjson archivio Fond ietrzioni.ni nah List lente and context les a \"era /rffele/Desktop/clnide voriopace/cUanti/* Ki 1 */iters/ratfole/Besktop/clade vorkipace/contet/* Aigtanighsa Ho tutto quo che mi serve Creo i ira. Bash Croato sil iectony mute xp MUsers/raffaele/DesKtop/claute vorkopae/ claude/skills/oggioma-caneste Write tions ‘aeseription: Aggiorna IL contesto di Were di Giogo faceno diede nrste e modificando {file di contesto. Us questa s4UL quaso l'utente vole aggiornare le informazioni su dl sé, sul prose ‘Sklireata. Puo trovarla I ciaude/skil/oggirn-contsto/SkILLim. Funziona così: quando dic \"ggioma È contesto” (o cose simil come \"ho cambio preza, “nuovo lente, ce. la kl atta tifa domande un al ot, legge le colnvet, ti mostra un piano co eaate, e appia slo se tu dici espitamente ci ® [ +0 Osini",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 368.0,
+          "end": 386.0,
+          "text": "Allora eccola qua la skill aggiorna contesto, questa skill aggiorna il contesto di Gigino facendo domande mirate eccetera eccetera, parte in questo caso quali sono i file sui quali deve lavorare ClaudeMD, vedete qua c'è proprio l'elenco dei file, ovviamente se noi andiamo a fare delle modifiche gli diciamo di aggiornare questa skill."
+        },
+        {
+          "start": 386.0,
+          "end": 408.0,
+          "text": "Capire l'ambito, quindi inizia con una domanda, legge i file rilevanti, pianifica le modifiche e poi se gli do vuoi che proceda con le modifiche, faccio le modifiche, perfetto, conferma finale, mai fare modifiche senza approvazione, fai una domanda una volta, non inventare, modifica chirurgica, cambia solo quello che scrivi, scrivi sempre in italiano, benissimo."
+        },
+        {
+          "start": 408.0,
+          "end": 432.0,
+          "text": "Quindi questa skill potremmo già utilizzarla, si chiama aggiorna contesto, scusatemi devo lanciare una nuova chat perché sennò non mi ricarica le skill, erano nella chat di prima, quindi faccio aggiorna contesto, invio, è la prima volta che la usiamo, vediamo che tipo di intervista ci fa e io mi invento diciamo delle cose."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 7,
+        "time": 420.0,
+        "timestamp": "00:07:00",
+        "image": "frame_0007.jpg",
+        "reason": "periodic",
+        "ocr_text": "EB Encalcia Witobord 000 O cuorvomime @ GC 26 Cresta contest update sk > claude CR + aggiorna. contesto po (e smo Untited (0 ptc que o SÌ <iiprarioness > proven + csnitnd È > riunioni > template + CLAVDE md BE MI video eta + Ciaude code x DI Stime ES",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 432.0,
+          "end": 452.0,
+          "text": "Allora, cosa vorresti aggiornare oggi? Se abbiamo delle modifiche specifiche da fare, noi gliele proponiamo. Diciamogli per esempio che vogliamo il processo di lavoro, mi sto inventando, quindi poi voi utilizzatelo nel vostro caso specifico."
+        },
+        {
+          "start": 452.0,
+          "end": 474.0,
+          "text": "Allora, cosa è cambiato nel processo? Fammi vedere cosa avevamo scritto. Il contratto arriva dal sito dei social, c'è la call conoscitiva gratuita da 30 minuti, ok, la call conoscitiva ora dura 60 minuti e si paga, cifra simbolica di 20 euro."
+        },
+        {
+          "start": 474.0,
+          "end": 492.0,
+          "text": "Sto inventando, e poi diciamogli se il cliente accetta, gli mando il calendary, dopo la call gli mando il preventivo, diciamo che il preventivo viene fatto direttamente in call, dal vivo."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 8,
+        "time": 480.0,
+        "timestamp": "00:08:00",
+        "image": "frame_0008.jpg",
+        "reason": "periodic",
+        "ocr_text": "EB encaliciam Witobcrd x EE video — ela D00 cla orge % processo mi > claude # Processo con 4 clienti ge “aggiorna contesto - 10 contatto arriva gal sito 0 dai socia nona) Laggtorne-contesto — CALI conoscitiva gratuita da 30 minuti su Zooa (soto L1 venerdi) > ii 2 00po La call: trvto preventivo e proposta (due file separati) — se il Cliente accetta: accosso a un Calendìy per prenotare te call (0 settingasocaljeon ®. osa vorei aggiornare oggi? dettiaanali (nassino 2 ore a settimana) “i _ Tutte le sessioni sono registrate = ho accesso at transcript. di DS 1 pacchetti si acquistano sempre anticipatamente > _esempio-ciente ti processo i lavoro < Apnasipnass > proventi > report > trascrizioni ih quale fase del processo è cambiato qualcosa? ® contorta 4 cientima 1 isrzionimd % processo + proome 1 riunioni 4 atlena > riunioni > tempie > flassuntoiunione 1a call conosca ora dura 60 minus paga (la simbolica di 2061",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 492.0,
+          "end": 516.0,
+          "text": "Sto inventando, è giusto per farvi vedere che è cambiato qualcosa nel processo di lavoro, voglio che l'ambiente di Cloud Code adesso abbia questa informazione, in modo tale che sempre aggiornato rispecchi sempre il modo con cui lavoro. Immaginate questa cosa quando siete in team, che da soli è più facile mantenerlo, ma siete 5, 6 persone, 20 persone, un'agenzia, una startup, una PMI, oppure il team di un'azienda e così via."
+        },
+        {
+          "start": 516.0,
+          "end": 536.0,
+          "text": "Mi fa il piano di modifica, adesso è molto semplice questo piano, mi dice ti vorrei modificare la riga 4, quindi cambiare call conoscitiva da 30 minuti a 60 minuti e 20 euro, modifica riga 6, il preventivo non viene lasciato dopo la call, ma viene fatto dal vivo. Voi che procede con queste modifiche vi ricordate, non deve fare niente senza la nostra approvazione, procedi, invio."
+        },
+        {
+          "start": 536.0,
+          "end": 560.0,
+          "text": "Adesso qua dentro questo file processo.Md verrà fatto queste due modifiche a queste righe, questo è molto molto semplice, ma come dicevo prima immaginatelo in una roba molto grande quanto diventa potente e utile una skill del genere, che lanciate periodicamente, magari la lanciano varie persone, il team marketing si fa la sua, il team sales si fa la sua, gli account si fanno la loro e così via."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 9,
+        "time": 540.0,
+        "timestamp": "00:09:00",
+        "image": "frame_0009.jpg",
+        "reason": "periodic",
+        "ocr_text": "EB Poca taboord x 9 Estendi Ciao wii Ci x E Myvideo i — ta 00 cn vor © sosorvonene fa CO = Updateconei x # DIG + processoma > claude context 8 processo.md > mf Processo coni centi QU vas Sti 1° # Processo cond clienti aggiorna. contesto po ssumo > riassunto. turin 3 — IU contatto arriva dal sito 0 dai socia Loggtorna-contesto 1 GUI conoscitiva gratuita da 38 minuti su Zooe (solo {1 veneraì) 5\" Dopo la call: invio preventivo e proposta (due file separati) 3 © - se Sl cliente accetta: accesso a un Calendly per pronotare le coll 0) settngssocatison ‘Cosa vorei aggiomare gg? ettinanali (nassino 2 ore a settimana) on l Tutte le sessioni sono registrate = ho accesso at transeript. SS LR 1 pacchetti si acquistano sempre anticipatamente ti processo lavoro > trascrizioni ‘in qual fase del processo è cambiato qualcosa? * contents 4 csentima 1 isrzionimd % processomd % proto me pai n. Thought for % servaine 4 atlema > nem Read processo.ni > riunioni mat, Piano i modifica RA context/ processo. n Moglia iga 1a call conosliva passa da gratuita 30 min a 60 min a €20 > Moglia ig 6 preventivo non iene più inviato dopo la cal ma ato dal ivo durante la call a cal conoscitiva oa dura 6 minus paga (lr simbolica di 20€) ti preventivo vene fatto dettamente in cal dal vivo Loggo lla del processo attuale. ui che proceda con questo mogifiche? procedi # indi ino. cn o)",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 560.0,
+          "end": 582.0,
+          "text": "Facciamola di nuovo, la lanciamo di nuovo, facciamo un'altra modifica, facciamo aggiorna contesto e adesso facciamo una cosa che avevamo detto che io trovo molto comodo, vi ricordate ho detto io per esempio ho una cartella temp, che è una cartella temporanea nella quale a volte ci metto dentro dei file che mi serve per lavorarci sopra."
+        },
+        {
+          "start": 582.0,
+          "end": 608.0,
+          "text": "Questa cartella noi non l'abbiamo più creata, facciamo che vogliamo farla con il file di contesto, voglio introdurre nel workspace una cartella temp per metterci dei file temporanei su cui lavorare e poi la cartella viene svuotata periodicamente."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 10,
+        "time": 600.0,
+        "timestamp": "00:10:00",
+        "image": "frame_0010.jpg",
+        "reason": "periodic",
+        "ocr_text": "EB eacaiiom Wiaboord x R Ertnd Cino wi ailo Ci x ST Myvideo i — ra 000 Luusgi © cuovonane 3 E Update contest x suol Update content Ss V aggiorna-contesto. Il processo di lavoro po ssrno a call conoscitiva oa dura 0 minuti si paga (lr simbolea di 206) i proventivo vano fatto diatameno In al dl vivo È (0 settings ocaljson archivio Leggo fl del processo attuale. Read processe.ni Piano di modifica ‘è Modica iga a cal conosca passa da gratuita 30 min a 60 min a €20 - Moglia ia: preventivo nor viene più ivato dopo la al, ma ato dal vivo durante la call Vuoi che proceda con questo modifiche? * proome 8 riunioni + servizine 8 atlema riuioni Sa Gt connetti iS mint Zon (6015 1 Venerdi) o È STEAL Vera C'E 3 + CLAVDE A E processo.ne = Fatto Aggiornato Context/pracesso.me call conoscitiva ora O mina €20, preventivo ftt dieta dura Cosa vorresti aggiornare oggi? voglio Introdurre nl warkspace una cartll temp per metterci i fl temporan",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 608.0,
+          "end": 624.0,
+          "text": "Ok, vediamo lui cosa ci propone, cioè se adesso in base a questa informazione ha bisogno di altro per poter andare a modificare i file di contesto giusti, adesso mi aspetto che lui nel file CloudMD, quindi periodicamente vada a fare questa modifica."
+        },
+        {
+          "start": 624.0,
+          "end": 638.0,
+          "text": "Svuotata periodicamente intendi tu manualmente o vuoi che sia automatico? Bellissimo, direi che la facciamo manualmente e poi ci potremmo creare una skill di sistema, potrebbe diventare una skill di sistema."
+        },
+        {
+          "start": 638.0,
+          "end": 658.0,
+          "text": "Per adesso lo faccio io, anzi fermo vi faccio vedere una cosa, questo è interessante, vi faccio vedere una cosa che io faccio spesso, quando lui mi propone delle alternative gli dico sono indeciso, elencami i pro e i contro di entrambi gli approcci."
+        },
+        {
+          "start": 658.0,
+          "end": 672.0,
+          "text": "Questo ovviamente è un esempio banale perché i pro e i contro ci arriviamo intuitivamente, però quando vi mette di fronte a delle scelte potrebbe essere utile questo. Allora manuale il pro è che c'hai il controllo totale, non cancelli niente per errore ovviamente, il contro è che devi ricordartelo tu."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 11,
+        "time": 660.0,
+        "timestamp": "00:11:00",
+        "image": "frame_0011.jpg",
+        "reason": "periodic",
+        "ocr_text": "EB acacia Wntabcond (3 Frtnd Cade wi sila i x ST My video — ta © susoevomene Do CO de Update commi x ud Qu ve “aggiorna. contesto fossano > ri a cali conoscitiva oa ura 0 minute sl paga (ra simbolea di 206) > demone rent en ft tamen nc da vo Ca (I seine saio nio Mò iene lie proceda con quest modico? Update content > Moglia riga 6: preventivo non viene più Inviato dopo la cal, ma fatto dal vivo durante la cali procedi > trascrizioni 0 Edit processo.ni + conortimà x conti Sfcliso cole calano STAT III + atentim Li Anvio preventivo 05 RL preventivo di tini ma + procosso ma % prottomai 8 runionimd 8 ale m > è Cosa vorresti gira 009? > rioni > tempito og Introgur nel worisgace una carta eo per metter fe temporanei sc lavorare + cIALDE mA = Fato. Aggiornato Context/processo.n call conscia ora 0 mina €20, proventivo fatt i dieta dura Laggtorna-contesto ». \"Svuota pericicamente* intendi manualmente to Voi che i automatico? 5000 indeis,elencami i ro e | contro di entrambi gl approcci @ velino",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 672.0,
+          "end": 688.0,
+          "text": "Automatico, zero sforzo, cartella sempre pulita, i contro è che rischi magari di togliere un file importante. La via di mezzo potrebbe essere automatico ma con un file da tenere dove quello che mettiamo qua dentro non viene eliminata."
+        },
+        {
+          "start": 688.0,
+          "end": 710.0,
+          "text": "Questa qua per esempio è un piccolo colpo di genio, io non ci avevo pensato, adesso diciamo là per là mentre registro il corso, però quello che mi sta dicendo è se tu hai paura di farlo troppo automatico perché poi ti cancello un file importante ma allo stesso tempo non vuoi farlo manuale perché ti dà fastidio e ti dimentichi, possiamo fare che diventa automatico ma io mi traccio da una parte dei file da non toccare."
+        },
+        {
+          "start": 710.0,
+          "end": 722.0,
+          "text": "Quindi la cartella è temporanea ma magari dei file per te sono importanti e li vuoi tenere là dentro un mese. Quindi è una sorta di cestino che quando lo svuotiamo però alcune cose vengono conservate, ok? L'ho semplificata così."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 12,
+        "time": 720.0,
+        "timestamp": "00:12:00",
+        "image": "frame_0012.jpg",
+        "reason": "periodic",
+        "ocr_text": "Etna Cino wii sla Ci x SE Myvideo i — Tala % Update content x = Update content “aggiorna. contesto # Si PEC e Ed prcesso.no > rissuntoruniono n (0 setings.ocaljson : ine ant CE E tivo procedi archivio Fatto Aggimato antext/processe.m call congacitva ra 0 mina €20, preventivo ftt i dieta durano 1 cal. Loggioma-contesto ® Cosa vorei aggiornare oggi? voglio Introdurre ne workspace una cartlla temp per metterci dl fl temporanei s ul avorare poi a crtll iene svuotata periodicamente * prolome ® Thought for 8 riunioni 4 servire 4 stima > nem sono indeciso, alncam i pro e contro di entrambi gli approci > riunioni > template o biente + CLAVDE A » “Sivota periocicamente* Intendi manualmente tu, 0 vuol che sl automatico? Pro: control total, non perdi nua per errore * Contro vi ricordato tu, tende a rimandarsi Automatico (es. ron ogni settimana) * Pro: ero sforzo, cartella sempre pulta * Conto ivhio di perder un le a cu stavi ancora lavorando La via i mezzo pù pratica: automatico, ma con un fl teri nella carta — tuo cò che non i quel fl Vena amiata allora o camera",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 722.0,
+          "end": 744.0,
+          "text": "Vabbè adesso però andiamo facile, diciamo ok per ora lasciamo tutto manuale, poi si vedrà. Però dopo ci potremo creare una bella skill che si chiama svuota cestino, per esempio svuota temp. Capito? Creo la cartella temp e aggiorno CloudMD, ricordate dobbiamo sempre autorizzare, procedi."
+        },
+        {
+          "start": 744.0,
+          "end": 766.0,
+          "text": "E adesso ha fatto esattamente quello che mi ero immaginato, cioè vado qua in cloud.Md e immagino che forse fa una riga qua sotto e la chiama non lo so temp, cartella temporanea. Adesso ce lo lasciamo aperto così vediamo in tempo reale quello che fa. Ah e ovviamente chiudiamoci questo, no questa la lascio aperta perché abbiamo le skill, chiudiamoci clienti e contesto."
+        },
+        {
+          "start": 766.0,
+          "end": 790.0,
+          "text": "Qua adesso vedremo temp, eccola qua. Questa è la nostra cartellina temporanea e adesso eccolo qua sta facendo e adesso ci aspettiamo la scrittura qua nel file. Nel file ci metterà il riferimento alla cartella temporanea. Vi ricordate CloudMD è il file principale che fa una sorta di indice, una sorta di direttore d'orchestra di dove Cloud deve andare a trovare le varie cose."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 13,
+        "time": 780.0,
+        "timestamp": "00:13:00",
+        "image": "frame_0013.jpg",
+        "reason": "periodic",
+        "ocr_text": "EB Encarta 000 lude e > aoigiomna-contsto > fassuno-rinione (0 settings ocatjeon + archivio > clienti > content > riunioni > temp ® CLAVDEmA © (0) x Godo Etna Ciao wi sila) x | ST Myvideo i — ta 3 Upaate conte Update content sono indeciso, eencami pro e | contro di entrambi gi approcci Automatico es. cron ogni settimana) * Pro: zero sforzo, cartella sempre puta * Contro iso di perder un lo a cu stavi ancora lavorando Lavia i mezzo pù pratica: automatico, ma on n fl diese, nell carta — tutto ci che ‘non in que il iene aliinato. ok per or lasciamo tutto manu, pol sì vecrà ®. Capito. Crea cartella texp/ aggiorno CIAD per documentaria? procedi Rosa CIDE.nd Bash Creato temp folder it gitieep touch \"Alter rafazle/besktop/claue vornapae/tamp/.gities* ohi /isera/raffaste/oesktoo/claude vorkspoe/temp/giticepi NO such file or Gant Croato tmp folder mbe *MUsrs/raffele/tesktop/ laude vorkspace/tep* Li toveh /users/raffaete/Destop + cookino. + cIAUDEmA X ‘8 CLAUDE ma > = 4 Contest i livoro — Giggino Giggetto # contesto di lavoro — Gipgino Giogetto 1 file Gi contesto sono nella cartella “contert/’ 1 — [PrOFIIO] (context /protilo.n9) — chi sono, Lingua, approccio — {Processo] (contest /processo.nd) — cone gestisco i Clienti, dalla coll a pagamento È (Stile) (context/stite.n4) - netodo socratico, tono di voce — (ClWents] (context/cUienti.n9) — cliente idente e chi escluso — [Servizi] (contert/servizi.ne) — pacchetti resoto e in presenza {UStruzioni](context/istruzioni.nd) — cose deve risponderai Claude Riunioni] (context/riunioni. nd) — archivio riunioni, struttura cartelle 00 Cienti ogni cliente ha una cortelta in \"eltenti/Inone-cliente]/® con un file omtext.nd* contenente le informazioni specifiche su quell'azienda è sul I",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 790.0,
+          "end": 810.0,
+          "text": "Questo è un ottimo esempio di una skill di sistema, quindi una skill di manutenzione. Non la lancerete tutti i giorni, però a volte ce ne sono alcune che magari sono veramente così frequenti. Io per esempio ce l'ho una uguale, la faccio gira più o meno una volta al mese, ok? A meno che non c'è proprio una cosa importante. Dico ah, da ieri abbiamo fatto questa novità e voglio subito aggiornare il contesto."
+        },
+        {
+          "start": 810.0,
+          "end": 838.0,
+          "text": "Eccola qua. Temp, la cartella temp contiene i file di lavoro temporanei, viene svuotata manualmente da gigino periodicamente. Ricordiamoci che abbiamo fatto questa cosa di gigino simpatica linz. Non salvare qui nulla di permanente. Bomba. Abbiamo aggiornato pure il nostro bel file di contesto. Vi dicevo, io questa skill ce l'ho, ve la apro qua. Yes, dice un file non trusted, non fidato perché l'ho preso da fuori dal desktop. Ve la faccio vedere in anteprima."
+        },
+        {
+          "start": 838.0,
+          "end": 862.0,
+          "text": "Aspettate che la chiudiamo così si vede meglio. Guardate quanto è lunga questa mia skill, ok? Ci sono diciamo varie cose, anche un pelino più avanzate. Per esempio mi prendo i parametri e quindi dico fammi un aggiornamento del contesto, ma solo del canale YouTube, solo della mia audience, no? Gli lo posso passare come parametro."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 14,
+        "time": 840.0,
+        "timestamp": "00:14:00",
+        "image": "frame_0014.jpg",
+        "reason": "periodic",
+        "ocr_text": "© EB Sscatrna istoni 000 ce womsnce [fa CO Vle > agglomna-contesto > tei > fiassuno-iunione (0 settings socaljson Vario centi Estendi Cin wi ala ix ST My video — Ta © 3 ide ino 36 pate contri Uptto content procedi Thought or: Resd cuune. Bash Crete temp folder it gitieep tod “visers/raftante/Desktop/ claude vorkspoce/tenp/.gitiep* AG: /users/affaele/Desktop/ claude vorkspace/teno/iticep: No such file or director Gant Creato temp older nAdLe *Jisers/raftete/0esktop/ laude vorkspace/teg” Gi tou *Nisers/raffaete/esit (tas completed with no output) it cune nd ne cusenti ogni eltente ha una cartella in ‘Clienti/Inane-clientel/* con un file ‘contest. contenente le informazioni specifiche SU quel'aziento e sul percorso in corso. ® atto. Creata a carta tenp/ e aggiunto lriferimento i CLADE I Previon SxtLIMd Xx | Update Context Aggiorna contesto del workspace attraverso un'intervista guidata. Analizza o stato attuale di tuti file dî contesto, raccoglie gli aggiornamenti e propone le modifiche senza applicarle grettamente. Variabili scope: SARGUMENTS (opzionale — nome di un file globale 0 di un progetto, es. aidience, canali, podcast, Youtube) n è Istruzioni Fase 0: Determina lo scope 50 è stato fornito un argomento ( SARGUMENTS non è vuoto): Normaliza l'argomento n minuscolo e confronalo con le disponibil: ‘File giobali vd: Chi=5O10, Canal, audierice, servizi, Libri * Progetti va: podcast, Jolitube, substack, Feels, newsletter Se l'argomento corrisponde a un file giobale: opera solo su quel le (context/{argonento}.n). Se l'argomento corrisponde a un progetto: opera slo su quo! fl (projects/{argomento}/contekt.nd). Se l'argomento non corisponde a nessuno del due: avvisa l'utente che o scope non è riconosciuto, elenca alri validi e fermati. Se non è stato fornito nessun argomento: Procedi coni flusso completo (tutti fe), Fase 1: Carica il contesto Scope completo: Leggi tut ile seguenti n parallelo, senza mostrame l cont all'utente: - cantant/enissono led",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 862.0,
+          "end": 880.0,
+          "text": "Vi faccio un'altra cosa carina per esempio che c'è qua alla fine, dove gli dico sulla parte di modifiche possiamo fare modifica tutto, oppure modifica solo una cosa, oppure annulla. Questo per esempio pure è molto comodo. Se lui mi ha proposto 10 modifiche e voglio fare solo la 3 e la 7, io lo posso chiedere."
+        },
+        {
+          "start": 880.0,
+          "end": 900.0,
+          "text": "Però di nuovo questa è una skill un pochino più avanzata, diciamo che ha delle cose che magari all'inizio a voi sono complicate o vi spiazzano, vi spaventano. Io ve la lascio scaricabile proprio come piccolo extra, come regalino. Non copiate né incollatela perché non funzionerà e anche perché le skill non sono magiche, ok?"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 15,
+        "time": 900.0,
+        "timestamp": "00:15:00",
+        "image": "frame_0015.jpg",
+        "reason": "periodic",
+        "ocr_text": "© EB reacairam tb Etna Cin wi aila i x ST Myvideo i — Tala 00 © 3 [od verno Ci eve momsnce | D 26 Upeto conte + Std 1 x Saiu Users) ralfala > Desktop > # SKILL md ) = $ Update Contest cosa Vndata cont 1° e upaote Contare > aagiome-contesto si nas Aggiorna LL contesta del vorispace attraverso un'intervista quigito. Roatizza lo stato attuote di tutti 1 file di contesto, raccoglie gii > fassunto-iunione procedi aggiornamenti è propone le modifiche senza applicare girettanente. (0 ssttmgsiocatison archivio è Tiougbt or os > cileni n0 varianti è Rend clUDE:si scope: SARGIMENTS (opzionale — none di un file giobote 0 di un progetto, Vaie es, ‘audience’, canali’, ‘poscast', “youtube') 7 nome ® Gant Croato temp folder with gicep toc “/isers/raffaete/Desktop/ claude vorkspace/tenp/.pitiep* #0 Istruzioni I use cose 1 AO /Users/refTaete/Desktap/claue varkspace/tenp/.gitiepi No set file er director n08 Faso è: doternina lo scopo orso è stato fornito un argomento ('SARGINENTS' nen è vuoto) ie Gant Creato temp folder Normalizza l'argomento in minuscolo e confrontalo con i file disponibiUt: ubi “Jisers/raffaetertesktop/ laude vrkspace/teng” LL toveh \"/0sers/raffaete/Desitop bai — Fite giobali validi: *chi-sono', ‘canali’; ‘audience’; ‘servizi?, des — Progetti valli: “podcast”, ‘Youtube’, ‘substack, ‘reels', “nevstetter (tas completed with no tout) Se l'argomento corrisponde a un file globale: opera solo su quel file C'eontext/fargosento) 0\"). s0 centi Se l'argomento corrisponde a un progetto: opera solo su quel file ogni cliente ha una cartella in ‘Clienti/Inana-clientel/} con un file ‘contest.n C'projects/{argomento)/context.ad'). contenente le informazioni specifiche su quell'azienta e sul percorso in corso. Se l'argomento non corrisponde a nessuno del due: avvisa L'utente che lo Scope non è riconosciuto, elenca £ valori valsdi e fermati. mrse non è stato fornito nessun argosento:se Procedi con il flusso completo (tutti 4 file). ose rase 1: Carica Sl contesto ® atto Creata la cartla tenp/ e aggiunto iferimento in CLAIDE unscopa complatoss Leggi tutti i file seguenti in parallelo, senzo nostrarne il contenuto all'utente: contest/eni-iono. no context/canali.nd context/ sugience. no context/servizi.no",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 900.0,
+          "end": 904.2600002288818,
+          "text": "Inventate niente di nuovo qua, ce le fa Claude come avete visto. Quindi ci sono arrivato io un"
+        },
+        {
+          "start": 904.2600002288818,
+          "end": 906.960000038147,
+          "text": "po' per volta, però magari potrebbe essere un buono spunto. Ve la lascio,"
+        },
+        {
+          "start": 906.960000038147,
+          "end": 911.3999996185303,
+          "text": "voi ve la scaricate, ve la guardate, qua dentro trovate un paio di righe interessanti, bam,"
+        },
+        {
+          "start": 911.3999996185303,
+          "end": 916.8799991607666,
+          "text": "ve le rubate, ve le portate nella vostra skill di pulizia del contesto. Ovviamente,"
+        },
+        {
+          "start": 916.8799991607666,
+          "end": 919.9599990844727,
+          "text": "questo è un esempio di una skill di sistema, ora che avete chiesto come farla,"
+        },
+        {
+          "start": 919.9599990844727,
+          "end": 924.8799991607666,
+          "text": "vi fate tutte le skill di sistema che volete voi per manutenzione, aggiornamento e così via."
+        }
+      ]
+    }
+  ]
+}

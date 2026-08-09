@@ -1,0 +1,817 @@
+{
+  "title": "Installare app col terminale [su Windows]",
+  "sections": [
+    {
+      "keyframe": {
+        "index": 0,
+        "time": 0.0,
+        "timestamp": "00:00:00",
+        "image": "frame_0000.jpg",
+        "reason": "start",
+        "ocr_text": "2 ® * = Bonefto Festues | integmtione Pricing The Package Manager for Windows Modern Software Automation Schedule A Demo Looking for Packages? I assd ns 2 ff A",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 0.0,
+          "end": 5.760000228881836,
+          "text": "Sicuramente qualcuno, guardando la lezione precedente, dove abbiamo visto come con Homebrew"
+        },
+        {
+          "start": 5.760000228881836,
+          "end": 12.119999885559082,
+          "text": "possiamo installare app che poi funzionano dal terminale, e abbiamo detto che quella"
+        },
+        {
+          "start": 12.119999885559082,
+          "end": 17.68000030517578,
+          "text": "roba funziona per Mac, anche per Linux, diciamo anche se poi su Linux ci sono altre alternative"
+        },
+        {
+          "start": 17.68000030517578,
+          "end": 22.0,
+          "text": "a Homebrew, si sarà chiesto, ma io che sto su Windows questa cosa non la posso fare,"
+        },
+        {
+          "start": 22.0,
+          "end": 25.040000915527344,
+          "text": "questo terzo livello di potenziamento non la posso fare."
+        },
+        {
+          "start": 25.040000915527344,
+          "end": 28.639999389648438,
+          "text": "Certo che lo potete fare e fortunatamente c'è una lezione pure per voi."
+        },
+        {
+          "start": 28.639999389648438,
+          "end": 34.91999816894531,
+          "text": "Lo facciamo attraverso Chocolaty, credo che si pronunci, che possiamo pensarlo proprio"
+        },
+        {
+          "start": 34.91999816894531,
+          "end": 40.31999969482422,
+          "text": "come un equivalente per Windows di Homebrew, ci sono delle differenze però diciamo concettualmente"
+        },
+        {
+          "start": 40.31999969482422,
+          "end": 45.91999816894531,
+          "text": "la stessa cosa, cioè è un gestore di pacchetti che però diciamo sono app che si usano dal"
+        },
+        {
+          "start": 45.91999816894531,
+          "end": 51.439998626708984,
+          "text": "terminale, quindi andremo a lanciare diciamo dalla PowerShell di Windows, in modo tale"
+        },
+        {
+          "start": 51.439998626708984,
+          "end": 53.20000076293945,
+          "text": "perché Cloud deve poterle chiamare."
+        },
+        {
+          "start": 53.20000076293945,
+          "end": 57.52000045776367,
+          "text": "Ricordatevi che il motivo per cui facciamo questa cosa è perché noi vogliamo che Cloud,"
+        },
+        {
+          "start": 57.52000045776367,
+          "end": 61.68000030517578,
+          "text": "qua lo apriamo così ci ricordiamo che stiamo facendo questa cosa con Cloud Code, vogliamo"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 1,
+        "time": 60.0,
+        "timestamp": "00:01:00",
+        "image": "frame_0001.jpg",
+        "reason": "periodic",
+        "ocr_text": "Bonefto © Feste: integmtione Pricing The Package Manager for Windows Modern Software Automation Schedule A Demo | Gets]",
+        "description": ""
+      },
+      "transcript": []
+    },
+    {
+      "keyframe": {
+        "index": 2,
+        "time": 60.5,
+        "timestamp": "00:01:00",
+        "image": "frame_0002.jpg",
+        "reason": "scene",
+        "ocr_text": "* % Claude Code % @ ® ne =",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 61.68000030517578,
+          "end": 68.72000122070312,
+          "text": "che Cloud da qua dentro, quindi quando lavora, è in grado di chiamare delle app che si chiamano"
+        },
+        {
+          "start": 68.72000122070312,
+          "end": 71.5199966430664,
+          "text": "dal terminale, questo lo potenzia all'infinito."
+        },
+        {
+          "start": 71.5199966430664,
+          "end": 72.95999908447266,
+          "text": "Allora cosa facciamo?"
+        },
+        {
+          "start": 72.95999908447266,
+          "end": 79.36000061035156,
+          "text": "Andate sul sito di Chocolaty, che vi lascio poi diciamo nelle risorse aggiuntive del corso,"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 3,
+        "time": 73.0,
+        "timestamp": "00:01:13",
+        "image": "frame_0003.jpg",
+        "reason": "scene",
+        "ocr_text": "The Package Manager for Windows Modern Software Automation Schedule A Demo | RESSE.) Looking for Packages? ss Dè A",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 79.36000061035156,
+          "end": 84.95999908447266,
+          "text": "qua sopra c'è un pulsante che si chiama install e ci dice cosa diciamo possiamo fare."
+        },
+        {
+          "start": 84.95999908447266,
+          "end": 90.72000122070312,
+          "text": "Non vi preoccupate, ci sono vari modi per installarlo, la cosa migliore è poi scaricarlo,"
+        },
+        {
+          "start": 90.72000122070312,
+          "end": 96.08000183105469,
+          "text": "vedete, scegli come installarlo, come generico, come individuo e così via, a noi va bene"
+        },
+        {
+          "start": 96.08000183105469,
+          "end": 100.16000366210938,
+          "text": "come individuo, scrolliamo un pochino, non vi preoccupate, questa parte la vedete sempre"
+        },
+        {
+          "start": 100.16000366210938,
+          "end": 104.80000305175781,
+          "text": "un po' lenta perché come vi dicevo io sono in una macchina virtuale, a voi sarà molto"
+        },
+        {
+          "start": 104.80000305175781,
+          "end": 105.80000305175781,
+          "text": "più veloce."
+        },
+        {
+          "start": 105.80000305175781,
+          "end": 113.27999877929688,
+          "text": "Quindi dice, prendi questo comando, lo copiamo proprio da qua e lancialo dentro la tua PowerShell,"
+        },
+        {
+          "start": 113.36000061035156,
+          "end": 118.4000015258789,
+          "text": "io sto usando sempre PowerShell, mi raccomando, quando fate questa roba su Windows lanciatelo"
+        },
+        {
+          "start": 118.4000015258789,
+          "end": 120.31999969482422,
+          "text": "sempre all'interno di PowerShell."
+        },
+        {
+          "start": 120.31999969482422,
+          "end": 126.31999969482422,
+          "text": "Quindi ci apriamo PowerShell, che è l'equivalente del terminale, e qua facciamo incolla, che"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 4,
+        "time": 121.93,
+        "timestamp": "00:02:02",
+        "image": "frame_0004.jpg",
+        "reason": "scene",
+        "ocr_text": "| pr know 115 safe, but you should verify the security and contents of any script chine. Me take security very serious. Leam more about our security ings installed or. AlSigned for quite a bit more security Pointanager)-SecurityProtocol bor 3072; lx (New- Object System.Ne ‘Malta few seconds for the command to complete. 5. you dont see any errors, you are ready to use Chocolateyi Type Low, or see Getting Started or usage instructions. Chocolatey Licensed Install: Are you also installing a commercial edition of Chocolatey? Advanced Chocolatey Install: a se 2 © A) A [ag 506",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 126.31999969482422,
+          "end": 133.27999877929688,
+          "text": "è quella riga che abbiamo appena copiato dal sito ufficiale di Chocolaty, quindi gli"
+        },
+        {
+          "start": 133.27999877929688,
+          "end": 137.1199951171875,
+          "text": "diamo invio e adesso dovrebbe partire l'installazione, ok?"
+        },
+        {
+          "start": 137.44000244140625,
+          "end": 145.1999969482422,
+          "text": "Qua ci sta dicendo che lo sta de-zippando, ok, lo sta aprendo, dice che sta aggiungendo"
+        },
+        {
+          "start": 145.1999969482422,
+          "end": 150.52000427246094,
+          "text": "al path e così via, ok, dice dovrebbe essere finito, cosa facciamo quando abbiamo finito"
+        },
+        {
+          "start": 150.52000427246094,
+          "end": 151.52000427246094,
+          "text": "l'installazione?"
+        },
+        {
+          "start": 151.52000427246094,
+          "end": 155.83999633789062,
+          "text": "Chiudiamo la PowerShell, per sicurezza è sempre meglio chiudere e riaprire per fare"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 5,
+        "time": 155.73,
+        "timestamp": "00:02:36",
+        "image": "frame_0005.jpg",
+        "reason": "scene",
+        "ocr_text": "> E Croci Setare] Cocos I CiocsteySofore] O (5 chocolsteorg/niti * © Install Chocolatey for Individual Use: 2. Install with powershellexe ®© nore Please Inspect htps:/communitychocolateyorg/istalL.ps1 prior to running any of these scripts to ensure safety We already know its safe, but fu should verify the security and contents of any script from the internet you are not familiar with. AI of these scripts download a remote PowerShell script and execute it on your machine. We take seditty very serious. Lear more about our security With owerShell you must ensure Get-Sxecutionolcy Îs ot Restritec.We suggest using &ypase. to bypass the policy to gt things installed or Afisigne for quite bt more security » St Ecco Dias Scope Process For stemNet SevcePoln ang] SectyProtc [ontemNeServcrombanagr} Scott dor 072 1x (ew oc stem DÌ A ita fiv seconds for the command to complete. 5.Ifyou dont see any errors, you are ready to use Chocolateyi Type! choco or chaco -?_now.or see Getting Started for usage instructions Ave you also installing a commercial edition of Chocolatey? Please see Install the Licensed Edition. Advanced Chocolatey Install:",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 155.83999633789062,
+          "end": 162.8000030517578,
+          "text": "in modo che si prenda le modifiche, riapriamoci di nuovo il nostro bel PowerShell, lo clicchiamo"
+        },
+        {
+          "start": 162.8000030517578,
+          "end": 166.16000366210938,
+          "text": "qua e adesso abbiamo il comando cioco, ok?"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 6,
+        "time": 163.4,
+        "timestamp": "00:02:43",
+        "image": "frame_0006.jpg",
+        "reason": "scene",
+        "ocr_text": "a) < E * 115 safe, but you should verify the security and contents of any script ine. We take security very serious. Leam more about our security Manager:Securtyrotocol bor 3072: ex (New Onjet System. I 5. you dont see any errors, you are ready to use Chocolateyi Type choco 01 choco -?_nowor see Getting Started fo usage instructions. Chocolatey Licensed Install: Are youal 0 installing a commercial edition of Chocolatey? Advanced Chocolatey Install: ss 4 ea A ag 500 o) :",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 166.24000549316406,
+          "end": 176.36000061035156,
+          "text": "Il comando cioco, cioco invio, è l'equivalente del comando brew che diamo dentro macOS, non"
+        },
+        {
+          "start": 176.36000061035156,
+          "end": 180.83999633789062,
+          "text": "proprio l'equivalente, nel senso concettualmente è la stessa cosa, quindi su Mac facevamo"
+        },
+        {
+          "start": 180.83999633789062,
+          "end": 186.32000732421875,
+          "text": "brew, install e mettevamo il nome del pacchetto e qua facciamo cioco, install e il nome del"
+        },
+        {
+          "start": 186.32000732421875,
+          "end": 187.32000732421875,
+          "text": "pacchetto."
+        },
+        {
+          "start": 187.32000732421875,
+          "end": 192.9199981689453,
+          "text": "Su Mac facevamo brew, uninstall per cancellare, per disinstallare, qua facciamo cioco, uninstall"
+        },
+        {
+          "start": 192.9199981689453,
+          "end": 193.9199981689453,
+          "text": "e così via."
+        },
+        {
+          "start": 193.9199981689453,
+          "end": 199.55999755859375,
+          "text": "Ma come dicevamo prima, questa roba non la facciamo noi, diciamo, dal terminale, ci facciamo"
+        },
+        {
+          "start": 199.55999755859375,
+          "end": 201.63999938964844,
+          "text": "aiutare da Cloud Code, ok?"
+        },
+        {
+          "start": 201.63999938964844,
+          "end": 205.44000244140625,
+          "text": "Quindi se avete visto, diciamo, la lezione, quella su Mac, oppure magari l'avete esaltata"
+        },
+        {
+          "start": 205.44000244140625,
+          "end": 209.0800018310547,
+          "text": "direttamente, ve lo faccio vedere qua, quello che consiglio io è di fare sempre questa"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 7,
+        "time": 205.5,
+        "timestamp": "00:03:26",
+        "image": "frame_0007.jpg",
+        "reason": "scene",
+        "ocr_text": "Same 1! princi rioni iirizona di Lissa ie EA Onttied Claude Code % > e come 10 he ac f ounne + DI D asi eceece. (I",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 209.0800018310547,
+          "end": 210.0800018310547,
+          "text": "cosa qua."
+        },
+        {
+          "start": 210.0800018310547,
+          "end": 227.24000549316406,
+          "text": "Sono su Windows e ho appena installato Ciocolatei per la gestione dei pacchetti e qua gli diciamo,"
+        },
+        {
+          "start": 227.24000549316406,
+          "end": 232.75999450683594,
+          "text": "per esempio, se lui è in grado di chiamarlo per installare delle cose, gli diciamo sei"
+        },
+        {
+          "start": 232.75999450683594,
+          "end": 244.0,
+          "text": "in grado di utilizzarlo direttamente tu per installare cose quando servono, invio."
+        },
+        {
+          "start": 244.0,
+          "end": 248.39999389648438,
+          "text": "Questa era, diciamo, la cosa che vi consiglio sempre di fare, no?"
+        },
+        {
+          "start": 248.39999389648438,
+          "end": 252.0800018310547,
+          "text": "Ve l'ho detto diverse volte all'interno di questo corso, ovviamente ve lo ribadisco pure"
+        },
+        {
+          "start": 252.0800018310547,
+          "end": 259.79998779296875,
+          "text": "qua, abbiamo uno strumento così potente che ci spiega come dobbiamo fare le cose, ma soprattutto"
+        },
+        {
+          "start": 259.79998779296875,
+          "end": 261.8399963378906,
+          "text": "li può fare, ok?"
+        },
+        {
+          "start": 261.9200134277344,
+          "end": 266.6400146484375,
+          "text": "Quindi ci dice, guarda sì lo posso fare, però guarda che a volte potrebbe servire"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 8,
+        "time": 265.5,
+        "timestamp": "00:04:26",
+        "image": "frame_0008.jpg",
+        "reason": "periodic",
+        "ocr_text": "Smmdini i i riar tire Sn voo barone E setup Ciclo poca. Xx * init Set up Chocolate pacage management. BB © 54 posso usare Chocolate direttamente rami ol PowerShlL Quando serve installare qualcosa eseguo 4 ita e conferme interattive che Boccherebtero Due cose da sapere atte. e la sessione di Powersheli he uso non è elevata, instaazione fl do che se Permessi min Chocolate gie png i ami un comando flsce pr permesi 0 segnalo. 2. Conferma prima di italia: prima ist o pacchetto chiederò onerma — n stallo sota su tuo stema senza che ti o abbia apoovato, anche se la care che Chocolate sa raggiunge con i ti Agent",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 266.6400146484375,
+          "end": 270.6400146484375,
+          "text": "il permesso di amministratore, in alcuni casi se non siete amministratore vi dice semplicemente"
+        },
+        {
+          "start": 270.6400146484375,
+          "end": 272.44000244140625,
+          "text": "questa cosa la devi fare tu dalla PowerShell, ok?"
+        },
+        {
+          "start": 272.44000244140625,
+          "end": 277.0400085449219,
+          "text": "Ho detto la stessa cosa anche nella lezione su Mac, quindi alcune cose Cloud Code è in"
+        },
+        {
+          "start": 277.0400085449219,
+          "end": 281.1199951171875,
+          "text": "grado di farne autonomia, per alcune altre invece vi dice, guarda, sta roba io non la"
+        },
+        {
+          "start": 281.1199951171875,
+          "end": 284.20001220703125,
+          "text": "posso fare da solo, devi essere tu amministratore, ok?"
+        },
+        {
+          "start": 284.20001220703125,
+          "end": 287.7200012207031,
+          "text": "Quindi per essere amministratore lo devi fare tu all'interno di PowerShell."
+        },
+        {
+          "start": 288.0400085449219,
+          "end": 294.2799987792969,
+          "text": "Quindi gli dico, usiamo adesso Cioco per installare un pacchetto che ci permetta per esempio di"
+        },
+        {
+          "start": 294.2799987792969,
+          "end": 295.8399963378906,
+          "text": "creare dei PDF."
+        },
+        {
+          "start": 295.8399963378906,
+          "end": 313.3599853515625,
+          "text": "Gli dico, se voglio creare dei PDF direttamente da Cloud Code, di cosa hai bisogno come tool"
+        },
+        {
+          "start": 313.3599853515625,
+          "end": 318.239990234375,
+          "text": "da installare con Cioco?"
+        },
+        {
+          "start": 318.239990234375,
+          "end": 321.8800048828125,
+          "text": "E lui adesso ci dirà delle proposte, ok?"
+        },
+        {
+          "start": 321.8800048828125,
+          "end": 326.6400146484375,
+          "text": "Ci sono delle app che lui installerà che gli servono per poter fare delle cose."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 9,
+        "time": 325.5,
+        "timestamp": "00:05:26",
+        "image": "frame_0009.jpg",
+        "reason": "periodic",
+        "ocr_text": "dacia Door reni sia 5 cosa posso fare perte bt 6 setup Croclte padag. x Set p Chocoatey package management. 2500 1 window e ho pena italia choc pera gestione dei pacchetti tool Powerhel.Quandio eve nstlre qulcosa eseguo @ © 5 posso usare Chocolite direttamente tram 1. armena: Chocolate cede privilegi di mniisiatore. Se la sezione di omershall che uo no è eat 1 2 Conferma prima dl inte: prima iste n pacchetto chiederò conferma — L ? e are di pal detamente i au code, di cosa chi bisogno come told istat con choco non stallo software so dstema senza che ta lo abbia ppt, anche se la chiesta è implct Vic che provi vricare che Chocoaey sia 299 i ti Agent",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 326.6400146484375,
+          "end": 331.0400085449219,
+          "text": "Un esempio classico che faccio sempre è quello di appunto poter fare i PDF."
+        },
+        {
+          "start": 331.0400085449219,
+          "end": 333.239990234375,
+          "text": "Gli dice, guarda, l'alternativa qual è?"
+        },
+        {
+          "start": 333.239990234375,
+          "end": 338.9200134277344,
+          "text": "È che io ti installo Pandoc e poi ti metto pure questo qua, Pandoc con Mixtext."
+        },
+        {
+          "start": 339.3599853515625,
+          "end": 343.4800109863281,
+          "text": "In realtà andiamo già sulla seconda perché la prima abbiamo visto che non funziona, l'abbiamo"
+        },
+        {
+          "start": 343.4800109863281,
+          "end": 344.4800109863281,
+          "text": "vista nell'altro video."
+        },
+        {
+          "start": 344.4800109863281,
+          "end": 345.760009765625,
+          "text": "Se non l'avete vista non fa niente."
+        },
+        {
+          "start": 345.760009765625,
+          "end": 348.9599914550781,
+          "text": "Gli dico, procedi con la seconda."
+        },
+        {
+          "start": 348.9599914550781,
+          "end": 354.44000244140625,
+          "text": "E vedi qua ci dice proprio il comando, ci dice io farò Cioco install Pandoc e Mixtext."
+        },
+        {
+          "start": 354.44000244140625,
+          "end": 359.8399963378906,
+          "text": "Quindi vado a mettere queste due app, a tutti gli effetti, installo nel tuo sistema un'app"
+        },
+        {
+          "start": 359.8399963378906,
+          "end": 365.239990234375,
+          "text": "che si chiama Pandoc e un'app che si chiama Mixtext che ti permetteranno di generare dei"
+        },
+        {
+          "start": 365.239990234375,
+          "end": 365.760009765625,
+          "text": "PDF."
+        },
+        {
+          "start": 366.0799865722656,
+          "end": 372.1600036621094,
+          "text": "A questo punto Cloud Code gli abbiamo aggiunto una nuova capacità, cioè il fatto di poter"
+        },
+        {
+          "start": 372.1600036621094,
+          "end": 373.1600036621094,
+          "text": "generare PDF."
+        },
+        {
+          "start": 373.1600036621094,
+          "end": 379.0799865722656,
+          "text": "Ecco perché dicevo lo estendiamo all'infinito perché quindi dopo potrà generare PDF, potrà"
+        },
+        {
+          "start": 379.0799865722656,
+          "end": 385.8399963378906,
+          "text": "se vi serve generare file, che ne so, PowerPoint, leggere dei file video, leggere dei file audio"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 10,
+        "time": 385.5,
+        "timestamp": "00:06:26",
+        "image": "frame_0010.jpg",
+        "reason": "periodic",
+        "ocr_text": "Sonnet Vitinia 1 cosa pento fare per te Set up Chocolatey package management. 2 voglio rare dei pf rettamente ca ine code di osa chi bcgno come co da mate con choco procedi con la secon esente progr. cnc È& 3 sei tw ui wi Agent",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 385.8399963378906,
+          "end": 386.8399963378906,
+          "text": "e così via."
+        },
+        {
+          "start": 386.8399963378906,
+          "end": 388.9599914550781,
+          "text": "Perciò le potenzialità sono infinite."
+        },
+        {
+          "start": 388.9599914550781,
+          "end": 394.32000732421875,
+          "text": "Adesso vediamo un attimino l'installazione, quando ha finito di installarlo mettiamo subito"
+        },
+        {
+          "start": 394.32000732421875,
+          "end": 395.32000732421875,
+          "text": "anche alla prova."
+        },
+        {
+          "start": 395.8800048828125,
+          "end": 400.8800048828125,
+          "text": "Ecco qua, l'installazione è finita, ci dice ho installato tutto, c'hai Pandoc e c'hai"
+        },
+        {
+          "start": 400.8800048828125,
+          "end": 401.8800048828125,
+          "text": "Mixtext."
+        },
+        {
+          "start": 401.8800048828125,
+          "end": 406.32000732421875,
+          "text": "Quindi dice in questo momento io sono pronto a generare dei PDF."
+        },
+        {
+          "start": 406.32000732421875,
+          "end": 409.9200134277344,
+          "text": "Facciamolo, cioè mettiamolo subito alla prova, vediamo se effettivamente può creare dei"
+        },
+        {
+          "start": 409.9200134277344,
+          "end": 410.9200134277344,
+          "text": "PDF."
+        },
+        {
+          "start": 410.9200134277344,
+          "end": 416.239990234375,
+          "text": "Vi ricordate che qua abbiamo un file txt di prova che avevamo generato in un'altra lezione"
+        },
+        {
+          "start": 416.239990234375,
+          "end": 420.32000732421875,
+          "text": "dove ho usato Windows, diciamo Windows non lo uso mai quindi qua il workspace non è"
+        },
+        {
+          "start": 420.32000732421875,
+          "end": 424.0,
+          "text": "aggiornato, però avevamo questo file di prova che abbiamo generato tempo fa."
+        },
+        {
+          "start": 424.0,
+          "end": 428.20001220703125,
+          "text": "Ecco, vediamo subito se è in grado di trasformarcelo in un file PDF."
+        },
+        {
+          "start": 428.20001220703125,
+          "end": 442.0400085449219,
+          "text": "Gli dico nel workspace c'è un file txt, trasformalo, scusatemi, aspetta un attimo che torno indietro"
+        },
+        {
+          "start": 442.0400085449219,
+          "end": 443.0400085449219,
+          "text": "che qua ho sbagliato."
+        },
+        {
+          "start": 443.0400085449219,
+          "end": 449.7200012207031,
+          "text": "Allora nel workspace ci sarà questo file txt e ce lo facciamo trasformare in un file"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 11,
+        "time": 445.5,
+        "timestamp": "00:07:26",
+        "image": "frame_0011.jpg",
+        "reason": "periodic",
+        "ocr_text": "cin uso E cosa posso ie pere procedi con seconda è PowerShot i DG * Rowersheli ut ti Agent + Pandoc 3.902 = MICTOX253 con n Sono pronto a generare PDF. Quando me o cheer (e fami un POF con quest ot.) userò fuso Marion = Pandoc = PD Nota sull prima esecuzione KTX carica pacchetti LUTEX on-demand a pma vlt che seno, quindi primo POF potrebbe metter 1-2 minuti",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 449.7200012207031,
+          "end": 450.7200012207031,
+          "text": "PDF."
+        },
+        {
+          "start": 450.7200012207031,
+          "end": 465.9599914550781,
+          "text": "Allora nel workspace hai un file txt, trasformalo in un PDF, invio e adesso lui userà questa"
+        },
+        {
+          "start": 465.9599914550781,
+          "end": 473.4800109863281,
+          "text": "roba che abbiamo appena installato e quindi Pandoc e Mixtext che sono delle app, ma lui"
+        },
+        {
+          "start": 473.4800109863281,
+          "end": 478.1600036621094,
+          "text": "è in grado di invocarle perché sono app che si possono chiamare dal terminale perché"
+        },
+        {
+          "start": 478.1600036621094,
+          "end": 483.1600036621094,
+          "text": "in teoria io potrei pure aprirmi la mia bella PowerShell qua e chiamare queste app da dentro"
+        },
+        {
+          "start": 483.1600036621094,
+          "end": 484.1600036621094,
+          "text": "la PowerShell."
+        },
+        {
+          "start": 484.1600036621094,
+          "end": 489.0400085449219,
+          "text": "Noi semplicemente lo stiamo facendo fare a Claude perché Claude sa come farlo, sa come"
+        },
+        {
+          "start": 489.0400085449219,
+          "end": 494.0799865722656,
+          "text": "incastrarli, noi non vogliamo utilizzare il terminale o almeno alcuni di noi, alcuni di"
+        },
+        {
+          "start": 494.0799865722656,
+          "end": 495.9599914550781,
+          "text": "voi non vogliono usare il terminale."
+        },
+        {
+          "start": 495.9599914550781,
+          "end": 499.9599914550781,
+          "text": "Gli diamo l'autorizzazione e adesso quello che succederà qua dentro è che nella nostra"
+        },
+        {
+          "start": 499.9599914550781,
+          "end": 504.8800048828125,
+          "text": "cartellina del workspace troveremo oltre al file txt che abbiamo creato in precedenza"
+        },
+        {
+          "start": 504.8800048828125,
+          "end": 508.7200012207031,
+          "text": "il file pdf diciamo di questa trasformazione."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 12,
+        "time": 505.5,
+        "timestamp": "00:08:26",
+        "image": "frame_0012.jpg",
+        "reason": "periodic",
+        "ocr_text": "spit tree porone ME Setup Chocolitey pacag.. x * go E cosaposiotae perte Set up Chocolatey package management. + Pandoc 3.902 / è MTOX253 con E È ‘ Sono pronto generare PDF. Quando me o cheer e. fammi n POF con quest ot) userò lusso Marion = Pandax = PDF GC Nota sulla prima esecuzione MKTEX saio pacchetti LEX on demon a prima vota che servono, quindi primo POF potrebbe metter 1-2 minuti pù del nome matr scarica fonia che gi Vici che aci un PDF di prova ora per \"scaldare cache ci NIKTEX 0 pre aspettare primo documento vc ud tn Agent e ripe hi un le bt tasca i un pe = ora comit. Aggioro l PATH (ogni comando parte da una sel ult) lanci pandoe » RowerSheli A atog",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 508.7200012207031,
+          "end": 514.52001953125,
+          "text": "Ecco qua, il nostro bel agente ha finito di creare il pdf, vediamo se effettivamente ce"
+        },
+        {
+          "start": 514.52001953125,
+          "end": 519.8800048828125,
+          "text": "l'abbiamo, abbassiamo un attimo questa finestra qua così andiamo nel nostro desktop nella"
+        },
+        {
+          "start": 519.8800048828125,
+          "end": 524.9600219726562,
+          "text": "cartella dove abbiamo creato il nostro workspace, scusate c'è pure questa qua di cioccolate"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 13,
+        "time": 520.5,
+        "timestamp": "00:08:40",
+        "image": "frame_0013.jpg",
+        "reason": "scene",
+        "ocr_text": "",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 524.9600219726562,
+          "end": 527.9600219726562,
+          "text": "in sottofondo, qua abbiamo Claude workspace, vi ricordate?"
+        },
+        {
+          "start": 527.9600219726562,
+          "end": 533.2000122070312,
+          "text": "Ecco qua, abbiamo il nostro bel file pdf, clicchiamo e vediamo come si vede e abbiamo"
+        },
+        {
+          "start": 533.2000122070312,
+          "end": 537.8400268554688,
+          "text": "creato il nostro primo pdf, vabbè qua adesso dice che non c'è installato niente, vabbè"
+        },
+        {
+          "start": 537.8400268554688,
+          "end": 543.2000122070312,
+          "text": "diamogli l'autorizzazione ad aprirlo con Chrome, non fate caso a questi errori e così via,"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 14,
+        "time": 540.13,
+        "timestamp": "00:09:00",
+        "image": "frame_0014.jpg",
+        "reason": "scene",
+        "ocr_text": "",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 543.2000122070312,
+          "end": 549.7999877929688,
+          "text": "ma abbiamo trasformato il file txt in un file pdf, capite perché questa cosa è potente?"
+        },
+        {
+          "start": 549.7999877929688,
+          "end": 556.3800048828125,
+          "text": "Perché adesso sapendo che cioccolate.I al suo interno può installare centinaia di cose"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 15,
+        "time": 550.6,
+        "timestamp": "00:09:11",
+        "image": "frame_0015.jpg",
+        "reason": "scene",
+        "ocr_text": "The Package Manager for Windows Modern Software Automation Schedule A Demo | RISE) Looking for Packages? 8 0% e 2 © AN",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 556.3800048828125,
+          "end": 561.719970703125,
+          "text": "diverse e quindi vi serve una cosa per lavorare con gli mp3, con gli mp4, con questo formato"
+        },
+        {
+          "start": 561.7999877929688,
+          "end": 566.47998046875,
+          "text": "di file, con questo formato d'immagine e così via, basta che lo installiamo e il nostro"
+        },
+        {
+          "start": 566.47998046875,
+          "end": 571.1199951171875,
+          "text": "sistema, il nostro agente che ci stiamo creando si può estendere all'infinito."
+        }
+      ]
+    }
+  ]
+}

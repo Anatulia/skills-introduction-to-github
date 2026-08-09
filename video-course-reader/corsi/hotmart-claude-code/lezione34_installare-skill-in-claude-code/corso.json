@@ -1,0 +1,2947 @@
+{
+  "title": "Installare skill in Claude Code",
+  "sections": [
+    {
+      "keyframe": {
+        "index": 0,
+        "time": 0.0,
+        "timestamp": "00:00:00",
+        "image": "frame_0000.jpg",
+        "reason": "start",
+        "ocr_text": "Open chat Show AI Command Find in Files",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1.0,
+          "end": 8.0,
+          "text": "Vediamo adesso invece il secondo livello di estensione del nostro sistema che ci stiamo creando"
+        },
+        {
+          "start": 8.0,
+          "end": 11.0,
+          "text": "E questo riguarda invece Cloud Code"
+        },
+        {
+          "start": 11.0,
+          "end": 15.0,
+          "text": "Abbiamo detto che il modo in cui lo estendiamo è attraverso le skill"
+        },
+        {
+          "start": 15.0,
+          "end": 17.0,
+          "text": "Fino ad ora noi le skill le abbiamo solo create"
+        },
+        {
+          "start": 17.0,
+          "end": 22.0,
+          "text": "Abbiamo visto un modulo intero su come creare le skill più semplici e le skill più avanzate"
+        },
+        {
+          "start": 22.0,
+          "end": 27.0,
+          "text": "Una skill che invece vogliamo installare, tra virgolette, anche se non è il termine corretto"
+        },
+        {
+          "start": 27.0,
+          "end": 30.0,
+          "text": "Come si fa? In maniera molto semplice"
+        },
+        {
+          "start": 30.0,
+          "end": 32.0,
+          "text": "Si copia e si incolla dentro la cartella skill"
+        },
+        {
+          "start": 32.0,
+          "end": 35.0,
+          "text": "Solitamente quando la scarichiamo è un file zip"
+        },
+        {
+          "start": 35.0,
+          "end": 40.0,
+          "text": "Quindi c'è una cartella, ad esempio qua ce n'è una sulla quale adesso farò una prova"
+        },
+        {
+          "start": 40.0,
+          "end": 42.0,
+          "text": "Questa qua si chiama front-end design"
+        },
+        {
+          "start": 42.0,
+          "end": 50.0,
+          "text": "Ed è una skill che ci permette di creare in maniera molto veloce dei semplici siti web, landing page e così via"
+        },
+        {
+          "start": 50.0,
+          "end": 52.0,
+          "text": "Quindi questa cartella qui, ve l'apro e vi faccio vedere"
+        },
+        {
+          "start": 52.0,
+          "end": 54.0,
+          "text": "Dentro c'è già la skill"
+        },
+        {
+          "start": 54.0,
+          "end": 61.0,
+          "text": "Vedete questo è il file skill.Md con dentro le istruzioni, come siamo abituati a vedere fino ad ora"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 1,
+        "time": 60.0,
+        "timestamp": "00:01:00",
+        "image": "frame_0001.jpg",
+        "reason": "periodic",
+        "ocr_text": "& cioe womesmace {è ta CO V cave Sei sie > ii aggioma-contesto > ul minutarinione 3 a ew © al tempiat-azindalo > ul tracoci-inglese 1) setings cca son < adl archivio sE09 Today at 17:05 Open chat Show AIl Command do 10K8_ Pian Tot Q",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 61.0,
+          "end": 65.0,
+          "text": "Prendo questa cartellina, semplicemente la copio dentro skill"
+        },
+        {
+          "start": 65.0,
+          "end": 67.0,
+          "text": "E adesso qua abbiamo front-end design"
+        },
+        {
+          "start": 67.0,
+          "end": 68.0,
+          "text": "È finito"
+        },
+        {
+          "start": 68.0,
+          "end": 72.0,
+          "text": "Da questo momento Cloud Code è in grado di fare questa roba qua"
+        },
+        {
+          "start": 72.0,
+          "end": 73.0,
+          "text": "Quindi lavorare sul front-end"
+        },
+        {
+          "start": 73.0,
+          "end": 75.0,
+          "text": "Ventiamolo subito alla prova"
+        },
+        {
+          "start": 75.0,
+          "end": 78.0,
+          "text": "Ci apriamo subito una chat"
+        },
+        {
+          "start": 78.0,
+          "end": 79.0,
+          "text": "Mi chiudo questo"
+        },
+        {
+          "start": 79.0,
+          "end": 90.0,
+          "text": "E gli dico, usando l'apposita skill, crea una semplice landing page nella cartella temporanea"
+        },
+        {
+          "start": 90.0,
+          "end": 96.0,
+          "text": "Quindi lo facciamo salvare nella cartella temporanea"
+        },
+        {
+          "start": 96.0,
+          "end": 107.0,
+          "text": "Dove si promuove un corso per imparare a usare Cloud Code per i non programmatori"
+        },
+        {
+          "start": 108.0,
+          "end": 111.0,
+          "text": "Diciamo stile minimale"
+        },
+        {
+          "start": 111.0,
+          "end": 116.0,
+          "text": "Usa i colori tipici di Cloud Code"
+        },
+        {
+          "start": 116.0,
+          "end": 119.0,
+          "text": "Nero e arancione"
+        },
+        {
+          "start": 119.0,
+          "end": 124.0,
+          "text": "Ovviamente qua le istruzioni sono veramente date molto molto male"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 2,
+        "time": 120.0,
+        "timestamp": "00:02:00",
+        "image": "frame_0002.jpg",
+        "reason": "periodic",
+        "ocr_text": "36 usando apposita sil. x usando l'apposita kl, crea una sempli.. © cis usando l'apposita kl, cea una semplce landing page (nell rtl tamporanea) dove s promuove ur crso per Imparare a usare ciaude code per non programmatori ile minimal, us | colori tipi di caud code: ero e arancione # dong.. + Down",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 124.0,
+          "end": 127.0,
+          "text": "Si fa in maniera diversa una landing page sul sito web"
+        },
+        {
+          "start": 127.0,
+          "end": 131.0,
+          "text": "È solo per far vedere che la skill che abbiamo appena installato"
+        },
+        {
+          "start": 131.0,
+          "end": 134.0,
+          "text": "Quindi quella che abbiamo copiato e incollato dal mio desktop"
+        },
+        {
+          "start": 134.0,
+          "end": 136.0,
+          "text": "La possiamo subito testare"
+        },
+        {
+          "start": 136.0,
+          "end": 137.0,
+          "text": "La mettiamo subito all'opera"
+        },
+        {
+          "start": 137.0,
+          "end": 138.0,
+          "text": "Ricordatevi una cosa"
+        },
+        {
+          "start": 138.0,
+          "end": 141.0,
+          "text": "Che quando mettete una nuova skill dovete aprire una nuova chat"
+        },
+        {
+          "start": 141.0,
+          "end": 142.0,
+          "text": "Altrimenti non funziona"
+        },
+        {
+          "start": 142.0,
+          "end": 144.0,
+          "text": "Ci accorgiamo che sta chiamando la skill"
+        },
+        {
+          "start": 144.0,
+          "end": 146.0,
+          "text": "Perché nel flusso di lavoro"
+        },
+        {
+          "start": 146.0,
+          "end": 148.0,
+          "text": "Dove c'è tutto il ragionamento"
+        },
+        {
+          "start": 148.0,
+          "end": 150.0,
+          "text": "Qua vediamo front-end design"
+        },
+        {
+          "start": 150.0,
+          "end": 151.0,
+          "text": "Skill invocata"
+        },
+        {
+          "start": 151.0,
+          "end": 154.0,
+          "text": "Quindi in questo momento lui sta lavorando con una skill"
+        },
+        {
+          "start": 154.0,
+          "end": 156.0,
+          "text": "Dice la sto progettando"
+        },
+        {
+          "start": 156.0,
+          "end": 158.0,
+          "text": "Qua ci apriamo pure la nostra cartellina temp"
+        },
+        {
+          "start": 158.0,
+          "end": 159.0,
+          "text": "Perché finirà qua dentro"
+        },
+        {
+          "start": 159.0,
+          "end": 161.0,
+          "text": "Cancelliamoci questo file qua"
+        },
+        {
+          "start": 161.0,
+          "end": 163.0,
+          "text": "Che adesso non ci serve"
+        },
+        {
+          "start": 163.0,
+          "end": 164.0,
+          "text": "E aspettiamo"
+        },
+        {
+          "start": 164.0,
+          "end": 166.0,
+          "text": "Perché adesso dentro la cartella temporanea"
+        },
+        {
+          "start": 166.0,
+          "end": 168.0,
+          "text": "Verrà creato questo file"
+        },
+        {
+          "start": 168.0,
+          "end": 170.0,
+          "text": "Diciamo HTML"
+        },
+        {
+          "start": 170.0,
+          "end": 172.0,
+          "text": "Probabilmente con questa semplice landing page"
+        },
+        {
+          "start": 172.0,
+          "end": 174.0,
+          "text": "Che stiamo andando a creare"
+        },
+        {
+          "start": 174.0,
+          "end": 177.0,
+          "text": "Dopo ve ne faccio vedere anche un secondo esempio"
+        },
+        {
+          "start": 177.0,
+          "end": 178.0,
+          "text": "Un pochino più complicato"
+        },
+        {
+          "start": 178.0,
+          "end": 180.0,
+          "text": "Perché qua mi sono già preparato una skill"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 3,
+        "time": 180.0,
+        "timestamp": "00:03:00",
+        "image": "frame_0003.jpg",
+        "reason": "periodic",
+        "ocr_text": "cuwve womsnice | (è Ea CD = Create Claude Code landi. x rst Ciad Code aci paga forte. SG ski ri n aggiona-contesto 1 frontend-desion i minuto runione PISSS usando l'apposita kl, crea una semplice landing page (nell cartela temporanea) dove sì promuove ur corso per Imparare a usare caude code per non programmatori n telate-aziendalo n traduci-nglese () sttngs oca fon Sl archivio Thought fore > al centi > al conte è cis se minimal, us i colori ii di claudio code: ero e arancione frontond- design sci 2 si rows Thovght fortas 3a riunioni < 6 temo ‘Sto progettando e costruendo la landing page con un'estetica terinao-editoriae. + gip > aG tempio © CLAUDE md 19 eMbsers/rataste/Destopr claude vorkspace/tanp/* 25/6e/moll 1 cche \"crtella vota 0 inesistente Bash Check temp folder esisto Transmuting.. acoi ® + © Down 0 ta mon DI",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 180.0,
+          "end": 182.0,
+          "text": "Che serve per creare i file word"
+        },
+        {
+          "start": 182.0,
+          "end": 183.0,
+          "text": "Vedete com'è"
+        },
+        {
+          "start": 183.0,
+          "end": 185.0,
+          "text": "Sta diventando sempre più potente"
+        },
+        {
+          "start": 185.0,
+          "end": 186.0,
+          "text": "Fino a poco fa"
+        },
+        {
+          "start": 186.0,
+          "end": 189.0,
+          "text": "Diciamo i file word per noi era una cosa inaccessibile"
+        },
+        {
+          "start": 189.0,
+          "end": 191.0,
+          "text": "Facevamo dei semplici file di testo"
+        },
+        {
+          "start": 191.0,
+          "end": 193.0,
+          "text": "Facevamo con il nostro markdown"
+        },
+        {
+          "start": 193.0,
+          "end": 195.0,
+          "text": "Invece tra un attimo facciamo pure i file word"
+        },
+        {
+          "start": 195.0,
+          "end": 196.0,
+          "text": "Finiamo che"
+        },
+        {
+          "start": 196.0,
+          "end": 198.0,
+          "text": "Aspettiamo che finisce di creare questa landing page"
+        },
+        {
+          "start": 198.0,
+          "end": 200.0,
+          "text": "E vi faccio vedere il risultato finale"
+        },
+        {
+          "start": 200.0,
+          "end": 201.0,
+          "text": "Ecco qua"
+        },
+        {
+          "start": 201.0,
+          "end": 202.0,
+          "text": "Dopo qualche altro minuto"
+        },
+        {
+          "start": 202.0,
+          "end": 204.0,
+          "text": "Ci dice che ha finito di fare la landing page"
+        },
+        {
+          "start": 204.0,
+          "end": 206.0,
+          "text": "Ovviamente qua non gli abbiamo detto niente"
+        },
+        {
+          "start": 206.0,
+          "end": 210.0,
+          "text": "Quindi se le sta inventando le cose su questo corso"
+        },
+        {
+          "start": 210.0,
+          "end": 211.0,
+          "text": "Però il file ce l'ha creato"
+        },
+        {
+          "start": 211.0,
+          "end": 212.0,
+          "text": "Eccolo qua"
+        },
+        {
+          "start": 212.0,
+          "end": 213.0,
+          "text": "Landing Cloud Code"
+        },
+        {
+          "start": 213.0,
+          "end": 214.0,
+          "text": "Punto HTML"
+        },
+        {
+          "start": 214.0,
+          "end": 215.0,
+          "text": "Ci clicco sopra"
+        },
+        {
+          "start": 215.0,
+          "end": 216.0,
+          "text": "Qua vediamo il codice"
+        },
+        {
+          "start": 216.0,
+          "end": 218.0,
+          "text": "Diciamo ma se faccio come sempre anteprima"
+        },
+        {
+          "start": 218.0,
+          "end": 220.0,
+          "text": "Ci possiamo vedere la landing page"
+        },
+        {
+          "start": 220.0,
+          "end": 221.0,
+          "text": "Che ovviamente"
+        },
+        {
+          "start": 221.0,
+          "end": 223.0,
+          "text": "Essendo fatta così diciamo con zero"
+        },
+        {
+          "start": 223.0,
+          "end": 227.0,
+          "text": "Con zero informazioni non è niente male"
+        },
+        {
+          "start": 227.0,
+          "end": 228.0,
+          "text": "Scrivi la lista d'attesa"
+        },
+        {
+          "start": 228.0,
+          "end": 229.0,
+          "text": "Scrivi di più"
+        },
+        {
+          "start": 229.0,
+          "end": 230.0,
+          "text": "Scrivi in italiano"
+        },
+        {
+          "start": 230.0,
+          "end": 231.0,
+          "text": "Lui esegue"
+        },
+        {
+          "start": 231.0,
+          "end": 233.0,
+          "text": "Ovviamente la landing page del corso"
+        },
+        {
+          "start": 233.0,
+          "end": 235.0,
+          "text": "Che sta eseguendo è molto più bella di questo"
+        },
+        {
+          "start": 235.0,
+          "end": 236.0,
+          "text": "Zero codice da eseguire"
+        },
+        {
+          "start": 236.0,
+          "end": 237.0,
+          "text": "Però molto"
+        },
+        {
+          "start": 237.0,
+          "end": 238.0,
+          "text": "Fatta molto bella"
+        },
+        {
+          "start": 238.0,
+          "end": 239.0,
+          "text": "Vedete ci ha messo le icone"
+        },
+        {
+          "start": 239.0,
+          "end": 241.0,
+          "text": "Ha fatto questa roba un po' matrix"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 4,
+        "time": 240.0,
+        "timestamp": "00:04:00",
+        "image": "frame_0004.jpg",
+        "reason": "periodic",
+        "ocr_text": "i terpiate-azendala > 1 traduek-ingieso (0) satinge oca son ad archivio nd cionti nd conto ni nove nd unioni toro % gite BI 1anding-ciaude-code htm i tempia % CALDE md 36 Creato Claude Cod ln Create Claude Code landing pago for be. 1 ciAvDE me usando l'apposita kl, crea una semplice landing page (nell cartla temporanea) dove si promuove un orso per Imparare a usare claude code peri non programmatori i minimal, us cori tipici di ciaudo code: ero e arancione. Sto progettando e costruendo la landing page con un'estetica termnae- editoria. è Gisah Check temp older iste 19 “vdsars/ratranle/Desktop/clae vorkspnce/tenp/* 2:/dev/mui || echo “crtetta vota Write ansiog-cleue-cose. ital Siti tangente Landing page creata in tempanding-ciaude-code Nim. Ape nel broser per vedra Ecco cosa conlne: + Horo con ade forte e cursore lampeggiante aimato Demo terminale stlzzata che mostra Ciaude Cod in zione con esempi in tano) © 4 bone n card con eto over arancione * Sezione \"Per ehi è® cn sta target + box \"cosa non serve” * Form ita d'attesa con foedback di conterma. + Statiticho in ste egtorale Estetica: sfondo nero con grana sot, arancione #FF483S ont Babas Nowo perl tl + 18M Plex Mono perl elementi terminale. Tuto sllcontined mobl- (end, nessuna dipendenza esterna tre Googa Fonts. + DD wosopeinie cosenmi cos gie: QUATTRO CAPACITÀ. RISULTATI CONCRETI. 4 Automatizzare i task ripetitivi Report raccolta dat invio email formattazione documenti So fa gni settimana puoi delegaio a Claude. È? Collegare gli strumenti che già TEO) *D® O GIG) Gestir file e cartelle con prompt. automatici —in secondi Creare agenti su mi Cosmuisci assistenti pe",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 241.0,
+          "end": 243.0,
+          "text": "No un po' nerd"
+        },
+        {
+          "start": 243.0,
+          "end": 244.0,
+          "text": "Ma molto minimale"
+        },
+        {
+          "start": 244.0,
+          "end": 245.0,
+          "text": "E così via"
+        },
+        {
+          "start": 245.0,
+          "end": 247.0,
+          "text": "E quindi con questa skill"
+        },
+        {
+          "start": 247.0,
+          "end": 248.0,
+          "text": "Che abbiamo appena installato"
+        },
+        {
+          "start": 248.0,
+          "end": 249.0,
+          "text": "Adesso"
+        },
+        {
+          "start": 249.0,
+          "end": 250.0,
+          "text": "Il nostro Cloud Code"
+        },
+        {
+          "start": 250.0,
+          "end": 251.0,
+          "text": "È in grado"
+        },
+        {
+          "start": 251.0,
+          "end": 253.0,
+          "text": "Di lavorare pure"
+        },
+        {
+          "start": 253.0,
+          "end": 255.0,
+          "text": "Diciamo su piccoli sit web"
+        },
+        {
+          "start": 255.0,
+          "end": 256.0,
+          "text": "Semplici sit web"
+        },
+        {
+          "start": 256.0,
+          "end": 257.0,
+          "text": "Facciamone uno un pochino più avanzato"
+        },
+        {
+          "start": 257.0,
+          "end": 260.0,
+          "text": "Perché qua c'ho una skill"
+        },
+        {
+          "start": 260.0,
+          "end": 262.0,
+          "text": "Che invece permette di fare i file word"
+        },
+        {
+          "start": 262.0,
+          "end": 263.0,
+          "text": "Quindi la prendo"
+        },
+        {
+          "start": 263.0,
+          "end": 264.0,
+          "text": "La copio qua dentro"
+        },
+        {
+          "start": 264.0,
+          "end": 266.0,
+          "text": "E la porto dentro la cartellina skills"
+        },
+        {
+          "start": 266.0,
+          "end": 268.0,
+          "text": "Ok vedete adesso ci abbiamo DocX"
+        },
+        {
+          "start": 268.0,
+          "end": 270.0,
+          "text": "Mi apro una nuova chat"
+        },
+        {
+          "start": 270.0,
+          "end": 271.0,
+          "text": "Come sempre"
+        },
+        {
+          "start": 271.0,
+          "end": 272.0,
+          "text": "Altrimenti non funziona"
+        },
+        {
+          "start": 272.0,
+          "end": 273.0,
+          "text": "E facciamo"
+        },
+        {
+          "start": 273.0,
+          "end": 275.0,
+          "text": "Facciamogli creare un file word"
+        },
+        {
+          "start": 275.0,
+          "end": 276.0,
+          "text": "Come prima cosa"
+        },
+        {
+          "start": 276.0,
+          "end": 277.0,
+          "text": "Mi faccio un file markdown"
+        },
+        {
+          "start": 277.0,
+          "end": 278.0,
+          "text": "Un file di testo"
+        },
+        {
+          "start": 278.0,
+          "end": 279.0,
+          "text": "Gli dico"
+        },
+        {
+          "start": 279.0,
+          "end": 282.0,
+          "text": "Creami un file md"
+        },
+        {
+          "start": 282.0,
+          "end": 285.0,
+          "text": "Nella cartella temporanea"
+        },
+        {
+          "start": 285.0,
+          "end": 288.0,
+          "text": "Dove ci metti"
+        },
+        {
+          "start": 288.0,
+          "end": 292.0,
+          "text": "10 ricette tipiche italiane"
+        },
+        {
+          "start": 292.0,
+          "end": 293.0,
+          "text": "Ok invio"
+        },
+        {
+          "start": 293.0,
+          "end": 295.0,
+          "text": "Perché sto facendo questa cosa"
+        },
+        {
+          "start": 295.0,
+          "end": 297.0,
+          "text": "Perché dopo io voglio far fare la conversione"
+        },
+        {
+          "start": 297.0,
+          "end": 299.0,
+          "text": "Cioè voglio avere qualcosa da cui partire"
+        },
+        {
+          "start": 299.0,
+          "end": 301.0,
+          "text": "Per poi trasformarlo in un file word"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 5,
+        "time": 300.0,
+        "timestamp": "00:05:00",
+        "image": "frame_0005.jpg",
+        "reason": "periodic",
+        "ocr_text": "ce0 EDOo © coenomnee Dt CO > Create ecperm. x «06 ES cadi > n aggioma-contesto Create tallon recipes mark fe Pi ia reni uf md ell orta temporanea deve ci met 10 eta tpche alan N ‘iano È uan © Travprt for os 8 empiat aziendale BÈ > nd vraguciingiese €) settings ocatison <a archivio 3 a clent ® JE > i coni & + Fibbertiglbbetng... > ai nove > ad riunioni > 6 temo + giteep 8 tnding-caude-code himi > gi tompi è CALDE md",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 301.0,
+          "end": 304.0,
+          "text": "Quindi il file md di partenza"
+        },
+        {
+          "start": 304.0,
+          "end": 305.0,
+          "text": "Più che altro è un pretesto"
+        },
+        {
+          "start": 305.0,
+          "end": 307.0,
+          "text": "Noi avere un po' di testo"
+        },
+        {
+          "start": 307.0,
+          "end": 308.0,
+          "text": "Che poi pigliamo"
+        },
+        {
+          "start": 308.0,
+          "end": 310.0,
+          "text": "E buttiamo dentro un file word"
+        },
+        {
+          "start": 310.0,
+          "end": 311.0,
+          "text": "Quindi adesso qua"
+        },
+        {
+          "start": 311.0,
+          "end": 312.0,
+          "text": "Ci dovrebbe creare"
+        },
+        {
+          "start": 312.0,
+          "end": 313.0,
+          "text": "Diciamo dove ha creato il nostro file html"
+        },
+        {
+          "start": 313.0,
+          "end": 315.0,
+          "text": "Ci dovrebbe creare pure il file md"
+        },
+        {
+          "start": 315.0,
+          "end": 317.0,
+          "text": "Con le 10 ricette italiane"
+        },
+        {
+          "start": 317.0,
+          "end": 318.0,
+          "text": "Ed ecco qua"
+        },
+        {
+          "start": 318.0,
+          "end": 319.0,
+          "text": "Dopo qualche secondo"
+        },
+        {
+          "start": 319.0,
+          "end": 320.0,
+          "text": "Ci ha creato il nostro bel file"
+        },
+        {
+          "start": 320.0,
+          "end": 321.0,
+          "text": "Lo apriamo"
+        },
+        {
+          "start": 321.0,
+          "end": 322.0,
+          "text": "La carbonara"
+        },
+        {
+          "start": 322.0,
+          "end": 323.0,
+          "text": "Il risotto alla milanese"
+        },
+        {
+          "start": 323.0,
+          "end": 324.0,
+          "text": "La pizza margherita"
+        },
+        {
+          "start": 324.0,
+          "end": 326.0,
+          "text": "Osso buco alla milanese"
+        },
+        {
+          "start": 326.0,
+          "end": 327.0,
+          "text": "E così via"
+        },
+        {
+          "start": 327.0,
+          "end": 329.0,
+          "text": "Adesso invece vogliamo trasformarlo"
+        },
+        {
+          "start": 329.0,
+          "end": 330.0,
+          "text": "In un file word"
+        },
+        {
+          "start": 330.0,
+          "end": 331.0,
+          "text": "Quindi facciamo"
+        },
+        {
+          "start": 331.0,
+          "end": 334.0,
+          "text": "Usando l'apposita"
+        },
+        {
+          "start": 334.0,
+          "end": 336.0,
+          "text": "L'apposita skill"
+        },
+        {
+          "start": 336.0,
+          "end": 337.0,
+          "text": "Questa cosa non serve"
+        },
+        {
+          "start": 337.0,
+          "end": 338.0,
+          "text": "Scriverla sempre"
+        },
+        {
+          "start": 338.0,
+          "end": 339.0,
+          "text": "Io lo faccio"
+        },
+        {
+          "start": 339.0,
+          "end": 340.0,
+          "text": "In modo esplicito"
+        },
+        {
+          "start": 340.0,
+          "end": 341.0,
+          "text": "Nel corso"
+        },
+        {
+          "start": 341.0,
+          "end": 342.0,
+          "text": "Solo per farvelo capire"
+        },
+        {
+          "start": 342.0,
+          "end": 343.0,
+          "text": "Però Cloud Code"
+        },
+        {
+          "start": 343.0,
+          "end": 344.0,
+          "text": "È abbastanza intelligente"
+        },
+        {
+          "start": 344.0,
+          "end": 345.0,
+          "text": "Che se voi gli dite"
+        },
+        {
+          "start": 345.0,
+          "end": 346.0,
+          "text": "Crea un file word"
+        },
+        {
+          "start": 346.0,
+          "end": 347.0,
+          "text": "Lui capisce"
+        },
+        {
+          "start": 347.0,
+          "end": 348.0,
+          "text": "Che ha una skill"
+        },
+        {
+          "start": 348.0,
+          "end": 349.0,
+          "text": "Per fare i file word"
+        },
+        {
+          "start": 349.0,
+          "end": 350.0,
+          "text": "E lo fa"
+        },
+        {
+          "start": 350.0,
+          "end": 351.0,
+          "text": "Usando l'apposita skill"
+        },
+        {
+          "start": 351.0,
+          "end": 354.0,
+          "text": "Trasforma questo file md"
+        },
+        {
+          "start": 354.0,
+          "end": 357.0,
+          "text": "In un file word"
+        },
+        {
+          "start": 357.0,
+          "end": 358.0,
+          "text": "Invio"
+        },
+        {
+          "start": 358.0,
+          "end": 359.0,
+          "text": "Perché ho detto"
+        },
+        {
+          "start": 359.0,
+          "end": 360.0,
+          "text": "Questo è leggermente"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 6,
+        "time": 360.0,
+        "timestamp": "00:06:00",
+        "image": "frame_0006.jpg",
+        "reason": "periodic",
+        "ocr_text": "00 | supvorne Bc - decremento m x Scade a Create tallon recipes mark fe > i aggioma-contesto > nl docs > nd frontend-design nl rinutarunione a ws tmp for 5 > al tomplato-azindolo > ud tacoci-ingieso () settings ocason dae 0 20 Ricette Tipiche Tratiase > al cileni = > al conti 3 ail nova > a riunioni File creto In templscttJallane md cOn 1 rette tipiche italane, una per regione: Carbonara, Riso Siglo Bolognese — ognuna con ingredienti procedimento + gitsep 18 (anding-cisude-code hi usando apposta kl trasforma questo le md n un fl word — ricttiallane md > Wi tempie + Muling CUAUDE md creami un fl md nella cartla temporanea dove ci mett 10 ricette tipiche ialone Write ricette itatiane.nd",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 360.0,
+          "end": 362.0,
+          "text": "Più complesso di quello di prima"
+        },
+        {
+          "start": 362.0,
+          "end": 363.0,
+          "text": "Perché fino ad ora"
+        },
+        {
+          "start": 363.0,
+          "end": 364.0,
+          "text": "Sembra esattamente la stessa cosa"
+        },
+        {
+          "start": 364.0,
+          "end": 365.0,
+          "text": "In realtà"
+        },
+        {
+          "start": 365.0,
+          "end": 366.0,
+          "text": "Questa skill"
+        },
+        {
+          "start": 366.0,
+          "end": 368.0,
+          "text": "Per lavorare dentro"
+        },
+        {
+          "start": 368.0,
+          "end": 369.0,
+          "text": "Ha bisogno"
+        },
+        {
+          "start": 369.0,
+          "end": 371.0,
+          "text": "Di invocare un po' di codice"
+        },
+        {
+          "start": 371.0,
+          "end": 372.0,
+          "text": "Ok?"
+        },
+        {
+          "start": 372.0,
+          "end": 373.0,
+          "text": "Non riesce a farlo in autonomia"
+        },
+        {
+          "start": 373.0,
+          "end": 374.0,
+          "text": "Anche perché non è facile"
+        },
+        {
+          "start": 374.0,
+          "end": 376.0,
+          "text": "Creare un file word"
+        },
+        {
+          "start": 376.0,
+          "end": 377.0,
+          "text": "Quindi adesso"
+        },
+        {
+          "start": 377.0,
+          "end": 378.0,
+          "text": "Quello che succederà"
+        },
+        {
+          "start": 378.0,
+          "end": 379.0,
+          "text": "È che ci chiederà"
+        },
+        {
+          "start": 379.0,
+          "end": 380.0,
+          "text": "Di installare delle cose aggiuntive"
+        },
+        {
+          "start": 380.0,
+          "end": 382.0,
+          "text": "Cioè ci dirà"
+        },
+        {
+          "start": 382.0,
+          "end": 383.0,
+          "text": "Per poter"
+        },
+        {
+          "start": 383.0,
+          "end": 384.0,
+          "text": "Per permettermi"
+        },
+        {
+          "start": 384.0,
+          "end": 385.0,
+          "text": "A me skill"
+        },
+        {
+          "start": 385.0,
+          "end": 386.0,
+          "text": "Di funzionare"
+        },
+        {
+          "start": 386.0,
+          "end": 387.0,
+          "text": "Di creare un file word"
+        },
+        {
+          "start": 387.0,
+          "end": 388.0,
+          "text": "Devo installare delle cose"
+        },
+        {
+          "start": 388.0,
+          "end": 389.0,
+          "text": "E infatti"
+        },
+        {
+          "start": 389.0,
+          "end": 390.0,
+          "text": "Vedete?"
+        },
+        {
+          "start": 390.0,
+          "end": 391.0,
+          "text": "Ci dice"
+        },
+        {
+          "start": 391.0,
+          "end": 392.0,
+          "text": "Guarda mi devi permettere"
+        },
+        {
+          "start": 392.0,
+          "end": 393.0,
+          "text": "Di installare"
+        },
+        {
+          "start": 393.0,
+          "end": 394.0,
+          "text": "Questa libreria"
+        },
+        {
+          "start": 395.0,
+          "end": 396.0,
+          "text": "Questo comando"
+        },
+        {
+          "start": 396.0,
+          "end": 397.0,
+          "text": "NPM install"
+        },
+        {
+          "start": 397.0,
+          "end": 398.0,
+          "text": "Non vado nel tecnico"
+        },
+        {
+          "start": 398.0,
+          "end": 399.0,
+          "text": "Diciamo"
+        },
+        {
+          "start": 399.0,
+          "end": 400.0,
+          "text": "Perché è un modo"
+        },
+        {
+          "start": 400.0,
+          "end": 401.0,
+          "text": "Con il quale si installano"
+        },
+        {
+          "start": 401.0,
+          "end": 402.0,
+          "text": "Librerie"
+        },
+        {
+          "start": 402.0,
+          "end": 403.0,
+          "text": "Javascript"
+        },
+        {
+          "start": 403.0,
+          "end": 404.0,
+          "text": "In particolare"
+        },
+        {
+          "start": 404.0,
+          "end": 405.0,
+          "text": "Adesso deve avere accesso"
+        },
+        {
+          "start": 405.0,
+          "end": 406.0,
+          "text": "A questa libreria"
+        },
+        {
+          "start": 406.0,
+          "end": 407.0,
+          "text": "Come sempre"
+        },
+        {
+          "start": 407.0,
+          "end": 408.0,
+          "text": "Vedete?"
+        },
+        {
+          "start": 408.0,
+          "end": 409.0,
+          "text": "Non sono cose"
+        },
+        {
+          "start": 409.0,
+          "end": 410.0,
+          "text": "Che dobbiamo fare noi"
+        },
+        {
+          "start": 410.0,
+          "end": 411.0,
+          "text": "È cloud"
+        },
+        {
+          "start": 411.0,
+          "end": 412.0,
+          "text": "Che sa di cosa ha bisogno"
+        },
+        {
+          "start": 412.0,
+          "end": 413.0,
+          "text": "E se lo installa"
+        },
+        {
+          "start": 413.0,
+          "end": 414.0,
+          "text": "Qua lo autorizziamo"
+        },
+        {
+          "start": 414.0,
+          "end": 415.0,
+          "text": "A fare questa cosa"
+        },
+        {
+          "start": 415.0,
+          "end": 416.0,
+          "text": "E quindi diciamo"
+        },
+        {
+          "start": 416.0,
+          "end": 417.0,
+          "text": "Adesso sta installando"
+        },
+        {
+          "start": 417.0,
+          "end": 418.0,
+          "text": "Quello che gli serve"
+        },
+        {
+          "start": 418.0,
+          "end": 419.0,
+          "text": "Cioè questa skill"
+        },
+        {
+          "start": 419.0,
+          "end": 420.0,
+          "text": "Per poter funzionare"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 7,
+        "time": 420.0,
+        "timestamp": "00:07:00",
+        "image": "frame_0007.jpg",
+        "reason": "periodic",
+        "ocr_text": "cuwsewomsnce {è E CD = è Cresenatan recipes m. X < 6 casse COS i aggiona-contesto PISS usano l'apposita il trasforma questo le md n un fl word Create tallon recipes mark file a frontend-desion liuto unione 18 nos © Bash Check i docx pm package is iste giobal > al tempiato.azindalo rei vatch oca 23/06/mutL |} np List = docx D/gev/muti | best 3 (0) sattingeocason doc not fond 04 archivio i ciont n conti Cia Bash instli docx npm package global ad unioni Peo, np instati = docx Del | att 5 © Read ricette ttotine.ni Tour fore giore: devat):1: command not found: npe Thoue for 16 Bash Find nodetmpm istlation vaseh noe nodeje 2/geu/nal1 18 /unr/10c0/ b/n modue/ 2>/00v/ Mi 13 S/.va/ version 2>/60V/0011 15 Jopt/fenebre/Bin/apa 2/dev/ n command oa 2o/60/ nat Allow this bash command? vich noge nodejs 2>/6ev/nlli ls Vuse/loca/Ub/node moss) 2>/dev/oott 1 “l.vn/versions/ 2>/dev/nut lo /opt/hosebrew/bin/npa 2>/6ev{ntl; command = pa Pidevimati Find node intalation 2 Yes, allow [\\srhoclfib]* and 3 more fr ts project (ut you ae Toi Cine vato do Instond",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 420.0,
+          "end": 421.0,
+          "text": "Ha bisogno di alcune cose"
+        },
+        {
+          "start": 421.0,
+          "end": 422.0,
+          "text": "Noi lo autorizziamo"
+        },
+        {
+          "start": 422.0,
+          "end": 423.0,
+          "text": "E adesso"
+        },
+        {
+          "start": 423.0,
+          "end": 424.0,
+          "text": "Quando avrà accesso"
+        },
+        {
+          "start": 424.0,
+          "end": 425.0,
+          "text": "A questa nuova libreria"
+        },
+        {
+          "start": 425.0,
+          "end": 426.0,
+          "text": "Che gli abbiamo dato"
+        },
+        {
+          "start": 426.0,
+          "end": 427.0,
+          "text": "La skill"
+        },
+        {
+          "start": 427.0,
+          "end": 428.0,
+          "text": "Docx"
+        },
+        {
+          "start": 428.0,
+          "end": 429.0,
+          "text": "Che abbiamo messo"
+        },
+        {
+          "start": 429.0,
+          "end": 430.0,
+          "text": "Sarà in grado"
+        },
+        {
+          "start": 430.0,
+          "end": 431.0,
+          "text": "Di fare questa conversione"
+        },
+        {
+          "start": 431.0,
+          "end": 432.0,
+          "text": "In word"
+        },
+        {
+          "start": 432.0,
+          "end": 433.0,
+          "text": "Anche qui ci chiede"
+        },
+        {
+          "start": 433.0,
+          "end": 434.0,
+          "text": "Di fare un'altra installazione"
+        },
+        {
+          "start": 434.0,
+          "end": 435.0,
+          "text": "Gli la autorizziamo"
+        },
+        {
+          "start": 435.0,
+          "end": 436.0,
+          "text": "E quando ha finito"
+        },
+        {
+          "start": 436.0,
+          "end": 437.0,
+          "text": "Vi faccio vedere"
+        },
+        {
+          "start": 437.0,
+          "end": 438.0,
+          "text": "Diciamo"
+        },
+        {
+          "start": 438.0,
+          "end": 439.0,
+          "text": "Il risultato finale"
+        },
+        {
+          "start": 439.0,
+          "end": 440.0,
+          "text": "Del file word"
+        },
+        {
+          "start": 440.0,
+          "end": 441.0,
+          "text": "Che ci ha creato"
+        },
+        {
+          "start": 441.0,
+          "end": 442.0,
+          "text": "Diamogli"
+        },
+        {
+          "start": 442.0,
+          "end": 443.0,
+          "text": "Anche qui"
+        },
+        {
+          "start": 443.0,
+          "end": 444.0,
+          "text": "L'autorizzazione"
+        },
+        {
+          "start": 444.0,
+          "end": 445.0,
+          "text": "Perché lo sta installando"
+        },
+        {
+          "start": 445.0,
+          "end": 446.0,
+          "text": "Anche a livello"
+        },
+        {
+          "start": 446.0,
+          "end": 447.0,
+          "text": "Python"
+        },
+        {
+          "start": 447.0,
+          "end": 448.0,
+          "text": "E poi"
+        },
+        {
+          "start": 448.0,
+          "end": 449.0,
+          "text": "Cosa è importante"
+        },
+        {
+          "start": 449.0,
+          "end": 450.0,
+          "text": "Ma questo ve lo faccio vedere"
+        },
+        {
+          "start": 450.0,
+          "end": 451.0,
+          "text": "Tra un attimo"
+        },
+        {
+          "start": 451.0,
+          "end": 452.0,
+          "text": "Qualcuno magari"
+        },
+        {
+          "start": 452.0,
+          "end": 453.0,
+          "text": "Si sta già chiedendo"
+        },
+        {
+          "start": 453.0,
+          "end": 454.0,
+          "text": "Scusami Raph"
+        },
+        {
+          "start": 454.0,
+          "end": 455.0,
+          "text": "Ma queste due skill"
+        },
+        {
+          "start": 455.0,
+          "end": 456.0,
+          "text": "Dove le hai prese?"
+        },
+        {
+          "start": 456.0,
+          "end": 457.0,
+          "text": "Perché vi ho detto"
+        },
+        {
+          "start": 457.0,
+          "end": 458.0,
+          "text": "Che le skill"
+        },
+        {
+          "start": 458.0,
+          "end": 459.0,
+          "text": "Le possiamo creare noi"
+        },
+        {
+          "start": 459.0,
+          "end": 460.0,
+          "text": "Si trovano pure in rete"
+        },
+        {
+          "start": 460.0,
+          "end": 461.0,
+          "text": "Queste sono skill ufficiali"
+        },
+        {
+          "start": 461.0,
+          "end": 462.0,
+          "text": "Di Anthropic"
+        },
+        {
+          "start": 462.0,
+          "end": 463.0,
+          "text": "Ok"
+        },
+        {
+          "start": 463.0,
+          "end": 464.0,
+          "text": "Ha installato tutto"
+        },
+        {
+          "start": 464.0,
+          "end": 465.0,
+          "text": "Quello che gli serve"
+        },
+        {
+          "start": 465.0,
+          "end": 466.0,
+          "text": "Quindi adesso"
+        },
+        {
+          "start": 466.0,
+          "end": 467.0,
+          "text": "Va a fare la generazione"
+        },
+        {
+          "start": 467.0,
+          "end": 468.0,
+          "text": "Del file word"
+        },
+        {
+          "start": 468.0,
+          "end": 469.0,
+          "text": "Vi dicevo"
+        },
+        {
+          "start": 469.0,
+          "end": 470.0,
+          "text": "Sono delle skill ufficiali"
+        },
+        {
+          "start": 470.0,
+          "end": 471.0,
+          "text": "Di Anthropic"
+        },
+        {
+          "start": 471.0,
+          "end": 472.0,
+          "text": "Vi faccio vedere"
+        },
+        {
+          "start": 472.0,
+          "end": 473.0,
+          "text": "Questo è il sito"
+        },
+        {
+          "start": 473.0,
+          "end": 474.0,
+          "text": "Diciamo"
+        },
+        {
+          "start": 474.0,
+          "end": 475.0,
+          "text": "Da quale si prendono"
+        },
+        {
+          "start": 475.0,
+          "end": 476.0,
+          "text": "Questo sito"
+        },
+        {
+          "start": 476.0,
+          "end": 477.0,
+          "text": "Ve lo lascio"
+        },
+        {
+          "start": 477.0,
+          "end": 478.0,
+          "text": "Tra le risorse aggiuntive"
+        },
+        {
+          "start": 478.0,
+          "end": 479.0,
+          "text": "Del corso"
+        },
+        {
+          "start": 479.0,
+          "end": 480.0,
+          "text": "Dove ci sono varie cose"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 8,
+        "time": 480.0,
+        "timestamp": "00:08:00",
+        "image": "frame_0008.jpg",
+        "reason": "periodic",
+        "ocr_text": "© ®© GE Scsicom intona © (x /(9 Gi iti + E > Gi gthubcomenihropic/skls © Piattom> Solutions Resources » Open Source > Enterprise >. Pricing @ anthropics / skills (Pie © Code © issues 272 1) Pullrequests (68) Discussions | © Actions | © Securtyand qualty _ < insight È mala > |P t@Branches © OTags ‘Q Gotofile (on) About Public repository for Agent Skils geni @ rincemantin Add Managed Agents outcome, muliagent, and webhooks 10 claude... 62149. ours 90 ©33 Comma Ra doude-pivgn Add clud-api il (9515) 2 months 200 riasie DEI Add Managed Agents outcome, mulagent, and webhook..-_—3hoursago activity Custom properies 1206 stare Ra spec ‘Ad ink to Agent Skls specification website (8160) 5 months ago Ra tempiato Move example sis ito dedicated folder and create min. -—G months ago ‘853 watching DI caiignore Ad e to Agent Sl speci website (F160) Smontns ago |- Y 1924101 Report epositoy DI READMEmd adi ink to Agent Sil specification website (4160) S months ago [) THIRD_PARTY_NOTICESIMA Add rd Party notices (#4) 7 monihs ago - Releases NO releases pubs 10 README Note: This repository contains Anthropic's implementation of skils for Claude. For information about the Agent Ski standard, see agentskil.io. Skills Skils are folders of instructions, scripts, and resources that Claude loads dmamically to improve performance on specialized tasks. Skils teach Claude how to complete specific tasks in a repeatable way, whether that's creating documents with your company's brand guidelines, analyzing data using your organizations specific workflows, or",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 480.0,
+          "end": 481.0,
+          "text": "Che mette a disposizione"
+        },
+        {
+          "start": 481.0,
+          "end": 482.0,
+          "text": "Anthropic"
+        },
+        {
+          "start": 482.0,
+          "end": 483.0,
+          "text": "Ok"
+        },
+        {
+          "start": 483.0,
+          "end": 484.0,
+          "text": "Non ci sono solo delle skill"
+        },
+        {
+          "start": 484.0,
+          "end": 485.0,
+          "text": "Diciamo"
+        },
+        {
+          "start": 485.0,
+          "end": 486.0,
+          "text": "È un repository"
+        },
+        {
+          "start": 486.0,
+          "end": 487.0,
+          "text": "Con diverse cose"
+        },
+        {
+          "start": 487.0,
+          "end": 488.0,
+          "text": "Tra cui"
+        },
+        {
+          "start": 488.0,
+          "end": 489.0,
+          "text": "Appunto ci sono delle skill"
+        },
+        {
+          "start": 489.0,
+          "end": 490.0,
+          "text": "Entrate in questa cartellina"
+        },
+        {
+          "start": 490.0,
+          "end": 491.0,
+          "text": "E trovate varie cose"
+        },
+        {
+          "start": 491.0,
+          "end": 492.0,
+          "text": "Ok"
+        },
+        {
+          "start": 492.0,
+          "end": 493.0,
+          "text": "Per esempio"
+        },
+        {
+          "start": 493.0,
+          "end": 494.0,
+          "text": "Docx"
+        },
+        {
+          "start": 494.0,
+          "end": 495.0,
+          "text": "L'ho presa da qua"
+        },
+        {
+          "start": 495.0,
+          "end": 496.0,
+          "text": "Ho presa da qua"
+        },
+        {
+          "start": 496.0,
+          "end": 497.0,
+          "text": "Pure questa qua"
+        },
+        {
+          "start": 497.0,
+          "end": 498.0,
+          "text": "Del frontend design"
+        },
+        {
+          "start": 498.0,
+          "end": 499.0,
+          "text": "E così via"
+        },
+        {
+          "start": 499.0,
+          "end": 500.0,
+          "text": "Ce ne sono varie"
+        },
+        {
+          "start": 500.0,
+          "end": 501.0,
+          "text": "Attenzione"
+        },
+        {
+          "start": 501.0,
+          "end": 502.0,
+          "text": "In rete si trovano"
+        },
+        {
+          "start": 502.0,
+          "end": 503.0,
+          "text": "Tantissimi"
+        },
+        {
+          "start": 503.0,
+          "end": 504.0,
+          "text": "Diciamo"
+        },
+        {
+          "start": 504.0,
+          "end": 505.0,
+          "text": "Luoghi"
+        },
+        {
+          "start": 505.0,
+          "end": 506.0,
+          "text": "Contenitori"
+        },
+        {
+          "start": 506.0,
+          "end": 507.0,
+          "text": "Di skill"
+        },
+        {
+          "start": 507.0,
+          "end": 508.0,
+          "text": "Ufficiali"
+        },
+        {
+          "start": 508.0,
+          "end": 509.0,
+          "text": "Contenitori"
+        },
+        {
+          "start": 509.0,
+          "end": 510.0,
+          "text": "Di skill"
+        },
+        {
+          "start": 510.0,
+          "end": 511.0,
+          "text": "Gratuite"
+        },
+        {
+          "start": 511.0,
+          "end": 512.0,
+          "text": "Fate molta attenzione"
+        },
+        {
+          "start": 512.0,
+          "end": 513.0,
+          "text": "Queste ve le faccio vedere"
+        },
+        {
+          "start": 513.0,
+          "end": 514.0,
+          "text": "Vi consiglio anche"
+        },
+        {
+          "start": 514.0,
+          "end": 515.0,
+          "text": "Di installarle se le volete"
+        },
+        {
+          "start": 515.0,
+          "end": 516.0,
+          "text": "Perché sono di Anthropic"
+        },
+        {
+          "start": 516.0,
+          "end": 517.0,
+          "text": "Quindi sono ufficiali"
+        },
+        {
+          "start": 517.0,
+          "end": 518.0,
+          "text": "Nel corso"
+        },
+        {
+          "start": 518.0,
+          "end": 519.0,
+          "text": "Ce ne sono alcune mie"
+        },
+        {
+          "start": 519.0,
+          "end": 520.0,
+          "text": "Che potete scaricare"
+        },
+        {
+          "start": 520.0,
+          "end": 521.0,
+          "text": "Gratuitamente"
+        },
+        {
+          "start": 521.0,
+          "end": 522.0,
+          "text": "Se conoscete la fonte"
+        },
+        {
+          "start": 522.0,
+          "end": 523.0,
+          "text": "Andate tranquilli"
+        },
+        {
+          "start": 523.0,
+          "end": 524.0,
+          "text": "Pigliate e installate"
+        },
+        {
+          "start": 524.0,
+          "end": 525.0,
+          "text": "Altrimenti"
+        },
+        {
+          "start": 525.0,
+          "end": 526.0,
+          "text": "Fate molta attenzione"
+        },
+        {
+          "start": 526.0,
+          "end": 527.0,
+          "text": "Perché state comunque"
+        },
+        {
+          "start": 527.0,
+          "end": 528.0,
+          "text": "Installando una roba"
+        },
+        {
+          "start": 528.0,
+          "end": 529.0,
+          "text": "Dentro il vostro computer"
+        },
+        {
+          "start": 529.0,
+          "end": 530.0,
+          "text": "E questa cosa"
+        },
+        {
+          "start": 530.0,
+          "end": 531.0,
+          "text": "Diciamo"
+        },
+        {
+          "start": 531.0,
+          "end": 532.0,
+          "text": "Potrebbe essere"
+        },
+        {
+          "start": 532.0,
+          "end": 533.0,
+          "text": "Pericolosa"
+        },
+        {
+          "start": 533.0,
+          "end": 534.0,
+          "text": "No?"
+        },
+        {
+          "start": 534.0,
+          "end": 535.0,
+          "text": "Potrebbe essere utilizzata"
+        },
+        {
+          "start": 535.0,
+          "end": 536.0,
+          "text": "Per scopi malevoli"
+        },
+        {
+          "start": 536.0,
+          "end": 537.0,
+          "text": "Ecco"
+        },
+        {
+          "start": 537.0,
+          "end": 538.0,
+          "text": "Allora"
+        },
+        {
+          "start": 538.0,
+          "end": 539.0,
+          "text": "Lo script"
+        },
+        {
+          "start": 539.0,
+          "end": 540.0,
+          "text": "Ha finito di lavorare"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 9,
+        "time": 540.0,
+        "timestamp": "00:09:00",
+        "image": "frame_0009.jpg",
+        "reason": "periodic",
+        "ocr_text": "cuuwve wonesmace Dè fa CD Sd cave Sali vie > ii aggioma-contesto > rl docs > ad frontend-design 3 nl minuta-inione 0 rows > a template. azindale > nl acuck-ingieso (0) sattige ocason Si archivio nd ciont di content ni nos i iui ter + giteep © genera ict py 18 1onding-ciaude-code fmi #9 ricatt.talane docx 1 ricette talane md rd template È CLAUDE md su uortapoce e Create aan recipes mx Create tallon recipes markdiom fe usano l'apposita ii trasforma questo fe md n un fl word Prthend e \"impre doce” 2061 pipD instatt prebon-doce 261 | tail -5 Traceback (most recent call ast) file “stringo, Une 1, in odio» Ihport dex ‘Best instal pyihon-doc: vlt break-ystem- packages iso PISD intatti prthodncx —brest-ayatenpaciages DIL | talt 5 aeneon sare e id Eypin estenia-4.15,0-93-nome-ty tl (4 8) Instartig collected packages: typing extension, unt, prein-docx Thought for 0s Prthon-docx istlto Creo or 0 scrit per generare l documento Word Write genera ricette.py ro@ doce iport Doconent fron doc share sport PE, AGBCoter, inches, ca rom doccienm. txt inprt WALT PARAGRAMI Mash Run seit 1 penoate th Word document Di 24 e qsers/catfnele/Dashtep/elade verkipca/tep” Li prenon genera ricette.py bacumento saluto; /Users/raffaele/Desktop/ claude vorkspace/tenp/ricent_ italiane docx Crunching.",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 540.0,
+          "end": 541.0,
+          "text": "Cioè la skill"
+        },
+        {
+          "start": 541.0,
+          "end": 542.0,
+          "text": "Ha finito di lavorare"
+        },
+        {
+          "start": 542.0,
+          "end": 543.0,
+          "text": "E dentro"
+        },
+        {
+          "start": 543.0,
+          "end": 544.0,
+          "text": "Questa cartellina"
+        },
+        {
+          "start": 544.0,
+          "end": 545.0,
+          "text": "Tempo"
+        },
+        {
+          "start": 545.0,
+          "end": 546.0,
+          "text": "Adesso ci abbiamo"
+        },
+        {
+          "start": 546.0,
+          "end": 547.0,
+          "text": "Il file ricette italiane"
+        },
+        {
+          "start": 547.0,
+          "end": 548.0,
+          "text": "Ok?"
+        },
+        {
+          "start": 548.0,
+          "end": 549.0,
+          "text": "Adesso"
+        },
+        {
+          "start": 549.0,
+          "end": 550.0,
+          "text": "Ce lo apriamo"
+        },
+        {
+          "start": 550.0,
+          "end": 551.0,
+          "text": "Quindi andiamo nel nostro"
+        },
+        {
+          "start": 551.0,
+          "end": 552.0,
+          "text": "Workspace"
+        },
+        {
+          "start": 552.0,
+          "end": 553.0,
+          "text": "Scusate"
+        },
+        {
+          "start": 553.0,
+          "end": 554.0,
+          "text": "Questo è il vecchio"
+        },
+        {
+          "start": 554.0,
+          "end": 555.0,
+          "text": "Che abbiamo utilizzato"
+        },
+        {
+          "start": 555.0,
+          "end": 556.0,
+          "text": "Per un altro test"
+        },
+        {
+          "start": 556.0,
+          "end": 557.0,
+          "text": "Ce lo apriamo qua"
+        },
+        {
+          "start": 557.0,
+          "end": 558.0,
+          "text": "Abbiamo la cartella temporanea"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 10,
+        "time": 557.2,
+        "timestamp": "00:09:17",
+        "image": "frame_0010.jpg",
+        "reason": "scene",
+        "ocr_text": "6 Finder File Edit View. Go Window Help B D CF QQ 8 2090 x Q E do Si 10 Ricette Tipiche Italiane Fe 1. Carbonara î - monnezza. . è rit Lao x ' o si . Risotto -",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 558.0,
+          "end": 559.0,
+          "text": "Questo è il nostro"
+        },
+        {
+          "start": 559.0,
+          "end": 560.0,
+          "text": "File world"
+        },
+        {
+          "start": 560.0,
+          "end": 561.0,
+          "text": "Proviamo a vedere"
+        },
+        {
+          "start": 561.0,
+          "end": 562.0,
+          "text": "Se si vede il file world"
+        },
+        {
+          "start": 562.0,
+          "end": 563.0,
+          "text": "Eccolo qua"
+        },
+        {
+          "start": 563.0,
+          "end": 564.0,
+          "text": "Dieci ricette tipiche italiane"
+        },
+        {
+          "start": 564.0,
+          "end": 565.0,
+          "text": "Carbonara"
+        },
+        {
+          "start": 565.0,
+          "end": 566.0,
+          "text": "Vedete"
+        },
+        {
+          "start": 566.0,
+          "end": 567.0,
+          "text": "Questa è l'installazione"
+        },
+        {
+          "start": 567.0,
+          "end": 568.0,
+          "text": "Di una skill"
+        },
+        {
+          "start": 568.0,
+          "end": 569.0,
+          "text": "Un po' più complessa"
+        },
+        {
+          "start": 569.0,
+          "end": 570.0,
+          "text": "Ultimo passaggio"
+        },
+        {
+          "start": 570.0,
+          "end": 571.0,
+          "text": "E poi finiamo questa lezione"
+        },
+        {
+          "start": 571.0,
+          "end": 572.0,
+          "text": "Se vi ricordate"
+        },
+        {
+          "start": 572.0,
+          "end": 573.0,
+          "text": "Vi ho detto anche"
+        },
+        {
+          "start": 573.0,
+          "end": 574.0,
+          "text": "Che"
+        },
+        {
+          "start": 574.0,
+          "end": 575.0,
+          "text": "Si possono installare"
+        },
+        {
+          "start": 575.0,
+          "end": 576.0,
+          "text": "I plugin"
+        },
+        {
+          "start": 576.0,
+          "end": 577.0,
+          "text": "I plugin"
+        },
+        {
+          "start": 577.0,
+          "end": 578.0,
+          "text": "Sono dei contenitori"
+        },
+        {
+          "start": 578.0,
+          "end": 579.0,
+          "text": "Sono tipo dei pacchetti"
+        },
+        {
+          "start": 579.0,
+          "end": 580.0,
+          "text": "Che dentro hanno"
+        },
+        {
+          "start": 580.0,
+          "end": 581.0,
+          "text": "Delle skill"
+        },
+        {
+          "start": 581.0,
+          "end": 582.0,
+          "text": "Degli mcp"
+        },
+        {
+          "start": 582.0,
+          "end": 583.0,
+          "text": "E altre cose"
+        },
+        {
+          "start": 583.0,
+          "end": 584.0,
+          "text": "I plugin"
+        },
+        {
+          "start": 584.0,
+          "end": 585.0,
+          "text": "Come si installano?"
+        },
+        {
+          "start": 585.0,
+          "end": 586.0,
+          "text": "Andiamo qua"
+        },
+        {
+          "start": 586.0,
+          "end": 587.0,
+          "text": "Diciamo in questo menu"
+        },
+        {
+          "start": 587.0,
+          "end": 588.0,
+          "text": "Scriviamo"
+        },
+        {
+          "start": 588.0,
+          "end": 589.0,
+          "text": "Plugin"
+        },
+        {
+          "start": 589.0,
+          "end": 590.0,
+          "text": "E ci esce questa voce"
+        },
+        {
+          "start": 590.0,
+          "end": 591.0,
+          "text": "Gestisci i plugin"
+        },
+        {
+          "start": 591.0,
+          "end": 592.0,
+          "text": "Quando la apriamo"
+        },
+        {
+          "start": 592.0,
+          "end": 593.0,
+          "text": "Qualcuno"
+        },
+        {
+          "start": 593.0,
+          "end": 594.0,
+          "text": "Si ricorderà"
+        },
+        {
+          "start": 594.0,
+          "end": 595.0,
+          "text": "Che un plugin"
+        },
+        {
+          "start": 595.0,
+          "end": 596.0,
+          "text": "Noi l'abbiamo già installato"
+        },
+        {
+          "start": 596.0,
+          "end": 597.0,
+          "text": "L'abbiamo installato"
+        },
+        {
+          "start": 597.0,
+          "end": 598.0,
+          "text": "Nel modulo"
+        },
+        {
+          "start": 598.0,
+          "end": 599.0,
+          "text": "Per creare le skill"
+        },
+        {
+          "start": 599.0,
+          "end": 600.0,
+          "text": "Perché senza"
+        },
+        {
+          "start": 600.0,
+          "end": 601.0,
+          "text": "Diciamo"
+        },
+        {
+          "start": 601.0,
+          "end": 602.0,
+          "text": "Questo plugin"
+        },
+        {
+          "start": 602.0,
+          "end": 603.0,
+          "text": "Claude"
+        },
+        {
+          "start": 603.0,
+          "end": 604.0,
+          "text": "Non poteva creare le skill"
+        },
+        {
+          "start": 604.0,
+          "end": 605.0,
+          "text": "Sembra un po'"
+        },
+        {
+          "start": 605.0,
+          "end": 606.0,
+          "text": "Un gioco di parole"
+        },
+        {
+          "start": 606.0,
+          "end": 607.0,
+          "text": "Non è niente di complesso"
+        },
+        {
+          "start": 607.0,
+          "end": 608.0,
+          "text": "Diciamo"
+        },
+        {
+          "start": 608.0,
+          "end": 609.0,
+          "text": "A Claude"
+        },
+        {
+          "start": 609.0,
+          "end": 610.0,
+          "text": "Abbiamo dato"
+        },
+        {
+          "start": 610.0,
+          "end": 611.0,
+          "text": "Tempo fa"
+        },
+        {
+          "start": 611.0,
+          "end": 612.0,
+          "text": "Una skill"
+        },
+        {
+          "start": 612.0,
+          "end": 613.0,
+          "text": "Per permettergli"
+        },
+        {
+          "start": 613.0,
+          "end": 614.0,
+          "text": "Di creare le skill"
+        },
+        {
+          "start": 614.0,
+          "end": 615.0,
+          "text": "Quindi abbiamo già"
+        },
+        {
+          "start": 615.0,
+          "end": 616.0,
+          "text": "Una cosa installata"
+        },
+        {
+          "start": 616.0,
+          "end": 617.0,
+          "text": "Vedete"
+        },
+        {
+          "start": 617.0,
+          "end": 618.0,
+          "text": "E qua ce ne sono altre"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 11,
+        "time": 617.2,
+        "timestamp": "00:10:17",
+        "image": "frame_0011.jpg",
+        "reason": "periodic",
+        "ocr_text": "Manage Plugins Pigi @ _ Vareticee ® # cil-crotor@ciaude-plugins- oca! trontend design pese] Great distinctive, progutin- grade frontend itertaces with high design quali. Generaas creative, plshed code that avoid generic A sosthtics. mense conci PD Cocca Ninna conica an lirici se #1 ricatto alone docx 1 ricette talane md 3 ql tempie superpomere ras ao. è CLAUDE md ‘Suporpowers inches Cade brainstorming, subagent drive development with Bin cod eve, systematic debugging, and radeon TOO. Additional ft teaches Claude how tour and ast new sl ost ini Sire ii coin suc content? artt. QU Upstash Context? MCP server forup-t-date documentation iokup. Pull vesion-specile documentation and code erampls diecty from source roposiors Int your LLM conte. a to got Sorce itba A cenci ian dvn codoni osato. RE Altomated code eve fc pl requests using mltolo specizad agents lt cofience-base scoing o fit false posts triste gni",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 618.0,
+          "end": 619.0,
+          "text": "Ce sono altre"
+        },
+        {
+          "start": 619.0,
+          "end": 620.0,
+          "text": "Tante altre skill"
+        },
+        {
+          "start": 620.0,
+          "end": 621.0,
+          "text": "Perché?"
+        },
+        {
+          "start": 621.0,
+          "end": 622.0,
+          "text": "Perché questo diciamo"
+        },
+        {
+          "start": 622.0,
+          "end": 623.0,
+          "text": "È il marketplace ufficiale"
+        },
+        {
+          "start": 623.0,
+          "end": 624.0,
+          "text": "Di"
+        },
+        {
+          "start": 624.0,
+          "end": 625.0,
+          "text": "Diciamo"
+        },
+        {
+          "start": 625.0,
+          "end": 626.0,
+          "text": "Di Antropic"
+        },
+        {
+          "start": 626.0,
+          "end": 627.0,
+          "text": "Nel quale trovate"
+        },
+        {
+          "start": 627.0,
+          "end": 628.0,
+          "text": "Veramente"
+        },
+        {
+          "start": 628.0,
+          "end": 629.0,
+          "text": "Un botto di roba"
+        },
+        {
+          "start": 629.0,
+          "end": 630.0,
+          "text": "Quindi"
+        },
+        {
+          "start": 630.0,
+          "end": 631.0,
+          "text": "Github"
+        },
+        {
+          "start": 631.0,
+          "end": 632.0,
+          "text": "Se siete"
+        },
+        {
+          "start": 632.0,
+          "end": 633.0,
+          "text": "Programmatori"
+        },
+        {
+          "start": 633.0,
+          "end": 634.0,
+          "text": "Vedete c'è un sacco di roba"
+        },
+        {
+          "start": 634.0,
+          "end": 635.0,
+          "text": "Per esempio"
+        },
+        {
+          "start": 635.0,
+          "end": 636.0,
+          "text": "Uno che vi consiglio di"
+        },
+        {
+          "start": 636.0,
+          "end": 637.0,
+          "text": "Installare"
+        },
+        {
+          "start": 637.0,
+          "end": 638.0,
+          "text": "Vedete"
+        },
+        {
+          "start": 638.0,
+          "end": 639.0,
+          "text": "Figma"
+        },
+        {
+          "start": 639.0,
+          "end": 640.0,
+          "text": "Per i designer"
+        },
+        {
+          "start": 640.0,
+          "end": 641.0,
+          "text": "Ce ne sono tantissime"
+        },
+        {
+          "start": 641.0,
+          "end": 642.0,
+          "text": "Telegram"
+        },
+        {
+          "start": 642.0,
+          "end": 643.0,
+          "text": "Per collegarlo con telegram"
+        },
+        {
+          "start": 643.0,
+          "end": 644.0,
+          "text": "Slack"
+        },
+        {
+          "start": 644.0,
+          "end": 645.0,
+          "text": "Per collegarlo con slack"
+        },
+        {
+          "start": 645.0,
+          "end": 646.0,
+          "text": "Questi sono ufficiali Antropic"
+        },
+        {
+          "start": 646.0,
+          "end": 647.0,
+          "text": "Quindi"
+        },
+        {
+          "start": 647.0,
+          "end": 648.0,
+          "text": "Andate tranquilli"
+        },
+        {
+          "start": 648.0,
+          "end": 649.0,
+          "text": "Uno che vi consiglio di installare"
+        },
+        {
+          "start": 649.0,
+          "end": 650.0,
+          "text": "Che uso anche io"
+        },
+        {
+          "start": 650.0,
+          "end": 651.0,
+          "text": "È questo qua"
+        },
+        {
+          "start": 651.0,
+          "end": 652.0,
+          "text": "Che vedete qua sotto"
+        },
+        {
+          "start": 652.0,
+          "end": 653.0,
+          "text": "Che si chiama"
+        },
+        {
+          "start": 653.0,
+          "end": 654.0,
+          "text": "Cloud MD Management"
+        },
+        {
+          "start": 654.0,
+          "end": 655.0,
+          "text": "Che ci permette"
+        },
+        {
+          "start": 655.0,
+          "end": 656.0,
+          "text": "Di fare"
+        },
+        {
+          "start": 656.0,
+          "end": 657.0,
+          "text": "Diciamo"
+        },
+        {
+          "start": 657.0,
+          "end": 658.0,
+          "text": "Delle migliorie"
+        },
+        {
+          "start": 658.0,
+          "end": 659.0,
+          "text": "Al nostro file"
+        },
+        {
+          "start": 659.0,
+          "end": 660.0,
+          "text": "Cloud MD"
+        },
+        {
+          "start": 660.0,
+          "end": 661.0,
+          "text": "Diciamo"
+        },
+        {
+          "start": 661.0,
+          "end": 662.0,
+          "text": "Periodicamente"
+        },
+        {
+          "start": 662.0,
+          "end": 663.0,
+          "text": "Non lo vediamo in azione"
+        },
+        {
+          "start": 663.0,
+          "end": 664.0,
+          "text": "Faccio solo vedere"
+        },
+        {
+          "start": 664.0,
+          "end": 665.0,
+          "text": "Un'installazione"
+        },
+        {
+          "start": 665.0,
+          "end": 666.0,
+          "text": "Semplicemente facciamo"
+        },
+        {
+          "start": 666.0,
+          "end": 667.0,
+          "text": "Install"
+        },
+        {
+          "start": 667.0,
+          "end": 668.0,
+          "text": "E ci dice"
+        },
+        {
+          "start": 668.0,
+          "end": 669.0,
+          "text": "Ti fidi?"
+        },
+        {
+          "start": 669.0,
+          "end": 670.0,
+          "text": "Conosci?"
+        },
+        {
+          "start": 670.0,
+          "end": 671.0,
+          "text": "Chi è questa fonte"
+        },
+        {
+          "start": 671.0,
+          "end": 672.0,
+          "text": "Di questo plugin?"
+        },
+        {
+          "start": 672.0,
+          "end": 673.0,
+          "text": "Assolutamente sì"
+        },
+        {
+          "start": 673.0,
+          "end": 674.0,
+          "text": "Perché diciamo"
+        },
+        {
+          "start": 674.0,
+          "end": 675.0,
+          "text": "Noi sappiamo che"
+        },
+        {
+          "start": 675.0,
+          "end": 676.0,
+          "text": "È Antropic"
+        },
+        {
+          "start": 676.0,
+          "end": 677.0,
+          "text": "Quindi diciamo"
+        },
+        {
+          "start": 677.0,
+          "end": 678.0,
+          "text": "Installalo qua"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 12,
+        "time": 677.2,
+        "timestamp": "00:11:17",
+        "image": "frame_0012.jpg",
+        "reason": "periodic",
+        "ocr_text": "© cuoevomsce Dè CO > di Crest tata scie m. x claude i aggiona-contesto PISA i frontend-desion i iuta-riuniono i nos 28 tompiate-azindalo nd trscuci-ingleso () attinge ccason © el archivio > ad tnt > ad content è ad ross i iuioni < 6 temo | ® gie 18 1anding:claude-code hi #1 ricette alone doox |. ricette tano mi > 6 tempio % CALDE md Manage Plugins Prgine @ _ Vareiicee @ ‘rcmr astmatin and end: to-end testing MCP servr by Mirosolt Enable Claude 10 Interact th web pages, take screenshot, fl forms, click elements, and perform automatod browser testing wrkfions. rt gt soaturo=dor ozio. IT Comprenansive fatuo development workiow ithspocialiod agents fr codebaso exploration, architecture dig, and qulty review pome sg com management sepsi ite Too to mina and improve CLAUDE id fs ud qua cptue session oamings, and ep prec memory current. int conici Moke sure you trust piugn before Instaling, ping, o using Antivopie does Ot contro what MCP servers, les, or other Software are Included i pugins and “anno? veri at ny wl erk s Itended or that thy won't change. astalfor you Avalabi i your project nstalfortti project Shared with li colsbortor natali ocaliy ‘ny fu nt in the rpo,",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 678.0,
+          "end": 679.0,
+          "text": "Localmente"
+        },
+        {
+          "start": 679.0,
+          "end": 680.0,
+          "text": "E adesso diciamo"
+        },
+        {
+          "start": 680.0,
+          "end": 681.0,
+          "text": "Ci installa"
+        },
+        {
+          "start": 681.0,
+          "end": 682.0,
+          "text": "Questa cosa in"
+        },
+        {
+          "start": 682.0,
+          "end": 683.0,
+          "text": "Inizio"
+        },
+        {
+          "start": 683.0,
+          "end": 684.0,
+          "text": "Per funzionare"
+        },
+        {
+          "start": 684.0,
+          "end": 685.0,
+          "text": "Devi riavviare"
+        },
+        {
+          "start": 685.0,
+          "end": 686.0,
+          "text": "Ok"
+        },
+        {
+          "start": 686.0,
+          "end": 687.0,
+          "text": "Riavviamo"
+        },
+        {
+          "start": 687.0,
+          "end": 688.0,
+          "text": "Apriamoci pure una nuova chat"
+        },
+        {
+          "start": 688.0,
+          "end": 689.0,
+          "text": "Per sicurezza"
+        },
+        {
+          "start": 689.0,
+          "end": 690.0,
+          "text": "E adesso se vado qua"
+        },
+        {
+          "start": 690.0,
+          "end": 691.0,
+          "text": "E faccio"
+        },
+        {
+          "start": 691.0,
+          "end": 692.0,
+          "text": "Plugin"
+        },
+        {
+          "start": 692.0,
+          "end": 694.0,
+          "text": "Tra i plugin installati"
+        },
+        {
+          "start": 694.0,
+          "end": 695.0,
+          "text": "Ne vedo due"
+        },
+        {
+          "start": 695.0,
+          "end": 696.0,
+          "text": "Perché ci abbiamo"
+        },
+        {
+          "start": 696.0,
+          "end": 697.0,
+          "text": "Lo Skill Creator"
+        },
+        {
+          "start": 697.0,
+          "end": 698.0,
+          "text": "E il Cloud MD Management"
+        },
+        {
+          "start": 698.0,
+          "end": 699.0,
+          "text": "Come faccio a vedere"
+        },
+        {
+          "start": 699.0,
+          "end": 700.0,
+          "text": "Effettivamente"
+        },
+        {
+          "start": 700.0,
+          "end": 701.0,
+          "text": "Che sta funzionando"
+        },
+        {
+          "start": 701.0,
+          "end": 702.0,
+          "text": "Perché se vado in chat"
+        },
+        {
+          "start": 702.0,
+          "end": 703.0,
+          "text": "E scrivo"
+        },
+        {
+          "start": 703.0,
+          "end": 704.0,
+          "text": "Cloud MD Management"
+        },
+        {
+          "start": 704.0,
+          "end": 705.0,
+          "text": "Vedete?"
+        },
+        {
+          "start": 705.0,
+          "end": 706.0,
+          "text": "Adesso"
+        },
+        {
+          "start": 706.0,
+          "end": 707.0,
+          "text": "Mi esce"
+        },
+        {
+          "start": 707.0,
+          "end": 708.0,
+          "text": "Tra le varie opzioni"
+        },
+        {
+          "start": 708.0,
+          "end": 709.0,
+          "text": "Che posso chiamare"
+        },
+        {
+          "start": 709.0,
+          "end": 710.0,
+          "text": "C'è queste due nuove cose"
+        },
+        {
+          "start": 710.0,
+          "end": 711.0,
+          "text": "Che si chiama"
+        },
+        {
+          "start": 711.0,
+          "end": 712.0,
+          "text": "Cloud MD Improvement"
+        },
+        {
+          "start": 712.0,
+          "end": 713.0,
+          "text": "Quindi migliorami"
+        },
+        {
+          "start": 713.0,
+          "end": 714.0,
+          "text": "Il mio file"
+        },
+        {
+          "start": 714.0,
+          "end": 715.0,
+          "text": "Cloud MD"
+        },
+        {
+          "start": 715.0,
+          "end": 716.0,
+          "text": "E Cloud MD Revise"
+        },
+        {
+          "start": 716.0,
+          "end": 717.0,
+          "text": "Quindi fai una revisione"
+        },
+        {
+          "start": 717.0,
+          "end": 718.0,
+          "text": "Del mio file"
+        },
+        {
+          "start": 718.0,
+          "end": 719.0,
+          "text": "Cloud MD"
+        },
+        {
+          "start": 719.0,
+          "end": 720.0,
+          "text": "Abbiamo anche installato"
+        },
+        {
+          "start": 720.0,
+          "end": 721.0,
+          "text": "Velocemente un plugin"
+        },
+        {
+          "start": 721.0,
+          "end": 722.0,
+          "text": "Sui plugin"
+        },
+        {
+          "start": 722.0,
+          "end": 723.0,
+          "text": "Non mi soffermo"
+        },
+        {
+          "start": 723.0,
+          "end": 724.0,
+          "text": "Perché là vi conviene"
+        },
+        {
+          "start": 724.0,
+          "end": 725.0,
+          "text": "Semplicemente scorrere la lista"
+        },
+        {
+          "start": 725.0,
+          "end": 726.0,
+          "text": "E trovare i plugin"
+        },
+        {
+          "start": 726.0,
+          "end": 727.0,
+          "text": "Più adatti al vostro caso"
+        },
+        {
+          "start": 727.0,
+          "end": 728.0,
+          "text": "In base a quello"
+        },
+        {
+          "start": 728.0,
+          "end": 729.0,
+          "text": "Di cui vi occupate"
+        },
+        {
+          "start": 729.0,
+          "end": 730.0,
+          "text": "Faccio design"
+        },
+        {
+          "start": 730.0,
+          "end": 731.0,
+          "text": "E mi metto i plugin"
+        },
+        {
+          "start": 731.0,
+          "end": 732.0,
+          "text": "Per design"
+        },
+        {
+          "start": 732.0,
+          "end": 733.0,
+          "text": "Faccio un'altra cosa"
+        },
+        {
+          "start": 733.0,
+          "end": 734.0,
+          "text": "E metto i plugin"
+        },
+        {
+          "start": 734.0,
+          "end": 735.0,
+          "text": "Per un'altra cosa"
+        },
+        {
+          "start": 735.0,
+          "end": 736.0,
+          "text": "Però avete capito"
+        },
+        {
+          "start": 736.0,
+          "end": 737.0,
+          "text": "Come estendere"
+        },
+        {
+          "start": 737.0,
+          "end": 738.0,
+          "text": "Diciamo"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 13,
+        "time": 737.2,
+        "timestamp": "00:12:17",
+        "image": "frame_0013.jpg",
+        "reason": "periodic",
+        "ocr_text": "cadi ste > i aggioma-contesto > rl docs > ad frontend-design initaiunione > ud nona > a template. azindalo > ul tacock-ingiesa 0) sattngs cca json ved archivio > al cileni > all content > all news > al unioni > 6 tomo + gitsep 19 1anding:ciaude-code hi #1 rictt,talane docx etta taone md > ui tempiata È CLAVDE md Mak a CLAUDE md fl fr instruetione Claude il rad very single time",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 738.0,
+          "end": 739.0,
+          "text": "Il secondo livello"
+        },
+        {
+          "start": 739.0,
+          "end": 740.0,
+          "text": "D'estensione"
+        },
+        {
+          "start": 740.0,
+          "end": 741.0,
+          "text": "Che è quello di Cloud Code"
+        },
+        {
+          "start": 741.0,
+          "end": 742.0,
+          "text": "E lo facciamo attraverso"
+        },
+        {
+          "start": 742.0,
+          "end": 743.0,
+          "text": "Le skill"
+        }
+      ]
+    }
+  ]
+}

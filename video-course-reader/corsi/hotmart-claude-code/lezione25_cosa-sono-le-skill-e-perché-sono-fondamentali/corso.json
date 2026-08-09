@@ -1,0 +1,1058 @@
+{
+  "title": "Cosa sono le skill e perché sono fondamentali",
+  "sections": [
+    {
+      "keyframe": {
+        "index": 0,
+        "time": 0.0,
+        "timestamp": "00:00:00",
+        "image": "frame_0000.jpg",
+        "reason": "start",
+        "ocr_text": "d x ® FicensCine meo 0 x + 6 00,00 -. -. ,4,8, 4, Estendere Claude all'infinito: le skill Ft",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 0.0,
+          "end": 10.680000305175781,
+          "text": "E stiamo a parlare di skill che sono un po' la terza categoria, funzionalità, cosa fondamentale"
+        },
+        {
+          "start": 10.680000305175781,
+          "end": 16.8799991607666,
+          "text": "da capire di Cloud. Non esagero se dico che una volta che avete capito il workspace, quindi"
+        },
+        {
+          "start": 16.8799991607666,
+          "end": 21.899999618530273,
+          "text": "lo spazio di lavoro, l'organizzazione delle cartelle, il contesto, dove mettere le informazioni"
+        },
+        {
+          "start": 21.899999618530273,
+          "end": 26.979999542236328,
+          "text": "e le skill, avete coperto la maggior parte delle cose che vi servono per lavorare bene"
+        },
+        {
+          "start": 26.979999542236328,
+          "end": 32.220001220703125,
+          "text": "con Cloud Code. Poi tutto il resto è fare il salto di qualità e andare a fare un utilizzo"
+        },
+        {
+          "start": 32.220001220703125,
+          "end": 38.02000045776367,
+          "text": "diciamo da avanzato, ok? Che però potrebbe anche non esservi necessario. Parliamo delle"
+        },
+        {
+          "start": 38.02000045776367,
+          "end": 43.86000061035156,
+          "text": "skill. L'avete visto già? Qualche volta dentro la chat io mentre stavo così ho cliccato"
+        },
+        {
+          "start": 43.86000061035156,
+          "end": 50.13999938964844,
+          "text": "questo pulsantino qua e si sono aperte delle cose, oppure ho dato il comando slash e si"
+        },
+        {
+          "start": 50.13999938964844,
+          "end": 53.5,
+          "text": "sono aperte delle cose. Perché è la stessa cosa, no? Questo è proprio il comando slash."
+        },
+        {
+          "start": 53.900001525878906,
+          "end": 59.18000030517578,
+          "text": "Per esempio, che ne so, cliccamone una a caso che funziona anche senza terminale,"
+        },
+        {
+          "start": 59.18000030517578,
+          "end": 66.86000061035156,
+          "text": "se io clicco, vediamone una che vi possa far vedere qualcosa, se io clicco contesto,"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 1,
+        "time": 60.0,
+        "timestamp": "00:01:00",
+        "image": "frame_0001.jpg",
+        "reason": "periodic",
+        "ocr_text": "3 Eaceng Cine wise © x + > ela opaca © euiorvonsnce Di fa CO dk ciudecoge x 3 lude > are > ln > content > tempiato % ciAUDEmd MCP seen di n Open lau in mina ate +2 Drntimi",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 66.86000061035156,
+          "end": 72.62000274658203,
+          "text": "questa qua ci fa vedere il contesto caricato in memoria in questo momento, ok? Quando abbiamo"
+        },
+        {
+          "start": 72.62000274658203,
+          "end": 79.30000305175781,
+          "text": "fatto questa cosa abbiamo utilizzato una skill e questa ci dà delle informazioni su quello che"
+        },
+        {
+          "start": 79.30000305175781,
+          "end": 85.37999725341797,
+          "text": "sta succedendo nel contesto. Che cos'è una skill? Allora, la skill dal punto di vista proprio di"
+        },
+        {
+          "start": 85.37999725341797,
+          "end": 91.22000122070312,
+          "text": "contenuto non è nient'altro che un file di testo. È un file di testo, è un file markdown, però"
+        },
+        {
+          "start": 91.22000122070312,
+          "end": 97.22000122070312,
+          "text": "abbiamo capito che il markdown è testo, con dentro delle istruzioni per un task specifico. Come la"
+        },
+        {
+          "start": 97.22000122070312,
+          "end": 103.45999908447266,
+          "text": "chiamiamo? Scrivendo slash nome della skill, per esempio vi ho fatto vedere nel mio workspace"
+        },
+        {
+          "start": 103.62000274658203,
+          "end": 111.81999969482422,
+          "text": "faccio start, oppure load project, oppure poco fa ho fatto context, e Cloud la esegue, ok? Quindi"
+        },
+        {
+          "start": 111.81999969482422,
+          "end": 116.13999938964844,
+          "text": "noi scriviamo una sola volta questa procedura, ce l'abbiamo all'infinito, la riusiamo tutte le"
+        },
+        {
+          "start": 116.13999938964844,
+          "end": 121.69999694824219,
+          "text": "volte che ci serve. Non dobbiamo, perciò vi dicevo, la cosa di andare a scrivere quei prompt giganti"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 2,
+        "time": 120.0,
+        "timestamp": "00:02:00",
+        "image": "frame_0002.jpg",
+        "reason": "periodic",
+        "ocr_text": "Un file Markdonm (quindi testo lice) con istruzioni per un task specifico. Quando la invochi con /nome-skill, Claude le segue passo dopo passo. ivi la procedura una, volta. Riusala ogni volta che tì serve. ioni principali (obbligatorio) ci» Ron a re Claude alli ws La skill è la tua ricette CON E SENZA SKILL CON UNA SKi ite per Claude da compilare Riscrivi le istruzioni ogni volta È di esempio che mostra il formato previsto SR È che Claude può eseguire Risultati inconsisterti Spieghi invece di lavorare Il processo è solo nello tua testa Le serivi una volta, le riusì se",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 121.69999694824219,
+          "end": 127.62000274658203,
+          "text": "scompare proprio, perché quel prompt può diventare una skill. Tra l'altro, diciamo, la possiamo"
+        },
+        {
+          "start": 127.73999786376953,
+          "end": 134.10000610351562,
+          "text": "invocare con slash nome skill, ma Cloud Code è un sistema molto intelligente che, anche se"
+        },
+        {
+          "start": 134.10000610351562,
+          "end": 139.6999969482422,
+          "text": "scriviamo proprio in linguaggio naturale che abbiamo bisogno di una cosa, lui capirà che"
+        },
+        {
+          "start": 139.6999969482422,
+          "end": 145.22000122070312,
+          "text": "quella cosa è collegata a una skill e la invoca comunque. Questo è preso, diciamo, dalla documentazione"
+        },
+        {
+          "start": 145.22000122070312,
+          "end": 150.10000610351562,
+          "text": "ufficiale di Antropic, che ci fa vedere come è fatta una skill. C'è una cartella che è il nome"
+        },
+        {
+          "start": 150.10000610351562,
+          "end": 155.86000061035156,
+          "text": "della skill, c'è un file dentro che si chiama skill.Md, dove ci sono le istruzioni. Questo è"
+        },
+        {
+          "start": 155.86000061035156,
+          "end": 160.82000732421875,
+          "text": "l'unico file obbligatorio, quindi la maggior parte delle skill sono una cartella con dentro un"
+        },
+        {
+          "start": 160.82000732421875,
+          "end": 167.3800048828125,
+          "text": "file skill.Md. Finito! Non c'è nient'altro. Se volete potete mettere dei template, se volete potete"
+        },
+        {
+          "start": 167.3800048828125,
+          "end": 172.89999389648438,
+          "text": "mettere degli esempi su come si deve comportare la skill. Se volete, e questa qua è utile, potete"
+        },
+        {
+          "start": 172.89999389648438,
+          "end": 177.94000244140625,
+          "text": "mettere dei pezzi di codice. Cioè alcune skill devono fare a volte delle cose un po' più complicate,"
+        },
+        {
+          "start": 177.94000244140625,
+          "end": 183.5,
+          "text": "per cui devono eseguire del codice, allora dentro ci può essere del codice di supporto. La skill dice"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 3,
+        "time": 180.0,
+        "timestamp": "00:03:00",
+        "image": "frame_0003.jpg",
+        "reason": "periodic",
+        "ocr_text": "2 AB a, a! con istruzioni per un task specifi scio» MD © Tare le segue posso dopo posso. my-skill/ — swtt.md # Istruzioni principali (obbligatorio) — temprate.nd # Tenplate per Claude da compilare Riserivi le istruzioni ogni volta | examples/ ai L_ sampre.ma # Output di esempio che mostra il formato previsto Dimentichi dettagli importanti L_ scripts/ LI S$ridate.sh # Script che Claude può eseguire Risultati inconsistenti Spieghi invece di lavorare Il processo è solo nella tua testa",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 183.5,
+          "end": 191.4199981689453,
+          "text": "ok, per poter completare questa cosa ho bisogno di codice di supporto, ok? Questa è la skill. Ma"
+        },
+        {
+          "start": 191.4199981689453,
+          "end": 196.5800018310547,
+          "text": "non vi preoccupate, perché anche se questa cosa vi sembra complessa, non la dovete fare a mano voi,"
+        },
+        {
+          "start": 196.5800018310547,
+          "end": 201.82000732421875,
+          "text": "perché avete già capito che la CreaCloud. Il workspace lo dovevate solo capire, ma poi"
+        },
+        {
+          "start": 201.82000732421875,
+          "end": 207.3000030517578,
+          "text": "l'ha creato Cloud. Il contesto lo dovevate solo capire, ma poi l'ha creato Cloud. Le skill le"
+        },
+        {
+          "start": 207.3000030517578,
+          "end": 212.86000061035156,
+          "text": "dovete solo capire, ma poi le CreaCloud. State tranquilli, ok? Ci arriviamo. Qua ho esagerato,"
+        },
+        {
+          "start": 212.86000061035156,
+          "end": 217.10000610351562,
+          "text": "ho fatto pure la metafora della ricetta, questo è proprio da manuale diciamo di informatica,"
+        },
+        {
+          "start": 217.10000610351562,
+          "end": 223.6999969482422,
+          "text": "al giorno 1, è un po' come una ricetta. Cioè la ricetta, la pasta al pomodoro è sempre gli stessi"
+        },
+        {
+          "start": 223.6999969482422,
+          "end": 230.4600067138672,
+          "text": "step, no? Sappiamo le fasi da eseguire, la skill è quello, è una ricetta. Poi Cloud la prende,"
+        },
+        {
+          "start": 230.4600067138672,
+          "end": 235.5399932861328,
+          "text": "è un po' il cuoco, ho detto qua, la esegue e ottiene quel risultato. Stop. Questa è la skill,"
+        },
+        {
+          "start": 235.5399932861328,
+          "end": 241.77999877929688,
+          "text": "è una ricetta, ok? Una serie di passi che deve fare. Qua ho fatto un po' la solita tabella con"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 4,
+        "time": 240.0,
+        "timestamp": "00:04:00",
+        "image": "frame_0004.jpg",
+        "reason": "periodic",
+        "ocr_text": "COT=\">\"<WwWC-<\"% € > 0 ecaldrancon —lBBBE-/*“;! VP III uzioni per un task specifico. e 8 [Mm 0, 0, 0, -, -, 2, A, 8, e, 4 a procedura seritta e la se la ese È »Lacskildlastuo ricetta; claude è il cuoco. volta che ti serve. CON UNA SKILL Riserivi le istruzioni ogni volta Le serivi una volta, le riusì sempre Dimentichi dettagli importanti Nessun dettaglio viene perso Risultati inconsistenti Output sempre coerenti Spieghi invece di lavorare Un comando e Claude sa gia tutto Il processo è solo nella tua testa Il processo e documentato QUANDO CREARLA — QUANDO NON CREARLA QUANDO CREARLA QUANDO NON CREARLA SPE spesso Task che fai una volta sola",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 241.86000061035156,
+          "end": 246.89999389648438,
+          "text": "e senza skill, no? Qual è il vantaggio di andare a lavorare con le skill? Perché sono fondamentali?"
+        },
+        {
+          "start": 246.89999389648438,
+          "end": 251.5800018310547,
+          "text": "Allora, quando non abbiamo le skill, noi riscriviamo le istruzioni tutte le volte ed è"
+        },
+        {
+          "start": 251.5800018310547,
+          "end": 256.9800109863281,
+          "text": "quello che ci siamo abituati per anni a fare nei chatbot, no? A fare questi prompt giganti. Poi"
+        },
+        {
+          "start": 256.9800109863281,
+          "end": 261.1000061035156,
+          "text": "ovviamente Cloud ha introdotto le skill che non sono solo in Cloud Work, sono anche in Cloud Chat,"
+        },
+        {
+          "start": 261.1000061035156,
+          "end": 267.3800048828125,
+          "text": "in Cowork, quindi qualcuno di voi potrebbe anche già averle viste le skill e lo conosce già come"
+        },
+        {
+          "start": 267.3800048828125,
+          "end": 272.5,
+          "text": "concetto, però magari qualcuno le sente per la prima volta. Quindi devi riscrivere tutte le volte"
+        },
+        {
+          "start": 272.5,
+          "end": 276.8599853515625,
+          "text": "le istruzioni. Invece qua li scrivi una sola volta, le riutilizzi per sempre. Fai semplicemente"
+        },
+        {
+          "start": 276.8599853515625,
+          "end": 281.8999938964844,
+          "text": "slash in chat, nome della skill, invio. Quindi c'è la skill che ti crea il preventivo. Crea"
+        },
+        {
+          "start": 281.8999938964844,
+          "end": 285.7799987792969,
+          "text": "preventivo, invio, brum, e lui fa il preventivo. Non devi scrivere tutte le volte come vuoi il"
+        },
+        {
+          "start": 285.7799987792969,
+          "end": 291.1000061035156,
+          "text": "preventivo. Quando fai i megaprompt spesso dimentichiamo i dettagli e quindi ci sono tutti"
+        },
+        {
+          "start": 291.1000061035156,
+          "end": 296.6199951171875,
+          "text": "i trucchetti su Terfugge. La gente si fa le note, se li mette nei file Word, se li salva su Notion,"
+        },
+        {
+          "start": 296.94000244140625,
+          "end": 301.6199951171875,
+          "text": "ci sono questi database, questi archivi con i prompt. Qua abbiamo la skill che non si perde"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 5,
+        "time": 300.0,
+        "timestamp": "00:05:00",
+        "image": "frame_0005.jpg",
+        "reason": "periodic",
+        "ocr_text": "CON E SENZA SKILL SENZA SKILL CON UNA SKILL Riscrivi le istruzioni ogni volta Le scrivi una volta, le riusì sempre Dimeritichi dettagli importanti Nessun dettaglio viene perso Risultati inconsistenti Output sempre ererti Spieghi invece di lavorare Un comando e Claude sa gia tutto Il processo è solo nella tua testa Il processo e documentato QUANDO CREARLA — QUANDO NON CREARLA QUANDO CREARLA Task che Fai spesso Ù",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 301.6199951171875,
+          "end": 306.260009765625,
+          "text": "nessun dettaglio. Soprattutto la possiamo mantenere nel tempo, perché se l'esigenza"
+        },
+        {
+          "start": 306.260009765625,
+          "end": 310.70001220703125,
+          "text": "nostra è cambiata dopo un mese o dopo un anno, andiamo nella skill, modifichiamo quella piccola"
+        },
+        {
+          "start": 310.70001220703125,
+          "end": 317.05999755859375,
+          "text": "parte e continuiamo a dare lo stesso comando e la skill farà le nuove istruzioni. Spesso i risultati"
+        },
+        {
+          "start": 317.05999755859375,
+          "end": 321.9800109863281,
+          "text": "qua sono inconsistenti, invece qua l'output è sempre lo stesso. Cioè se io ho la skill che mi"
+        },
+        {
+          "start": 321.9800109863281,
+          "end": 326.260009765625,
+          "text": "fa la pasta al pomodoro, farà sempre la pasta al pomodoro. Non succede che un giorno mi fa la"
+        },
+        {
+          "start": 326.29998779296875,
+          "end": 333.1000061035156,
+          "text": "pasta al pesto. Senza skill dobbiamo spiegare tutto il tempo. Quando lavoriamo con le skill,"
+        },
+        {
+          "start": 333.1000061035156,
+          "end": 337.5799865722656,
+          "text": "come vi ho detto, si perde quella cosa di scrivere i prompt, ma siamo molto operativi,"
+        },
+        {
+          "start": 337.5799865722656,
+          "end": 344.05999755859375,
+          "text": "andiamo molto sui comandi. Quindi gli diciamo mi serve il preventivo per Mario Rossi, invio. Lui"
+        },
+        {
+          "start": 344.05999755859375,
+          "end": 348.260009765625,
+          "text": "dice, ah, Raffaela ha chiesto un preventivo, c'è una skill che serve per il preventivo,"
+        },
+        {
+          "start": 348.260009765625,
+          "end": 353.4599914550781,
+          "text": "fammela invocare. Ah, ha chiesto Mario Rossi, nel contesto ci sono le istruzioni di Mario Rossi,"
+        },
+        {
+          "start": 353.4599914550781,
+          "end": 358.3800048828125,
+          "text": "metti insieme queste due cose e ti produce il preventivo. Quindi mentre qua il processo è nella"
+        },
+        {
+          "start": 358.3800048828125,
+          "end": 363.5,
+          "text": "nostra testa, il processo qua l'abbiamo documentato. Perché? Perché abbiamo la nostra bella ricettina,"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 6,
+        "time": 360.0,
+        "timestamp": "00:06:00",
+        "image": "frame_0006.jpg",
+        "reason": "periodic",
+        "ocr_text": "CON E SENZA SKILL SENZA SKILL CON UNA SKILL Riscrivi le istruzioni ogni volta Le serivi una volta, le riusì sempre Dimeritichi dettagli importanti Nessun dettaglio viene perso Risultati inconsistenti Output sempre coerenti Spieghi invece di lavorare Un comando e Claude sa gia tutto Il processo è solo nella tua testa Il processo £ documentato QUANDO CREARLA — QUANDO NON CREARLA QUANDO CREARLA QUANDO NON CREARLA Ta<k che fai spesso Task che fai una volta sola s",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 363.5,
+          "end": 369.5,
+          "text": "anzi ricetta fatemelo proprio sottolineare. Eccolo qua. Abbiamo la nostra bella ricetta,"
+        },
+        {
+          "start": 369.5,
+          "end": 375.70001220703125,
+          "text": "l'abbiamo documentato. Questo è fondamentale. Ci sono dei casi nei quali vale la pena crearla,"
+        },
+        {
+          "start": 375.70001220703125,
+          "end": 381.5400085449219,
+          "text": "non vale la pena crearla, no? Quando dobbiamo regolarci. Allora, quasi sempre conviene creare"
+        },
+        {
+          "start": 381.5400085449219,
+          "end": 389.260009765625,
+          "text": "una skill, ok? Non si crea la skill quando non abbiamo un'attività ripetitiva da fare. Quindi,"
+        },
+        {
+          "start": 389.260009765625,
+          "end": 395.3399963378906,
+          "text": "se fai un task spesso hai bisogno di una skill, ok? Se tu periodicamente invii preventivi,"
+        },
+        {
+          "start": 395.3399963378906,
+          "end": 403.5400085449219,
+          "text": "quella cosa deve diventare una skill. Se tu periodicamente devi trasformare le… I file"
+        },
+        {
+          "start": 403.5400085449219,
+          "end": 409.5,
+          "text": "audio di una riunione fatto col tuo team perché ti serve la minuta della riunione,"
+        },
+        {
+          "start": 409.5,
+          "end": 414.739990234375,
+          "text": "che è di persona oppure su Zoom, su Meet, eccetera eccetera, se lo fai una volta al giorno,"
+        },
+        {
+          "start": 414.739990234375,
+          "end": 419.3399963378906,
+          "text": "una volta a settimana, per quello ti serve una skill. Se hai fatto una call con un cliente"
+        },
+        {
+          "start": 419.3399963378906,
+          "end": 424.1400146484375,
+          "text": "americano e ti serve la traduzione dall'inglese perché non mastichi bene l'inglese, quella cosa"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 7,
+        "time": 420.0,
+        "timestamp": "00:07:00",
+        "image": "frame_0007.jpg",
+        "reason": "periodic",
+        "ocr_text": "XE tend Cinudo manie © x | + Spieghi invece di lavorare Il processo È solo nella tua testa QUANDO CREARLA Task che@ai spesso Output con Formato preciso e fisso Task complessi con gli stessi passaggi Vuoi risultati coerenti nel tempo Processo che vuoi documentare Task che fai una volta sola Task troppo semplici (basta un breve prompt) I passaggi cambiano troppo ogni volta La. coerenza È irrilevante Non tì interessa documentare UN PO' DI ESEMPI",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 424.1400146484375,
+          "end": 427.70001220703125,
+          "text": "è una skill, ok? Tutte le cose che sono ripetitive devono diventare delle skill."
+        },
+        {
+          "start": 427.70001220703125,
+          "end": 438.3800048828125,
+          "text": "Se hai un particolare template che usi per rispondere alle mail dei clienti che chiedono"
+        },
+        {
+          "start": 438.3800048828125,
+          "end": 443.05999755859375,
+          "text": "il rimborso di un prodotto, quella cosa diventa una skill. Invece se sono task che fai una sola"
+        },
+        {
+          "start": 443.05999755859375,
+          "end": 447.1400146484375,
+          "text": "volta non ti serve la skill. Scrivi il prompt quella volta, magari il prompt è pure piccolo,"
+        },
+        {
+          "start": 447.1400146484375,
+          "end": 452.29998779296875,
+          "text": "e allora sti cazzi. Ti serve una skill ogni volta che hai un output preciso, quindi per esempio ho"
+        },
+        {
+          "start": 452.29998779296875,
+          "end": 456.82000732421875,
+          "text": "fatto l'esempio del preventivo, l'esempio della mail, l'esempio della traduzione, tu sai che voi"
+        },
+        {
+          "start": 456.82000732421875,
+          "end": 460.8599853515625,
+          "text": "ottenete sempre quella cosa, allora quella è una skill. Tu la documenti e dici ok, questo è quello"
+        },
+        {
+          "start": 460.8599853515625,
+          "end": 466.9800109863281,
+          "text": "che voglio ottenere. Invece quando sono troppo semplici non lo fai questa cosa qua. Se i passaggi"
+        },
+        {
+          "start": 466.9800109863281,
+          "end": 472.1000061035156,
+          "text": "sono sempre gli stessi, ti serve una skill. Se i passaggi cambiano tutte le volte, è difficile"
+        },
+        {
+          "start": 472.1000061035156,
+          "end": 478.70001220703125,
+          "text": "fare la skill. Cioè se tu dici il preventivo è sempre lo stesso, deve solo prendere il nome"
+        },
+        {
+          "start": 478.70001220703125,
+          "end": 484.8999938964844,
+          "text": "dell'azienda e l'indirizzo dell'azienda, il pacchetto che ha comprato, quella cosa è perfetta."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 8,
+        "time": 480.0,
+        "timestamp": "00:08:00",
+        "image": "frame_0008.jpg",
+        "reason": "periodic",
+        "ocr_text": "Spieghi invece di lavorare Il processo È solo nella tua testa Task che Fai spesso Task che Rai una volta sola Output con formato preciso e fisso Task troppo semplici (basta un breve prompt) Task complessi con gli stessi passaggi I passaggi cambiago troppo ogni volta Vuoi risultati coerenti nel tempo La. coerenza È irrilevante Processo che vuoì documentare Non ti interessa documentare UN PO' DI ESEMPI e}",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 484.8999938964844,
+          "end": 489.5,
+          "text": "Se tu mi dici no Raph, no no, i preventivi, io per i preventivi no, li scrivo tutte le volte a mano,"
+        },
+        {
+          "start": 489.5,
+          "end": 493.9800109863281,
+          "text": "sono diversi, non c'è un template di riferimento, allora ti dico no, non la fai la skill in quel"
+        },
+        {
+          "start": 493.9800109863281,
+          "end": 498.8599853515625,
+          "text": "caso. Sto facendo l'esempio del preventivo perché è facile, ma ne ho fatti mille, la call one to one,"
+        },
+        {
+          "start": 498.8599853515625,
+          "end": 506.260009765625,
+          "text": "la traduzione, la mail, la risposta ai ticket. Io per esempio ho una skill potentissima che mi va"
+        },
+        {
+          "start": 506.260009765625,
+          "end": 512.9000244140625,
+          "text": "su un mio video su YouTube e mi scarica il transcript. Oppure se il video non ce l'ho su"
+        },
+        {
+          "start": 512.9000244140625,
+          "end": 519.0599975585938,
+          "text": "YouTube ma se ce l'ho sul desktop, prende un video e mi fa la trascrizione. Immaginate,"
+        },
+        {
+          "start": 519.0599975585938,
+          "end": 521.9000244140625,
+          "text": "nel mio caso è un video YouTube, ma nel vostro caso che magari non fate YouTube,"
+        },
+        {
+          "start": 522.739990234375,
+          "end": 527.0999755859375,
+          "text": "quel file là, per esempio, è la riunione che avete fatto col vostro team, no, su Zoom,"
+        },
+        {
+          "start": 527.0999755859375,
+          "end": 532.3400268554688,
+          "text": "un'ora e mezza di riunione e dite madonna mia ma quali erano le cose da fare, ma chi le doveva fare,"
+        },
+        {
+          "start": 532.3400268554688,
+          "end": 536.9000244140625,
+          "text": "ma quali sono le scadenze, ma l'abbiamo mandato il preventivo al cliente, vi fate una skill che"
+        },
+        {
+          "start": 536.9000244140625,
+          "end": 543.0999755859375,
+          "text": "prende un file video o un file audio e vi fa questa cosa, riassunto, vi estrapola i punti"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 9,
+        "time": 540.0,
+        "timestamp": "00:09:00",
+        "image": "frame_0009.jpg",
+        "reason": "periodic",
+        "ocr_text": "dA Etna Cha waste x Spieghi invece di lavorare ” Li gia tutto Il processo È solo nella tua testa Task che fai spesso Task che fai una volta sola Output con formato preciso e fisso Task troppo semplici (basta un breve prompt) Task complessi con gli stessi passaggi I passaggi cambiago troppo ogni volta Vuoì risultati coerenti nel tempo La coerenza È irrilevante Processo che vuoî documentare Non tì interessa documentare UN PO' DI ESEMPI",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 543.0999755859375,
+          "end": 548.9400024414062,
+          "text": "principali, i task e così via. Se vi serve la coerenza dovete fare una skill, se la coerenza"
+        },
+        {
+          "start": 549.02001953125,
+          "end": 554.0599975585938,
+          "text": "è rilevante non è necessaria la skill, se volete documentare il processo vi serve una skill perché"
+        },
+        {
+          "start": 554.0599975585938,
+          "end": 557.219970703125,
+          "text": "a tutti gli effetti è una ricetta, se non ti interessa documentare perché dice no vabbè questa"
+        },
+        {
+          "start": 557.219970703125,
+          "end": 562.3800048828125,
+          "text": "cosa la faccio mo poi non mi servirà mai più, allora sticazzi della skill, ok? Quindi serve"
+        },
+        {
+          "start": 562.3800048828125,
+          "end": 568.3400268554688,
+          "text": "quasi sempre la skill, potremmo dire, tranne nei casi in cui avete delle cose che fate una"
+        },
+        {
+          "start": 568.3400268554688,
+          "end": 574.3800048828125,
+          "text": "sola volta o sono molto diverse nel tempo, ok? Se vogliamo semplificare tanto. Poi qua io ho"
+        },
+        {
+          "start": 574.3800048828125,
+          "end": 579.0999755859375,
+          "text": "messo un po' di esempi, però se esempi, vi dico la verità, sono sempre dubbioso sul metterli perché"
+        },
+        {
+          "start": 579.0999755859375,
+          "end": 583.780029296875,
+          "text": "ovviamente ne faccio uno e poi c'è un altro che diciamo non hai fatto il mio esempio, vabbè ho"
+        },
+        {
+          "start": 583.780029296875,
+          "end": 588.6199951171875,
+          "text": "fatto l'imprenditore, il manager, il libero professionista, giusto per darvi qualche spunto,"
+        },
+        {
+          "start": 588.6199951171875,
+          "end": 593.9000244140625,
+          "text": "poi dopo ci mettiamo a lavorare praticamente, quindi diciamo ne vediamo qualcuna di concreta,"
+        },
+        {
+          "start": 593.9000244140625,
+          "end": 600.0999755859375,
+          "text": "però per accendervi qualche lampadina, darvi qualche idea. Allora, l'imprenditore per esempio,"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 10,
+        "time": 600.0,
+        "timestamp": "00:10:00",
+        "image": "frame_0010.jpg",
+        "reason": "periodic",
+        "ocr_text": "® * renza È irrilevante Non tì interessa documertare UN PO' DI ESEMPI * Analizzare offerte commerciali * Minuta. della riunione * Follow-up dopo una sessione * Creare job description nuovi ruoli * Feedback a un collaboratore * Proposta commerciale * Comunicazione intera al team * Preparazione one-to-one * Materiale per corsì e workshop * Recap mensile del business * Report per il management * Report periodico al cliente * Email a clienti e partner * Comunicazione delicata al team * Risposta a email complesse n 0 - n dr 1",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 600.0999755859375,
+          "end": 605.8599853515625,
+          "text": "analisi di offerte commerciali, mi arrivano delle mail, mi arrivano dei pdf, eccetera,"
+        },
+        {
+          "start": 605.8599853515625,
+          "end": 610.3800048828125,
+          "text": "bam, le butto dentro, la skill mi fa l'analisi, i pro, i contro, no, mi tira fuori le cose da"
+        },
+        {
+          "start": 610.3800048828125,
+          "end": 616.4199829101562,
+          "text": "approfondire, le red flag e così via. Devo assumere spesso, metto spesso degli annunci,"
+        },
+        {
+          "start": 616.4199829101562,
+          "end": 620.9000244140625,
+          "text": "delle job description, mi faccio un sistema che mi crea in automatico delle job description per"
+        },
+        {
+          "start": 620.9000244140625,
+          "end": 626.0999755859375,
+          "text": "il mio team. Comunicazione interna al team, perché magari facciamo degli appuntamenti periodici,"
+        },
+        {
+          "start": 626.0999755859375,
+          "end": 630.8599853515625,
+          "text": "perché magari abbiamo delle mail periodiche che vengono mandate e così via. Recap mensile,"
+        },
+        {
+          "start": 630.8599853515625,
+          "end": 637.02001953125,
+          "text": "quindi un recap può essere, che ne so, dei risultati che abbiamo ottenuto questo mese,"
+        },
+        {
+          "start": 637.02001953125,
+          "end": 641.4199829101562,
+          "text": "quindi potrebbe essere più sui aspetti economici, potrebbe essere delle metriche importanti, no,"
+        },
+        {
+          "start": 641.4199829101562,
+          "end": 645.6599731445312,
+          "text": "che vado a prendere magari nel sistema di analytics, nel crm e così via. Oppure email,"
+        },
+        {
+          "start": 645.6599731445312,
+          "end": 651.97998046875,
+          "text": "tantissimo per email, email a clienti, partner, stakeholder, eccetera. Il manager, classica"
+        },
+        {
+          "start": 652.5399780273438,
+          "end": 658.780029296875,
+          "text": "riunione, mi serve fare la minuta, sono stato due ore in riunione, dopo esco fuso,"
+        },
+        {
+          "start": 658.780029296875,
+          "end": 664.02001953125,
+          "text": "ho una skill che in automatico mi tira fuori tutte le cose importanti. Oppure un feedback"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 11,
+        "time": 660.0,
+        "timestamp": "00:11:00",
+        "image": "frame_0011.jpg",
+        "reason": "periodic",
+        "ocr_text": "* Minuto della riunigne * Feedback a un collaboratore * Preparazione one-torone * Report per il management * Comunicazione delicata al team * Follow-up dopo una sessione * Proposta commerciale * Materiale per corsì e workshop * Report periodico al cliente * Risposta a email complesse * Post social per un cliente * Report mensile al cliente * Proposta per nuovo cliente * Contenuto su piu conali * Briefing nuovo progetto",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 664.02001953125,
+          "end": 669.97998046875,
+          "text": "a un collaboratore, vi dicevo prima, no, se avete da fare al fine mese la, che ne so,"
+        },
+        {
+          "start": 669.97998046875,
+          "end": 675.8599853515625,
+          "text": "la, la, il one to one, perfetto, lancio la skill, preparare one to one per Raffaele,"
+        },
+        {
+          "start": 675.8599853515625,
+          "end": 680.9400024414062,
+          "text": "preparare one to one per Giulia, preparare one to one per Carla, preparare one to one per Francesco"
+        },
+        {
+          "start": 680.9400024414062,
+          "end": 686.5,
+          "text": "e così via. E infatti ho detto già pure il terzo, preparazione one to one, report, se fate spesso"
+        },
+        {
+          "start": 686.5,
+          "end": 692.0999755859375,
+          "text": "reportistica, quindi ho delle cose, devo mettere dentro un unico file e prepararmi una reportistica,"
+        },
+        {
+          "start": 692.0999755859375,
+          "end": 699.4199829101562,
+          "text": "questa è una bomba. Oppure comunicazione interna al team, anche questo. Professionista, mail di"
+        },
+        {
+          "start": 699.4199829101562,
+          "end": 705.1799926757812,
+          "text": "follow up dopo una sessione, quindi per esempio faccio coaching, ho finito l'ora di coaching e"
+        },
+        {
+          "start": 705.260009765625,
+          "end": 711.6599731445312,
+          "text": "voglio mandare alla persona con cui ho fatto coaching una piccola mail di recap o un piccolo"
+        },
+        {
+          "start": 711.6599731445312,
+          "end": 716.6199951171875,
+          "text": "report. No, questa cosa la può fare in automatico dalla sessione di coaching che abbiamo appena"
+        },
+        {
+          "start": 716.6199951171875,
+          "end": 721.8200073242188,
+          "text": "fatto. Preparare un preventivo, preparare materiali per corsi, per workshop, devo mettere in piedi"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 12,
+        "time": 720.0,
+        "timestamp": "00:12:00",
+        "image": "frame_0012.jpg",
+        "reason": "periodic",
+        "ocr_text": "UN PO' DI ESEMPI linuta della riunione eedback a un collaboratore * Follow-up dopo una sessione * Proposta commerciale treparazione one-to-one * Materiale per corsi e workghop teport per il management * Report periodico al cliente ‘omunicazione delicata al team * Risposta a email complesse iper esen perlinalione * Report mensile al cliente * Proposta per nuovo cliente * Contenuto su piu canali * Briefing nuovo progetto",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 721.8200073242188,
+          "end": 728.5399780273438,
+          "text": "degli esempi, per esempio, no, mi serve impostare uno schema, una struttura di qualche tipo,"
+        },
+        {
+          "start": 728.5399780273438,
+          "end": 734.2999877929688,
+          "text": "faccio dei report periodici al cliente, anche qui risposta alle mail, che possono essere mail"
+        },
+        {
+          "start": 734.4199829101562,
+          "end": 740.219970703125,
+          "text": "di persone che sono già clienti, di potenziali clienti e così via. E poi, diciamo, magari lavoro"
+        },
+        {
+          "start": 740.219970703125,
+          "end": 748.3400268554688,
+          "text": "nel digitale, lavorare sui post social, quindi traduzioni, scrittura copy, idee, brainstorming,"
+        },
+        {
+          "start": 748.3400268554688,
+          "end": 756.4600219726562,
+          "text": "no, proporre idee. Mi faccio una, per esempio, una skill che mi dice, che ne so, cinque idee per"
+        },
+        {
+          "start": 756.4600219726562,
+          "end": 762.739990234375,
+          "text": "LinkedIn e poi una skill che mi dà invece solo le idee per i caroselli per Instagram e così via. No,"
+        },
+        {
+          "start": 762.739990234375,
+          "end": 768.260009765625,
+          "text": "sono singole funzionalità. Ragionate sempre su questa singola funzionalità. Io sono molto"
+        },
+        {
+          "start": 768.260009765625,
+          "end": 776.02001953125,
+          "text": "favorevole alle skill molto snelle, non mi piacciono le skill molto complicate, ok? Per esempio,"
+        },
+        {
+          "start": 776.02001953125,
+          "end": 781.02001953125,
+          "text": "poi ovviamente ognuno se le organizza come vuole, perché qua poi entriamo nelle preferenze personali,"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 13,
+        "time": 780.0,
+        "timestamp": "00:13:00",
+        "image": "frame_0013.jpg",
+        "reason": "periodic",
+        "ocr_text": "* Post social per un cliente osta commerciale * Report mensile al cliente griale per corsi e workshop * Proposta. per nuovo cliente et periodico al cliente * Contenuto su piu canali asta a email complesse * Briefing nuovo progetto",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 781.02001953125,
+          "end": 789.6199951171875,
+          "text": "però io non mi farei una skill calendario editoriale, che dentro mi fa LinkedIn, mi fa"
+        },
+        {
+          "start": 789.6199951171875,
+          "end": 797.3800048828125,
+          "text": "Instagram, mi fa newsletter, mi fa blog, la vedo complessa da gestire nel tempo. Ragionate sempre"
+        },
+        {
+          "start": 797.3800048828125,
+          "end": 802.1400146484375,
+          "text": "in ottica modulare, è un sistema modulare, Cloud Code, è molto facile avere dei piccoli moduli,"
+        },
+        {
+          "start": 802.1400146484375,
+          "end": 808.3400268554688,
+          "text": "sono più facili da gestire. Io, per esempio, mi farei una skill che mi fa, mi dà i suggerimenti"
+        },
+        {
+          "start": 808.3400268554688,
+          "end": 811.8599853515625,
+          "text": "per degli argomenti da trattare su LinkedIn, mi dà delle idee per i caroselli che posso fare su"
+        },
+        {
+          "start": 811.8599853515625,
+          "end": 816.260009765625,
+          "text": "Instagram. Sono delle skill separate. Io ragionerei in questo modo, poi ognuno se le organizza come"
+        },
+        {
+          "start": 816.260009765625,
+          "end": 822.0599975585938,
+          "text": "vuole. Contenuti su più canali, quindi magari mi aiuta a fare il cross-posting, ti do in pasto un"
+        },
+        {
+          "start": 822.0599975585938,
+          "end": 827.3400268554688,
+          "text": "articolo di blog, mi aiuti a trasformarlo in un carosello, per esempio. Oppure un briefing per"
+        },
+        {
+          "start": 827.3400268554688,
+          "end": 836.02001953125,
+          "text": "un nuovo progetto. Qua ho aggiunto questa piccola cosa che non l'ho trovata mai da nessuna parte e"
+        },
+        {
+          "start": 836.02001953125,
+          "end": 839.97998046875,
+          "text": "nessuna me l'ha mai spiegato in maniera esplicita. Secondo me è utile che ve la dica questa cosa."
+        },
+        {
+          "start": 839.97998046875,
+          "end": 845.739990234375,
+          "text": "Le skill alcune volte sono di sistema, quindi sono un po' di back-end, alcune volte sono di"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 14,
+        "time": 840.0,
+        "timestamp": "00:14:00",
+        "image": "frame_0014.jpg",
+        "reason": "periodic",
+        "ocr_text": "Il + Materiale per corsì e vorkshop — Il + Proposta per nuovo cliente «Report perl mnegener & 18 (A O, 0, 0. +. —, 2, A, 8, @, & contenuto su piu coni * Comiienzione delta al tene none 2TIPIDIISKEEL DI SISTEMA Servono dietro le quinte per gestire il sistema (workspace, contesto, altro) e non producono nulla DI LAVORO Sono quelle produttive che servono a creare output. nel processo lavorativo",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 845.739990234375,
+          "end": 851.0599975585938,
+          "text": "lavoro, sono di front-end. Cioè quando voi mi avete visto fare per esempio slash start e ho"
+        },
+        {
+          "start": 851.0599975585938,
+          "end": 857.5,
+          "text": "caricato il contesto, quella è una skill, ma non è una skill operativa, cioè non mi produce un output"
+        },
+        {
+          "start": 857.5,
+          "end": 864.3400268554688,
+          "text": "per il mio lavoro, no? Da content creator. Mentre la skill che mi crea i metadati per i video"
+        },
+        {
+          "start": 864.3400268554688,
+          "end": 870.7000122070312,
+          "text": "YouTube, quella è di lavoro, cioè mi crea del materiale, dell'output, ok? Per esempio qua vi"
+        },
+        {
+          "start": 870.7000122070312,
+          "end": 876.5399780273438,
+          "text": "ho fatto vedere che prima ho lanciato la skill slash context, questa è una skill di sistema,"
+        },
+        {
+          "start": 876.5399780273438,
+          "end": 881.5,
+          "text": "cioè mi aiuta a fare il lavoro di dietro le quinte, no? Qua dico a gestire il sistema,"
+        },
+        {
+          "start": 881.5,
+          "end": 886.7000122070312,
+          "text": "per esempio il workspace, il contesto, no? La memoria, i plug-in, bla bla bla, le mille cose"
+        },
+        {
+          "start": 886.7000122070312,
+          "end": 891.97998046875,
+          "text": "di Cloud Code. Non produce nulla, non è qualcosa che serve nel mio lavoro questa cosa qua,"
+        },
+        {
+          "start": 891.97998046875,
+          "end": 898.0599975585938,
+          "text": "mi serve nella manutenzione di Cloud Code. Mentre quelle là che sono di lavoro sono le skill che"
+        },
+        {
+          "start": 898.0599975585938,
+          "end": 899.9000244140625,
+          "text": "invece io invoco e che mi aiutano a fare il lavoro di dietro le quinte, non è qualcosa che serve nel mio lavoro."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 15,
+        "time": 900.0,
+        "timestamp": "00:15:00",
+        "image": "frame_0015.jpg",
+        "reason": "periodic",
+        "ocr_text": "DI SISTEMA Servono dietro le quinte per gestire il sistema (workspace, contesto, altro) e non producono nulla TIPI DI SKILL DI LÀvORO Sono quelle produttive che servono a creare output: nel processo lavorativo",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 900.0,
+          "end": 909.1999998092651,
+          "text": "Quindi potrebbe essere mi fa la traduzione, mi fa il pdf, mi aiuta a fare il brainstorming,"
+        },
+        {
+          "start": 909.1999998092651,
+          "end": 910.1999998092651,
+          "text": "no?"
+        },
+        {
+          "start": 910.1999998092651,
+          "end": 911.1999998092651,
+          "text": "E così via."
+        },
+        {
+          "start": 911.1999998092651,
+          "end": 914.1999998092651,
+          "text": "Quindi adesso che abbiamo chiaro questa cosa, sapete cosa sono le skills."
+        },
+        {
+          "start": 914.1999998092651,
+          "end": 916.0400009155273,
+          "text": "Questo è il concetto principale."
+        },
+        {
+          "start": 916.0400009155273,
+          "end": 920.7999992370605,
+          "text": "Voglio tornare qua e un attimo sottolineare questa cosa."
+        },
+        {
+          "start": 920.7999992370605,
+          "end": 926.5599994659424,
+          "text": "È testo semplice, quindi non vi dovete assolutamente preoccupare perché sono facilissime da fare."
+        },
+        {
+          "start": 926.5599994659424,
+          "end": 928.7999992370605,
+          "text": "E ovviamente le farà Claude, non le faremo noi."
+        },
+        {
+          "start": 928.7999992370605,
+          "end": 929.7999992370605,
+          "text": "Grazie."
+        }
+      ]
+    }
+  ]
+}

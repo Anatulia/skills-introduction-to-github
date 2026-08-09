@@ -1,0 +1,476 @@
+{
+  "title": "I diversi livelli per estendere il sistema",
+  "sections": [
+    {
+      "keyframe": {
+        "index": 0,
+        "time": 0.0,
+        "timestamp": "00:00:00",
+        "image": "frame_0000.jpg",
+        "reason": "start",
+        "ocr_text": "Espandere il sistema VScode Claude Code Terminale VScnde ectanzioni:",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 0.3199999928474426,
+          "end": 5.039999961853027,
+          "text": "A mio avviso una delle cose più importanti da capire quando iniziamo a prendere confidenza"
+        },
+        {
+          "start": 5.039999961853027,
+          "end": 15.039999961853027,
+          "text": "con l'ecosistema Cloud Code e capire che abbiamo di fronte a noi una piattaforma, un'agente"
+        },
+        {
+          "start": 15.039999961853027,
+          "end": 21.8799991607666,
+          "text": "potente è il fatto che si può estendere all'infinito. Possiamo espandere questo sistema."
+        },
+        {
+          "start": 21.8799991607666,
+          "end": 25.920000076293945,
+          "text": "Cosa intendo dire che si può espandere? Probabilmente l'avete già intuito nel corso di tutte le"
+        },
+        {
+          "start": 25.920000076293945,
+          "end": 32.08000183105469,
+          "text": "lezioni che abbiamo fatto fino ad ora e cioè che il punto di partenza dal quale siamo partiti"
+        },
+        {
+          "start": 32.08000183105469,
+          "end": 38.040000915527344,
+          "text": "è appunto un punto di partenza. Possiamo aggiungere nuove capacità e ci sono vari"
+        },
+        {
+          "start": 38.040000915527344,
+          "end": 42.400001525878906,
+          "text": "modi per farlo, o meglio non vari modi, è più corretto dire che ci sono vari livelli"
+        },
+        {
+          "start": 42.400001525878906,
+          "end": 47.560001373291016,
+          "text": "su cui questa cosa può succedere. Qua ho fatto come sempre un piccolo schemino riassuntivo"
+        },
+        {
+          "start": 47.560001373291016,
+          "end": 51.880001068115234,
+          "text": "per darvi anche un po' una passata veloce di teoria. Tra l'altro ho visto che state"
+        },
+        {
+          "start": 51.880001068115234,
+          "end": 57.68000030517578,
+          "text": "apprezzando molto questi schemini quindi anche questo potrete poi scaricarlo. Voglio"
+        },
+        {
+          "start": 57.68000030517578,
+          "end": 64.63999938964844,
+          "text": "farvi capire che quello che abbiamo noi adesso a disposizione è un sistema composto da vari"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 1,
+        "time": 60.0,
+        "timestamp": "00:01:00",
+        "image": "frame_0001.jpg",
+        "reason": "periodic",
+        "ocr_text": "Espandere îl sistema VScode Claude Code Terminale VSende astanzioni:",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 64.63999938964844,
+          "end": 70.80000305175781,
+          "text": "elementi e ognuno di questi elementi può essere esteso, può avere delle nuove funzionalità."
+        },
+        {
+          "start": 70.80000305175781,
+          "end": 75.5199966430664,
+          "text": "Allora questa cosa qua è una semplificazione grafica, non è esattamente così quello che"
+        },
+        {
+          "start": 75.5199966430664,
+          "end": 80.76000213623047,
+          "text": "sta succedendo. Qua si vede VS Code che contiene dentro Cloud Code che contiene dentro il terminale,"
+        },
+        {
+          "start": 80.76000213623047,
+          "end": 84.95999908447266,
+          "text": "non è proprio così, diciamo tecnicamente parlando. Però per farvi capire quello che"
+        },
+        {
+          "start": 84.95999908447266,
+          "end": 90.76000213623047,
+          "text": "sta succedendo, noi apriamo questa app che si chiama VS Code, che è facile da utilizzare,"
+        },
+        {
+          "start": 90.76000213623047,
+          "end": 95.80000305175781,
+          "text": "dentro utilizziamo Cloud Code. Cloud Code è potentissimo per chi ha accesso al terminale."
+        },
+        {
+          "start": 95.80000305175781,
+          "end": 100.27999877929688,
+          "text": "Spero che arrivati a questo punto del corso avrete capito che forse una delle cose più"
+        },
+        {
+          "start": 100.27999877929688,
+          "end": 105.55999755859375,
+          "text": "potenti di Cloud Code rispetto alle chat tradizionali è l'accesso al terminale. Questa è la cosa"
+        },
+        {
+          "start": 105.55999755859375,
+          "end": 110.4000015258789,
+          "text": "che in tanti hanno difficoltà a capire, che quando siamo dentro chat GPT, Gemini,"
+        },
+        {
+          "start": 110.4000015258789,
+          "end": 115.16000366210938,
+          "text": "Copilot e così via, non possiamo invocare il terminale. Invece potendo chiamare il terminale,"
+        },
+        {
+          "start": 115.16000366210938,
+          "end": 121.12000274658203,
+          "text": "io posso fare qualsiasi cosa. Perché vi faccio vedere questo schermino? Per dirvi,"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 2,
+        "time": 120.0,
+        "timestamp": "00:02:00",
+        "image": "frame_0002.jpg",
+        "reason": "periodic",
+        "ocr_text": "Espandere il sistema VScode Claude Code Terminale VSende estenzioni:",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 121.12000274658203,
+          "end": 127.68000030517578,
+          "text": "siccome abbiamo questi tre elementi, ognuno di questi elementi si può estendere. E infatti"
+        },
+        {
+          "start": 127.68000030517578,
+          "end": 132.39999389648438,
+          "text": "adesso vi farò vedere come li estendiamo. Prima teoricamente, poi lo facciamo concretamente."
+        },
+        {
+          "start": 132.72000122070312,
+          "end": 137.44000244140625,
+          "text": "Quando parliamo di VS Code, lo facciamo attraverso le estensioni. E se ci pensate,"
+        },
+        {
+          "start": 137.44000244140625,
+          "end": 142.44000244140625,
+          "text": "questa cosa l'avete già visto all'inizio del corso, nel primissimo modulo. Perché? Perché"
+        },
+        {
+          "start": 142.44000244140625,
+          "end": 148.52000427246094,
+          "text": "per iniziare abbiamo installato l'estensione di Cloud Code che ci fa lavorare dentro VS Code."
+        },
+        {
+          "start": 148.52000427246094,
+          "end": 152.1999969482422,
+          "text": "All'epoca voi non lo sapevate ancora che si chiamavano estensioni e non sapevate che era"
+        },
+        {
+          "start": 152.1999969482422,
+          "end": 158.0399932861328,
+          "text": "un modo per espandere VS Code. Ma questo software all'interno del quale noi lavoriamo si può"
+        },
+        {
+          "start": 158.0399932861328,
+          "end": 161.9600067138672,
+          "text": "estendere. Cosa possiamo fare, per esempio? Possiamo fare delle integrazioni con i linguaggi"
+        },
+        {
+          "start": 162.02000427246094,
+          "end": 165.47999572753906,
+          "text": "di programmazione. Questa è una cosa che a noi può servire fino ad un certo punto. Diciamo,"
+        },
+        {
+          "start": 165.47999572753906,
+          "end": 169.8800048828125,
+          "text": "se non scrivete codici, questo non mi interessa. Può aiutarci nella visualizzazione dei file. E"
+        },
+        {
+          "start": 169.8800048828125,
+          "end": 173.55999755859375,
+          "text": "questo lo vedremo tra un attimo, perché questa è una cosa molto importante sulla quale andremo a"
+        },
+        {
+          "start": 173.55999755859375,
+          "end": 177.83999633789062,
+          "text": "fare diverse installazioni. E a volte anche semplicemente degli aspetti estetici. Cioè,"
+        },
+        {
+          "start": 177.83999633789062,
+          "end": 182.24000549316406,
+          "text": "vogliamo aggiungere dei pulsantini, vogliamo cambiare dei menu, vogliamo delle icone, vogliamo"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 3,
+        "time": 180.0,
+        "timestamp": "00:03:00",
+        "image": "frame_0003.jpg",
+        "reason": "periodic",
+        "ocr_text": "Claude È Terminale - Integrazione linguaggi dî programmazione - Visualizzazione file - Aspetti estetici SAD,",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 182.24000549316406,
+          "end": 187.83999633789062,
+          "text": "degli, diciamo, delle scorciatoie per fare delle cose più velocemente, eccetera, eccetera. Ce ne"
+        },
+        {
+          "start": 187.83999633789062,
+          "end": 193.52000427246094,
+          "text": "sono tantissime le estensioni di VS Code. Io qua vi do il concetto. Dopo ne vediamo pure qualcuna,"
+        },
+        {
+          "start": 193.52000427246094,
+          "end": 197.9199981689453,
+          "text": "praticamente. Ma poi sbizzarritevi, installatevi quello che vi è più utile a voi. Questo è il"
+        },
+        {
+          "start": 197.9199981689453,
+          "end": 203.52000427246094,
+          "text": "primo livello, ok? Scendiamo dentro. Ripeto, non è proprio così. Non sono, diciamo, non è una"
+        },
+        {
+          "start": 203.52000427246094,
+          "end": 211.67999267578125,
+          "text": "matrioska. Però, diciamo, capiamoci. Cloud Code. Anche qua l'abbiamo già visto come si può estendere."
+        },
+        {
+          "start": 211.67999267578125,
+          "end": 217.63999938964844,
+          "text": "Perché? Perché abbiamo lavorato con le skill. Le skill sono l'estensione, diciamo, per eccellenza,"
+        },
+        {
+          "start": 218.63999938964844,
+          "end": 224.32000732421875,
+          "text": "diciamo, di questo agent che ci stiamo costruendo. Le skill, abbiamo visto, sono le singole"
+        },
+        {
+          "start": 224.32000732421875,
+          "end": 229.52000427246094,
+          "text": "funzionalità. Quindi aggiungo la skill che gli permette di fare gli assunti delle riunioni,"
+        },
+        {
+          "start": 229.52000427246094,
+          "end": 234.0800018310547,
+          "text": "aggiungo la skill che mi fa i preventivi, aggiungo la skill che mi cerca le news, aggiungo la skill"
+        },
+        {
+          "start": 234.0800018310547,
+          "end": 240.75999450683594,
+          "text": "che mi fa X. E quello è un modo per estenderlo. Ma non finisce lì. Perché ci sono anche i server"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 4,
+        "time": 240.0,
+        "timestamp": "00:04:00",
+        "image": "frame_0004.jpg",
+        "reason": "periodic",
+        "ocr_text": "a, 0, 0, VScode estati - Claude Code (già = - Integrazione linguaggi di programmazione - Visualizzazione file - Aspetti estetici =iEce: Claude Code: - Skill (STEGIO funzionalità) - Server MCP (connettori per servizi esterni) - Plugin (contenitori dì skill, MCP, e altro)",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 240.75999450683594,
+          "end": 245.32000732421875,
+          "text": "MCP. Diciamo che in questo momento non vedremo, perché sono un pochino più avanzati. Quindi,"
+        },
+        {
+          "start": 245.32000732421875,
+          "end": 248.8000030517578,
+          "text": "se siete all'inizio di Cloud Code, questa roba potrebbe spaventarvi. Però, diciamo,"
+        },
+        {
+          "start": 248.8000030517578,
+          "end": 254.0800018310547,
+          "text": "ve la spiego semplice. I server MCP sono dei connettori per servizi esterni. Cioè,"
+        },
+        {
+          "start": 254.0800018310547,
+          "end": 260.6400146484375,
+          "text": "nel momento in cui voi volete, dentro Cloud Code, usare, per esempio, vedere il vostro Google"
+        },
+        {
+          "start": 260.6400146484375,
+          "end": 267.0799865722656,
+          "text": "Calendar, accedere ai file sul vostro Google Drive e così via, ok? Ho fatto un esempio. Avete"
+        },
+        {
+          "start": 267.0799865722656,
+          "end": 270.239990234375,
+          "text": "bisogno di questi connettori. Ok? Sono semplicemente dei connettori che dicono,"
+        },
+        {
+          "start": 270.239990234375,
+          "end": 277.1600036621094,
+          "text": "ora il tuo Cloud Code può comunicare con il tuo Notion. Ora può comunicare con il tuo Google"
+        },
+        {
+          "start": 277.1600036621094,
+          "end": 284.20001220703125,
+          "text": "Drive e così via. E poi ci sono anche i plugin. Cloud Code cambia spesso questi nomi. Quindi,"
+        },
+        {
+          "start": 284.20001220703125,
+          "end": 287.67999267578125,
+          "text": "magari, rivedendo questo video tra qualche mese, potrebbe avere dei nomi diversi. Però,"
+        },
+        {
+          "start": 287.67999267578125,
+          "end": 293.2799987792969,
+          "text": "poi, diciamo, ha anche questi pacchettini, ok? Che gli chiama plugin, che sono dei contenitori"
+        },
+        {
+          "start": 293.2799987792969,
+          "end": 299.760009765625,
+          "text": "con dentro delle skill, degli MCP e altre cose. Quindi, diciamo, chi sviluppa a volte le istensioni"
+        },
+        {
+          "start": 299.8399963378906,
+          "end": 304.760009765625,
+          "text": "per Cloud Code, cosa fa? Fa un plugin e dentro magari ci mette 10 skill diverse. E quindi ti"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 5,
+        "time": 300.0,
+        "timestamp": "00:05:00",
+        "image": "frame_0005.jpg",
+        "reason": "periodic",
+        "ocr_text": "9, 0, 0, VScode es Da - Claude Code (già installata) - Visualizzazione file - Aspettì estetici =iEcc: Claude Code: è - Skill (STEGIO funzionalità) - Server MCP (connettori per servizi esterni) - Plugin (contenitori di skill, MCP, e altro)",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 304.760009765625,
+          "end": 310.7200012207031,
+          "text": "fa installare direttamente un plugin, no? Immaginate un plugin che serve, che ne so,"
+        },
+        {
+          "start": 310.7200012207031,
+          "end": 318.3999938964844,
+          "text": "per lavorare su i preventivi. Io potrei dire, ti faccio questo plugin e dentro il plugin c'è la"
+        },
+        {
+          "start": 318.3999938964844,
+          "end": 327.3599853515625,
+          "text": "skill per creare, diciamo, i preventivi. La skill per creare la fattura. La skill per creare la"
+        },
+        {
+          "start": 327.3599853515625,
+          "end": 334.1199951171875,
+          "text": "nota di credito. La skill per tradurre un preventivo in lingua inglese. La skill per X,"
+        },
+        {
+          "start": 334.1199951171875,
+          "end": 339.6000061035156,
+          "text": "Y e 0. Metto tutto questo dentro un pacchettino che chiamo plugin, ok? Una sorta di contenitore."
+        },
+        {
+          "start": 339.6000061035156,
+          "end": 345.6400146484375,
+          "text": "E poi c'è, diciamo, il livello più importante. Questo è il livello più importante, cioè il"
+        },
+        {
+          "start": 345.6400146484375,
+          "end": 351.44000244140625,
+          "text": "terminale. Il terminale, diciamo, noi non è che andiamo a installare delle app dentro il terminale,"
+        },
+        {
+          "start": 351.44000244140625,
+          "end": 356.32000732421875,
+          "text": "ok? Pure questa cosa, diciamo, qua la devo semplificare tanto. Semplicemente installiamo"
+        },
+        {
+          "start": 356.32000732421875,
+          "end": 362.4800109863281,
+          "text": "dei tool a riga di comando. Quindi installiamo delle app che non si usano con un'interfaccia"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 6,
+        "time": 360.0,
+        "timestamp": "00:06:00",
+        "image": "frame_0006.jpg",
+        "reason": "periodic",
+        "ocr_text": "e eo, 0,0. +, -. 2, 4,6, e, è Claude Code: - Skill (STELIO funzionalità) - Server MCP (connettori per servizi esterni) - Plugin (contenitori di skill, MCP, e altro) Terminale (tool): * - Pandoe (lavora coì pdf) - FFmpeg (lavora coì video) - Whisper (lavora con gli audîo) Ecce.",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 362.4800109863281,
+          "end": 366.79998779296875,
+          "text": "grafica, quindi con il mouse, ma si usano con la tastiera, ok? Quindi si lanciano da"
+        },
+        {
+          "start": 366.79998779296875,
+          "end": 371.3599853515625,
+          "text": "dentro il terminale. Qua ve ne ho fatto alcuni esempi, li vedremo tutti quanti. Per esempio,"
+        },
+        {
+          "start": 371.3599853515625,
+          "end": 376.1199951171875,
+          "text": "possiamo mettere un tool che lavora con i pdf. Fino ad ora non abbiamo visto, no,"
+        },
+        {
+          "start": 376.1199951171875,
+          "end": 381.0400085449219,
+          "text": "come creare pdf. Tra un attimo lo vedremo. Il nostro Cloud Code sarà in grado di creare pdf,"
+        },
+        {
+          "start": 381.44000244140625,
+          "end": 385.44000244140625,
+          "text": "oppure un tool che ci permette di lavorare con i video, oppure un tool che ci permette di"
+        },
+        {
+          "start": 385.44000244140625,
+          "end": 391.0799865722656,
+          "text": "lavorare con gli audio. Questo non l'abbiamo fatto. Immaginate che voi avete i file mp3 con"
+        },
+        {
+          "start": 391.0799865722656,
+          "end": 396.32000732421875,
+          "text": "i riassunti di tutti i meeting che fate con il vostro team. Fino ad ora non potevamo lavorarci."
+        },
+        {
+          "start": 396.32000732421875,
+          "end": 402.32000732421875,
+          "text": "Adesso, quando installeremo uno strumentino che fa quello, che legge gli auto, potremo"
+        },
+        {
+          "start": 402.32000732421875,
+          "end": 406.67999267578125,
+          "text": "lavorare anche su quello. Questa è la parte più potente dell'estensione. Abbiamo visto"
+        },
+        {
+          "start": 406.67999267578125,
+          "end": 410.0,
+          "text": "che si aspetta un pochino più teorico. Adesso andiamo a farlo in pratica."
+        }
+      ]
+    }
+  ]
+}

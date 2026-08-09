@@ -1,0 +1,1554 @@
+{
+  "title": "Usare Claude Code gratis, senza abbonamento a Claude",
+  "sections": [
+    {
+      "keyframe": {
+        "index": 0,
+        "time": 0.0,
+        "timestamp": "00:00:00",
+        "image": "frame_0000.jpg",
+        "reason": "start",
+        "ocr_text": "@ Tella Eat Window Help *EvCLO0 EB Encarta + laude 1) settings cal json < archivio ter > tempio + cUAWDEMI < Open < reo Models Routr - API < integrato wi Ciad Cod Open chat Show All Command + Bd CB 10 O % laude workapace",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 0.3199999928474426,
+          "end": 7.519999980926514,
+          "text": "Vi faccio vedere come possiamo utilizzare Cloud Code anche senza avere l'abbonamento a Cloud."
+        },
+        {
+          "start": 7.519999980926514,
+          "end": 18.1200008392334,
+          "text": "Usiamo lo strumento Cloud Code, l'ambiente Cloud Code, ma sotto il cofano non stiamo utilizzando l'AI Cloud di Antropic,"
+        },
+        {
+          "start": 18.1200008392334,
+          "end": 20.1200008392334,
+          "text": "ma ci colleghiamo un'altra."
+        },
+        {
+          "start": 20.1200008392334,
+          "end": 29.520000457763672,
+          "text": "Questa cosa porta il vantaggio evidente di risparmiare soldi, perché non facciamo l'abbonamento a Cloud, il modello di Antropic,"
+        },
+        {
+          "start": 29.760000228881836,
+          "end": 34.119998931884766,
+          "text": "però come vedremo porta anche degli svantaggi. Di solito questi svantaggi non li racconta mai nessuno,"
+        },
+        {
+          "start": 34.119998931884766,
+          "end": 39.2400016784668,
+          "text": "però in questo corso è importante che vi faccia vedere la cosa al completo."
+        },
+        {
+          "start": 39.2400016784668,
+          "end": 46.36000061035156,
+          "text": "Allora, per farlo, usciamo un attimo dal nostro workspace che abbiamo utilizzato fino ad ora per tutte le lezioni."
+        },
+        {
+          "start": 47.36000061035156,
+          "end": 54.36000061035156,
+          "text": "Mi creo una nuova cartellina qua sul desktop e la chiamiamo, diciamo ci mettiamo un nome così di temporaneo,"
+        },
+        {
+          "start": 54.36000061035156,
+          "end": 63.36000061035156,
+          "text": "workspace di prova, facciamo così, workspace di prova, in modo tale che non mischiamo le cose,"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 1,
+        "time": 60.0,
+        "timestamp": "00:01:00",
+        "image": "frame_0001.jpg",
+        "reason": "periodic",
+        "ocr_text": "@ Finder File Edit View Go Window Help) BO cs a Bo EB ca tania x Open BE Fre Made Rote - PIP x_| < Ign with Cn Cose x (+ n ciuveomence (fa CO DES arenivio > clienti smpIto * cLAUDE Md *geveoo Open chat È Show AIl Command è Start Debugging di",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 63.36000061035156,
+          "end": 66.36000061035156,
+          "text": "perché dopo torneremo a lavorare sul nostro workspace ufficiale."
+        },
+        {
+          "start": 66.36000061035156,
+          "end": 76.36000061035156,
+          "text": "Cosa facciamo qua? Dentro il nostro VS Code ci apriamo una nuova cartella ed è questa qua, workspace di prova."
+        },
+        {
+          "start": 76.36000061035156,
+          "end": 82.36000061035156,
+          "text": "In questo modo stiamo partendo proprio da zero, diciamo che conosciamo gli autori di questa cartella,"
+        },
+        {
+          "start": 82.36000061035156,
+          "end": 93.36000061035156,
+          "text": "ci fidiamo, tanto è la nostra cartella. La prima cosa da fare dentro questa cartella, creiamo una cartella vuota che si chiama .Cloud,"
+        },
+        {
+          "start": 93.36000061035156,
+          "end": 99.36000061035156,
+          "text": "perché dentro questa ci andremo a mettere un file che ha delle impostazioni specifiche."
+        },
+        {
+          "start": 99.36000061035156,
+          "end": 108.36000061035156,
+          "text": "In pratica useremo un servizio esterno che si chiama Open Router, che fa un po' diciamo da router, come dice il nome,"
+        },
+        {
+          "start": 108.36000061035156,
+          "end": 115.36000061035156,
+          "text": "si fa da uno strato intermedio, tu chiami il loro servizio e poi sotto loro chiamano vari modelli, tra cui anche quelli gratuiti."
+        },
+        {
+          "start": 115.36000061035156,
+          "end": 118.36000061035156,
+          "text": "Non vi preoccupate, tra un attimo questa cosa ve la faccio vedere anche con uno schemino."
+        },
+        {
+          "start": 118.36000061035156,
+          "end": 123.36000061035156,
+          "text": "Ho già tutto pronto qua, ho visto che questi schemini nel corso vi stanno piacendo parecchio,"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 2,
+        "time": 120.0,
+        "timestamp": "00:02:00",
+        "image": "frame_0002.jpg",
+        "reason": "periodic",
+        "ocr_text": "@ Chrome File Edit View History Bookmarks Profiles Tab Window Help. DO Ba ce a 8 106 [IR x] < Free Made Rauter API Prix. | <S Integration with Ciad Code x | + € > CE ercaldrancom GG A O Figi € 6 ea 00-48 viso (© [] Usare Claude Code con altri modelli Cosa facciamo normalmente Y Uno dei modelli dì Anthropic: — Haga Nostra richiesta ““i...;;; = Server Anthroie |> -Somet Opus cosa cambia con OpenRouter Uno dei tanti modelì Free Uno dei tant. - Genma - GPT - GPT oss Quen S J) - Uomo, Mostra richiesta —_>.| Cloude Code —|—| Server OpenRouter |> È Cosa perdi usando modelli non Anthropic:",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 123.36000061035156,
+          "end": 126.36000061035156,
+          "text": "quindi li continuerò a fare anche nelle lezioni che aggiungo dopo come questa."
+        },
+        {
+          "start": 126.36000061035156,
+          "end": 129.36000061035156,
+          "text": "In pratica cosa facciamo adesso qua dentro?"
+        },
+        {
+          "start": 130.36000061035156,
+          "end": 141.36000061035156,
+          "text": "Dentro questa cartellina vuota .Cloud, creiamo un file che si chiama settings.Local.Json, è un file di configurazione."
+        },
+        {
+          "start": 141.36000061035156,
+          "end": 150.36000061035156,
+          "text": "E ci copiamo questa roba qua, non vi preoccupate perché poi ve la metto pure qua sotto nella descrizione di questa lezione del corso."
+        },
+        {
+          "start": 150.36000061035156,
+          "end": 160.36000061035156,
+          "text": "In pratica cosa sono? Sono quattro impostazioni che dicono allo strumento cloud code dove deve andare a prendere le informazioni."
+        },
+        {
+          "start": 160.36000061035156,
+          "end": 166.36000061035156,
+          "text": "Diciamo senza che entro nel tecnico, perché magari qualcuno si potrebbe perdere e così via, però diciamo cosa c'è?"
+        },
+        {
+          "start": 166.36000061035156,
+          "end": 172.36000061035156,
+          "text": "Diciamo l'URL di base, quindi dove deve chiamare i servizi, dove deve andare a invocare questi servizi esterni."
+        },
+        {
+          "start": 172.36000061035156,
+          "end": 178.36000061035156,
+          "text": "Qual è il token di autenticazione, immaginate come se fosse una sorta di password, ok?"
+        },
+        {
+          "start": 179.36000061035156,
+          "end": 184.36000061035156,
+          "text": "Poi l'API key, quindi la chiave per l'API e poi che modello stiamo utilizzando."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 3,
+        "time": 180.0,
+        "timestamp": "00:03:00",
+        "image": "frame_0003.jpg",
+        "reason": "periodic",
+        "ocr_text": "@ Code File Ego Selection View Go. Run Terminal Window Help B CF QQ B 1308 GB Paci intbonra x Open 3 < Fre nd se API PIL x < Ing wth Cne Code X_+ - © vorsicioimon DB Fa CO > ti setingssocaison x *D 5 “amore MASE URLS: =, 1a) n 2ARoPIC AIM TON: *, ef moriapoce s sameoric ante: ©, L' S è summeoPIc NopL*: * è } DI)",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 184.36000061035156,
+          "end": 189.36000061035156,
+          "text": "Vedete che tutte queste variabili hanno davanti nome Antropic, Antropic, Antropic perché sono ufficiali."
+        },
+        {
+          "start": 189.36000061035156,
+          "end": 198.36000061035156,
+          "text": "Solo che noi le andremo a modificare e dentro non metteremo i valori di Antropic, quindi non scriveremo voglio usare l'ultima versione di Sonnet oppure l'ultima versione di Opus,"
+        },
+        {
+          "start": 198.36000061035156,
+          "end": 202.36000061035156,
+          "text": "ma ci metteremo quello che faremo qua su Open Router."
+        },
+        {
+          "start": 202.36000061035156,
+          "end": 208.36000061035156,
+          "text": "Allora, questa piattaforma, vi fate un account, l'account è completamente gratuito."
+        },
+        {
+          "start": 208.36000061035156,
+          "end": 216.36000061035156,
+          "text": "Una volta che siete dentro e che avete fatto il vostro account, vi lascio pure questo link qua sotto, loro offrono una valanga di modelli."
+        },
+        {
+          "start": 216.36000061035156,
+          "end": 225.36000061035156,
+          "text": "In pratica cosa diciamo uno può fare? Può pagare l'abbonamento, non l'abbonamento, può mettere del credito su questa piattaforma e poi dentro può utilizzare varie cose."
+        },
+        {
+          "start": 225.36000061035156,
+          "end": 232.36000061035156,
+          "text": "Può chiamare Gpt, può chiamare Cloud, Gemini, Grok, quello che vuole, pagando diciamo a consumo."
+        },
+        {
+          "start": 232.36000061035156,
+          "end": 240.36000061035156,
+          "text": "La cosa interessante qual è? È che tra tutti questi che offrono, che sono centinaia, se qua sopra in realtà adesso noi facciamo un filtro con la parola free,"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 4,
+        "time": 240.0,
+        "timestamp": "00:04:00",
+        "image": "frame_0004.jpg",
+        "reason": "periodic",
+        "ocr_text": "@ Chrome File Edit View. History Bookmarks Profiles. Tab Window Help. uoe=\"] 6 ce=musosr 2 CD GE sperone smosso Ga © ami. < OpenRouter Search 7 Home Fusion Models Chat Rankings Apps Docs @ Persona » m a iaia | > | Models E 7 co To Text image 4 Embeddings # Audio © Video #8 Rerank Pe Speech # Transcription ® Tencent: Hy3 preview (free) fi © Tiokens © 5 commer fuso ® Acagomia (#6) || ® Finance (#3) ) | ® Health (#40) | | ® Legal (#20) || @ Marketing (#23) | «ln +7 categories Meteo 1Hy3 preview Is a high efficiency Mixture -of-Experts model from Tencent designed for agentic workfiows and production use. It supports configurabie reasoning levels across led, low, and high modes, + Google: Gemini 3 Flash Preview 7 T tokens © © memo > <b Supported Parameters > ® DeepSeek: DeepSeek V4 Flash 7 E (0) Dona ii DeepSeek V4 Flash is an efficiency - optimized Mixture-of -Experts model from DeepSeek withi 284B total parameters and tivated parameters, supporting a 1M-toker xt ORIO A ® StepFun: Step 3.5 Flash © POI ° ©® xAl: Grok 4.1 Fast ©",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 240.36000061035156,
+          "end": 251.36000061035156,
+          "text": "vediamo che ce ne sono anche tipo una ventina completamente gratuiti ed è questo diciamo il trucco, tra virgolette passate per i termini, per usare Cloud Code ma gratis."
+        },
+        {
+          "start": 251.36000061035156,
+          "end": 255.36000061035156,
+          "text": "Perché? Perché non stiamo andando a usare un modello a pagamento ma un modello gratuito."
+        },
+        {
+          "start": 255.36000061035156,
+          "end": 264.3599853515625,
+          "text": "Ve ne leggo qualcuno diciamo di quelli più famosi, per esempio GptOS che è la versione open e gratis dei modelli di OpenAI."
+        },
+        {
+          "start": 264.3599853515625,
+          "end": 271.3599853515625,
+          "text": "Ok, infatti andremo a usare questo perché diciamo è uno di quelli più stabili, diciamo anche interessante come risultati."
+        },
+        {
+          "start": 271.3599853515625,
+          "end": 276.3599853515625,
+          "text": "Ma c'è che ne so, quelli di Nvidia, ci sono quelli di Google Gemma che sono ottimi."
+        },
+        {
+          "start": 277.3599853515625,
+          "end": 283.3599853515625,
+          "text": "Quando sto registrando qua ovviamente vedete Gemma 4, magari quando vedete questo video ci sarà 5, 6, 10.000 E così via."
+        },
+        {
+          "start": 283.3599853515625,
+          "end": 288.3599853515625,
+          "text": "Ma ci sono quelli di Nvidia, ci sono quelli cinesi di Quen, quelli di Baidu, c'è Lama di Meta."
+        },
+        {
+          "start": 288.3599853515625,
+          "end": 291.3599853515625,
+          "text": "Quindi diciamo questa è una scelta che fate voi."
+        },
+        {
+          "start": 291.3599853515625,
+          "end": 293.3599853515625,
+          "text": "Cosa facciamo adesso?"
+        },
+        {
+          "start": 293.3599853515625,
+          "end": 297.3599853515625,
+          "text": "Fondamentalmente noi dobbiamo andare a mettere qua dentro tre valori."
+        },
+        {
+          "start": 297.3599853515625,
+          "end": 302.3599853515625,
+          "text": "Ok, non vi spaventate questa roba, sembra sempre una roba un po' più tecnica da programmatori ma voi seguite a me."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 5,
+        "time": 300.0,
+        "timestamp": "00:05:00",
+        "image": "frame_0005.jpg",
+        "reason": "periodic",
+        "ocr_text": "@ Code File Edit Selection View Go. Run Terminal | Window Help aa es a 8 197 EB Pai tto Modi] Openaiee x < Fre soda Rae APP | < integro ti Cinto Code x (+ 7 @ vonsicioimon dî CO li singeiceiom x *D > luo iau > 1) antipasto > () e > = ANTHROPIC.MOI Qt etica SIETE = \"Mnmorte mast URL b i TAMBOPIC AM TORI: TAMBOPICAPRE: ©, î S 6 -mOPICHOEL 8) I (es) *",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 303.3599853515625,
+          "end": 306.3599853515625,
+          "text": "Io ve lo faccio vedere passo passo e vi spiego anche il concetto."
+        },
+        {
+          "start": 306.3599853515625,
+          "end": 311.3599853515625,
+          "text": "Sapete che io ci tengo a darvi anche qualche elemento teorico perché così capite quello che state facendo."
+        },
+        {
+          "start": 311.3599853515625,
+          "end": 315.3599853515625,
+          "text": "Non è che copiate e incolate una roba che vi ha fatto vedere uno sconosciuto su internet."
+        },
+        {
+          "start": 315.3599853515625,
+          "end": 319.3599853515625,
+          "text": "Allora, la prima che dovete mettere è questo valore qua."
+        },
+        {
+          "start": 319.3599853515625,
+          "end": 326.3599853515625,
+          "text": "Nella voce base URL mettiamo openrouter.Ai.Api"
+        },
+        {
+          "start": 326.3599853515625,
+          "end": 332.3599853515625,
+          "text": "Questa voce qui, questo indirizzo è quello che ci permette di chiamare, di invocare i modelli su openrouter."
+        },
+        {
+          "start": 332.3599853515625,
+          "end": 335.3599853515625,
+          "text": "Adesso noi lasciamo vuoto questo qua."
+        },
+        {
+          "start": 335.3599853515625,
+          "end": 340.3599853515625,
+          "text": "Questo diciamo lo lasciamo vuoto volutamente, anzi qua ci metto lasciare vuoto."
+        },
+        {
+          "start": 340.3599853515625,
+          "end": 345.3599853515625,
+          "text": "Ok, questa roba qua significa che noi non dobbiamo mettere qua dentro l'API key"
+        },
+        {
+          "start": 345.3599853515625,
+          "end": 349.3599853515625,
+          "text": "in modo tale che siamo sicuri che non vada mai ad invocare il modello di Antropic"
+        },
+        {
+          "start": 349.3599853515625,
+          "end": 352.3599853515625,
+          "text": "perché non vogliamo passare dai modelli di Antropic in questo caso, ovviamente."
+        },
+        {
+          "start": 353.3599853515625,
+          "end": 358.3599853515625,
+          "text": "Adesso ci interessa mettere il modello e out token, quindi diciamo il token di autenticazione."
+        },
+        {
+          "start": 358.3599853515625,
+          "end": 360.3599853515625,
+          "text": "Questo out token lo generate facile."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 6,
+        "time": 360.0,
+        "timestamp": "00:06:00",
+        "image": "frame_0006.jpg",
+        "reason": "periodic",
+        "ocr_text": "@ Code Fio Edit Selection View Go Run Terminal Window Help B © cs a 8 1308 cnr tr x Mole Opi x < Fm Me Rane APP x_| < intime Cod (+ S DO0 ES @ vonsnciomon dl 0) settings socaison x scudo iludo > (1 sotingeiocaljson > () em Q 10) settingeiocason 3 \"AnimoPIE_MASE URL\" “https: //opencouter.at/apd*, | 4 PANIROPICAUMI TORE\", s TANTIROPICAPE REY\" \"\", d i a) B",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 360.3599853515625,
+          "end": 366.3599853515625,
+          "text": "Come si fa? Andate qua, lo potete fare direttamente dalla home page che è più facile."
+        },
+        {
+          "start": 366.3599853515625,
+          "end": 372.3599853515625,
+          "text": "Dalla home page cliccate su get API key e andate a crearvi la vostra API key."
+        },
+        {
+          "start": 372.3599853515625,
+          "end": 379.3599853515625,
+          "text": "Fate qua sopra new key e qua io ci scrivo per esempio corso su cloud code."
+        },
+        {
+          "start": 379.3599853515625,
+          "end": 381.3599853515625,
+          "text": "Ci potete scrivere quello che volete voi."
+        },
+        {
+          "start": 381.3599853515625,
+          "end": 388.3599853515625,
+          "text": "Vi genera un codice e questo codice, io ovviamente lo cancellerò subito dopo che lo faccio vedere,"
+        },
+        {
+          "start": 388.3599853515625,
+          "end": 391.3599853515625,
+          "text": "che lo registro, mi raccomando non condividete mai con nessuno questo codice."
+        },
+        {
+          "start": 391.3599853515625,
+          "end": 393.3599853515625,
+          "text": "Questo codice andiamo a metterlo qua dentro."
+        },
+        {
+          "start": 393.3599853515625,
+          "end": 399.3599853515625,
+          "text": "È un codice bello lungo che identifica questa sorta, la possiamo chiamare una sorta di password,"
+        },
+        {
+          "start": 399.3599853515625,
+          "end": 401.3599853515625,
+          "text": "una sorta di chiave che ci permette di accedere a questi servizi."
+        },
+        {
+          "start": 401.3599853515625,
+          "end": 404.3599853515625,
+          "text": "L'ultima cosa che rimane è questo, è il modello."
+        },
+        {
+          "start": 404.3599853515625,
+          "end": 409.3599853515625,
+          "text": "Cioè stiamo dicendo a cloud code, guarda collegati a open router."
+        },
+        {
+          "start": 409.3599853515625,
+          "end": 414.3599853515625,
+          "text": "Usa questo token e poi chiama questo modello."
+        },
+        {
+          "start": 414.3599853515625,
+          "end": 416.3599853515625,
+          "text": "Che modello possiamo scegliere noi?"
+        },
+        {
+          "start": 416.3599853515625,
+          "end": 419.3599853515625,
+          "text": "La scelta che possiamo fare e torniamo qua su modelli."
+        },
+        {
+          "start": 419.3599853515625,
+          "end": 422.3599853515625,
+          "text": "Filtriamo di nuovo qua sopra scrivendo free."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 7,
+        "time": 420.0,
+        "timestamp": "00:07:00",
+        "image": "frame_0007.jpg",
+        "reason": "periodic",
+        "ocr_text": "@ Chrome File Edt View History Bookmarks. Profiles. Tab Window Help DO BB poesia Witaboori © x [ST Model OpemRoiÈ || XK << Free Models Router -APIPI x | < Integration wi Clnute Code x | + elle calo mani € < OpenRouter Search 7) Home Fusion Models Chat Rankings Apps Doce @ Persona » Pen + 3 inputodaitee -—« —’Models Search model. E fesa To T Text 500 || (image 10 || Ab Embedalnge 25 || 44 Audio S| Di Video 13 |! ti Rerank 3 || I Speech © | @ Transcrpion fn image @ OpenAl: GPT-40 Mini Transcribe è 1 to) © conextienah = > ‘® Prompt pricing > ‘® OpenAl: Whisper Large V3 Turbo è © Categories > deren ® OpenAl: Whisper Large V3 è TREES M parameters, I chieves a 10.3% word etto rate an i well-suiteg for nose -robust, muti n model offering both audio transeripion and translation. li supports 9» languages and accapis common 4 Distazie > © Zero Data Retenton > © mn-Region Routing © > © xAl: Grok 4.3 7 a Providers > Grok 4.316 reasoning mode! from XA. It accepts text and image Inputs with txt output, and i suite for agntic workflows instuction-foloming tasks, and applications requiring high fact Ressoning ls always active and cannot be cisaied or configured by effort level. | supports a milion token context window wii no output token limi, making I ell-suted for ong -docun 8 Model Authors 5 May 2.020 | 10 content. SL25/(Minputtotera 52.04 aguilera EI Inactive Models (| |> Granite 4.1 ART",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 422.3599853515625,
+          "end": 425.3599853515625,
+          "text": "Vedete questi che hanno free, tra parentesi sono quelli gratuiti ovviamente."
+        },
+        {
+          "start": 425.3599853515625,
+          "end": 427.3599853515625,
+          "text": "Io ho fatto diverse prove."
+        },
+        {
+          "start": 427.3599853515625,
+          "end": 431.3599853515625,
+          "text": "Molti di questi modelli sono lenti, hanno problemi e così via."
+        },
+        {
+          "start": 431.3599853515625,
+          "end": 435.3599853515625,
+          "text": "Dalle mie prove, quelli che funzionano meglio sono i modelli di OpenAI."
+        },
+        {
+          "start": 435.3599853515625,
+          "end": 437.3599853515625,
+          "text": "Anche quelli di Google e Gemma funzionano bene."
+        },
+        {
+          "start": 437.3599853515625,
+          "end": 441.3599853515625,
+          "text": "Comunque diciamo, aprite il modello che volete utilizzare di quelli gratuiti"
+        },
+        {
+          "start": 441.3599853515625,
+          "end": 444.3599853515625,
+          "text": "e vedete questa voce che sta qua sotto, proprio sotto il titolo?"
+        },
+        {
+          "start": 444.3599853515625,
+          "end": 445.3599853515625,
+          "text": "Non dovete prendere il titolo, mi raccomando."
+        },
+        {
+          "start": 445.3599853515625,
+          "end": 451.3599853515625,
+          "text": "Questa sotto dove c'è OpenAI slash GPT trattino, cliccate sul pulsante per copiare."
+        },
+        {
+          "start": 451.3599853515625,
+          "end": 454.3599853515625,
+          "text": "O lo copiate diciamo a mano così, vecchia scuola no?"
+        },
+        {
+          "start": 454.3599853515625,
+          "end": 457.3599853515625,
+          "text": "Selezionandolo col mouse come volete voi."
+        },
+        {
+          "start": 457.3599853515625,
+          "end": 460.3599853515625,
+          "text": "Andiamo qua dentro e lo mettiamo qua."
+        },
+        {
+          "start": 460.3599853515625,
+          "end": 463.3599853515625,
+          "text": "Non è niente di complicato, abbiamo copiato tre stringhe, ok?"
+        },
+        {
+          "start": 463.3599853515625,
+          "end": 467.3599853515625,
+          "text": "Questa è fissa e ve la metto qua sotto magari diciamo nella lezione."
+        },
+        {
+          "start": 467.3599853515625,
+          "end": 473.3599853515625,
+          "text": "Queste due le prendete dalla piattaforma OpenRouter dove l'account è completamente gratuito."
+        },
+        {
+          "start": 473.3599853515625,
+          "end": 476.3599853515625,
+          "text": "A meno che non andate a usare modelli a pagamento, ok?"
+        },
+        {
+          "start": 478.3599853515625,
+          "end": 481.3599853515625,
+          "text": "Una volta che abbiamo fatto questo, il grosso è finito."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 8,
+        "time": 480.0,
+        "timestamp": "00:08:00",
+        "image": "frame_0008.jpg",
+        "reason": "periodic",
+        "ocr_text": "@ Code File Edi Selection View Go Run Terminal Window | Help I Fc tiri x pcontob fi) LADI XL _< Fn ee ar API x < ignote Cose + @ vonsncioimon (fa CD - 1 smile x due cate > 0 etigaiocaisn> (en > = ANTAROPIC MODEL 10 stico DG ; “mmonMSE UL”: *ntpr//operonter.a/api, 4 ANTHROPIC_AUTITOREN: \"sk=0r-v1-4594f245c9b624067043231c9456c4163b184197ebb3443820S0237937C15951\", Ciani è v * B",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 481.3599853515625,
+          "end": 486.3599853515625,
+          "text": "Vi faccio vedere un attimo teoricamente cosa stiamo facendo e poi lo vediamo anche all'opera."
+        },
+        {
+          "start": 486.3599853515625,
+          "end": 492.3599853515625,
+          "text": "Vi dico anche le limitazioni, perché questa cosa porta con sé delle limitazioni e infatti comunque io ve lo sconsiglio."
+        },
+        {
+          "start": 492.3599853515625,
+          "end": 496.3599853515625,
+          "text": "Ma ci tenevo a farvelo vedere perché qualcuno magari dice Raffi non lo voglio fare un altro abbonamento"
+        },
+        {
+          "start": 496.3599853515625,
+          "end": 500.3599853515625,
+          "text": "oppure a volte voglio usare l'abbonamento, a volte voglio usare quello gratis, che può essere una configurazione."
+        },
+        {
+          "start": 500.3599853515625,
+          "end": 502.3599853515625,
+          "text": "Quello che sta succedendo è questo."
+        },
+        {
+          "start": 502.3599853515625,
+          "end": 509.3599853515625,
+          "text": "Noi quando usiamo Cloud Code normalmente, ovviamente gli amici super tecnici mi perdonino, queste sono delle esemplificazioni, no?"
+        },
+        {
+          "start": 509.3599853515625,
+          "end": 512.3599853515625,
+          "text": "Sapete, per un pubblico di non tecnici per far capire che succede."
+        },
+        {
+          "start": 513.3599853515625,
+          "end": 519.3599853515625,
+          "text": "Quello che facciamo normalmente è che noi scriviamo qualcosa, la richiesta, lo volete chiamare Prompt, lo volete chiamare come volete voi,"
+        },
+        {
+          "start": 519.3599853515625,
+          "end": 522.3599853515625,
+          "text": "la scriviamo dentro Cloud Code, Cloud Code cosa fa?"
+        },
+        {
+          "start": 522.3599853515625,
+          "end": 528.3599853515625,
+          "text": "Va a dialogare con i server di Antropic, quindi la casa madre, e cosa può fare?"
+        },
+        {
+          "start": 528.3599853515625,
+          "end": 531.3599853515625,
+          "text": "Al massimo può scegliere uno dei modelli che sviluppa Antropic, no?"
+        },
+        {
+          "start": 531.3599853515625,
+          "end": 536.3599853515625,
+          "text": "Sapete che noi abbiamo visto sotto in basso possiamo selezionare che modello vogliamo."
+        },
+        {
+          "start": 536.3599853515625,
+          "end": 541.3599853515625,
+          "text": "Ne vogliamo uno leggero per spendere poco, ne vogliamo uno molto potente perché dobbiamo fare un task difficile,"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 9,
+        "time": 540.0,
+        "timestamp": "00:09:00",
+        "image": "frame_0009.jpg",
+        "reason": "periodic",
+        "ocr_text": "@ Chrome File Edit View History Bookmarks Profiles Tab Window Help. ° “cu CES ae ale mali ED Gucaita iabosid | x < gprose-1206 (ie) AMPI x | < Free Modo Router PIP X_| < inegration th Cine Code x | + l S 6 6 0, 0,0, -. 2, A, 8, 8, a scsito» GU © I] È Usare Claude Code con'sltri modelli luna) 3 Cosa facciamo normalmente 2\\ Uno dei modelli di Anthropic: fran caga TR) ‘ - Haiku thesta — Claude Code Server Anthropie. |——_——_> - Somet 9% Cosa cambia con OpenRouter (ugo aaa o Uno deì tantì modelli Free ) gua iliceta freni claude Code |__| Server Openrouter |——> -GPToss - Qwen - LLama - ece",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 541.3599853515625,
+          "end": 545.3599853515625,
+          "text": "però la scelta è limitata, diciamo, ai modelli sviluppati di Antropic."
+        },
+        {
+          "start": 545.3599853515625,
+          "end": 550.3599853515625,
+          "text": "Invece con questo trucchetto, di nuovo tra virgolette, facciamo la richiesta."
+        },
+        {
+          "start": 550.3599853515625,
+          "end": 556.3599853515625,
+          "text": "La richiesta Cloud Code la manda al server Open Router, quindi non passa più per Antropic, ma passa per qua, no?"
+        },
+        {
+          "start": 556.3599853515625,
+          "end": 560.3599853515625,
+          "text": "Vedete? Perché gli abbiamo detto che deve rivolgersi a questo server qua."
+        },
+        {
+          "start": 561.3599853515625,
+          "end": 564.3599853515625,
+          "text": "In questo modo, nel momento in cui accede a questo server, cosa c'ha?"
+        },
+        {
+          "start": 564.3599853515625,
+          "end": 567.3599853515625,
+          "text": "C'ha una lista infinita di modelli che puoi chiamare."
+        },
+        {
+          "start": 567.3599853515625,
+          "end": 569.3599853515625,
+          "text": "Io vi lo sto facendo vedere con i modelli gratuiti, no?"
+        },
+        {
+          "start": 569.3599853515625,
+          "end": 576.3599853515625,
+          "text": "Quindi abbiamo messo GPTOS, ma Gemma, Lama, Quen, ma in realtà uno può usare pure i modelli a pagamento."
+        },
+        {
+          "start": 577.3599853515625,
+          "end": 580.3599853515625,
+          "text": "Visto che la piattaforma, diciamo, offre una valanga di modelli, no?"
+        },
+        {
+          "start": 580.3599853515625,
+          "end": 583.3599853515625,
+          "text": "Io torno qua indietro, Models, e non metto più Free, no?"
+        },
+        {
+          "start": 583.3599853515625,
+          "end": 593.3599853515625,
+          "text": "Vi faccio vedere, qua c'è tutto, guardate, c'è Mistral, c'è XAI di Grok, c'è roba di, diciamo, di NVIDIA, di Antropic, di Google, ok?"
+        },
+        {
+          "start": 593.3599853515625,
+          "end": 595.3599853515625,
+          "text": "Quindi potete chiamare tutti i modelli che volete voi."
+        },
+        {
+          "start": 595.3599853515625,
+          "end": 599.3599853515625,
+          "text": "Quindi avete accesso a quelli gratuiti senza spendere una lira."
+        },
+        {
+          "start": 599.3599853515625,
+          "end": 601.3599853515625,
+          "text": "Questi qua invece pagate a consumo, no?"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 10,
+        "time": 600.0,
+        "timestamp": "00:10:00",
+        "image": "frame_0010.jpg",
+        "reason": "periodic",
+        "ocr_text": "@ Chrome File Edit View. History Bookmarks Profiles Tab Window Help. © © © (RD Fucsidoniiabonrà | x Moses pente x] < Free Mode Rate API PT x € > CE ercaldramcom \\ Server Anthropie - |> - Sonnet jer \\ Uno dei tanti modelli Free | - Gemma Server OpenRouter |> - GPT oss Ì - Qwen ) - Lama - ecc i usando modelli non Anthropic: iso obbligatorio dal terminale (ma ci sono trucchetti) os + © < integration wii Cine Code x | + Ino dei tanti modelli a pagamento “ GPT - Gemini - Deepseek - Grok - ecc Ba ce a 8 nm",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 601.3599853515625,
+          "end": 608.3599853515625,
+          "text": "Quindi mi raccomando, se scegliete uno di quelli a pagamento, vedete sempre queste due voci qua sotto per vedere quanto vi sta costando, ok?"
+        },
+        {
+          "start": 608.3599853515625,
+          "end": 613.3599853515625,
+          "text": "Perché vi potrebbe costare molto più di fare l'abbonamento a, diciamo, a Cloud."
+        },
+        {
+          "start": 613.3599853515625,
+          "end": 616.3599853515625,
+          "text": "Questo è quello che succede sulla teoria, ok?"
+        },
+        {
+          "start": 616.3599853515625,
+          "end": 618.3599853515625,
+          "text": "Ora vediamolo in azione."
+        },
+        {
+          "start": 618.3599853515625,
+          "end": 624.3599853515625,
+          "text": "Diciamo, in questo momento, quello che possiamo fare è, diciamo, vi faccio vedere."
+        },
+        {
+          "start": 624.3599853515625,
+          "end": 632.3599853515625,
+          "text": "Prima lo facciamo da dentro il terminale, perché non riusciamo a usarlo direttamente da VS Code, perché questo è uno dei problemi di usare un modello, diciamo, non ufficiale."
+        },
+        {
+          "start": 633.3599853515625,
+          "end": 641.3599853515625,
+          "text": "Quindi mi apro un terminale qua sotto, scrivo Cloud, gli diamo, diciamo, l'accesso alla cartella, perché questa è una cartella nuova."
+        },
+        {
+          "start": 641.3599853515625,
+          "end": 651.3599853515625,
+          "text": "E adesso notate qua dentro che ci dice non più che stiamo usando, diciamo, Sonnet, che stiamo usando Haiku, che stiamo usando Opus."
+        },
+        {
+          "start": 651.3599853515625,
+          "end": 655.3599853515625,
+          "text": "No, mi dice, stai usando OpenAI, GPT, OS 100, e come?"
+        },
+        {
+          "start": 655.3599853515625,
+          "end": 657.3599853515625,
+          "text": "Lo stai usando a consumo."
+        },
+        {
+          "start": 657.3599853515625,
+          "end": 659.3599853515625,
+          "text": "Dice, non hai un abbonamento."
+        },
+        {
+          "start": 659.3599853515625,
+          "end": 661.3599853515625,
+          "text": "Normalmente vi fa vedere l'abbonamento di Cloud che aveva."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 11,
+        "time": 660.0,
+        "timestamp": "00:11:00",
+        "image": "frame_0011.jpg",
+        "reason": "periodic",
+        "ocr_text": "@ Code File Edit: Selection View Go. Run Terminal Window Help Ba ea 8 11 E cain tab (x < Mogin[Opentost: (x | < Fre MogieRaer-APIPY: x |< Integntin iti Cln Code x + 3 vonsnici omo (8 fa C © (I sesogaiclien x *© cause iau 1) sstingasocijon >) en mi ANTHROPIC.MODEL 10 setinossocton ur =— 3 \"atimaric SE URL\": \"betp://openonter:as/ap a) n SAUTIROPICAUMILTOREN\": \"5k<0r-v1-45941245<90604867043231945614163b18419700d34438265023793718981\", -. es 5 SMAMBOPICIPE REY: ©, D 6 SANTIROPIC.HODEL®: “opens i/gpt-05s-120b1 free\" fe È è è * raffaetezserverino vorkspace di prova & claute Tip fer prog parti Velcone back Raffaete! Rum Vinte to creste a CLAUDE.md file with instructions for Claude open gponaz0:fe th + APT ge IP foeskton/uorkspace di prova è",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 661.3599853515625,
+          "end": 665.3599853515625,
+          "text": "Quindi, se vedete questa stringa qua, significa che è andato tutto a buon fine."
+        },
+        {
+          "start": 665.3599853515625,
+          "end": 669.3599853515625,
+          "text": "Diciamo, se volete fare proprio una prova aggiuntiva, potete dire qualcosa del genere."
+        },
+        {
+          "start": 669.3599853515625,
+          "end": 671.3599853515625,
+          "text": "Che modello sei?"
+        },
+        {
+          "start": 671.3599853515625,
+          "end": 677.3599853515625,
+          "text": "Diciamo, avevo questa domanda un po' stupidotta, la faccio giusto per farvi vedere che poi, effettivamente, dietro le quinte, no?"
+        },
+        {
+          "start": 677.3599853515625,
+          "end": 682.3599853515625,
+          "text": "Quello che sta succedendo, torniamo qua, e la chiamata viene fatta al modello che abbiamo scelto noi."
+        },
+        {
+          "start": 682.3599853515625,
+          "end": 684.3599853515625,
+          "text": "Adesso sta, diciamo, sta partendo."
+        },
+        {
+          "start": 684.3599853515625,
+          "end": 691.3599853515625,
+          "text": "Diceva, sono alimentato dal modello OpenAI, GPT, Nota, Cloud Code, può passare a modelli Opus, Sonnet, Haiku, per altre operazioni."
+        },
+        {
+          "start": 691.3599853515625,
+          "end": 698.3599853515625,
+          "text": "Perciò vi dicevo, una soluzione potrebbe essere anche un ibrido, dove uso quello gratis per alcune cose e quello a pagamento per altro."
+        },
+        {
+          "start": 698.3599853515625,
+          "end": 701.3599853515625,
+          "text": "Quindi, diciamo, io qua adesso gli posso far fare qualsiasi cosa."
+        },
+        {
+          "start": 701.3599853515625,
+          "end": 707.3599853515625,
+          "text": "Tipo, che ne so, abbiamo visto, per esempio, l'esempio di creare un file semplice, no?"
+        },
+        {
+          "start": 707.3599853515625,
+          "end": 720.3599853515625,
+          "text": "Quindi faccio, creami un file .Md dove dentro ci metti, che ne so, 5 ricette di primi italiani famosi."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 12,
+        "time": 720.0,
+        "timestamp": "00:12:00",
+        "image": "frame_0012.jpg",
+        "reason": "periodic",
+        "ocr_text": "@ Code File Edit Selection View Go. Run Terminal | Window Help B © € Bo tate I incaiiam inbonri (x < Models pentote = x |< Free Modena - APP x | < Integration th Ciusa Code x + n © morsnciormon Mb fa CO > li satogniocaison x Q [1 sotingasocation id = , ì “Mmm0e1c_pAsE_UeL*: *httpsi//openrouter.ai/0p 1 i SANMIADPICAUMITOREN\": >5k-or-v1-45981245CO0A0HB670A32I1COSECATEIO TAL 19TEDRIITE2ESOZITITT 13981\", s SAMBOPICAPI_REV: ©, 6 PANMIROPICHODEL*: “opensi/apt-oss=1286: ree* la ) 8) raffaetezsenierino vorkspace di prova & claude Ti6s for getting sunt nelcone back Raffaete! fun vinte to creste openai/gpt-oss 12001 free with + APT Usage Bitti Rafforte alto -Soesktop/vorkspace di prova t Eldupe.mi dite vsth snstructione for Clause i ehe mado set? @ Sono alinentato dol modello openai/gpt-oss-1205 (fre). (Nota: Claude Code può passare » modelli Claude Opus/Soonet/Maika per altre operazioni.) 3 creani un File ind dive dentro ci netti S ricette di primi italia",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 720.3599853515625,
+          "end": 727.3599853515625,
+          "text": "Esempio fatto veramente al volissimo, diciamo, che ha poco senso, però per farvi vedere subito, è partito."
+        },
+        {
+          "start": 727.3599853515625,
+          "end": 732.3599853515625,
+          "text": "Cioè, questo è Cloud Code da questo momento, sta già scrivendo nei file, lo facciamo subito lavorare, no?"
+        },
+        {
+          "start": 732.3599853515625,
+          "end": 739.3599853515625,
+          "text": "Quindi adesso qua sulla sinistra, nella nostra cartellina, ci creerà questo file e dentro ci metterà, diciamo, questo output."
+        },
+        {
+          "start": 739.3599853515625,
+          "end": 741.3599853515625,
+          "text": "Me l'apro pure qua per farvi vedere, no?"
+        },
+        {
+          "start": 741.3599853515625,
+          "end": 744.3599853515625,
+          "text": "Alla fine la cartella sulla quale stiamo lavorando è questa, vedete?"
+        },
+        {
+          "start": 744.3599853515625,
+          "end": 751.3599853515625,
+          "text": "Qua ci abbiamo solo una visualizzazione più comoda, perché è più facile vederlo qua, che andare ogni volta ad aprire."
+        },
+        {
+          "start": 751.3599853515625,
+          "end": 753.3599853515625,
+          "text": "Mi dice, mi vuoi autorizzare a scrivere?"
+        },
+        {
+          "start": 753.3599853515625,
+          "end": 754.3599853515625,
+          "text": "Sì, sì, certo che ti autorizzo."
+        },
+        {
+          "start": 754.3599853515625,
+          "end": 757.3599853515625,
+          "text": "Eccola qua, ricette primi italiani .Md."
+        },
+        {
+          "start": 757.3599853515625,
+          "end": 759.3599853515625,
+          "text": "E qua abbiamo la nostra bella ricetta."
+        },
+        {
+          "start": 759.3599853515625,
+          "end": 764.3599853515625,
+          "text": "Spaghetti alla carbonara, risotto alla milanese, lasagna alla bolognese, penne all'arrabbiato, tortellini in brodo."
+        },
+        {
+          "start": 764.3599853515625,
+          "end": 766.3599853515625,
+          "text": "Mi sta venendo fame."
+        },
+        {
+          "start": 766.3599853515625,
+          "end": 773.3599853515625,
+          "text": "Ve l'ho fatto vedere nel terminale, perché, dice Raph, ma scusami, noi non abbiamo detto che il terminale non lo usiamo?"
+        },
+        {
+          "start": 773.3599853515625,
+          "end": 779.3599853515625,
+          "text": "Usiamo questa bella interfaccia di VS Code che ci permette di usare Cloud Code in modo così carino?"
+        },
+        {
+          "start": 779.3599853515625,
+          "end": 784.3599853515625,
+          "text": "Sì, ma purtroppo non funziona bene quando andiamo a utilizzare modelli non ufficiali."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 13,
+        "time": 780.0,
+        "timestamp": "00:13:00",
+        "image": "frame_0013.jpg",
+        "reason": "periodic",
+        "ocr_text": "@ Code Fio Edit Selection View Go Run Terminal | Window Help [E I XL < free Made Roster APP © vorsiceniom Db fa CO > d Ciudecode x 1 stingaicaion 10 settingssocatison Dia 8 ricotta primi Jabani me < integrazioni Ciad Code x + & Claude Code Press (SS) o automatica prove cod ite o cea 8 1316",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 784.3599853515625,
+          "end": 786.3599853515625,
+          "text": "Per esempio qua faccio semplicemente ciao."
+        },
+        {
+          "start": 786.3599853515625,
+          "end": 795.3599853515625,
+          "text": "Vedete che adesso, diciamo qua nella chat, lui prova a lavorare e poi a un certo punto va in errore."
+        },
+        {
+          "start": 795.3599853515625,
+          "end": 799.3599853515625,
+          "text": "Questa cosa con alcuni modelli funzionicchia meglio, con altri meno."
+        },
+        {
+          "start": 799.3599853515625,
+          "end": 805.3599853515625,
+          "text": "Questa roba qua dice, diciamo, il tipo di output non lo supporto, non lo gestisco bene."
+        },
+        {
+          "start": 805.3599853515625,
+          "end": 806.3599853515625,
+          "text": "Perché?"
+        },
+        {
+          "start": 806.3599853515625,
+          "end": 813.3599853515625,
+          "text": "Perché quando andiamo a usare modelli che non sono quelli di Antropic, si incarta su alcune cose."
+        },
+        {
+          "start": 813.3599853515625,
+          "end": 817.3599853515625,
+          "text": "Per esempio si incarta sulla parte di reasoning, quindi la parte dove deve ragionare, deve pensare."
+        },
+        {
+          "start": 817.3599853515625,
+          "end": 821.3599853515625,
+          "text": "Quindi tutto quello che vi ho fatto vedere potete usarlo."
+        },
+        {
+          "start": 821.3599853515625,
+          "end": 825.3599853515625,
+          "text": "Ricordatevi che la prima grande limitazione è che lo dovete usare dal terminale."
+        },
+        {
+          "start": 825.3599853515625,
+          "end": 827.3599853515625,
+          "text": "Io vi ho già spiegato che non cambia niente."
+        },
+        {
+          "start": 827.3599853515625,
+          "end": 833.3599853515625,
+          "text": "Il terminale graficamente può spaventare un po', ma alla fine questa roba qua è come se fosse un terminale semplificato."
+        },
+        {
+          "start": 833.3599853515625,
+          "end": 837.3599853515625,
+          "text": "Però siccome questa roba non la dice nessuno, ok?"
+        },
+        {
+          "start": 837.3599853515625,
+          "end": 841.3599853515625,
+          "text": "Mi fanno vedere tutti quanti i video, ah ecco come ti faccio usare Cloud Code gratis."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 14,
+        "time": 840.0,
+        "timestamp": "00:14:00",
+        "image": "frame_0014.jpg",
+        "reason": "periodic",
+        "ocr_text": "@ Code File Edi Selection View Go. Run Terminal Window. Help EB Esco iabonrd () seta caljson 8 ricotta primi Jatani me < adele | Opongouter x < free Mode Reuter APP deciso x (1 settogatocaliion cio 10 retina cl po < integration wi Ciad coi + BH CF Bo se",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 841.3599853515625,
+          "end": 844.3599853515625,
+          "text": "Certo, però poi 50% delle funzionalità non vanno."
+        },
+        {
+          "start": 844.3599853515625,
+          "end": 852.3599853515625,
+          "text": "E infatti qua ci ho messo un bello schemino per dirvi, sappiate che avete questa scelta di usarlo con un modello gratuito."
+        },
+        {
+          "start": 852.3599853515625,
+          "end": 853.3599853515625,
+          "text": "Ma che succede?"
+        },
+        {
+          "start": 853.3599853515625,
+          "end": 854.3599853515625,
+          "text": "Allora, ecco alcune cose."
+        },
+        {
+          "start": 854.3599853515625,
+          "end": 860.3599853515625,
+          "text": "Nel momento in cui sto registrando, e poi magari tra qualche mese alcune di queste sono state risolte, se ne sono aggiunte altre,"
+        },
+        {
+          "start": 860.3599853515625,
+          "end": 864.3599853515625,
+          "text": "allora innanzitutto non riuscirete a usare InVS Code, dovete passare per il terminale."
+        },
+        {
+          "start": 865.3599853515625,
+          "end": 870.3599853515625,
+          "text": "In rete ci sono anche dei trucchetti per farlo funzionare InVS Code, si può installare un proxy e così via,"
+        },
+        {
+          "start": 870.3599853515625,
+          "end": 874.3599853515625,
+          "text": "ma è roba un pelino più avanzata che non ve la consiglio se siete alle prime armi."
+        },
+        {
+          "start": 874.3599853515625,
+          "end": 880.3599853515625,
+          "text": "Cioè la cosa che vi consiglio di fare, se proprio volete usarlo con il modello gratuito, fate così,"
+        },
+        {
+          "start": 880.3599853515625,
+          "end": 886.3599853515625,
+          "text": "New Terminal, Cloud, lo lanciate e Cloud è partito."
+        },
+        {
+          "start": 886.3599853515625,
+          "end": 893.3599853515625,
+          "text": "Semplicemente l'ho stato usando gratis con GPTOS o con Lama o con Quen o con quello che volete voi."
+        },
+        {
+          "start": 893.3599853515625,
+          "end": 895.3599853515625,
+          "text": "Il Thinking Mode di Cloud lo perdete."
+        },
+        {
+          "start": 895.3599853515625,
+          "end": 900.3599853515625,
+          "text": "Ovviamente una delle cose potenti di alcuni di questi modelli è che hanno la modalità"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 15,
+        "time": 900.0,
+        "timestamp": "00:15:00",
+        "image": "frame_0015.jpg",
+        "reason": "periodic",
+        "ocr_text": "@ Chrome File Edit View History Bookmarks | Profiles. Tab Window. Help. B © € QU B 1317 © © © (DR tassi iiabonià x < Moses] pentter x] < Free Made Rutr API Prix. | <T integrati with Cine Code x | + € > G % ecaldravcom OG A @ frsiinineio È * DIO ICOCEIASNIAO casso ®© Cosa perdì usando modelli non Anthropic: - In VScode non funziona, uso obbligatorio dal terminale (ma cì sono trucchetti) - Thinking mode di Clagide - Sistema di caching - Modalità /Fast - Contesto da 1M di token Cosa non è compatibile al 100%: - Tool calling (ogni modello lo gestisce diversamente) - Pianificazione multì step - Sub-agenti (dipende dal modello che scegliete) - Alcune capacità multimodali - Altre cosine qua e la...",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 900.0,
+          "end": 906.0,
+          "text": "Oggi parliamo di business online, prodotti digitali e mindset."
+        },
+        {
+          "start": 930.0,
+          "end": 936.0,
+          "text": "Oggi parliamo di business online, prodotti digitali e mindset."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 16,
+        "time": 960.0,
+        "timestamp": "00:16:00",
+        "image": "frame_0016.jpg",
+        "reason": "periodic",
+        "ocr_text": "@ Chrome Fia Edit View History Bookmarks. Profiles. Tab Window Help. B © cs a Bg © © © ED tacsiioniinbonià | x < Moses Openteter x 1 << Free Made Rauter API Pr x. < Integration wi Ciad Code x | + < © CRIS ae O mami. l È Tea vara a — © gn 5 Cosa perdì usando modelli non Anthropic: Dea) - In VScode non funziona, uso obbligatorio dal terminale (ma cì sono trucchetti) - Thinking mode di Claude - Sistema di caching - Modalità /fast - Contesto da da token Cosa non è compatibile al 100%: - Tool calling (ogni modello lo gestisce diversamente) - Pianificazione multì step - Sub-agent (dipende dal modello che scegliete) - Alcune capacità multimodali - Altre cosìne qua e la...",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 960.0,
+          "end": 966.0,
+          "text": "Oggi parliamo di business online, prodotti digitali e mindset."
+        },
+        {
+          "start": 990.0,
+          "end": 994.0,
+          "text": "Queste cose le perdete. Queste invece non sono proprio compatibili al 100%."
+        },
+        {
+          "start": 994.0,
+          "end": 999.0,
+          "text": "Queste cose le perdete. Queste invece non sono proprio compatibili al 100%."
+        },
+        {
+          "start": 999.0,
+          "end": 1004.0,
+          "text": "Il tool calling, questo lo vedremo più avanti, è nelle lezioni successive."
+        },
+        {
+          "start": 1004.0,
+          "end": 1012.0,
+          "text": "Ma quando voi andate ad utilizzare Cloud Code, una delle cose potenti è che Cloud Code può chiamare applicazioni per fare cose."
+        },
+        {
+          "start": 1012.0,
+          "end": 1019.0,
+          "text": "E quindi diciamo, deve per esempio sbobbinare una riunione di due ore che avete fatto,"
+        },
+        {
+          "start": 1019.0,
+          "end": 1025.0,
+          "text": "cioè il file mp3 sul desktop, lui può chiamare un tool che fa questa cosa,"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 17,
+        "time": 1020.0,
+        "timestamp": "00:17:00",
+        "image": "frame_0017.jpg",
+        "reason": "periodic",
+        "ocr_text": "@ Chrome File Edit View. History Bookmarks Profiles Tab Window Help. Ba e a 8 1 © © © /EG Fica bn E < ro tr] pene >| < Frvatgo aa -A0I9 x | integration tina Cose | + € > SE ercaldrancom GR E O. fini - Sistema di caching - Modalità /Fast dI ES EEACLIE re Do Lun - Contesto da 1M di token Cl ciaudo workspace Cosa non è compatibile al 100%: - Tool calling (ogni modello lo gestisce diversamente) - Pianificazione multì step - Subragent (dipende dal modello che scegliete) - Alcune capacità multimodali - Altre cosìne qua e la...",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1025.0,
+          "end": 1027.0,
+          "text": "prende l'audio e lo trasforma in testo."
+        },
+        {
+          "start": 1027.0,
+          "end": 1032.0,
+          "text": "La pianificazione multi-step, pure questa la vedremo più avanti nel corso, ci sono delle lezioni."
+        },
+        {
+          "start": 1032.0,
+          "end": 1035.0,
+          "text": "Quindi il fatto che prima di agire si fa un piano."
+        },
+        {
+          "start": 1035.0,
+          "end": 1040.0,
+          "text": "I sub-agent, anche questo non vi preoccupate, sono tutte cose che vedete nelle lezioni più avanti."
+        },
+        {
+          "start": 1040.0,
+          "end": 1047.0,
+          "text": "Cioè che quando devono fare dei task in parallelo, lancia degli agenti e può velocizzare l'esecuzione invece di farli in serie."
+        },
+        {
+          "start": 1047.0,
+          "end": 1051.0,
+          "text": "Dice ok, c'hai questi dieci task da fare, lancio cinque agenti che ne fanno due alla volta."
+        },
+        {
+          "start": 1051.0,
+          "end": 1059.0,
+          "text": "Alcune capacità multimodali, alcuni modelli per esempio non gestiscono bene il fatto che voi caricate una foto"
+        },
+        {
+          "start": 1059.0,
+          "end": 1065.0,
+          "text": "e poi gli date un'istruzione testuale, oppure gli caricate come dicevo prima un file mp3, un file video,"
+        },
+        {
+          "start": 1065.0,
+          "end": 1070.0,
+          "text": "questa è una modalità multimodale dove mischiamo testo, video, audio, immagini e così via."
+        },
+        {
+          "start": 1070.0,
+          "end": 1074.0,
+          "text": "Qua ho scritto non è compatibile al 100% perché dipende tanto dal modello che scegliete."
+        },
+        {
+          "start": 1074.0,
+          "end": 1079.0,
+          "text": "Cioè alcuni di questi modelli gestiscono meglio alcune cose, altri le gestiscono male."
+        },
+        {
+          "start": 1079.0,
+          "end": 1083.0,
+          "text": "Quindi diciamo le performance possono cambiare molto da questo punto di vista."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 18,
+        "time": 1080.0,
+        "timestamp": "00:18:00",
+        "image": "frame_0018.jpg",
+        "reason": "periodic",
+        "ocr_text": "@ Chrome File Edit View History Bookmarks Profiles Tab Window Help. Bo ea 8 10 © © © E Said bivio MO < Modus \"ire| Opeaatr x | < Freo Models Route - APP x SEEN 7 ue QU le mR £ È Sistema di cachin = È ‘I . & rame (\"] = - Modalità /Fast do IAA reco - Contesto da 1M di token claude workspace Cosa non è compatibile al 100%: - Tool calling (ogni modello lo gestisce diversamente) - Pianificazione multì ste, - Sub-agent (dipende dal modello che scegliete) - Alcune capacità multimodali - Altre cosìne qua e la... dun",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1083.0,
+          "end": 1090.0,
+          "text": "Questo per totale trasparenza, per farvi capire che questa lezione vi spiega come usare Cloud Code in modo gratuito,"
+        },
+        {
+          "start": 1090.0,
+          "end": 1097.0,
+          "text": "ma nel resto del corso io continuerò a utilizzare Cloud, quindi il modello di Cloud, quello ufficiale di Antropic"
+        },
+        {
+          "start": 1097.0,
+          "end": 1099.0,
+          "text": "e consiglio anche a voi di farlo."
+        },
+        {
+          "start": 1099.0,
+          "end": 1104.0,
+          "text": "Potrebbe essere utile però qualcuno che magari ha preso il corso e non vuole pagare l'abbonamento,"
+        },
+        {
+          "start": 1104.0,
+          "end": 1109.0,
+          "text": "può comunque diciamo smanettare per le prime cose, poi dopo dice vabbè Raph fammi fare un po' di prove,"
+        },
+        {
+          "start": 1109.0,
+          "end": 1112.0,
+          "text": "poi dopo decido se voglio pagarmi l'abbonamento a Cloud."
+        },
+        {
+          "start": 1112.0,
+          "end": 1113.0,
+          "text": "E ha molto senso come cosa."
+        },
+        {
+          "start": 1113.0,
+          "end": 1119.0,
+          "text": "Oppure in alcuni casi potete volere un ibrido, dice vabbè Raph io mi sono fatto due spazi di lavoro,"
+        },
+        {
+          "start": 1119.0,
+          "end": 1126.0,
+          "text": "uno per le cose professionali e pago l'abbonamento e uno magari per le cose personali e non mi va di pagare l'abbonamento,"
+        },
+        {
+          "start": 1126.0,
+          "end": 1127.0,
+          "text": "non la voglio utilizzare un modello gratuito."
+        },
+        {
+          "start": 1127.0,
+          "end": 1130.0,
+          "text": "Anche questa è un'ottima scelta che fanno in tanti."
+        },
+        {
+          "start": 1130.0,
+          "end": 1133.0,
+          "text": "Vi aggiungo due cosine che nessuno dice mai."
+        },
+        {
+          "start": 1133.0,
+          "end": 1142.0,
+          "text": "Vi lascio ovviamente il link, diciamo quello ufficiale di Open Router, dove spiegano proprio come si configura tutto."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 19,
+        "time": 1140.0,
+        "timestamp": "00:19:00",
+        "image": "frame_0019.jpg",
+        "reason": "periodic",
+        "ocr_text": "@ Chrome File Edit View. History Bookmarks Profiles Tab Window Help. © © OO E Scion irene | < sto tr] Open >| < Freni ar - 019 ita i Cin Godi + € > @ E openouteraliocs/guidesicoding-agents/dlaude-code-inegrtion <S OpenRouter @ Search 1 ASKAd EI Docs. < APIReference © Clent SDKE I Guardraiis Service Tre Ò input & Output Logging Broadcast Privacy ©. Best practices Guides Administration Coding Agents Astomate Cogo Revien Build Your um Agent TUI Build Your Cum Headless Agent | d- Claude Code KA Claude Desktop Codex CLI dunie CLI 2. MCP Servers Openciaw Evaluate& Optimize Get Statod community © Agent SDK Guides > Coding Agent, Claude Code © copypase + Use Claude Code with OpenRouter {© DI. Claude Code with Openuter is only quaranteed to work iti the Anthropi first-party provider. For maximum compatibili we recommend setting Anthropie 1P 5 top priority provider when using Claude Code. Why Use OpenRouter with Claude Code? OpenRouter adds a reliability and management layer between Claude Code and Anthropic's API, giving you and your organization several key benefits. Provider Failover for High Availability ‘Anthropic's API occasionaliy experiences outages or rate limitng. When you route Claude Code through OpenRouter, your requests automatically fal over between multiple Anthropic providers. If one provider is unavalbie or rate-limited, OpenRouter ‘seamiessiy routes to another, keeping your coding sessions uninterrupted. Organizational Budget Controls For teams and organizations, OpenRouter provides centralized budget management. You can set spending limits, allocate credits across team members, and prevent. unexpected cost overruns. This is especialiy valuable when multiple developers are using Claude Code across your organization. Ba e a Bona SETTI ‘chat Rankings Docs DD lussi] ce ela mo = Provider Faliovr for High Avalabity Organizational Budget Controls Quick Stan | Step 2: Connect Claude to OpenRouter Step 3: Start your session Stop: Vriy Contiguring Models Fast ode Using fast in Claude Code Pricing Routing behavior Agent SDK Githiub action Cost Tracking Si",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1142.0,
+          "end": 1146.0,
+          "text": "Perché allora a un certo punto spiegano anche una cosa importante, adesso non mi ricordo a che altezza sta,"
+        },
+        {
+          "start": 1146.0,
+          "end": 1147.0,
+          "text": "cioè i limiti."
+        },
+        {
+          "start": 1147.0,
+          "end": 1154.0,
+          "text": "Non è che voi andandosi i modelli gratuiti, fatemi vedere se lo trovo qua sotto, no forse allora in un'altra pagina."
+        },
+        {
+          "start": 1154.0,
+          "end": 1159.0,
+          "text": "Vabbè scusatemi, magari, vabbè comunque è una di queste pagine, dopo ve la linko qua sotto."
+        },
+        {
+          "start": 1159.0,
+          "end": 1167.0,
+          "text": "Non è che voi andando sui modelli gratuiti lo usate illimitato, no, ci sono dei limiti altissimi,"
+        },
+        {
+          "start": 1167.0,
+          "end": 1172.0,
+          "text": "ve li voglio far vedere, Open Router Free Limits."
+        },
+        {
+          "start": 1172.0,
+          "end": 1179.0,
+          "text": "Perché sono molto molto bassi, sono molto molto bassi, eccolo qua, sono 20 richieste al minuto."
+        },
+        {
+          "start": 1180.0,
+          "end": 1184.0,
+          "text": "20, Vediamo dove lo dice, eccolo qua."
+        },
+        {
+          "start": 1184.0,
+          "end": 1191.0,
+          "text": "Potete fare 20 richieste al minuto, avete delle limitazioni, quindi quando usate quello gratuito,"
+        },
+        {
+          "start": 1191.0,
+          "end": 1195.0,
+          "text": "quello che loro vi consigliano di fare è di mettere un po' di credito sull'account."
+        },
+        {
+          "start": 1195.0,
+          "end": 1200.0,
+          "text": "Se mettete un po' di credito avete fino a mille richieste al giorno, quindi anche se non li volete spendere quei soldi,"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 20,
+        "time": 1200.0,
+        "timestamp": "00:20:00",
+        "image": "frame_0020.jpg",
+        "reason": "periodic",
+        "ocr_text": "@ Chrome File Edit View History Bookmarks Profiles. Tab Window Help. Bd cea 8 112 COMIT ERO-CTIrT<=\"S5 mo E ESTATE ape arcata @ o @ rv È < OpenRouter Q Search 40 ASKAISÈ Models Chat Rankings Docs QD lia armi ) A li noce @ Limits There are a few rate limits that appiy to certain types of requests, regardless of account È Autnenticaton E Parametere Free usage limits: If you're using a free model variant (with an ID ending in : free), Erre and Debugging you can make up to 20 requests per minute. The following per-day limits appiy: Responses API + If you have purchased less than 10 credits, you're limited t0 50. : free model API Reference requests per day. Lissagisimani * If you purchase at least 10 credits, your daily imit is increased tal1000 onu requests per day. Arabica sb DOS protection: Cloudfiare‘s DDOS protection wil block requests that dramatically no exceed reasonable usage. su pa If your account has a negative credit balance, you may see 402 errors, including for free models. Adding credits to put your balance above zero allows you t0 use those models credito again Embodeings Endpoints Generations È Guardali",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1200.0,
+          "end": 1207.0,
+          "text": "metteteci tipo 10 dollari e avete questo limite un po' più alto, potete fare mille richieste al giorno."
+        },
+        {
+          "start": 1207.0,
+          "end": 1213.0,
+          "text": "Quindi sappiate che quando lo andate a utilizzare gratis, questo non ve lo fa vedere nessuno,"
+        },
+        {
+          "start": 1213.0,
+          "end": 1220.0,
+          "text": "dopo 4, 5, bubum, babà, avanti indietro, avanti indietro, vi dirà che avete finito le chiamate gratuite per il giorno, ok?"
+        },
+        {
+          "start": 1220.0,
+          "end": 1225.0,
+          "text": "Di nuovo, non ve lo fa vedere nessuno perché fa molto fico dire, lo faccio usare gratis."
+        },
+        {
+          "start": 1225.0,
+          "end": 1227.0,
+          "text": "Sì, gratis, ma con tante limitazioni."
+        },
+        {
+          "start": 1227.0,
+          "end": 1231.0,
+          "text": "Altra cosa importante, e poi abbiamo finito per questa lezione,"
+        },
+        {
+          "start": 1232.0,
+          "end": 1238.0,
+          "text": "questi modelli qua a volte potrebbero essere sovraccarichi, in alcuni giorni potrebbero non funzionare,"
+        },
+        {
+          "start": 1238.0,
+          "end": 1244.0,
+          "text": "per esempio io ho utilizzato tanto Gemma, di quelli gratis di Google, e Gemma mi andava spesso in errore,"
+        },
+        {
+          "start": 1244.0,
+          "end": 1248.0,
+          "text": "la sera era inutilizzabile perché lo usavano tutti quanti."
+        },
+        {
+          "start": 1248.0,
+          "end": 1255.0,
+          "text": "Allora, c'è questa voce che potete utilizzare, diciamo mettete un generico, open router, come tipo di modello,"
+        },
+        {
+          "start": 1255.0,
+          "end": 1258.0,
+          "text": "mettete open router slash free, ok?"
+        },
+        {
+          "start": 1258.0,
+          "end": 1260.0,
+          "text": "Che non è un nome di un modello, vedete?"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 21,
+        "time": 1260.0,
+        "timestamp": "00:21:00",
+        "image": "frame_0021.jpg",
+        "reason": "periodic",
+        "ocr_text": "@ Code Fio Edit Selection View Go. Run Terminal | Window Help B © cs QQ B 1328 < Made | Opec -_X_| < Fre Models Router - API Pri x_| < Integration wi Claude Codex /< AFRatelime| Conigli x + EB cas donna x O vorsucinimo 1 CO lì settica x *D Q (0) sotingasocation wa n= 8 ricette, primi aan zi , n ; “Mm0e1c_pAsE_URL*: *httpsi//openrouter.ai/o ba È i SANMADPICAUMLTOREN\" \"5k-01-v1-ASBA12ASCHPA0ABETEAI2IICHSECATEIOIAA19TEDOIIASE2ESOZIT9ST139S1*, DI ica 5 SAMBOPICAPT_REV: ©\", S 6 mon ODE: “openranter/trd pi È , Db) t (tn, D21n2 21128 ratfaetezserierino vorkspace di prova A claute \"i GRALE.ma Pie vien instrvettone for Clause Tipo for qertima netcone back Ratfaete! pu vinte to cren e are ‘Vestore (no args) nov picks a randon session color SIREp God Shows the tool Count fot Connected servers and flags servers that connected with @ tools pensi /gptoss1200: oe ult + API Usage Bitting | plugincatr nou ccopte. 2ip' Blogs arenives in ssgition to directors Rafforto alto Jrateste notes for sore >",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1260.0,
+          "end": 1272.0,
+          "text": "È un nome speciale per dire, diciamo, state dando a open router la scelta di quale modello gratuito utilizzare."
+        },
+        {
+          "start": 1272.0,
+          "end": 1277.0,
+          "text": "Quindi in pratica quello che sta succedendo è che qua in mezzo voi gli dite generico,"
+        },
+        {
+          "start": 1277.0,
+          "end": 1284.0,
+          "text": "guarda io non voglio usare Gemma o GPT OS, ti dico solo voglio usarne uno gratuito, adesso fai tu."
+        },
+        {
+          "start": 1284.0,
+          "end": 1291.0,
+          "text": "Ok? Quindi quando voi andrete praticamente a fare le vostre chiamate dentro la chat,"
+        },
+        {
+          "start": 1291.0,
+          "end": 1298.0,
+          "text": "lui ad ogni chiamata potrebbe una volta chiamare Lama, una volta chiamare GPT OS, una volta chiamare Gemma,"
+        },
+        {
+          "start": 1298.0,
+          "end": 1300.0,
+          "text": "in base a come sono i carichi, ok?"
+        },
+        {
+          "start": 1300.0,
+          "end": 1306.0,
+          "text": "Anche questo, documentazione ufficiale, vi lascio sempre il link qua sotto nel corso, così voi lo potete vedere con calma."
+        },
+        {
+          "start": 1306.0,
+          "end": 1311.0,
+          "text": "Ve lo faccio vedere, diciamo qua ci chiudiamo il terminale e lo riapriamo."
+        },
+        {
+          "start": 1311.0,
+          "end": 1317.0,
+          "text": "Lanciamo di nuovo Cloud e vedete, diciamo qua adesso vi dice open router slash free."
+        },
+        {
+          "start": 1317.0,
+          "end": 1322.0,
+          "text": "Questo è quanto per questa lezione, questa cosa vi lascio qua sotto così potete fare un copy and colla molto facile"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 22,
+        "time": 1320.0,
+        "timestamp": "00:22:00",
+        "image": "frame_0022.jpg",
+        "reason": "periodic",
+        "ocr_text": "Ba ce a 8 132% EB Pucairna itabonid (x < Mo \"tn | pensate | < Free Made Rsuter API Pri x. < ingrato wi Claude Code X_| < AP\\RateLimis| Conte Ui x + O voseionon ® (I settings socaison x v cause nada > (0 setting clan () on > = ANTHROPIC.MOOEL 10 setingssocton nai -- Leal icotta, piani mel 2 | fn 3 “n@nGOPIC BASEL\": “ntips:/Vopenrouter.ai/opi*, 12) i CAMION\": \"bk-0r-V18B812I5EOOGNO8712231 COSENTINO 18881\", cine worapace ‘ p È * B Cd ©",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1322.0,
+          "end": 1328.0,
+          "text": "e come sempre vi do anche questo schema da scaricare se volete tenerlo a colpo d'occhio per capire bene cosa stiamo facendo."
+        }
+      ]
+    }
+  ]
+}

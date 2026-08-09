@@ -1,0 +1,821 @@
+{
+  "title": "Cose è un workspace e perché è importante",
+  "sections": [
+    {
+      "keyframe": {
+        "index": 0,
+        "time": 0.0,
+        "timestamp": "00:00:00",
+        "image": "frame_0000.jpg",
+        "reason": "start",
+        "ocr_text": "Il workspace: la tua base operativa (significa letteralmente “spazio di lavoro*) Alla rinfusa vs Con un sistema Alla fusa Con un sistema documento rale preettderte esposto) torna USAQUESTA NR cortesto/tone drive astpat/rpestaccente scia / ChatePT/altri ratbot Ori cat e utola separetta Riparte Gonpre da nero Porti i Ale tu rlla cat. Chili la citi sprite tutto. Tu eri vel mondo di CMatePT.",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 0.3199999928474426,
+          "end": 5.519999980926514,
+          "text": "Siamo arrivati a parlare di workspace, che secondo me è uno dei punti più importanti."
+        },
+        {
+          "start": 5.519999980926514,
+          "end": 10.720000267028809,
+          "text": "È una di quelle cose che quando le capisci, proprio qualcosa fa clic nella testa e ti"
+        },
+        {
+          "start": 10.720000267028809,
+          "end": 16.5,
+          "text": "fa dire, ok, ora sto capendo perché questo strumento, questo approccio, questo ecosistema"
+        },
+        {
+          "start": 16.5,
+          "end": 17.5,
+          "text": "è molto potente."
+        },
+        {
+          "start": 17.5,
+          "end": 22.079999923706055,
+          "text": "Allora, il workspace lo possiamo chiamare pure spazio di lavoro, perché lo so che ogni"
+        },
+        {
+          "start": 22.079999923706055,
+          "end": 26.799999237060547,
+          "text": "volta che c'è un termine in inglese qualcuno si spaventa un pochino, ma immaginatelo proprio"
+        },
+        {
+          "start": 26.799999237060547,
+          "end": 32.15999984741211,
+          "text": "come la base operativa. Cioè, lo spazio di lavoro è quello all'interno del quale"
+        },
+        {
+          "start": 32.15999984741211,
+          "end": 34.31999969482422,
+          "text": "voi vi muoverete tutto il tempo."
+        },
+        {
+          "start": 34.31999969482422,
+          "end": 39.36000061035156,
+          "text": "Per capirci, negli esempi che stiamo facendo fino ad ora, molto semplici, questo qui era"
+        },
+        {
+          "start": 39.36000061035156,
+          "end": 44.400001525878906,
+          "text": "il workspace, ma era estremamente sporco, incasinato, volutamente, perché non vi ho"
+        },
+        {
+          "start": 44.400001525878906,
+          "end": 48.52000045776367,
+          "text": "ancora spiegato che cos'è un workspace e come si organizza, ma era questa roba qua."
+        },
+        {
+          "start": 48.52000045776367,
+          "end": 54.47999954223633,
+          "text": "Quindi una serie di cartelle, sottocartelle, dei file, ma soprattutto una struttura logica"
+        },
+        {
+          "start": 54.47999954223633,
+          "end": 55.47999954223633,
+          "text": "precisa."
+        },
+        {
+          "start": 55.47999954223633,
+          "end": 60.31999969482422,
+          "text": "No, immaginate, per esempio, sul vostro computer avete la cartella documenti, dentro documenti"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 1,
+        "time": 60.0,
+        "timestamp": "00:01:00",
+        "image": "frame_0001.jpg",
+        "reason": "periodic",
+        "ocr_text": "Il workspace: la tua base operativa (Significa letteralmente “spazio di lavoro\") Alla rinfusa vs Con un sistema Workspace digitale Alla info Con un sistema cartele cor reni i decente rale progett/aiente espto/ le organizzati por pragetto torna OSAQUESTA cortesto/toe dice Stovitura lojea e coorte atitleorostacciottereizind Cri Re al tuo posto Clucde tro mulo ce gi cove ChatePT/altri catbot Ori cat e uitola tepereta Riparte sonpre da nero Porti i Ale tu rella cut. Chili la int; sprite tutto. TU entri rel nodo di CoatePT.",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 60.31999969482422,
+          "end": 65.4800033569336,
+          "text": "c'è la cartella preventivi, poi la cartella presentazioni, poi la cartella foto, poi la"
+        },
+        {
+          "start": 65.4800033569336,
+          "end": 67.91999816894531,
+          "text": "cartella pdf e così via."
+        },
+        {
+          "start": 67.91999816894531,
+          "end": 73.91999816894531,
+          "text": "Qua vi voglio fare diverse riflessioni su questa cosa. Prima di metterci, diciamo poi,"
+        },
+        {
+          "start": 73.91999816894531,
+          "end": 78.19999694824219,
+          "text": "con le mani a lavorare direttamente sul workspace, voglio farvi capire bene un paio di cose."
+        },
+        {
+          "start": 78.19999694824219,
+          "end": 82.95999908447266,
+          "text": "Allora, se manteniamo un attimo questo parallelismo con la scrivania, che poi perciò si chiama"
+        },
+        {
+          "start": 82.95999908447266,
+          "end": 89.12000274658203,
+          "text": "desktop quando lavoriamo al computer, così come nella scriveria ci abbiamo i cassetti,"
+        },
+        {
+          "start": 89.12000274658203,
+          "end": 95.16000366210938,
+          "text": "le cartelle, i documenti, no, quindi abbiamo un modo di organizzare precisamente le cose,"
+        },
+        {
+          "start": 95.16000366210938,
+          "end": 99.19999694824219,
+          "text": "i file, la stessa cosa succede nel nostro workspace appena lo creeremo."
+        },
+        {
+          "start": 99.19999694824219,
+          "end": 103.31999969482422,
+          "text": "Quindi abbiamo delle cartelle con dei nomi chiari, abbiamo i file organizzati bene per"
+        },
+        {
+          "start": 103.31999969482422,
+          "end": 108.12000274658203,
+          "text": "progetto e tra l'altro vediamo pure che cosa sono i progetti, abbiamo una struttura logica"
+        },
+        {
+          "start": 108.12000274658203,
+          "end": 109.12000274658203,
+          "text": "e coerente."
+        },
+        {
+          "start": 109.12000274658203,
+          "end": 111.04000091552734,
+          "text": "Questa cosa perché è potente?"
+        },
+        {
+          "start": 111.04000091552734,
+          "end": 116.80000305175781,
+          "text": "Non è perché siamo fissati con l'organizzazione, perché a noi di quell'organizzazione ci"
+        },
+        {
+          "start": 116.80000305175781,
+          "end": 122.80000305175781,
+          "text": "interessa poco, quello che vedremo è questo, cioè Claude trova tutto quello che gli serve."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 2,
+        "time": 120.0,
+        "timestamp": "00:02:00",
+        "image": "frame_0002.jpg",
+        "reason": "periodic",
+        "ocr_text": "(significa lis o 0, 0, 0, +, —, a Gt @ i re Sr i ml Lun -_n SR Workspace digitale Cassetti etichettati Cartelle con nomi chiari cartelle colorate File organizzati per progetto Documesti în ordine Struttura logica e coerente Ogni cosa al suo posto Ogni ile al suo posto Trovi subìto quello che cerchi Claude trova quello che gli serve oto flo sio. toxt lo Alla rinfusa vs Con unsere Alla rinfusa documento-Finale-v3.docx bozza-USAQUESTA pdf cartella “roba varia\" Desktop pieno di file Non sai maì dove e cosa Perche Claude funziona meglio con un workspace [ ChathPT Senza workspace Con workspace Claude trova caos Claude sa dove cercare sa dove cercare Carica il contesto da solo ChathPT/altri chatbot Ognì chot e un'isola separata Riparte sempre da zero",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 122.80000305175781,
+          "end": 129.16000366210938,
+          "text": "Qua è una di quelle cose che voglio sottolineare, Claude trova tutto quello che gli serve."
+        },
+        {
+          "start": 129.16000366210938,
+          "end": 131.24000549316406,
+          "text": "L'ho sottolineato malissimo, perdonatemi."
+        },
+        {
+          "start": 131.24000549316406,
+          "end": 136.72000122070312,
+          "text": "Claude trova tutto quello che gli serve e qua la cosa importante è che lo fa in automatico."
+        },
+        {
+          "start": 136.72000122070312,
+          "end": 143.55999755859375,
+          "text": "Quando abbiamo creato il workspace, quindi il nostro spazio di lavoro, gli diciamo semplicemente"
+        },
+        {
+          "start": 143.55999755859375,
+          "end": 148.55999755859375,
+          "text": "che stiamo lavorando su un determinato cliente, su un determinato progetto, su una certa attività"
+        },
+        {
+          "start": 148.55999755859375,
+          "end": 150.39999389648438,
+          "text": "e Claude sa già dove andare a guardare."
+        },
+        {
+          "start": 150.39999389648438,
+          "end": 154.32000732421875,
+          "text": "Avviene quasi per magia, tra un attimo vi faccio vedere in che modo."
+        },
+        {
+          "start": 154.32000732421875,
+          "end": 158.39999389648438,
+          "text": "Rimaniamo su questo, perché questa cosa è importante?"
+        },
+        {
+          "start": 158.39999389648438,
+          "end": 164.36000061035156,
+          "text": "Se uno viene dall'approccio tradizionale, diciamo, dei chatbot, quindi c'è gpt, cloudchat,"
+        },
+        {
+          "start": 164.36000061035156,
+          "end": 168.52000427246094,
+          "text": "gemina, ecowork e così via, è abituato a lavorare un po' alla rinfusa."
+        },
+        {
+          "start": 168.52000427246094,
+          "end": 174.16000366210938,
+          "text": "Qua, diciamo, in realtà ci sono un po' di modi per organizzare, perché ci sono i progetti,"
+        },
+        {
+          "start": 174.16000366210938,
+          "end": 178.75999450683594,
+          "text": "ci sono, diciamo, alcuni di questi chatbot ovviamente poi hanno delle cosine per organizzare"
+        },
+        {
+          "start": 178.75999450683594,
+          "end": 179.75999450683594,
+          "text": "un po'."
+        },
+        {
+          "start": 179.75999450683594,
+          "end": 184.39999389648438,
+          "text": "Sono delle cartelle, più che altro, poi non è che si può fare più di tanto, però quello"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 3,
+        "time": 180.0,
+        "timestamp": "00:03:00",
+        "image": "frame_0003.jpg",
+        "reason": "periodic",
+        "ocr_text": "ED cadi Vibo + 7 (4 € 3 G % ercaldrancom ssace; la tua base operative è 3000 - Ma Alla rinfusa vs Con un sistema Alla rinfusa Con un sistema documerto-Finale-v3.docx progetti/clente-esposito/ bozza -USAQUESTA, pel contesto/tono-di-voce. md cortella “roba varia\" output/proposta-cliente-rossì,ml Desktop pieno di file Struttura uguale per ogni progetto Non saì mai dove e cosa Trovi tutto in 5 secondi Chat6PT vs Claude Code chatSPT/altri chatbot Claude Code Ognì hat e un'isola separata Un ambiente unico e continuo E | rr",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 184.39999389648438,
+          "end": 188.9199981689453,
+          "text": "che facciamo normalmente è questa situazione qua, quindi abbiamo documenti con i nomi"
+        },
+        {
+          "start": 188.9199981689453,
+          "end": 193.0800018310547,
+          "text": "assurdi, immagino capite pure a voi, documento finale, documento finale, versione 2, versione"
+        },
+        {
+          "start": 193.0800018310547,
+          "end": 200.47999572753906,
+          "text": "3 e così via, cartelle con scritto varie, altro, tutto il resto, eccetera, il desktop"
+        },
+        {
+          "start": 200.47999572753906,
+          "end": 205.39999389648438,
+          "text": "pieno di file, questo diciamo è sintomo di caos, e non sappiamo dove trovare le cose."
+        },
+        {
+          "start": 205.39999389648438,
+          "end": 208.67999267578125,
+          "text": "Nel momento in cui invece non abbiamo un sistema, questo è quello che otteniamo, cioè quello"
+        },
+        {
+          "start": 208.67999267578125,
+          "end": 213.55999755859375,
+          "text": "che voglio far capire è che abbiamo una struttura chiara, quindi c'è una cartella progetti,"
+        },
+        {
+          "start": 213.55999755859375,
+          "end": 217.72000122070312,
+          "text": "sotto la cartella progetti ci sono i progetti organizzati, c'è una cartella per il contesto,"
+        },
+        {
+          "start": 217.72000122070312,
+          "end": 222.55999755859375,
+          "text": "una cartella per gli output che produrremo e così via, e creiamo una struttura uguale"
+        },
+        {
+          "start": 222.55999755859375,
+          "end": 228.36000061035156,
+          "text": "per ogni progetto, anche questo diciamo sottolineiamo questa idea di uguale, non lo facciamo per"
+        },
+        {
+          "start": 228.36000061035156,
+          "end": 234.39999389648438,
+          "text": "noi, ma perché Claude è in grado di trovare tutto in automatico, anzi qua diciamo fatemi"
+        },
+        {
+          "start": 234.39999389648438,
+          "end": 240.44000244140625,
+          "text": "cambiare questa frase qua, dove qua ho scritto trovi tutto in automatico, trova tutto in"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 4,
+        "time": 240.0,
+        "timestamp": "00:04:00",
+        "image": "frame_0004.jpg",
+        "reason": "periodic",
+        "ocr_text": "dd 0, ema Con un sistema progettti/cliente-esposito/ contesto/tono-di-voce.mol output/proposta-cliente-rossì.mol Struttura sasli per ogni progetto Trova) tutto in 5 secondi",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 240.44000244140625,
+          "end": 245.32000732421875,
+          "text": "automatico, perché questa cosa la fa Claude, e questa è la cosa veramente potente, cioè"
+        },
+        {
+          "start": 245.32000732421875,
+          "end": 250.0,
+          "text": "in 5 secondi sa dove andare a pescare, perché se tu gli dici devo aggiornare il preventivo"
+        },
+        {
+          "start": 250.0,
+          "end": 255.24000549316406,
+          "text": "per esposito, lui sa che nella cartella progetti c'è una cartella che si chiama cliente esposito"
+        },
+        {
+          "start": 255.24000549316406,
+          "end": 258.9200134277344,
+          "text": "e sa che deve andare a lavorare sul file che dentro la cartella cliente esposito si chiama"
+        },
+        {
+          "start": 258.9200134277344,
+          "end": 262.9200134277344,
+          "text": "preventivo, e noi gli dobbiamo dire questa cosa, lo fa tutto in automatico, lo vedremo"
+        },
+        {
+          "start": 262.9200134277344,
+          "end": 268.7200012207031,
+          "text": "tra un attimo. Un altro paio di riflessioni interessanti, perché Claude riesce a fare"
+        },
+        {
+          "start": 268.7200012207031,
+          "end": 273.239990234375,
+          "text": "questa cosa molto bene? Perché è strutturato al suo interno, abbiamo detto che Claude Code"
+        },
+        {
+          "start": 273.239990234375,
+          "end": 278.55999755859375,
+          "text": "nasce come uno strumento per il codice, noi non lo useremo per il codice, ma siccome è"
+        },
+        {
+          "start": 278.55999755859375,
+          "end": 284.8800048828125,
+          "text": "pensato per aiutare i programmatori a gestire nel tempo, quindi a fare manutenzione del"
+        },
+        {
+          "start": 284.8800048828125,
+          "end": 290.2799987792969,
+          "text": "codice nel tempo, questa stessa cosa, diciamo questa funzionalità che hanno pensato i creatori"
+        },
+        {
+          "start": 290.2799987792969,
+          "end": 295.5199890136719,
+          "text": "di Claude Code, noi che non siamo programmatori, che non ci interessa mantenere il codice,"
+        },
+        {
+          "start": 295.5199890136719,
+          "end": 300.1199951171875,
+          "text": "la sfruttiamo per la parte invece di lavoro intellettuale che abbiamo detto fino ad ora,"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 5,
+        "time": 300.0,
+        "timestamp": "00:05:00",
+        "image": "frame_0005.jpg",
+        "reason": "periodic",
+        "ocr_text": "e 800, 0,0. - 4, 4,60 è Perche Claude funziona meglio con un workspace Senza workspace Claude trova caos Non sa dove cercare Devi spiegare tutto ogni volta Output generico e impreciso Con workspace Claude sa dove cercare Carica il contesto da solo Non devì spiegare nulla Output preciso e pertinente RS resine BO Se 2° a",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 300.1199951171875,
+          "end": 307.20001220703125,
+          "text": "no? Quindi documenti, presentazioni, relazioni, report, non lo so, testi molto lunghi che"
+        },
+        {
+          "start": 307.20001220703125,
+          "end": 313.3999938964844,
+          "text": "scrivete, contenuti che dovete pubblicare, proposte che dovete fare, minuti di riunioni,"
+        },
+        {
+          "start": 313.3999938964844,
+          "end": 317.6000061035156,
+          "text": "tutto quello che potete pensare voi. Qui diciamo, se non avete il workspace, ovviamente c'è"
+        },
+        {
+          "start": 317.6000061035156,
+          "end": 321.32000732421875,
+          "text": "il delirio e Claude non sa dove andare a pescare queste cose, le dovete voi spiegare tutte"
+        },
+        {
+          "start": 321.32000732421875,
+          "end": 325.9599914550781,
+          "text": "le volte, esattamente come ho fatto adesso negli esempi qua, no? Avete visto, qua non"
+        },
+        {
+          "start": 325.9599914550781,
+          "end": 331.20001220703125,
+          "text": "c'era una struttura chiara, non c'era un workspace e quindi gli dovevo dire, allora,"
+        },
+        {
+          "start": 331.20001220703125,
+          "end": 336.8399963378906,
+          "text": "c'è una cartella con dei PDF, questi PDF sono dei preventivi, ti prego trasformami"
+        },
+        {
+          "start": 336.8399963378906,
+          "end": 341.32000732421875,
+          "text": "questi preventivi, bla bla bla. Io ho dovuto spiegare tutte le volte perché non avevamo"
+        },
+        {
+          "start": 341.32000732421875,
+          "end": 345.0400085449219,
+          "text": "creato un workspace. Nel momento in cui invece andiamo a farci il workspace, tutta sta cosa"
+        },
+        {
+          "start": 345.0400085449219,
+          "end": 349.1600036621094,
+          "text": "qua Claude la fa in automatico, Claude la fa in automatico. E qua, diciamo, la cosa"
+        },
+        {
+          "start": 349.1600036621094,
+          "end": 356.7200012207031,
+          "text": "più importante di quello che ho scritto qui è questa roba qua, cioè carica il contesto"
+        },
+        {
+          "start": 356.7200012207031,
+          "end": 360.4800109863281,
+          "text": "da solo. Poi tra un attimo arriviamo a vedere pure che cos'è il contesto perché è un"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 6,
+        "time": 360.0,
+        "timestamp": "00:06:00",
+        "image": "frame_0006.jpg",
+        "reason": "periodic",
+        "ocr_text": "Di 6 6 3,0, 0, 0, >, -.l@ a, 8, e. a gE sente sene è srcigrana laude funziona meglio con un workspace LESBO i De @ kspace Con workspace bi br) n Claude sa dove cercare orso |: carico leone z DE G egare Tutto ogni volta Non devi spiegare nulla generico e impreciso Output preciso e pertinente Ogni chat e un'isc® Portì ì file tu nel Chiudì la chat, sf Tu entri nel",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 360.4800109863281,
+          "end": 367.0799865722656,
+          "text": "pezzo importante del workspace. Cioè, se io sto lavorando, diciamo che sono un consulente"
+        },
+        {
+          "start": 367.0799865722656,
+          "end": 372.4800109863281,
+          "text": "e ho dieci clienti, in questo momento della mia vita, della mia carriera professionale,"
+        },
+        {
+          "start": 372.4800109863281,
+          "end": 377.44000244140625,
+          "text": "non è che tutte le volte che apro Claude Code lui si carica tutta l'informazione di dieci"
+        },
+        {
+          "start": 377.44000244140625,
+          "end": 384.9599914550781,
+          "text": "miei clienti. In maniera intelligente e dinamica, dice, oggi stai lavorando su Esposito? Perfetto,"
+        },
+        {
+          "start": 384.9599914550781,
+          "end": 389.8399963378906,
+          "text": "mi carico solo quello che devo conoscere di Esposito. Domani stai lavorando su Mario Rossi?"
+        },
+        {
+          "start": 389.8399963378906,
+          "end": 393.67999267578125,
+          "text": "Perfetto, mi carico solo quello che devo fare su Mario Rossi. Infatti qua, diciamo,"
+        },
+        {
+          "start": 393.67999267578125,
+          "end": 399.79998779296875,
+          "text": "se vogliamo renderlo più completo, qua potrei dire carica il contesto da solo in automatico."
+        },
+        {
+          "start": 399.79998779296875,
+          "end": 407.20001220703125,
+          "text": "Sta roba qua per me è incredibile, è una delle cose più potenti che si può fare quando"
+        },
+        {
+          "start": 407.20001220703125,
+          "end": 410.7200012207031,
+          "text": "utilizzate Claude Code. Proprio se venite da un'altra approccia nel quale invece dovete"
+        },
+        {
+          "start": 410.7200012207031,
+          "end": 416.1199951171875,
+          "text": "dargli le custom instruction, copiare prompt che sono infiniti, caricare una serie di file"
+        },
+        {
+          "start": 416.1199951171875,
+          "end": 421.6000061035156,
+          "text": "e così via. E per ultimo, diciamo, se avete, se venite da un approccio tradizionale, perdonatemi,"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 7,
+        "time": 420.0,
+        "timestamp": "00:07:00",
+        "image": "frame_0007.jpg",
+        "reason": "periodic",
+        "ocr_text": "e eo, 0,0, -, -. 2, 4,8, e, 4 Chat6PT vs Claude Code chat&PT/altri chatbot Claude Code Ognì chat e un'isola separata Un ambiente unico e continuo Riparte sempre dla zero Il punto di partenza e sempre uguale Portì ì file tu nella chat Claude legge ì tuoi file da solo Chiudi la chat, sparisce tutto Chiudi la sessione, tutto resta Tu entri nel mondo di Chat&PT Claude entra nel tuo mondo",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 421.6000061035156,
+          "end": 427.2799987792969,
+          "text": "io qua continuo a scrivere CGPT contro Claude Code, qua ho scritto infatti CGPT e altri chatbot,"
+        },
+        {
+          "start": 427.2799987792969,
+          "end": 434.0799865722656,
+          "text": "cioè se uno non viene da CGPT ma viene da Gemini, viene da Claude Chat, viene da Cowork,"
+        },
+        {
+          "start": 434.0799865722656,
+          "end": 439.8800048828125,
+          "text": "viene da altre cose, cioè da, diciamo, da Copilot e altre cose, il ragionamento è lo stesso. Qua"
+        },
+        {
+          "start": 439.8800048828125,
+          "end": 445.1600036621094,
+          "text": "intendo i chatbot tradizionali. Nei chatbot tradizionali ogni chat è un'isola separata,"
+        },
+        {
+          "start": 445.1600036621094,
+          "end": 450.1199951171875,
+          "text": "vero, abbiamo la funzionità memoria in alcuni di questi prodotti che un po' ci fa condividere"
+        },
+        {
+          "start": 450.1199951171875,
+          "end": 455.5199890136719,
+          "text": "delle informazioni, però diciamo, quello che facciamo in una chat, no, rimane dentro quella"
+        },
+        {
+          "start": 455.5199890136719,
+          "end": 461.6000061035156,
+          "text": "chat in linea di massima. Invece Claude Code è un ambiente unico, cioè se io ho mille clienti,"
+        },
+        {
+          "start": 461.6000061035156,
+          "end": 467.3999938964844,
+          "text": "esagero, esagero volutamente, se io ho mille clienti, sto lavorando sul cliente esposito e gli"
+        },
+        {
+          "start": 467.3999938964844,
+          "end": 474.0799865722656,
+          "text": "dico, l'anno scorso ho fatto una proposta a Mario Rossi e gli è piaciuta un sacco, la prendi e la"
+        },
+        {
+          "start": 474.0799865722656,
+          "end": 480.2799987792969,
+          "text": "fai tale quale per esposito ci cambi soli dati aziendali. Lui sa che dentro la cartella dei"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 8,
+        "time": 480.0,
+        "timestamp": "00:08:00",
+        "image": "frame_0008.jpg",
+        "reason": "periodic",
+        "ocr_text": "e eo, 0,0, -, -. 2, 4,8, e, 4 Chat&PT vs Claude Code chat&PT/altri chatbot Claude Code Ognì chat e un'isola separata Un ambiente unico e continuo Riparte sempre da zero Il punto di partenza e sempre uguale Porti ì file tu nella chat Claude legge ì tuoi File da solo Chiudi la chat, sparisce tutto Chiudi la sessione, tutto resta Tu entri nel mondo di Chat&PT Claude entra nel tuo mondo",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 480.2799987792969,
+          "end": 484.20001220703125,
+          "text": "clienti, dove ci sono mille sottocartelle, deve andare a trovare un cliente che si chiama Mario"
+        },
+        {
+          "start": 484.20001220703125,
+          "end": 490.55999755859375,
+          "text": "Rossi, là dentro si cerca un file di preventivo, lo prende, lo copia, toglie i riferimenti a Mario"
+        },
+        {
+          "start": 490.55999755859375,
+          "end": 495.4800109863281,
+          "text": "Rossi, ci mette i riferimenti al cliente esposito. Questo significa avere un ambiente unico e"
+        },
+        {
+          "start": 495.4800109863281,
+          "end": 503.0400085449219,
+          "text": "continuo. Poi lavoriamo con, diciamo, chatbot tradizionale riparte sempre da zero, qua se non"
+        },
+        {
+          "start": 503.0400085449219,
+          "end": 508.239990234375,
+          "text": "vogliamo dire da zero dovremmo dire riparte sempre da uno, che potrebbero essere per esempio le"
+        },
+        {
+          "start": 508.239990234375,
+          "end": 513.52001953125,
+          "text": "istruzioni che avete messo, le custom instruction se le utilizzate, quello è il massimo che potete"
+        },
+        {
+          "start": 513.52001953125,
+          "end": 518.239990234375,
+          "text": "avere come punto di partenza. Invece Claude Code, diciamo, c'è un punto di partenza che è sempre"
+        },
+        {
+          "start": 518.239990234375,
+          "end": 524.3200073242188,
+          "text": "uguale, il workspace, quindi ogni volta quando partite lui ha tutto di voi, il vostro storico,"
+        },
+        {
+          "start": 524.6799926757812,
+          "end": 531.239990234375,
+          "text": "sa che avete 20 anni di carriera alle spalle, sa che nel team siete 15 persone, sa che il team"
+        },
+        {
+          "start": 531.239990234375,
+          "end": 535.9199829101562,
+          "text": "marketing è un'agenzia in outsourcing, mentre il team commerciale è tutto interno, tutto quello"
+        },
+        {
+          "start": 535.9199829101562,
+          "end": 541.239990234375,
+          "text": "che volete voi. Vabbè, qua dovete ovviamente portare voi i file nella chat, l'abbiamo detto,"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 9,
+        "time": 540.0,
+        "timestamp": "00:09:00",
+        "image": "frame_0009.jpg",
+        "reason": "periodic",
+        "ocr_text": "e eo, 0,0. -. 2, 4,6, 0, è Chat&PT vs Claude Code chat&PT/altri chatbot Claude Code Ognì chat e un'isola separata Un ambiente unico e continuo Riparte sempre da zero Il punto di partenza e sempre uguale Portì ì file tu nella ghat Claude legge ì tuoi file da solo Chiudi la chat, sparisce tutto Chiudi la sessione, tutto resta Tu entri nel mondo di Chat@PT Claude entra nel tuo mondo",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 541.239990234375,
+          "end": 546.760009765625,
+          "text": "e quindi là, diciamo, c'è oltre alla scomodità di dover caricare i file, c'è il fatto che i file"
+        },
+        {
+          "start": 546.760009765625,
+          "end": 550.8400268554688,
+          "text": "sono limitati, alcune piattaforme ne fanno caricare 20, qualcuno di più, qualcuno in meno,"
+        },
+        {
+          "start": 550.8400268554688,
+          "end": 556.0800170898438,
+          "text": "c'è un limite anche di spazio, quindi i file non possono essere più grandi di un tot. Claude"
+        },
+        {
+          "start": 556.0800170898438,
+          "end": 562.760009765625,
+          "text": "invece, tutto in automatico, come ho detto prima, se vogli di te prendi tutte le presentazioni del"
+        },
+        {
+          "start": 562.760009765625,
+          "end": 569.6799926757812,
+          "text": "2025, che ne so, e copia me le pari pari nella cartella del 2026 perché devo partire da quelle,"
+        },
+        {
+          "start": 569.6799926757812,
+          "end": 575.6400146484375,
+          "text": "modificarle e riutilizzarle. Claude sa già che cos'è il 2025, che cos'è il 2026, che cosa sono"
+        },
+        {
+          "start": 575.6400146484375,
+          "end": 582.3200073242188,
+          "text": "le presentazioni, lo sa già. Vabbè, poi ovviamente quando chiudiamo la chat sparisce tutto, se una"
+        },
+        {
+          "start": 582.3200073242188,
+          "end": 586.6799926757812,
+          "text": "chat, diciamo, la chiudete, l'unico modo per riprendere quella roba è tornare in quella chat,"
+        },
+        {
+          "start": 586.6799926757812,
+          "end": 593.2000122070312,
+          "text": "se la cancellate quella roba è persa per sempre, con Claude invece tutto è conservato. Cioè Claude"
+        },
+        {
+          "start": 593.2000122070312,
+          "end": 600.760009765625,
+          "text": "è un vostro assistente a tutti gli effetti, è un supporto extra, è una memoria in più, no? Che"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 10,
+        "time": 600.0,
+        "timestamp": "00:10:00",
+        "image": "frame_0010.jpg",
+        "reason": "periodic",
+        "ocr_text": "e eo, 0,0, -, -. 2, 4,8, e, 4 Chat&PT vs Claude Code chat&PT/altri chatbot Claude Code Ogni chat e un'isola separata Un ambiente unico e continuo Riparte sempre da zero Il punto di partenza e sempre uguale Porti ì file tu nella chat Claude legge ì tuoi file da solo Chiudi la chat, sparisce tutto Chiudi la sessione, tutto resta ® Tu entri nel mondo di Chat@PT Claude entra nel tuo mondo",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 600.760009765625,
+          "end": 604.3200073242188,
+          "text": "rimane a fianco a voi, quindi se gli avete spiegato delle cose, gli avete insegnato delle"
+        },
+        {
+          "start": 604.3200073242188,
+          "end": 608.3599853515625,
+          "text": "cose o lui le ha capite perché vedremo che molte le capisce in automatico, quella roba rimane con"
+        },
+        {
+          "start": 608.3599853515625,
+          "end": 613.9199829101562,
+          "text": "voi per sempre. E' uno di quegli strumenti che più lo utilizzate, più diventa utile, più diventa"
+        },
+        {
+          "start": 613.9199829101562,
+          "end": 621.47998046875,
+          "text": "potente, perché ovviamente impara. E ultima cosa, questa diciamo, la uso spesso come frase, sembra"
+        },
+        {
+          "start": 621.47998046875,
+          "end": 627.0800170898438,
+          "text": "un po' una frase così a chiappa click, ma rende bene l'idea, tu entri nel mondo di CGPT, perché"
+        },
+        {
+          "start": 627.0800170898438,
+          "end": 633.760009765625,
+          "text": "abbiamo detto CGPT è uno strumento, ripeto, CGPT, ma vale per Gemini, vale per Grok, vale per Mistral,"
+        },
+        {
+          "start": 633.9199829101562,
+          "end": 639.5599975585938,
+          "text": "vale per qualsiasi cosa utilizzate. Dobbiamo noi entrare là dentro e adattarci, quindi le"
+        },
+        {
+          "start": 639.5599975585938,
+          "end": 646.5999755859375,
+          "text": "limitazioni dello strumento, le, diciamo, le modalità con cui si usa lo strumento e così via."
+        },
+        {
+          "start": 646.5999755859375,
+          "end": 650.8800048828125,
+          "text": "Invece Claude no, è Claude che si adatta a te. Dice, vabbè, ma tu come le vuoi organizzare le"
+        },
+        {
+          "start": 650.8800048828125,
+          "end": 656.1599731445312,
+          "text": "cartelle? Fai tu. Come le vuoi organizzare le workspace? Fai tu. Come le vuoi chiamare queste"
+        },
+        {
+          "start": 656.1599731445312,
+          "end": 660.280029296875,
+          "text": "cose? Fai tu. Non ti preoccupare, poi sono io che capisco dove andarmi a prendere le informazioni."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 11,
+        "time": 660.0,
+        "timestamp": "00:11:00",
+        "image": "frame_0011.jpg",
+        "reason": "periodic",
+        "ocr_text": "dI RSSSSTIAc Chat6PT vs Claude Code chat&PT/altri chatbot Claude Code Ognì chat e un'isola separata Un ambiente unico e continuo Riparte sempre da zero Il punto di partenza e sempre uguale Portì ì file tu nella chat Claude legge ì tuoi file da solo Chiudi la chat, sparisce tutto Chiudi la sessione, tutto resta Tu entri nel mondo di Chat@PT Claude entra nel tuo mondo",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 660.280029296875,
+          "end": 664.9199829101562,
+          "text": "Questa cosa è incredibile perché ci permette di farlo crescere nel tempo, estendere nel tempo,"
+        },
+        {
+          "start": 664.9199829101562,
+          "end": 670.5999755859375,
+          "text": "scalare nel tempo e imparare con noi. Questa cosa non ha valore, secondo me, è incredibile."
+        }
+      ]
+    }
+  ]
+}

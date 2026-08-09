@@ -1,0 +1,374 @@
+{
+  "title": "3. Trasferte: usale per pagare meno tasse",
+  "sections": [
+    {
+      "keyframe": {
+        "index": 0,
+        "time": 0.0,
+        "timestamp": "00:00:00",
+        "image": "frame_0000.jpg",
+        "reason": "start",
+        "ocr_text": "",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 0.0,
+          "end": 6.199999809265137,
+          "text": "Quando invece posso utilizzare il rimborso e l'indenità forfettaria?"
+        },
+        {
+          "start": 6.199999809265137,
+          "end": 10.399999618530273,
+          "text": "Allora, nella precedente lezione abbiamo visto il rimborso chilometrico."
+        },
+        {
+          "start": 10.399999618530273,
+          "end": 14.0,
+          "text": "Quello ce l'abbiamo sempre, se l'auto non è aziendale."
+        },
+        {
+          "start": 14.0,
+          "end": 18.399999618530273,
+          "text": "A questo punto ho anche l'indenità di trasferta."
+        },
+        {
+          "start": 18.399999618530273,
+          "end": 23.600000381469727,
+          "text": "L'indenità di trasferta ce l'ho ogni volta che esco dal comune."
+        },
+        {
+          "start": 23.600000381469727,
+          "end": 28.200000762939453,
+          "text": "Se invece non esco dal comune, uso il rimborso a piedi di lista."
+        },
+        {
+          "start": 29.200000762939453,
+          "end": 36.400001525878906,
+          "text": "Cioè, mi seguite, uso sempre l'indenità chilometrica per ogni spostamento che faccio."
+        },
+        {
+          "start": 36.400001525878906,
+          "end": 42.20000076293945,
+          "text": "Se resto nel comune e sostengo delle spese tra il parcheggio,"
+        },
+        {
+          "start": 42.20000076293945,
+          "end": 46.599998474121094,
+          "text": "piuttosto che sono andato al bar e ho fatto altre situazioni,"
+        },
+        {
+          "start": 46.599998474121094,
+          "end": 53.0,
+          "text": "prendo tutti gli scontrini e me li metto in un diario e mi faccio a piedi lista e me lo rimborso."
+        },
+        {
+          "start": 53.0,
+          "end": 57.20000076293945,
+          "text": "Se invece vado fuori dal comune e non faccio il piedi lista,"
+        },
+        {
+          "start": 57.20000076293945,
+          "end": 64.5999984741211,
+          "text": "ma posso avere un rimborso forfettario di 46,48 euro massimo al giorno."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 1,
+        "time": 60.0,
+        "timestamp": "00:01:00",
+        "image": "frame_0001.jpg",
+        "reason": "periodic",
+        "ocr_text": "",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 64.5999984741211,
+          "end": 68.0,
+          "text": "Anche se esco 10 volte dal comune è 1 al giorno."
+        },
+        {
+          "start": 68.0,
+          "end": 69.80000305175781,
+          "text": "46,48."
+        },
+        {
+          "start": 69.80000305175781,
+          "end": 78.4000015258789,
+          "text": "E qui trovate negli allegati alla lezione 2."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 2,
+        "time": 70.9,
+        "timestamp": "00:01:11",
+        "image": "frame_0002.jpg",
+        "reason": "scene",
+        "ocr_text": "",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 78.4000015258789,
+          "end": 82.4000015258789,
+          "text": "Lo trovate tutti negli allegati alla lezione 2."
+        },
+        {
+          "start": 83.4000015258789,
+          "end": 90.19999694824219,
+          "text": "Quindi, 46,48 ogni volta che io esco dal comune."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 3,
+        "time": 84.37,
+        "timestamp": "00:01:24",
+        "image": "frame_0003.jpg",
+        "reason": "scene",
+        "ocr_text": "",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 90.19999694824219,
+          "end": 96.19999694824219,
+          "text": "Vi ho messo anche un piccolo articolo che spiega il tutto, ve lo faccio vedere che è questo qua."
+        },
+        {
+          "start": 96.19999694824219,
+          "end": 103.0,
+          "text": "C'è scritto la deducibilità, c'è scritto tutto, è un piccolo articolo a mio avviso interessante."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 4,
+        "time": 101.65,
+        "timestamp": "00:01:42",
+        "image": "frame_0004.jpg",
+        "reason": "scene",
+        "ocr_text": "",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 103.0,
+          "end": 106.80000305175781,
+          "text": "Ve lo potete leggere, è fatto bene, l'ho riguardato tutto io."
+        },
+        {
+          "start": 106.80000305175781,
+          "end": 109.5999984741211,
+          "text": "L'ho preso direttamente da Codice Micheli,"
+        },
+        {
+          "start": 109.5999984741211,
+          "end": 116.5999984741211,
+          "text": "che è il corso dove si spiega analiticamente tutto, è molto più grande."
+        },
+        {
+          "start": 116.5999984741211,
+          "end": 120.80000305175781,
+          "text": "Quindi questo ci sono tutti i metodi per calcolare."
+        },
+        {
+          "start": 120.80000305175781,
+          "end": 126.5999984741211,
+          "text": "Quello che noi dobbiamo sapere ai nostri fini oggi è questo."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 5,
+        "time": 124.85,
+        "timestamp": "00:02:05",
+        "image": "frame_0005.jpg",
+        "reason": "scene",
+        "ocr_text": "",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 126.5999984741211,
+          "end": 132.0,
+          "text": "Esco dal comune 46,48 euro al giorno per esigenze di natura aziendale."
+        },
+        {
+          "start": 132.0,
+          "end": 137.39999389648438,
+          "text": "Non rilevo lo spostamento casa nel lavoro."
+        },
+        {
+          "start": 137.39999389648438,
+          "end": 140.39999389648438,
+          "text": "Non esco dal comune, faccio il piedirista."
+        },
+        {
+          "start": 140.39999389648438,
+          "end": 144.0,
+          "text": "Rimborso chilometrico, lo faccio sempre."
+        },
+        {
+          "start": 144.0,
+          "end": 155.60000610351562,
+          "text": "Vado all'estero, se vado all'estero non è più 46,48 ma è 77,76, non mi ricordo, 77 qualcosa."
+        },
+        {
+          "start": 155.60000610351562,
+          "end": 171.60000610351562,
+          "text": "C'è scritto qua, 77,47, eccolo qui."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 6,
+        "time": 169.77,
+        "timestamp": "00:02:50",
+        "image": "frame_0006.jpg",
+        "reason": "scene",
+        "ocr_text": "© NOTA_SPESE.FORFETTARIO copia OO commenti 2 Mosca © AaBbl ) Courier New - 12 ‘ Nota spese di trasferta Sig. <...>, nato a <...>, residente in <.. viali, Dipendente con qualifica di <...>, (OPPURE AMMINISTRATORE) dell'impresa (società) <...>, con sede in <...>, via <...> relativamente al periodo dal <...> al <...> - NUMERO TRASFERTE NAZIONALI X 46,48€ -— NUMERO TRASFERTE ESTERE X 77,47€ TOTALE DOCUMENTO Luogo e data Firma",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 171.60000610351562,
+          "end": 177.39999389648438,
+          "text": "Trasferte nazionali 46,48, trasferte estere 77,47."
+        },
+        {
+          "start": 177.39999389648438,
+          "end": 182.60000610351562,
+          "text": "Allora per le trasferte io vi consiglio di usare questo, questo modulo qui."
+        },
+        {
+          "start": 182.60000610351562,
+          "end": 188.60000610351562,
+          "text": "Spettabile vostra società, io dell'impresa ho fatto dieci trasferte nazionali,"
+        },
+        {
+          "start": 188.60000610351562,
+          "end": 192.60000610351562,
+          "text": "cinque trasferte estere, totale pagare."
+        },
+        {
+          "start": 192.60000610351562,
+          "end": 194.60000610351562,
+          "text": "Ma dove sono scritte?"
+        },
+        {
+          "start": 194.60000610351562,
+          "end": 199.60000610351562,
+          "text": "Vi fate un bel diario, vi fate una bella agendina, una agendina,"
+        },
+        {
+          "start": 199.60000610351562,
+          "end": 205.60000610351562,
+          "text": "digitale o no, separata, che indica solo i trasferti, dove ci mettete dove siete andati"
+        },
+        {
+          "start": 205.60000610351562,
+          "end": 209.60000610351562,
+          "text": "e il motivo per cui ci siete andati."
+        },
+        {
+          "start": 210.60000610351562,
+          "end": 215.60000610351562,
+          "text": "Questa agendina ve la conservate separata dalla vostra agenda,"
+        },
+        {
+          "start": 215.60000610351562,
+          "end": 219.60000610351562,
+          "text": "se viene un controllo voi avete le ricevute regolari,"
+        },
+        {
+          "start": 219.60000610351562,
+          "end": 221.60000610351562,
+          "text": "più avete la vostra agendina la consegnate."
+        },
+        {
+          "start": 221.60000610351562,
+          "end": 227.60000610351562,
+          "text": "Se non volete fare questa e avete il cedolino amministratore da SRL,"
+        },
+        {
+          "start": 227.60000610351562,
+          "end": 233.60000610351562,
+          "text": "così risparmiate la marca da bollo, potete comunicare al consulente del lavoro"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 7,
+        "time": 229.77,
+        "timestamp": "00:03:50",
+        "image": "frame_0007.jpg",
+        "reason": "periodic",
+        "ocr_text": "Cd BE Home inserci | Disegno. Progetta syout- Rierimenti Let cri 7 © commenti 2 Modifica © Cousier New = 12 ‘ 5 AaBbi Spettabile <...> Viatcino in: Città <...® Nota spese di trasferta Sig. <...>, nato a <...>, residente in <...>, via <...>, i o a i Dipendente con qualifica di <...2, (OPPURE AMMINISTRATORE) dell’impresa (società) <...>, con sede in <...>, via <...> relativamente al > al< periodo dal < > - NUMERO TRASFERTE NAZIONALI X 46,48€ - NUMERO TRASFERTE ESTERE X 77,47€",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 233.60000610351562,
+          "end": 237.60000610351562,
+          "text": "le trasferte nazionali ed estere fatte ogni mese."
+        },
+        {
+          "start": 237.60000610351562,
+          "end": 242.60000610351562,
+          "text": "Tenete comunque l'agenda, quindi se non avete il cedolino mensile, ma io ve lo consiglio,"
+        },
+        {
+          "start": 242.60000610351562,
+          "end": 244.60000610351562,
+          "text": "usate questo."
+        },
+        {
+          "start": 244.60000610351562,
+          "end": 249.60000610351562,
+          "text": "Se avete il cedolino potete o usare questo o metterlo all'interno del cedolino."
+        },
+        {
+          "start": 249.60000610351562,
+          "end": 254.60000610351562,
+          "text": "L'importante è che abbiate un'agenda dove ci scrivete dove siete andati."
+        },
+        {
+          "start": 254.60000610351562,
+          "end": 259.6000061035156,
+          "text": "Il rimborso chilometrico si può sommare a questo."
+        },
+        {
+          "start": 259.6000061035156,
+          "end": 264.6000061035156,
+          "text": "Se non uscite dal comune fate rimborso al piedilista."
+        },
+        {
+          "start": 264.6000061035156,
+          "end": 269.6000061035156,
+          "text": "Tutta questa roba è deducibile dalle imposte sul reddito della società"
+        },
+        {
+          "start": 269.6000061035156,
+          "end": 274.6000061035156,
+          "text": "e per voi sono soldi non tassati che aumentano il vostro potere d'acquisto."
+        },
+        {
+          "start": 274.6000061035156,
+          "end": 277.6000061035156,
+          "text": "Ragazzi, se non si fa questa roba qua, si va poco lontano."
+        }
+      ]
+    }
+  ]
+}

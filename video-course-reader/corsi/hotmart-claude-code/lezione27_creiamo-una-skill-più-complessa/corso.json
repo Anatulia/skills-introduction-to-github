@@ -1,0 +1,1902 @@
+{
+  "title": "Creiamo una skill più complessa",
+  "sections": [
+    {
+      "keyframe": {
+        "index": 0,
+        "time": 0.0,
+        "timestamp": "00:00:00",
+        "image": "frame_0000.jpg",
+        "reason": "start",
+        "ocr_text": "EB Encaicia Wttobcrd cuuvoe wossnice | DB fa C “ste > lenti > tamplto * CIALDE md +2 Dcuweni * Claude Code Use Ciaude Code in th termina to configure CP servers. Thyil work or, to! BEST)",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 0.3199999928474426,
+          "end": 5.119999885559082,
+          "text": "Ora vediamo come possiamo creare invece una skill un pochino più avanzata."
+        },
+        {
+          "start": 5.119999885559082,
+          "end": 8.079999923706055,
+          "text": "Quindi cambiamo anche il caso d'uso."
+        },
+        {
+          "start": 8.079999923706055,
+          "end": 14.760000228881836,
+          "text": "Per questo secondo esempio mi sono preparato qua, diciamo, uno script di una riunione."
+        },
+        {
+          "start": 14.760000228881836,
+          "end": 17.399999618530273,
+          "text": "Cioè non uno script, scusatemi, un transcript di una riunione, no?"
+        },
+        {
+          "start": 17.399999618530273,
+          "end": 23.31999969482422,
+          "text": "Quindi ho fatto una videochiamata con una persona del mio team, lì, diciamo, c'è il transcript."
+        },
+        {
+          "start": 23.31999969482422,
+          "end": 27.079999923706055,
+          "text": "Il transcript, diciamo, ci sono mille modi per ottenerlo, ormai lo fanno tutti i tool in automatico."
+        },
+        {
+          "start": 27.079999923706055,
+          "end": 29.079999923706055,
+          "text": "Quindi diciamo che è un semplice file di testo."
+        },
+        {
+          "start": 29.079999923706055,
+          "end": 34.959999084472656,
+          "text": "Situazione molto comune, perché potrebbe essere la riunione con una persona del vostro team,"
+        },
+        {
+          "start": 34.959999084472656,
+          "end": 40.47999954223633,
+          "text": "se magari siete manager, ma potrebbe essere il transcript di una chiamata con un cliente,"
+        },
+        {
+          "start": 40.47999954223633,
+          "end": 46.959999084472656,
+          "text": "magari perché fate assistenza, oppure vi occupate di sales, quindi con un potenziale cliente,"
+        },
+        {
+          "start": 46.959999084472656,
+          "end": 48.720001220703125,
+          "text": "oppure qualsiasi altra cosa, no?"
+        },
+        {
+          "start": 48.720001220703125,
+          "end": 56.63999938964844,
+          "text": "Magari siete consulenti, coach, formatore, quindi sono, diciamo, delle trascrizioni, delle call one-to-one e così via."
+        },
+        {
+          "start": 57.52000045776367,
+          "end": 61.599998474121094,
+          "text": "Allora, facciamo subito, iniziamo subito a scrivere la nostra skill."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 1,
+        "time": 60.0,
+        "timestamp": "00:01:00",
+        "image": "frame_0001.jpg",
+        "reason": "periodic",
+        "ocr_text": "EB ercaiciam iieboord XD Etna Cino miao ©) x 000 cioe omerici | [è fa CD» d Ciaudecode x canoe Untived = x Clan Code valina Ut Cioude Code in th terminato conigure MCP servers. Thy] work or, to! I DSS SS)",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 61.599998474121094,
+          "end": 62.959999084472656,
+          "text": "Vi ricordate come facciamo?"
+        },
+        {
+          "start": 62.959999084472656,
+          "end": 78.72000122070312,
+          "text": "È testo semplice e quindi gli dico, creami, anzi, aiutami a creare una skill che a partire da un file di testo"
+        },
+        {
+          "start": 79.27999877929688,
+          "end": 87.04000091552734,
+          "text": "che contiene la trascrizione di una riunione, mi genera, cosa vogliamo?"
+        },
+        {
+          "start": 87.04000091552734,
+          "end": 88.23999786376953,
+          "text": "Vogliamo una minuta?"
+        },
+        {
+          "start": 88.23999786376953,
+          "end": 92.63999938964844,
+          "text": "Facciamoci una minuta molto semplice, minuta, come lo vogliamo chiamare, riassunto e così via."
+        },
+        {
+          "start": 92.63999938964844,
+          "end": 99.19999694824219,
+          "text": "Mi genere una minuta barra riassunto della riunione."
+        },
+        {
+          "start": 99.19999694824219,
+          "end": 101.27999877929688,
+          "text": "Facciamo così."
+        },
+        {
+          "start": 101.27999877929688,
+          "end": 108.0,
+          "text": "Nella prima versione, così poi, diciamo, la possiamo modificare, ci mettiamo solo questo."
+        },
+        {
+          "start": 108.23999786376953,
+          "end": 112.31999969482422,
+          "text": "E facciamo anche che io adesso il file lo trascino dentro, semplicemente."
+        },
+        {
+          "start": 112.31999969482422,
+          "end": 123.19999694824219,
+          "text": "Poi, il modo migliore per farlo, ovviamente, è che abbiamo una cartellina nella quale noi ci conserviamo tutte le, diciamo, le trascrizioni delle riunioni"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 2,
+        "time": 120.0,
+        "timestamp": "00:02:00",
+        "image": "frame_0002.jpg",
+        "reason": "periodic",
+        "ocr_text": "EB Encalciam Wtebord x ria ie trone seen 3 + D00 cla orge O sovvonee D to canoe Qu > ario fo > con 4 Claude Code > template % CIAVDE A È E°) * Usa Claude Coi i th terminato configure MCP servers. Thyil work her, to! aiutami a erearo una Sil che a pare da un fl di testo cha contiene a rasrizone di un union, mi genera una minutariassunto dela riunione",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 123.19999694824219,
+          "end": 126.4000015258789,
+          "text": "in modo tale che possiamo andarla a prendere direttamente da là dentro."
+        },
+        {
+          "start": 126.4000015258789,
+          "end": 127.83999633789062,
+          "text": "Quindi facciamo così."
+        },
+        {
+          "start": 127.83999633789062,
+          "end": 135.0399932861328,
+          "text": "Il file, anzi no, la skill si chiama, perché ci deve creare la cartella, vi ricordate?"
+        },
+        {
+          "start": 135.1199951171875,
+          "end": 137.0399932861328,
+          "text": "Anzi, questa fatemela aprire qua, così la vediamo."
+        },
+        {
+          "start": 137.0399932861328,
+          "end": 140.16000366210938,
+          "text": "Cloud, skills, per adesso abbiamo solo news e AI."
+        },
+        {
+          "start": 140.16000366210938,
+          "end": 144.47999572753906,
+          "text": "Si chiama riassunto, riunione."
+        },
+        {
+          "start": 144.47999572753906,
+          "end": 153.75999450683594,
+          "text": "I nomi delle skill, me le sto inventando, ognuno ha, diciamo, la sua tecnica, le sue modalità di nomenclatura."
+        },
+        {
+          "start": 153.75999450683594,
+          "end": 162.0800018310547,
+          "text": "Io tendo a usare sempre nomi in inglese, diciamo, mi approccio in generale alle cose, voi chiamatele come volete voi."
+        },
+        {
+          "start": 162.39999389648438,
+          "end": 167.52000427246094,
+          "text": "E io tendo anche a usare dei nomi, diciamo, ribaltati al contrario."
+        },
+        {
+          "start": 167.52000427246094,
+          "end": 179.36000061035156,
+          "text": "Per esempio, invece di riassunto, riunione, io farei tipo riunione, trattino, riassunto, perché dopo mi posso fare pure riunione, trattino, che ne so, presentazione."
+        },
+        {
+          "start": 179.36000061035156,
+          "end": 182.8800048828125,
+          "text": "Riunione, trattino, e quindi so che quelle sono tutte le skill relative alle riunioni."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 3,
+        "time": 180.0,
+        "timestamp": "00:03:00",
+        "image": "frame_0003.jpg",
+        "reason": "periodic",
+        "ocr_text": "[I x CB Tola ibeationesemen X+ cioe womsence | (Ea > laude © glo) stimo (0 settings scatjson 4 Claude Code > enti template # CAVE md Ue Cine Coi i th terminato configure MCP servers. Thy] work her, to! aiutami rear una sli che a pare da un fl di testo che contee a rasrzone di un unione, mi Genera una minutariassunto dela riunione 1a sl sl ciama “riassunto runiond",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 182.8800048828125,
+          "end": 190.8000030517578,
+          "text": "Però è un approccio mio, diciamo, io che ho un po' la testa così da malata da informatico, quindi mi piace organizzare le cose in questo modo."
+        },
+        {
+          "start": 190.8000030517578,
+          "end": 195.9199981689453,
+          "text": "Però la chiamo riassunto-riunione perché mi rendo conto che magari è molto più facile per molti di voi."
+        },
+        {
+          "start": 195.9199981689453,
+          "end": 206.32000732421875,
+          "text": "La skill si chiama riassunto-riunione, facciamo... Deve fare questa singola cosa e nient'altro."
+        },
+        {
+          "start": 207.0399932861328,
+          "end": 218.63999938964844,
+          "text": "Nient'altro, mettila nella cartella skills già presente nel workspace."
+        },
+        {
+          "start": 218.63999938964844,
+          "end": 220.63999938964844,
+          "text": "Cosa altro gli possiamo dire?"
+        },
+        {
+          "start": 220.63999938964844,
+          "end": 228.9600067138672,
+          "text": "Non creare file di test o di verifica, ma solo la skill semplice."
+        },
+        {
+          "start": 228.9600067138672,
+          "end": 235.27999877929688,
+          "text": "Avete visto, questo ce l'ho messo prima, perché su queste skill molto semplice non ho bisogno di fare verifiche particolari."
+        },
+        {
+          "start": 235.27999877929688,
+          "end": 240.8800048828125,
+          "text": "La lancio io a mano, controllo, no? E una verifica la facciamo molto velocemente ad occhio."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 4,
+        "time": 240.0,
+        "timestamp": "00:04:00",
+        "image": "frame_0004.jpg",
+        "reason": "periodic",
+        "ocr_text": "EB encalcram Wteboni 000 > claude © ole) i + xttme (0 settings .ocatjson > elnti template # CALDE md E rela ibeaitinone screen (x + % Claude Code Uta Cisude Code i th terminal to coigure MCP servers. Thi] work or, to! aiutami a rear una Gil che a pare da un fl di testo che contee a trascrizione di un unione, mì Genera una miutariassunto del riunione la sil sichama “iassunto-unione” & deve fare questa singola cos e nient'altro mettia nella catalla ski già presente ne workspece non creare fl i test i verifica ma slo la sli semplice + Deuwen",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 240.8800048828125,
+          "end": 244.63999938964844,
+          "text": "Ah! Cosa importante, gli dobbiamo dire che il file lo passiamo in chat."
+        },
+        {
+          "start": 244.63999938964844,
+          "end": 252.0,
+          "text": "Il file viene passato nella chat come contesto."
+        },
+        {
+          "start": 252.55999755859375,
+          "end": 260.55999755859375,
+          "text": "Vediamo se Claude ha tutto quello che gli serve per creare una skill oppure se ci farà qualche domanda."
+        },
+        {
+          "start": 260.55999755859375,
+          "end": 266.9599914550781,
+          "text": "Alcune volte quando le skill sono un po' complicate, o meglio complicate, quando ha qualche dubbio, quando qualcosa può essere interpretato in vari modi,"
+        },
+        {
+          "start": 266.9599914550781,
+          "end": 270.7200012207031,
+          "text": "ci dice questa cosa la preferisci così o la preferisci colì."
+        },
+        {
+          "start": 270.7200012207031,
+          "end": 278.239990234375,
+          "text": "Tanto però vi ricordate, le skill sono dei file di test, quindi adesso appena lui ce la crea noi la apriamo e andiamo subito a vedere cosa c'ha scritto,"
+        },
+        {
+          "start": 278.239990234375,
+          "end": 281.0400085449219,
+          "text": "perché se qualcosa non ci convince lo modifichiamo un pochino."
+        },
+        {
+          "start": 281.1199951171875,
+          "end": 287.3599853515625,
+          "text": "Autorizziamolo ovviamente a scrivere, diciamo perché deve creare fisicamente una nuova cartella."
+        },
+        {
+          "start": 287.3599853515625,
+          "end": 293.5199890136719,
+          "text": "Quindi sotto skills adesso si creerà una cartella, come l'abbiamo chiamata, riassunto-riunione,"
+        },
+        {
+          "start": 293.5199890136719,
+          "end": 300.0799865722656,
+          "text": "quindi qua si creerà una nuova cartella riassunto-riunione con dentro un nuovo file skill.Md,"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 5,
+        "time": 300.0,
+        "timestamp": "00:05:00",
+        "image": "frame_0005.jpg",
+        "reason": "periodic",
+        "ocr_text": "EB Ecate > claude © glo) 1 sKiLima (0 setta ocatison > elnti template ® CIAUDE md Etna Cine ws - 0) x ala ineaitinono screen x + 6 Create meeting summary s.. x Create meeting summary ll rom trans aiutami a eroare una sil che a arte da un fl di testo che contiene la rascizone di una riunione, mi genera una minutafiassunto dela riunione la sli chama “assunto. unone* a ve fare queta singola cosa e nient'altro metta nea cata sill iù presente ne workspece non rea file di test o di verifica ma soo la sil semplice Ml viene passato nel chat come contesto ct 04 cause) plugins /1nstat es plugins sen = Bash List lf plupine cache 19 24 au) plugins /caebe/claude-plugins-ofticla/ 2>/eev/nall | bess 20 Gant Check ia lado si-eestor 15 2/5 laud)plogtns/eoe/c lande plopins-oftLela/ SI crestor/ onu / # Scheming.",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 300.0799865722656,
+          "end": 303.8399963378906,
+          "text": "che è il file dove c'è il funzionamento della skill vera e propria."
+        },
+        {
+          "start": 304.0,
+          "end": 311.0400085449219,
+          "text": "Sta controllando ovviamente se c'era installato skill creator, l'ha trovato e quindi adesso lo va a realizzare."
+        },
+        {
+          "start": 311.0400085449219,
+          "end": 316.4800109863281,
+          "text": "Cosa importante, come vi dicevo, adesso facciamo che il file glielo passiamo dentro la chat,"
+        },
+        {
+          "start": 316.4800109863281,
+          "end": 319.2799987792969,
+          "text": "quindi proprio io dopo piglio e lo trascino dentro."
+        },
+        {
+          "start": 319.2799987792969,
+          "end": 328.4800109863281,
+          "text": "Ovviamente secondo me per lavorare bene con le skill dobbiamo sempre pensare coerenti con il resto del contesto che abbiamo fatto."
+        },
+        {
+          "start": 328.55999755859375,
+          "end": 336.9599914550781,
+          "text": "Quindi se questa cosa noi la facciamo frequentemente e abbiamo sempre le trascrizioni delle riunioni,"
+        },
+        {
+          "start": 336.9599914550781,
+          "end": 344.1600036621094,
+          "text": "facciamo che finiscano sempre dentro certe cartelle e dentro queste cartelle ci mettiamo le nostre riunioni."
+        },
+        {
+          "start": 346.6400146484375,
+          "end": 355.20001220703125,
+          "text": "Ha creato la cartella skills qua sotto, vabbè errore mio, probabilmente se non glielo dicevo era meglio."
+        },
+        {
+          "start": 355.20001220703125,
+          "end": 356.8800048828125,
+          "text": "Vabbè non fa niente, adesso la spostiamo a mano."
+        },
+        {
+          "start": 356.9599914550781,
+          "end": 364.3999938964844,
+          "text": "Questa cosa io le lascio, cioè volutamente non le tolgo perché non vorrei che questa cosa, se vi capita a voi e non sapete come gestirla,"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 6,
+        "time": 360.0,
+        "timestamp": "00:06:00",
+        "image": "frame_0006.jpg",
+        "reason": "periodic",
+        "ocr_text": "BB Foca Witabeard x Ertnd Cine mtb sile x (Sala ibeniinone sen x -+ D00 O cuioenonence X Create meeting summary. x V claude # SKLLma (0 settigaocaljson cento. > archivio > centi Create meeting summary kl rom tran autami a creare una sil che a paro da un ile di testo che contiene la rascizone di una riunione; mi genera una minutafiassunto dela riunione cd Dati morire e tr qu pi nr - tte i rst noe non ereae fl i test o i verifica ma solo la si sempice uf viene passato nel chat come contesto La carta sK41s/ non esist ancora nol workspace — la reo insieme al ki. Bandi Croato sis and rissuntortunine irctris Wi Sito description: Genere uns ninta/risssunto stretturato & partie dalla trascrizione di una riunione. Uts questa SKI quiado Utente vole creere una mint; un rinssnto 0 un ve Sl creata in sli fissunto.sunone/SKILL.md. Per usarla: condi flo di trascrizione net chat e digita /riassunti Nota: a carte KI) non esisteva — l'ho creata insieme",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 364.3999938964844,
+          "end": 369.9200134277344,
+          "text": "semplicemente diciamo il comando l'ho scritto male, io quello che adesso mi faccio, anzi ve lo faccio vedere qua a livello proprio cartella,"
+        },
+        {
+          "start": 369.9200134277344,
+          "end": 375.67999267578125,
+          "text": "cloud workspace, vedete quindi ha creato questa cartellina skills qua che in realtà non è quello che volevamo noi,"
+        },
+        {
+          "start": 375.67999267578125,
+          "end": 379.67999267578125,
+          "text": "noi la volevamo sotto diciamo la cartella skill di sistema."
+        },
+        {
+          "start": 379.67999267578125,
+          "end": 386.7200012207031,
+          "text": "Quindi io prendo questa roba qua, adesso le riunioni, me la sposto qua dentro, aspettate, eccola qua, me la metto dentro skill."
+        },
+        {
+          "start": 387.8399963378906,
+          "end": 393.8399963378906,
+          "text": "Skills, vedete adesso ci abbiamo news AI e riassunto riunione, eccola qua, questa qui invece me la cancello."
+        },
+        {
+          "start": 393.8399963378906,
+          "end": 401.760009765625,
+          "text": "Per farvi vedere che tutte le cose che faccio le faccio da qua o le faccio da qua è la stessa identica cosa,"
+        },
+        {
+          "start": 401.760009765625,
+          "end": 407.760009765625,
+          "text": "avendole qua è molto più facile diciamo lavorarci dentro, ok?"
+        },
+        {
+          "start": 407.760009765625,
+          "end": 412.239990234375,
+          "text": "Perché abbiamo questa visione ad albero che possiamo aprire, chiudere, aprire più cartelle,"
+        },
+        {
+          "start": 412.4800109863281,
+          "end": 417.5199890136719,
+          "text": "fare la stessa cosa qua dentro è un pochino più complicato diciamo, è meno intuitivo, ecco tutto qua."
+        },
+        {
+          "start": 417.5199890136719,
+          "end": 421.5199890136719,
+          "text": "È uno dei grandi vantaggi di usare VS Code che vi dicevo proprio all'inizio di questo corso."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 7,
+        "time": 420.0,
+        "timestamp": "00:07:00",
+        "image": "frame_0007.jpg",
+        "reason": "periodic",
+        "ocr_text": "ge masi > riassuntounione 1) settings ocatjson archivio > lenti > template * CIAUDE MI 6 creste meeting summary. x Create meeting summary kl from ran. aiutami a eroare una sil che a parto da un fl di testo che contee la trascrizione di un riunione, mi genera una minutafiassuto del riunione a still chiama “assunto. runona* a eve fare queta singola cosa e nient'altro meta nel artallasll già presente ne workspoce non ereare file i test o di verifica ma solo la sh semplice fe viene passato nel cht come contesto La carta ski{1s/ non esisto ancora nel workspace — la creo insieme al kl. Wi Sito ‘ll creata ln sidi/issuniorunine/SKILLImÀ. Per usar: condividi le di trascrizione na chat e cita /riassunto-riunione . laude genererà la minuta stutuata con punt discussi decisioni Nota: cart ski15/ non esisteva — l'ho cresta inse al i. ® +0 Own DES",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 421.5199890136719,
+          "end": 426.1600036621094,
+          "text": "Ok, adesso ci abbiamo questa prima skill, quello che facciamo è ci apriamo una sessione nuova,"
+        },
+        {
+          "start": 426.1600036621094,
+          "end": 430.1600036621094,
+          "text": "no? Perché cloud così può caricare le skill che c'è all'interno,"
+        },
+        {
+          "start": 430.1600036621094,
+          "end": 435.8399963378906,
+          "text": "e adesso se facciamo riassunto riunione vedete che abbiamo il comando,"
+        },
+        {
+          "start": 435.8399963378906,
+          "end": 442.32000732421875,
+          "text": "quindi faccio comando riassunto riunione e poi prendo il file riunione e lo trascino qua dentro."
+        },
+        {
+          "start": 442.32000732421875,
+          "end": 446.9599914550781,
+          "text": "Aspettate fatemi togliere questo qua, ecco qua, prendo il file riunione e lo butto qua."
+        },
+        {
+          "start": 446.9599914550781,
+          "end": 451.67999267578125,
+          "text": "Quindi adesso la skill, aspettate apriamocele perché non l'abbiamo aperta ancora."
+        },
+        {
+          "start": 451.67999267578125,
+          "end": 457.0400085449219,
+          "text": "La skill cosa fa? Genera una minuta barra riassunto strutturata a partire dalla trascrizione di una riunione."
+        },
+        {
+          "start": 457.0400085449219,
+          "end": 461.2799987792969,
+          "text": "Usa questa skill quando l'utente vuole creare una minuta, un riassunto o un verbal di una riunione."
+        },
+        {
+          "start": 461.2799987792969,
+          "end": 467.3599853515625,
+          "text": "Vedete ha usato dei sinonimi, così se io scrivo fammi un verbale, lui comunque capisce e lancia la stessa skill."
+        },
+        {
+          "start": 467.3599853515625,
+          "end": 470.55999755859375,
+          "text": "Oppure quando fornisce una trascrizione di meeting e chiede di organizzarla."
+        },
+        {
+          "start": 470.55999755859375,
+          "end": 475.3599853515625,
+          "text": "Attivela anche se l'utente dice riassunto riunione, crea minuta, verbale, cosa è emersa dalla conle e così via."
+        },
+        {
+          "start": 475.3599853515625,
+          "end": 480.55999755859375,
+          "text": "Riassunto riunione, l'utente ha condiviso in chat una trascrizione, il tuo compito è generare una minuta, perfetto."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 8,
+        "time": 480.0,
+        "timestamp": "00:08:00",
+        "image": "frame_0008.jpg",
+        "reason": "periodic",
+        "ocr_text": "RD eacaiciomWtaboond (XV Exte Cine what - x (8 Tla— ibeaitinone soon x + D00 i rive e © sosevonee Da CO - de ciusecose + SlLmd x sole Untited SRO IINLITIA E RIINA PLTUONO pirate erre pine QU vr dice \"riassoni o rianone, “crea lo nio”, \"versste gel meeting; > nemesi Sesta È enerso delta cati 0 varianti sint. fe emenoiione - è Stima (0 settings socaijson è Riaasonto Rinione D canto L'utente ha consiiso in chat uno traserizione di riunione. TU to A ospito è generare une Rinuta chiare © Stijrturto {n italiano. > none 29 come procedere > tenvie 12. Leggi attentanente la trascrizione presente nel contesto della chat e + CIALDE md produci un ocunento Gi minuta con questa struttura: 00 Struttura detta ninota me0ATÀ E Lu0coe mm Estrat dato e luogo se presenti nella trascrizione. Se non sono esplicitati, csetti la rig Ready to code? sePaRTECIPATIOe Co Elenca i noni Gel partecipanti identificabili dalla trascrizione. Se non A RASOIO: sono chiari, ometti msp ptscussI Elenca principali argosenti trattati durante la riunione, in ordine cronologico. Per ogni punto, uns o due righe sintetiche che cotturano l'essenza della discussione = non parafrasare tutto, na trassetti il senso di cosa è stato detto e perché. medeCISIONI PRESESÌ Elenca le decisioni concrete prese durante la riunione. Se non c'è stata nessuno decisione formale, scrivi \"Vessuna decisione formate presa. Per ogni azione identificata: — Descrizione dell'azione — Responsabile (se menzionato) scadenza (se menzionata) TESS) Se non ci sono azioni esplicite, scrivi “Nessina azione assegnati",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 480.55999755859375,
+          "end": 483.9200134277344,
+          "text": "Leggi attentamente la trascrizione, produci un documento con questa struttura."
+        },
+        {
+          "start": 483.9200134277344,
+          "end": 489.9200134277344,
+          "text": "Struttura della minuta, date luogo, se sono presenti nella trascrizione, se non sono esplicitati o aumenti la riga,"
+        },
+        {
+          "start": 490.1600036621094,
+          "end": 495.3599853515625,
+          "text": "nomi dei partecipanti, noi gli avevamo chiesto questa cosa, però diciamo la ce l'accettiamo."
+        },
+        {
+          "start": 495.3599853515625,
+          "end": 500.55999755859375,
+          "text": "Ecco questa roba qua no, questa roba qua la voglio togliere perché voglio modificarla dopo la skill,"
+        },
+        {
+          "start": 500.55999755859375,
+          "end": 502.32000732421875,
+          "text": "cioè voglio far vedere come la evolviamo."
+        },
+        {
+          "start": 502.32000732421875,
+          "end": 509.8399963378906,
+          "text": "Facciamo così, questo togliamolo, così la lasciamo molto semplice, la sto semplificando volutamente per far vedere sempre come le modifichiamo."
+        },
+        {
+          "start": 509.8399963378906,
+          "end": 515.4400024414062,
+          "text": "Quindi le principali argomenti trattate in ordine cronologico, per ogni punto uno o due richiede che catturino l'essenza della discussione,"
+        },
+        {
+          "start": 515.4400024414062,
+          "end": 518.0800170898438,
+          "text": "non parafrasare tutto se trasmette il senso di cosa è stato detto."
+        },
+        {
+          "start": 518.1599731445312,
+          "end": 525.0399780273438,
+          "text": "Scrivi in italiano, tollo professionale ma diretto, sì sintetico, se qualcosa non è chiaro interpreta ragionevolmente piuttosto che chiedevi chiaramente,"
+        },
+        {
+          "start": 525.0399780273438,
+          "end": 527.2000122070312,
+          "text": "non aggiungere informazioni che non sono nella trascrizione."
+        },
+        {
+          "start": 527.2000122070312,
+          "end": 535.0399780273438,
+          "text": "Perfetto, ci teniamo questa versione qui molto semplificata, abbiamo caricato il file, gli diamo invio e la vediamo subito all'opera."
+        },
+        {
+          "start": 535.0399780273438,
+          "end": 545.1199951171875,
+          "text": "Come vi dicevo, adesso siccome la skill non prende una cartella, che adesso però tra un attimo faremo,"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 9,
+        "time": 540.0,
+        "timestamp": "00:09:00",
+        "image": "frame_0009.jpg",
+        "reason": "periodic",
+        "ocr_text": "BB rca intona Estnd Cino mt sila C)_x BJ ala ibenitinone somen X + cioe womsnice | [è fa C © > 6 Meeting summary document. x > laude > risi © tiassuno-inione è Si (0 settings scatjson Fim < archivio Meeting summary documentation cent 7 nome * Flbbentigibeting.. tompite + CLAUDEMI",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 545.1199951171875,
+          "end": 551.2000122070312,
+          "text": "e non scrive in una cartella, cosa che invece dobbiamo sempre fare, quello che fa ce lo mostra in chat."
+        },
+        {
+          "start": 551.2000122070312,
+          "end": 556.1599731445312,
+          "text": "Quindi ci dice dobbiamo fare i clip per interviste, se devono fare i caroselli, se devono fare la landing page nuova."
+        },
+        {
+          "start": 556.1599731445312,
+          "end": 563.0399780273438,
+          "text": "Qua sono tutte cose inventate, quindi diciamo tutte le persone citate, i clienti citati, è tutto inventato, non vi preoccupate, non sono cose private."
+        },
+        {
+          "start": 563.0399780273438,
+          "end": 568.7999877929688,
+          "text": "Abbiamo adesso questa skill che io scrivo semplicemente riassunto riunione, ci butto il file dentro e mi fa il riassunto della riunione."
+        },
+        {
+          "start": 568.8800048828125,
+          "end": 580.1599731445312,
+          "text": "Come dicevo però, facciamola coerente col contesto, perciò l'ho fatta diciamo, la prima versione l'ho fatta male, non male, ma l'ho fatta come la farebbe una persona con poca esperienza, in modo molto semplice."
+        },
+        {
+          "start": 580.1599731445312,
+          "end": 593.4400024414062,
+          "text": "Adesso invece noi vogliamo che le riunioni vengano gestite, e quindi facciamo così, diciamogli aggiornami il file system, anzi no, non il file system, aggiornami il workspace,"
+        },
+        {
+          "start": 593.760009765625,
+          "end": 605.5999755859375,
+          "text": "aggiornami il workspace e anche i file di contesto, perché ogni volta che facciamo una modifica al workspace dobbiamo dire a cloud di aggiornarsi tutti i file."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 10,
+        "time": 600.0,
+        "timestamp": "00:10:00",
+        "image": "frame_0010.jpg",
+        "reason": "periodic",
+        "ocr_text": "BB ercacram renna Etna Cino ws C x (BJ ala ibeaitinone seme (x + D00 claude vorigare O sosvone DC Mosting summary document. x + clnude Qu vate si fo 1) resmmoriione (0 setinsocatjson Meeting summary documentation Ursassunto=riuntone archivio Fin È > centi rc > manto Ye + ciwvEne Cri PUNTI DIscUSSI 1. lip interviste cente Glaniuca Clell si occupa dll produzione: core le sorgonto ca Mart, inserisce sottotitoli scrive e capo e sehedula su Publ. Escono 2 lp l giorno (martedi-veneri) per 3 mes 2. Caroseli Un caroslt a sttimana, l mercoledì. Vrranno pubblicati anche su Linka i formato POF: 3. Landing page nuovo corso “Test completati. Marco gestisco la raia. Lancio previsto antro venerdì prossimo. Atomazion gi i arco 3 Mar. ‘ACTION ITEMS chi cosa Mandare reminder va mala Ciel cn e istruzioni Marco Grafica landing page Marti Automazini landing page Clella Sotottl, captin e scheduling lp su Publr SRI +0 TEST)",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 605.5999755859375,
+          "end": 624.6400146484375,
+          "text": "Aggiornami il workspace creando una cartella riunioni, con dentro due sottocartelle trascrizioni e riassunti."
+        },
+        {
+          "start": 625.2000122070312,
+          "end": 638.719970703125,
+          "text": "Nella cartella trascrizioni ci metterò dei file di testo con le trascrizioni complete delle riunioni."
+        },
+        {
+          "start": 639.5999755859375,
+          "end": 656.5599975585938,
+          "text": "E nella cartella riassunti ci andranno i riassunti in markdown generati dall'apposita skill."
+        },
+        {
+          "start": 657.52001953125,
+          "end": 668.4000244140625,
+          "text": "Quindi adesso cosa facciamo? Diciamo che stiamo per fare la seconda versione della skill, e faccio queste cose passo passo per farvi capire come ragiono, come potete ragionare pure voi."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 11,
+        "time": 660.0,
+        "timestamp": "00:11:00",
+        "image": "frame_0011.jpg",
+        "reason": "periodic",
+        "ocr_text": "[I I D00 cla orge © cuoeronsnce Db î9 CO - Meet summary document. x > claude i > tiassuno-rinione () setingscalison x archivio (Fin > cllenti Meeting summary documentation Lrsassunto=riunsone > template PARTECIPANTI + CUAWDE MA Rat rt PunTIDiscuSSI 1. lip interviste — lente Glaniuca Clella si occupa dla produzione: ricove file sorgente da Mart, inserisce sottotitoli serv e capo e sehedula su Publ. Escono 2 lp l giorno (martedi-venerd) er 3 mes 2. Caroseli ‘Un caroslto a settimana, l mercoledì. Verranno pubblicati anche su Linka i formato PDF: 3. Landing page nuovo corso Test completati. Marco gestisco la grafica. Lanci previsto entro venerdì prossimo. Automazioni gin carico a Mar. ‘ACTION ITEMS chi cosa Mandare reminder via mala Cla cn e istruzioni Marco Grafica landing pege Marti Automazini landing page Ciel Sotto, captin e schedung tp su Pubier oienami i werkopace 0 anche odi contesto) creando una carte “unioni con dentro due sottoartte “tasrizini © (o)",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 668.4000244140625,
+          "end": 680.4000244140625,
+          "text": "Per dire ok allora ho fatto questa prova, mi rendo conto che non l'ho ottimizzata bene, ho questa esigenza, lavoro sempre in ottica di evolvere il workspace, me lo miglioro in base alle mie esigenze."
+        },
+        {
+          "start": 680.719970703125,
+          "end": 694.1599731445312,
+          "text": "Ho modificato il file cloud.Md che ci andiamo ad aprire, e infatti adesso ci spiega anche che c'è la cartella riunioni, in riunioni c'è la trascrizione e poi ci sono i riassunti."
+        },
+        {
+          "start": 694.1599731445312,
+          "end": 700.719970703125,
+          "text": "I riassunti sono generati da riassunto riunioni, questo non glielo ho detto io, l'ha capito automaticamente."
+        },
+        {
+          "start": 700.8800048828125,
+          "end": 711.4400024414062,
+          "text": "Mi dice guarda che c'è già una trascrizione, cioè tu hai fatto riunione.Txt e ti ho anche generato un riassunto poco fa, ma per caso vuoi che te lo metto già nelle cartelle?"
+        },
+        {
+          "start": 711.4400024414062,
+          "end": 717.5999755859375,
+          "text": "Queste sono quelle cose che vi fanno adorare cloud, che vi fa capire che sta iniziando a capire come lavorate."
+        },
+        {
+          "start": 717.6799926757812,
+          "end": 733.0399780273438,
+          "text": "Certo, qua diamogli anche delle regole, cioè diciamogli che i file si devono chiamare con la data, così io velocemente posso andare a trovare per esempio una trascrizione che mi serve o un riassunto che mi serve."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 12,
+        "time": 720.0,
+        "timestamp": "00:12:00",
+        "image": "frame_0012.jpg",
+        "reason": "periodic",
+        "ocr_text": "© © © EB Ercaldram Witobonri (x Fatnd Cino mita x (SE Tala the atione ere x -+ cusoe womsnice | [è fa CD € Meeting summary document. x + cAvDE md V iaudo 9 %. CLAUDE ma? n 8 Contesto i levoro — Giggino Gigpetto Sale it i © 1 # contesto di lavoro — Giggino Giggetto > nemesi n ate sagiomami I workspace (e anch ile di contesto) creando un carte uno” con dentro due 32 sa Clienti REL sottocatla\"racrizion “assumi 13. Ogni cliente ha una cartella in “elienti/[none-elientel/* con un file “eontext.nd contenente le informazioni specifiche su quell'azienda e sul de sn i spe quett'azienda percorso in corso. > lenti ® Creole cartelle o aggio le. > contest 00 Rionioni > im = Bash Create riunioni for structure Le riunioni sono archiviate in ‘riunioni’: > riunioni > tempiate * ciAUDEmd (tas complete with no output) mite cp VUsars/rafaele/Desntop/classe vorkspac/riunioni/erasrizioni =Nusers/rata — ‘rduntoni/traserizioni/* — file di testo con le trascrizioni complete — *iluntoni/riassunti/* — file mrksom con i riassunti generati dalla FALLI */rtassunto-riunsone ©. Bash Kocp empty folders visible nou \"/Users/atTante/Dsktop/ claude vorkspae/riuioni/trascrizion/.gitkep” \"Jusers (tas completed with no tnt) es cene Ogni cliente ha una cartella in “elienti/nose-Clientel/Y con un file ‘context. contenente le informazioni specifiche su quell'azienda e sul percorso in corso. Fatto Struttura cresta e CLAUDE md sgiomato. Vuol che sposti anche la trascrizione di ogg riuniane.trt) nell rtl gusta e sab iassunto ch ho generato in riunioni/risssinti/? o ce",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 733.0399780273438,
+          "end": 742.8800048828125,
+          "text": "Anche se ovviamente sulle trascrizioni uno non ci lavorerà più, guarderà sempre i riassunti perché sono più facili, ma non le buttiamo perché se trovo un'informazione che sfuggirà dal riassunto, c'ho sempre la fonte."
+        },
+        {
+          "start": 743.2000122070312,
+          "end": 761.4400024414062,
+          "text": "I file devono avere come nome la data del giorno in formato, facciamo così, anno a quattro cifre, mese e giorno."
+        },
+        {
+          "start": 762.0,
+          "end": 767.2000122070312,
+          "text": "Per il file di oggi usa la data di oggi."
+        },
+        {
+          "start": 767.2000122070312,
+          "end": 781.4400024414062,
+          "text": "Ah, e poi facciamo e, metti questa informazione anche nel contesto, così cloud sa, adesso probabilmente lo scriverà qua dentro, oppure non lo so, si farà un altro file di contesto qua."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 13,
+        "time": 780.0,
+        "timestamp": "00:13:00",
+        "image": "frame_0013.jpg",
+        "reason": "periodic",
+        "ocr_text": "® Etna Cino whit - 1 x | ala ibaaitinone seen (x + X Mosting summary document. x Meeting summary documentation ragiomami workspace (e anche ile di contesto) creando un cartella run” con dentro due lie ottocrtel trmsrizini a “riassunti” Serchio > tnt Bash Koep empty folders valle rouen \"ZUbers/reftante/Desktop/claude vorkapace/riumioni/trascrizion/.gitkep* \"Jusers e e clupe.ns Ogni cLiente ho una cartella in “elienti/Inose-elientel/' con un file ‘context.nd contenente le informazioni specifiche su quel'azienda e sul percorso in corso. ‘Fatto Struttura creata e CLAUDE md sggiomato. Vuoi che sposti anche la trascrizione di ogg ( riuniane.t:t) nella cartella gusta e salvi rissunto che ho generato In riunioni /riassints/ cero © (o) x odo * cavDE md . CLAUDE ma > 8 Contesto di lavoro — Giggino Giggetto 1 # contesto di lavoro - Giggino Giggetto 12 s0 Centi 13 Ogni cliente ha una cartella in “elienti/[none-elientel/* con un file Seontext.nd contenente le informazioni specifiche su quell'azienda e sul percorso in corso. 00 Rionioni Le riunioni sono archiviate dn ‘riunioni’: — ‘rtuntoni/traserizioni/* — file di testo con le trascrizioni complete — ‘iduntont/ riassunti”? — file marksom con i rinssunti generati dalla FALL */rtassunto-riunsone",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 781.4400024414062,
+          "end": 790.5599975585938,
+          "text": "Ah no, ecco, adesso gli diciamo di metterlo nel file di contesto per le riunioni, così non allunghiamo troppo cloud md."
+        },
+        {
+          "start": 790.6400146484375,
+          "end": 803.1199951171875,
+          "text": "Cioè è giusto che ci sia questo in cloud md, ma magari questa parte qua che è un po' dettagliata, diciamo, la facciamo mettere in un file a parte, ragionando sempre in quest'ottica."
+        },
+        {
+          "start": 803.1199951171875,
+          "end": 812.8800048828125,
+          "text": "Ricordatevi, cloud md è una sorta di indice, anzi guardiamolo così in anteprima così si capisce meglio, una sorta di indice e poi ci sono i link alle cose dettagliate."
+        },
+        {
+          "start": 812.8800048828125,
+          "end": 823.280029296875,
+          "text": "Quindi in questo caso, siccome stiamo spiegando delle regole che vogliamo che vengano gestite solo per le riunioni, ce lo mettiamo dentro riunioni."
+        },
+        {
+          "start": 823.280029296875,
+          "end": 829.0399780273438,
+          "text": "Quindi vedete qua stiamo evolvendo la skill che evolve con il workspace, che evolve con il contesto."
+        },
+        {
+          "start": 829.0399780273438,
+          "end": 839.6799926757812,
+          "text": "Lavorerete sempre così in cloud, ogni volta che c'è una novità, ogni volta che cambia qualcosa nel vostro metodo, nel vostro processo o che vi accorgete che c'è una nuova esigenza, si evolve tutto insieme."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 14,
+        "time": 840.0,
+        "timestamp": "00:14:00",
+        "image": "frame_0014.jpg",
+        "reason": "periodic",
+        "ocr_text": "EB Poca Wniebonrd x 3 Ertnd Cine with sila 1 x (8 Tala ineaitinono screen x + DO © > | lu worimoze cune womsnice | (€ C © + 6 Morti summary document Vle + ai > ri > riassunto unione 1) sets ocaljson 3 archivio > clienti tf era allegato in chat, non si dico Lo scrivo direttamente con i contenuto originale. VaZir. Wii 2o2enso. tit Meeting summary documentation cero! 8 istruzioni + processo.mi Ciao orti, cone sta? 4 protiome $ servzine $ stilemi Ciao at, bere. rito aszenaz. ni ‘ra aggiorno il CLAUDE md con la convenzione del nomi ri riunions/traserizioni/* — file di testo con le trascrizioni complete riunions/riassunei/' — file markdonn con d riassunti generati dalla skitI ‘/ riassunto riunione ST + cIAWDEmd X ‘8 CLAUDE ma > Contesto ciavoro— Giggino Giggtto > = #4 Riunioni # contesto di lavoro - Giggino Giopetto 1 file gi contesto sono nella cartella “content/’ 1 — [PrOfil0] (context /protilo.n4) — chi sono, Lingua, approccio — Processo] (context /processo.nd) — come gestisco i Clienti, dalla coll 3% pagamento 1 (Stile) (context/stite. nd) - metodo socratico, tono di voce È (ciSents] (content/cUienti.n9) — cliente idente e chs escluso — [Servizi] (contert/servizi.na) — pacchetti resoto e in presenza — tistruzioni) (contest/iStruzioni.nd) — come deve rispondermi Claude n0 Ciienti qgni cliente ha una cartella in \"eltenti/Inone-clientel/\" con un file Scontext.ad' contenente Le Informazioni specifiche su quell'azienda e sul percorso in corso. 20 Riunioni Le riunioni sono archiviate sn ‘riunioni/':0 9 — ‘riunioni/trascrizionis* — file di testo con le trascrizioni complete — ‘rlunioni/riassunti/* — file markdom con riassunti generati dalla FALL */riassunto=riuntone 1 file hanno cone none la dita dell riunione in formato “rmmmoD' (es. 20260420. bx8, ‘20250420. 06).",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 840.4000244140625,
+          "end": 853.4400024414062,
+          "text": "Ok, qua ci hanno messo le informazioni, io adesso gli dirò che queste informazioni sulle riunioni le voglio in un file a parte, però se noi andiamo dentro la cartella riunioni, c'è riassunti e c'è trascrizioni."
+        },
+        {
+          "start": 853.4400024414062,
+          "end": 865.3599853515625,
+          "text": "Vedete qua c'è già il file con la trascrizione completa, che è quella che avevo usato io, e qua abbiamo anche quello col riassunto completo, il riassunto lo possiamo vedere anche così, bello formattato, vedete?"
+        },
+        {
+          "start": 865.9199829101562,
+          "end": 869.1199951171875,
+          "text": "Eccolo qua, lo chiudiamo, quindi diciamo adesso cosa gli dico?"
+        },
+        {
+          "start": 869.1199951171875,
+          "end": 890.7999877929688,
+          "text": "Gli dico piccola modifica, il contesto relativo alle riunioni spostalo da cloud.Md a un file ad hoc nella cartella context, così ce lo teniamo bello pulito."
+        },
+        {
+          "start": 890.7999877929688,
+          "end": 898.47998046875,
+          "text": "Quindi adesso quello che mi aspetto è che questa roba qua venga tolta tutta o in parte e qua venga creato un nuovo file, eccolo qua."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 15,
+        "time": 900.0,
+        "timestamp": "00:15:00",
+        "image": "frame_0015.jpg",
+        "reason": "periodic",
+        "ocr_text": "O © O EB Gaio ito (Etno Cei ila C_x BT ibeaiconesen D+ cioe womsnice (fa C © - 6 Meeting summary document. * rionima content riunioni ma > Riunioni suda Meeting summary documentation o) i + all > ai “pun cero! Le riunioni sono archiviate in *riuntoni/’: 1) sets ocaljson — ‘rfuntoni/trascrizioni/* — file di testo con le trascrizioni complete — ‘rsunifini/riassunti/' = file norkdom con_1 riassunti generati dalla > archivio FRAU\" /Flassunto-riuntone > cllenti 7 x content — \\rlunsoni/trascrizioni/i — file di testo con le trascrizioni complete 1 file hanpo cone none la dota della riunione in formato “rmmoo' (es. % conti — ‘riuntoni/riassunti/* = file markdom con i riassunti generati dalla shiUl '/ 2R2GRARO.t!, ‘20260420.00) 8 istruzioni Fiassunto-riunione” + processo.mi % protiome riunioni + serizine 8 atlema © fuioni + risssunti giceen + tinionrascizio/20260420.u — rascrizionesavata + 20260420 * cuncotiassn/20260420.md — riassunto savato Simei + CLAUDE md — pglonato con stutua e convenzione nomi gita» E 20260420118 cola magica: contesto relativo lle unioni, postal da CLAUDE md a un fl ad hoc ela care > template conte # CLAVDE mA Tuo fotto svgnttorta Write riunioni.n + Caleviting",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 900.0,
+          "end": 904.0,
+          "text": "Oggi parliamo di business online, prodotti digitali e mindset."
+        },
+        {
+          "start": 930.0,
+          "end": 939.0,
+          "text": "La skill, come si chiamava? Riassunto, riunione, riunione."
+        },
+        {
+          "start": 939.0,
+          "end": 945.0,
+          "text": "Cosa gli facciamo fare? Gli facciamo fare con queste novità."
+        },
+        {
+          "start": 945.0,
+          "end": 955.0,
+          "text": "Ah no, facciamo così. Può leggere. Anzi, facciamo così che è ancora più figa."
+        },
+        {
+          "start": 955.0,
+          "end": 962.0,
+          "text": "Se il file di riunione gli viene passato in chat, me lo deve creare subito dentro trascrizioni."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 16,
+        "time": 960.0,
+        "timestamp": "00:16:00",
+        "image": "frame_0016.jpg",
+        "reason": "periodic",
+        "ocr_text": "EB eocaiiamteboord x Frtnd Cine ws) x (Sala ibenilinono seen x + Tè € CD dk Meeting summary document. x ar Meeting summary documentation > ri > rissuntorunione cento (0 settings ocatjson 3 archivio > cileni + (nas A0 260420 109 — assunto sabato sd + CLAUDE id — aggiornato con stutura e convenzione nomi % conti irccaei picola modifica l contest rato al riunioni, postale da CLAUDE mu a un fl ad hoc nel catalla cont + processoma Plate ®. Trougnttor 8 riunioni pai $ serizina $ sile è Write riuniontini den Atentoni + risconti gtieep + 20260420 IRE3S e ei cuwoe.na gico E 2020042008 — trstruzioni] (context/istruzioni nd) — come deve rispondermi Claude — listruzioni] (contest/ istruzioni. nd) — come deve rispondermi Claude > template * cLAWDEmI ogni cliente ha una cortetta {n Eltenti/Inone-cllentel/' con un file contert.nd) conte Ogni cliente ha una cartella in ‘clienti Inone-eliente]/' con un file ‘contest. contenente le informazioni specifiche su quell'azienda e sul percorso in corso. ® fatto Croato contotnionim e aggometo CLAUDE m cn. riferimnto, in inea co gi tri le di contesto. gina la sl iesuntorunione con queste nità: può leggere",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 962.0,
+          "end": 977.0,
+          "text": "Allora, se la trascrizione gli viene passata in chat come file o come testo incollato,"
+        },
+        {
+          "start": 977.0,
+          "end": 984.0,
+          "text": "mi deve creare subito un file txt nella cartella, come si chiama?"
+        },
+        {
+          "start": 984.0,
+          "end": 987.0,
+          "text": "Riunioni barra trascrizioni, slash trascrizioni."
+        },
+        {
+          "start": 987.0,
+          "end": 991.0,
+          "text": "Riunioni, trascrizioni, ok?"
+        },
+        {
+          "start": 991.0,
+          "end": 1001.0,
+          "text": "Se invece gli viene dato il nome di un file, lo deve cercare nella cartella."
+        },
+        {
+          "start": 1001.0,
+          "end": 1006.0,
+          "text": "Ecco qua, riunioni, trascrizioni."
+        },
+        {
+          "start": 1006.0,
+          "end": 1012.0,
+          "text": "Cioè, quello che faccio, adesso gli dico, guarda, se io vado veloce, perché diciamo sono pigro,"
+        },
+        {
+          "start": 1012.0,
+          "end": 1017.0,
+          "text": "e ti butto un file in chat, tu dopo che ci hai lavorato, va bene a metterlo pure qua dentro."
+        },
+        {
+          "start": 1017.0,
+          "end": 1021.0,
+          "text": "Se invece sono uno super organizzato, che te l'ha già messo qua dentro,"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 17,
+        "time": 1020.0,
+        "timestamp": "00:17:00",
+        "image": "frame_0017.jpg",
+        "reason": "periodic",
+        "ocr_text": "> rissuntounone () ‘setigsocaljson 3 archivio > lenti % cfontimd 8 istruzioni 4 processoma % proiome 8 riunioni 8 servizine + stile + riassunti geco # 20260420 > tmacrizion gico 5 20260820 bt > template + ciauDEmd Etna Cin wii sila x Tala — the alice sero % Motng summary document. X Meeting summary documentation cero! Piccola modifica contesto ratio al runoni, postale da CLAUDE ma a n fl ad hoc nella cartella contr e Write riunioni. OI — (istruzioni) (contest) istruzioni nd) — come deve risponderai Claude Ogni cliente ha una cortelta in ‘clienti/Inone-clientel/' con un file ‘context.’ conte Ogni ciente ha una cartella in 'clienti/Inone-clientel/ con un file “contestind contenente le informazioni specifiche su quell'azienda e sul percorso in corso. ® Fatto. Creato contxtunionimd e sggiomato CLAUDE.m con liferimanto, n nea con i ari le di contesto. aggiorna la sil issunto-runone con questa novit 5 a trascrizione gli ino passata n chat (como fl 0 come testo incolto) mi deve creare subito un fo tt nella cata “unionirascizini” so invece gli eno dato nome di un fl, o deve cercare nel crt “fiunioni@rasizoni +0 co",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1021.0,
+          "end": 1028.0,
+          "text": "e quindi ha già fatto il file trascrizioni, 2026, 04, 25, tu lo devi appliare da là."
+        },
+        {
+          "start": 1028.0,
+          "end": 1030.0,
+          "text": "Quindi gestiamo tutte e due le casistiche."
+        },
+        {
+          "start": 1031.0,
+          "end": 1036.0,
+          "text": "E se non lo trovi, avvisa che il file non è presente."
+        },
+        {
+          "start": 1036.0,
+          "end": 1039.0,
+          "text": "Ok? In caso mai metto il nome di un file che non esiste."
+        },
+        {
+          "start": 1039.0,
+          "end": 1041.0,
+          "text": "Poi cos'altro?"
+        },
+        {
+          "start": 1041.0,
+          "end": 1050.0,
+          "text": "La skill, oltre al riassunto, deve fare anche una lista di azioni, actionable."
+        },
+        {
+          "start": 1050.0,
+          "end": 1052.0,
+          "text": "Solitamente si dice che sono gli actionable."
+        },
+        {
+          "start": 1053.0,
+          "end": 1059.0,
+          "text": "Facciamo così, una lista di actionable con due punti."
+        },
+        {
+          "start": 1059.0,
+          "end": 1066.0,
+          "text": "Attività da fare e facciamo anche persona che se ne deve occupare."
+        },
+        {
+          "start": 1068.0,
+          "end": 1072.0,
+          "text": "Non mettiamo la data, però diciamo se ci fosse una scadenza ce la mettiamo."
+        },
+        {
+          "start": 1072.0,
+          "end": 1078.0,
+          "text": "Se c'è una data di scadenza, indicare anche quella."
+        },
+        {
+          "start": 1079.0,
+          "end": 1082.0,
+          "text": "Questa seconda versione è pronta."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 18,
+        "time": 1080.0,
+        "timestamp": "00:18:00",
+        "image": "frame_0018.jpg",
+        "reason": "periodic",
+        "ocr_text": "EB Foca Witeboond | x Ertend Cine ws - CO x Sala ibeallinone scmen X + 000 cai woigore @ cuorronnce X xicoiny summary document. x Value Qu ae > nisi fo rasmmoriione 1) settigsocalison 3 archivio > clienti % conti % istruzioni + processoma + proiome # Rtontoni % riunioni + servizine + atte > nome è Et cuni. dio quo Sini — istruzioni) (contest/ istruzioni nd) — come deve rispondermi Claude itieep 4 20260420 md Seoul ne chien 0 cisenti see Ogni cliente ha una cartella in 'elienti/Inone-cliente]/' con un file ‘context.n’ conte Ogni eLiente ha una cartella in ‘clienti/Inone-clientel/ con un file “contest. E 20260420.08 contenente le informazioni specifiche su qull'azienda e sul percorso in corso. > template * ciauDEmd Meeting summary documentation picola modifica l contesto rlativo al riunioni, posto da CLAUDE ma a un fl ad hoc nella cata conti è Write sunto (istruzioni) context) istruzioni nd) — cone deve rispondermi Claude ® Fatto. Creato contxtunionim e aggiomato CLAUDE mi on riferimnto, in inea con gli ari le di conteso. Sagiorna la sklrissunto-runione con queste novit: - se a trascrizione gli no passata n chat (como flo 0 come testo Incolato) mi deve creare subito un fo txt la cata “runionirascrizion se Invece li ene dato l nome i un fl, o deve cercare nea cartella \"unionitrascrizion' a se non loto, avvisa che lle on è presente ia ll lo al assunto devo fare anche una sta i ationabio co: attività da fare, persona che se ne eve occupare (6 c'è una data i scadnza indicare anche quel) Ra ee)",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1082.0,
+          "end": 1083.0,
+          "text": "Diamo invio."
+        },
+        {
+          "start": 1083.0,
+          "end": 1084.0,
+          "text": "Cioè è pronta."
+        },
+        {
+          "start": 1084.0,
+          "end": 1087.0,
+          "text": "L'idea di quello che vogliamo nella seconda versione è pronta."
+        },
+        {
+          "start": 1087.0,
+          "end": 1090.0,
+          "text": "Dice adesso sto leggendo la skill attuale."
+        },
+        {
+          "start": 1090.0,
+          "end": 1092.0,
+          "text": "Quindi si è andata a prendere il file skill.Md."
+        },
+        {
+          "start": 1092.0,
+          "end": 1095.0,
+          "text": "Riassunto riunione sta vedendo cosa c'è dentro."
+        },
+        {
+          "start": 1095.0,
+          "end": 1098.0,
+          "text": "Capisce cosa c'è rispetto a quello che vogliamo noi."
+        },
+        {
+          "start": 1098.0,
+          "end": 1101.0,
+          "text": "Adesso farà delle modifiche."
+        },
+        {
+          "start": 1101.0,
+          "end": 1105.0,
+          "text": "Quindi aggiungerà, vedete, mi dice mi autorizza a fare queste modifiche."
+        },
+        {
+          "start": 1105.0,
+          "end": 1109.0,
+          "text": "Quando vedete sempre quella roba in rosso e in verde."
+        },
+        {
+          "start": 1109.0,
+          "end": 1111.0,
+          "text": "È Claude che ti sta facendo vedere le differenze."
+        },
+        {
+          "start": 1111.0,
+          "end": 1115.0,
+          "text": "Quindi vi sta dicendo ecco cosa cancellerò, ecco cosa aggiungerò, ecco cosa modificherò."
+        },
+        {
+          "start": 1115.0,
+          "end": 1118.0,
+          "text": "All'inizio fa un po' strano che non si capisce."
+        },
+        {
+          "start": 1118.0,
+          "end": 1121.0,
+          "text": "Però se lo guardate bene quello in rosso è quello che viene tolto."
+        },
+        {
+          "start": 1121.0,
+          "end": 1122.0,
+          "text": "Quello in verde è quello che viene aggiunto."
+        },
+        {
+          "start": 1122.0,
+          "end": 1124.0,
+          "text": "Dice perfetto l'aggiornata."
+        },
+        {
+          "start": 1124.0,
+          "end": 1127.0,
+          "text": "Vediamo il nome del file."
+        },
+        {
+          "start": 1127.0,
+          "end": 1130.0,
+          "text": "Eccolo qua, riunioni, trascrizione, nome file, riunioni, trascrizioni."
+        },
+        {
+          "start": 1130.0,
+          "end": 1133.0,
+          "text": "Diciamo anno, mese, giorno."
+        },
+        {
+          "start": 1133.0,
+          "end": 1137.0,
+          "text": "Crea due sezioni, la minuta e poi i punti discussi."
+        },
+        {
+          "start": 1137.0,
+          "end": 1139.0,
+          "text": "E fa gli action items."
+        },
+        {
+          "start": 1139.0,
+          "end": 1140.0,
+          "text": "Perfetto."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 19,
+        "time": 1140.0,
+        "timestamp": "00:19:00",
+        "image": "frame_0019.jpg",
+        "reason": "periodic",
+        "ocr_text": "EB roccia Witeboard x Frtend Cine with sila x (Tala inenitinone sen x + D00 © > | lie ortgare cioe womspice | (BE C © - Meeting summary document. x # sind claude > alle > ri Speri Biccola modifica l contesto relativo al riunioni, spostalo da CLAUDE md a un fl ad hoc nel cartella ss does conto 38m taelta came atività gh fare qners dla riunione: (0 settings ocaljson 38 | Chi | Cosa | Scadenza | archivio 38 ESRI: i > clienti io | Wose | Descrizione attività | Data se presente, altrimenti — | < content n SS, + Fat. Creo comuni e agiata CLAUDE md con i ierimentoininea co lari tie di 12 tini ma Si dine Salvataggio del riassunto + processoma & % protto ms magia a sk issunto unione con queste novità 46. napo aver genefito l'output, salva IU risssunto cone file markoow in + servizi i + stema = ) © 040) sie riassunto runone > 8 siitimo stmmary documentation © © Meeting summary documentato ©) end sh ne oo è site fu Leggo prima asl attuato. sunt — serivi sempre in italiano see end sti 2 dsa va too professione a eiretto 1 2020042004 1 Sii sintetico; Multa devo essere più corta detta traserizion, non ig P'ad'oniciasta È alan retta trecrizione: stamrinto geo rogionevsisente piuttosto che chotere chiorieeti 5 2020020 = RCN aggimgere infornzioni che non seo ella trascrizione > tempio mei canone: cotone can SEIT esta a etica seta 1 prio ta resezione dl nn im ‘Sl aggiornata Le modifiche i sintesi “ Tracrizione in chat > salva automaticamente in riunioni /traszrizsoni/YYymeno.txe prima di procedera Nome file fornito > cora in riunioni/trascriz 1001), visa se non trovato * Acton ltems - tbel con Chi / Cose / Scadenza aggurta come seconda sezione obbigatria * Salvataggio rissunto > o salva sempre n Fiunioni/iassunt/YYY}MG0.n% in automatico Des",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1140.0,
+          "end": 1145.0,
+          "text": "Per esempio, adesso la proviamo subito."
+        },
+        {
+          "start": 1145.0,
+          "end": 1147.0,
+          "text": "Diciamo che io in riassunti, vi ricordate?"
+        },
+        {
+          "start": 1147.0,
+          "end": 1149.0,
+          "text": "Qua in riassunti c'è il vecchio file."
+        },
+        {
+          "start": 1149.0,
+          "end": 1151.0,
+          "text": "Diciamo che lo cancello."
+        },
+        {
+          "start": 1151.0,
+          "end": 1155.0,
+          "text": "Faccio una cosa che non si dovrebbe fare."
+        },
+        {
+          "start": 1155.0,
+          "end": 1158.0,
+          "text": "Lo cancello solo per far vedere che lo rigenero."
+        },
+        {
+          "start": 1158.0,
+          "end": 1162.0,
+          "text": "Adesso gli do riassunto riunione."
+        },
+        {
+          "start": 1162.0,
+          "end": 1164.0,
+          "text": "E poi gli dico il nome del file."
+        },
+        {
+          "start": 1164.0,
+          "end": 1166.0,
+          "text": "2026."
+        },
+        {
+          "start": 1166.0,
+          "end": 1167.0,
+          "text": "Perché vi ricordate?"
+        },
+        {
+          "start": 1167.0,
+          "end": 1168.0,
+          "text": "Adesso se gli do il nome del file lui lo capisce."
+        },
+        {
+          "start": 1168.0,
+          "end": 1170.0,
+          "text": "0420."
+        },
+        {
+          "start": 1170.0,
+          "end": 1171.0,
+          "text": "Lui cosa fa?"
+        },
+        {
+          "start": 1171.0,
+          "end": 1175.0,
+          "text": "Siccome gli ho dato il nome del file, va nella cartella trascrizioni."
+        },
+        {
+          "start": 1175.0,
+          "end": 1177.0,
+          "text": "Trova questo file."
+        },
+        {
+          "start": 1177.0,
+          "end": 1178.0,
+          "text": "Vedete?"
+        },
+        {
+          "start": 1178.0,
+          "end": 1179.0,
+          "text": "Eccolo qua."
+        },
+        {
+          "start": 1179.0,
+          "end": 1180.0,
+          "text": "Lo sto leggendo."
+        },
+        {
+          "start": 1180.0,
+          "end": 1182.0,
+          "text": "E mi genera in automatico il riassunto salvandomelo qua dentro."
+        },
+        {
+          "start": 1182.0,
+          "end": 1183.0,
+          "text": "Dice ecco qua."
+        },
+        {
+          "start": 1183.0,
+          "end": 1184.0,
+          "text": "Ti genero il riassunto e lo salvo."
+        },
+        {
+          "start": 1184.0,
+          "end": 1186.0,
+          "text": "Ora me lo fa vedere a schermo ovviamente."
+        },
+        {
+          "start": 1186.0,
+          "end": 1189.0,
+          "text": "Però se vogliamo gli diciamo non me lo far vedere mai a schermo."
+        },
+        {
+          "start": 1189.0,
+          "end": 1190.0,
+          "text": "Salvalo solo."
+        },
+        {
+          "start": 1190.0,
+          "end": 1191.0,
+          "text": "Adesso lui farà tutte e due le cose."
+        },
+        {
+          "start": 1191.0,
+          "end": 1192.0,
+          "text": "Eccolo qua."
+        },
+        {
+          "start": 1192.0,
+          "end": 1193.0,
+          "text": "L'ha generato."
+        },
+        {
+          "start": 1193.0,
+          "end": 1194.0,
+          "text": "Ce lo apriamo."
+        },
+        {
+          "start": 1194.0,
+          "end": 1195.0,
+          "text": "E lo guardiamo in anteprima."
+        },
+        {
+          "start": 1195.0,
+          "end": 1197.0,
+          "text": "Punti discussi."
+        },
+        {
+          "start": 1197.0,
+          "end": 1198.0,
+          "text": "Action items."
+        },
+        {
+          "start": 1198.0,
+          "end": 1199.0,
+          "text": "Chi deve fare cosa?"
+        },
+        {
+          "start": 1199.0,
+          "end": 1200.0,
+          "text": "Eccolo qua."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 20,
+        "time": 1200.0,
+        "timestamp": "00:20:00",
+        "image": "frame_0020.jpg",
+        "reason": "periodic",
+        "ocr_text": "® Etna Ciao wai Ci x Tala inealkicone seen (+ D00 cla orpare EDO ivoe womsmicE X Meeting summary Socument + 202604204 I Previem 20260420.md X *0 0 Sta urion > isunt > 420, 3 Riunione 20 apre 2 prossimo. Automazini già in carico Mart. saude es L4O % 20260420;md > Riunione 20 apri 2029. ae 1 # Riunione 20 aprile 2826 Salina 1 ACTION ITEMS Lrsassunto=riunsone 20260428 È sed. Landing page muovo corsose © fiassunoiunione 17 Testi completati. Marco gestisce La grafica + slm © Rena 2026008. Lancio previsto entro veneral 25 sprile. (0 settings ocatjson Automazioni giò in carico a Marti. i Fe troia, General ssinto 010 sato. Rat Mandare reminder via mai Ciel con le Istruzioni > clienti merce el a dec CECSEA + cin XE + sanziona Suitho] 4 Chi | Cosa | Scadenza | i ina 8 processi 1 Clip interviste — cliente Gianluca ini I e Cla stccupa del produzion: iceve 1 le sorgente da Mart, RAS | Mandare reminder via mail a letta ce inserisco sottili si o schecile si con le istruzioni | | URSEIa) sotto la capuon e schedua su Publ Escono 2 cl al giorno (martaai-venerd) per 3 mes. | Marco | Grafica landing page | 25/84/2026 | % serviine Sesia | arti | Autosazioni landing pane | 25/94/ 4 stima 2026 | Mr I NRE | Cletia | Sottotitoli, caption e scheduling gu Lidi in formato PDF cLip su Pubter (3 mess) | — | 3. Landing page nuovo corso Testi completati. Marco gestisce la grafica Lancio previsto entro venerdì 25 apri. Automazioi già in carico a Mart Chi Cosa Sottotitoli, caption e scheduling clp su Publer ‘action TEMS chi cosa gieep 5 2026082008 ‘a Mandare reminder ia mal Ciel cn le > template stazioni * CLAVDE Marco Grafica landing page 25/04/2028) Marti Automazioni landing page 25/04/2028) Clata Sotottt, canton e scheduing cp su Riassunto salato i inioniiassun/20250420.md. © 10 sim",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1200.0,
+          "end": 1201.0,
+          "text": "Con cosa deve fare."
+        },
+        {
+          "start": 1201.0,
+          "end": 1203.0,
+          "text": "E questo ce lo possiamo chiudere."
+        },
+        {
+          "start": 1203.0,
+          "end": 1205.0,
+          "text": "Questa è la nostra seconda versione della skill."
+        },
+        {
+          "start": 1205.0,
+          "end": 1207.0,
+          "text": "Che potrebbe ancora evolvere."
+        },
+        {
+          "start": 1207.0,
+          "end": 1208.0,
+          "text": "Potrebbe diventare."
+        },
+        {
+          "start": 1208.0,
+          "end": 1212.0,
+          "text": "Aggiorna ulteriormente la skill."
+        },
+        {
+          "start": 1212.0,
+          "end": 1214.0,
+          "text": "E mettiamoci una funzionalità."
+        },
+        {
+          "start": 1214.0,
+          "end": 1219.0,
+          "text": "E aggiungi una."
+        },
+        {
+          "start": 1219.0,
+          "end": 1220.0,
+          "text": "Facciamo così."
+        },
+        {
+          "start": 1220.0,
+          "end": 1222.0,
+          "text": "Le persone che devono fare delle cose."
+        },
+        {
+          "start": 1222.0,
+          "end": 1224.0,
+          "text": "Quindi qua per esempio ci sono dei task assegnati."
+        },
+        {
+          "start": 1224.0,
+          "end": 1226.0,
+          "text": "Quindi che ne so."
+        },
+        {
+          "start": 1226.0,
+          "end": 1228.0,
+          "text": "Raf deve mandare un reminder."
+        },
+        {
+          "start": 1228.0,
+          "end": 1230.0,
+          "text": "Marco deve fare la grafica della landing page."
+        },
+        {
+          "start": 1230.0,
+          "end": 1231.0,
+          "text": "Marti deve fare le automazioni."
+        },
+        {
+          "start": 1231.0,
+          "end": 1233.0,
+          "text": "Clelia deve fare i sottotitoli."
+        },
+        {
+          "start": 1233.0,
+          "end": 1237.0,
+          "text": "Facciamo che mi deve preparare anche delle mail."
+        },
+        {
+          "start": 1237.0,
+          "end": 1240.0,
+          "text": "Quindi ho le mail pronte per tutte le persone che devono fare queste cose."
+        },
+        {
+          "start": 1240.0,
+          "end": 1242.0,
+          "text": "Facciamo un altro esempio."
+        },
+        {
+          "start": 1242.0,
+          "end": 1243.0,
+          "text": "E aggiungi una."
+        },
+        {
+          "start": 1243.0,
+          "end": 1247.0,
+          "text": "Qua ovviamente gli potremmo dire che vogliamo tutto nel file di riassunto."
+        },
+        {
+          "start": 1247.0,
+          "end": 1250.0,
+          "text": "Oppure potremmo fare una nuova cartella che si chiama email."
+        },
+        {
+          "start": 1250.0,
+          "end": 1255.0,
+          "text": "Oppure se siamo un po' più smanettoni abbiamo collegato direttamente la nostra gmail."
+        },
+        {
+          "start": 1255.0,
+          "end": 1257.0,
+          "text": "No possiamo fare mille cose."
+        },
+        {
+          "start": 1257.0,
+          "end": 1258.0,
+          "text": "Facciamo la versione semplice."
+        },
+        {
+          "start": 1258.0,
+          "end": 1260.0,
+          "text": "Aggiungi una nuova sezione."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 21,
+        "time": 1260.0,
+        "timestamp": "00:21:00",
+        "image": "frame_0021.jpg",
+        "reason": "periodic",
+        "ocr_text": "RD eacaiiom Wiebooni x (3 Frtnd Ciao with stita- x] Tala the alice creo @ cuoivomnce Dt % Mosting summary document. x # 20260420m4 > claude RIE @ riunioni) riassunti > 8 20260420 >= Riunione 20 sprle 2026. Qu ve inni DO 1° e Riunione 20 aprite 2026 Scan 33 sez. Coresettise Lesansunto=rsuntone 20260420 14 Un carosello a settimana, {l mercoledì. Verranno pubblicati anche su fo“ rsmmosiione USnkegin in formato POF. Epi Hana 20260020. 008 (0 settings ocatjson n ZA 203. Landing page nuovo corsore È | Sarciio 1 Rea: Ganare N feeunia ab so Testi completati. Marco gestisce La grafica. Lancio previsto entro Sissi aemEcIEANTI venerdì 25 aprile. Aitomazioni giò in carico a Morti. < content Rat rt dirne SE) sila rsa) nc rn 1.0 trito — ante cente Ti ci aa prin er 1 prada rt nre vo st li co PE Preso (Seni 1 reno 2 cern (enna e eine sein {CES ina pri Verano paia it i Ud hi ft PO Taro rac tantino pese ars Fica IRE 1 BOC | Atomi tin pe | sro es | Clelta | Sottotitoli, caption e scheduling clip su Publer (3 mesi) | = | leges OI % processoma * protiome = ACTION ITEMS ia ci cosa Scadenza sg Rat - Mandare reminder ia mal a Ciel cn i istruzioni ‘| — Sea Marco Grafica landing page 25/042028 5 2026082008 nari Aztomazini ancing page 25/04/2026 > template Clala Sottili captin e scheduling clp su Publr (3 mes) — # CLAVDE md Wii aezcnaz. i 8 Rtantone 20 aprite 2028 Riassunto salato i uniniiassun/20260420.md. spgionauteriomenta la i aggiungi un nuov",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1260.0,
+          "end": 1264.0,
+          "text": "Che si chiama email da mandare."
+        },
+        {
+          "start": 1264.0,
+          "end": 1266.0,
+          "text": "Dove ci scrivi."
+        },
+        {
+          "start": 1266.0,
+          "end": 1276.0,
+          "text": "Le email che devo preparare per le varie persone con i task a loro assegnati."
+        },
+        {
+          "start": 1276.0,
+          "end": 1278.0,
+          "text": "E facciamo così."
+        },
+        {
+          "start": 1278.0,
+          "end": 1284.0,
+          "text": "Tieni le mail semplici, brevi e informali."
+        },
+        {
+          "start": 1284.0,
+          "end": 1287.0,
+          "text": "Ovviamente qua dipende da quello che volete voi."
+        },
+        {
+          "start": 1287.0,
+          "end": 1290.0,
+          "text": "Potete dire le mail devono essere invece molto dettagliate."
+        },
+        {
+          "start": 1290.0,
+          "end": 1294.0,
+          "text": "Devono essere in inglese perché parte del mio team si trova oltreoceano."
+        },
+        {
+          "start": 1294.0,
+          "end": 1297.0,
+          "text": "Devono essere molto formali."
+        },
+        {
+          "start": 1297.0,
+          "end": 1299.0,
+          "text": "Perché noi siamo formali quando scriviamo."
+        },
+        {
+          "start": 1299.0,
+          "end": 1303.0,
+          "text": "Però vediamo adesso come sta lavorando la nostra skill."
+        },
+        {
+          "start": 1303.0,
+          "end": 1305.0,
+          "text": "Ci apriamo sempre qua il file."
+        },
+        {
+          "start": 1305.0,
+          "end": 1307.0,
+          "text": "Andiamo a vedere se l'ha fatto già."
+        },
+        {
+          "start": 1307.0,
+          "end": 1308.0,
+          "text": "Ci dice ecco qua."
+        },
+        {
+          "start": 1308.0,
+          "end": 1310.0,
+          "text": "Adesso c'è anche una terza sezione."
+        },
+        {
+          "start": 1310.0,
+          "end": 1313.0,
+          "text": "Per ogni persona che ha action items scrivi una bozza di mail."
+        },
+        {
+          "start": 1313.0,
+          "end": 1316.0,
+          "text": "Una mail per persona anche se ha più task."
+        },
+        {
+          "start": 1316.0,
+          "end": 1317.0,
+          "text": "Questo l'ha dedotto in automatico."
+        },
+        {
+          "start": 1317.0,
+          "end": 1319.0,
+          "text": "Però è la bellezza di cloud."
+        },
+        {
+          "start": 1319.0,
+          "end": 1321.0,
+          "text": "Struttura della mail è A nome della persona."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 22,
+        "time": 1320.0,
+        "timestamp": "00:22:00",
+        "image": "frame_0022.jpg",
+        "reason": "periodic",
+        "ocr_text": "3 xosting summary document. C) Meeting summary documentation (ORO) Lrsansunto=rsuntone 20260428 _0 settingsJocatjson archivio > cileni > content % cientima 8 istruzioni + processo.md 4 proiome riunioni 8 serviine 4 atlemd riunioni > riassunti giceep + 20260420. * wascrizioni © gite 5 20260820. > tempiato + ciAUDEmÀ è Write 226040. 1 Autre 20 apre 2026 = Riassunto salato i runinassunt}20260420.md. sagiona ulteriormente i sil è aggiungi una nuoia sezione che sl chiama “Ema da mandare\" dove i nc o el ch devo papararo perle vari persone co task a oro assegna Though fo a =. kl aggiornata. D'ora po ogni assunto includerà anche e bozze ema una par person, pronte da copiare e inviare. e + squtmd x ‘sinuose rassunto-riunione > 8 SKILL ma > ss # Riassunto Riunione 08 3. Enail da mandare Per ogni persona che ha action itens assegnati, scrivi una bozza di esail. Una email per persona, anche se ha più task. Seruetura di ogni esili Rieti feta cere dieta Corpo dell'est: tono semplice e informale, vai dritto al punto. Elenca 1 task assegnati in nodo chiaro, Se c'è una Scadenza, indicata. Firma con smart.) 00 Sotvatoggio del riassunto 00p0 aver generato l'output, salva il riassunto come file merkdom in *eiunsoni/Flassunti/TIYMOO.ed', usando la stessa dota del file di rrascrizione. ne oro e stite — Scrivi sempre in itotiano — Usa va tono professionale na diretto — SÌi sintetico: la minuta deve essere più corta della trascrizione, non cina suo riscrsttura — Se qualcosa non È chiaro nella trascrizione, interpretato ragionevolmente piuttosto che chiedere Chiarimenti — Non aggiungere informazioni che non sono nella trascrizione UO CAI Sona UTEO",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1321.0,
+          "end": 1322.0,
+          "text": "Oggetto breve e diretto."
+        },
+        {
+          "start": 1322.0,
+          "end": 1323.0,
+          "text": "Corpo della mail."
+        },
+        {
+          "start": 1323.0,
+          "end": 1324.0,
+          "text": "Tono semplice e informale."
+        },
+        {
+          "start": 1324.0,
+          "end": 1325.0,
+          "text": "Va dritto dal punto."
+        },
+        {
+          "start": 1325.0,
+          "end": 1326.0,
+          "text": "Allenca i task da fare."
+        },
+        {
+          "start": 1326.0,
+          "end": 1328.0,
+          "text": "Firmala con RAF."
+        },
+        {
+          "start": 1328.0,
+          "end": 1330.0,
+          "text": "Questo l'ha capito in automatico ovviamente."
+        },
+        {
+          "start": 1330.0,
+          "end": 1331.0,
+          "text": "Quindi la skill è aggiornata."
+        },
+        {
+          "start": 1331.0,
+          "end": 1334.0,
+          "text": "Però il nostro file non è aggiornato."
+        },
+        {
+          "start": 1334.0,
+          "end": 1336.0,
+          "text": "Vedete il file di riassunto che abbiamo."
+        },
+        {
+          "start": 1336.0,
+          "end": 1337.0,
+          "text": "Gli manca la sezione."
+        },
+        {
+          "start": 1337.0,
+          "end": 1343.0,
+          "text": "Quindi dico usa subito la skill aggiornata."
+        },
+        {
+          "start": 1343.0,
+          "end": 1351.0,
+          "text": "Per aggiornarmi il file di riassunto creato poco fa."
+        },
+        {
+          "start": 1351.0,
+          "end": 1354.0,
+          "text": "Quindi è come se stessi lanciando di nuovo la skill."
+        },
+        {
+          "start": 1354.0,
+          "end": 1358.0,
+          "text": "Ma senza fare il comando slash riassunto riunione."
+        },
+        {
+          "start": 1358.0,
+          "end": 1360.0,
+          "text": "Perché abbiamo detto che le skill le possiamo lanciare anche così."
+        },
+        {
+          "start": 1360.0,
+          "end": 1365.0,
+          "text": "Scrivendo qualcosa che cloud capisce che la stiamo invocando."
+        },
+        {
+          "start": 1365.0,
+          "end": 1366.0,
+          "text": "E adesso ho detto usa la skill."
+        },
+        {
+          "start": 1366.0,
+          "end": 1368.0,
+          "text": "E lui ha capito che deve chiamarla."
+        },
+        {
+          "start": 1368.0,
+          "end": 1370.0,
+          "text": "Vedete ha chiamato la skill riassunto riunione."
+        },
+        {
+          "start": 1370.0,
+          "end": 1372.0,
+          "text": "Quindi adesso il file questo qua."
+        },
+        {
+          "start": 1372.0,
+          "end": 1377.0,
+          "text": "Che aveva solo la sezione punti discorsi e action items."
+        },
+        {
+          "start": 1377.0,
+          "end": 1378.0,
+          "text": "Avrà una terza parte."
+        },
+        {
+          "start": 1378.0,
+          "end": 1380.0,
+          "text": "Che si chiama email da mandare."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 23,
+        "time": 1380.0,
+        "timestamp": "00:23:00",
+        "image": "frame_0023.jpg",
+        "reason": "periodic",
+        "ocr_text": "© © RD Pacs Witnboard “x | VE Exte Cine with silo- © x (8 Tia ieailinone screen (x + c00 © > ln ovispace & cioe wossnice | [a fa CD > 6 Meeting summary document. x # DB» 2026o4zama Salis Is e oo 1 # Riunione 20 aprile 2026. } === iero 1) settings Jocaljson sciatori pria clip al giorno (martedi-venerdì) per 3 mesi. dee = —==re ce cr DES Vione LinkedIn in formato POF. .—_- i Atmecozza Vreni CR % riunioimd > # serviine pece dette È menCTIO TESA > i © ressuntoriuione | chi] cosa | Scadenza | III: I | Raf | Mandare reminder via mail a Clelsa con le istruzioni | - | Morco | Grafica landing poge | 25/04/2026 | | Morti | Autonozioni landing page | 25/04/2026 | | Clelia | Sottotffoli, caption e scheduling cUp su Pubter (3 mesi) | = | E 2026042008 mttateo 1 > template + CADE md ® Sklleggornata D'ora in ol ogni assunto Included anche le bozzo ema una per persona, pronte da copiare 0 iva. (sa subito a sl aggiomata per sggiomnarmi | le di riassunto creato poco fa © Tnavgnt forte è. rissnunto-riunione sti * Processino sul",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1380.0,
+          "end": 1382.0,
+          "text": "Non mi ricordo se era email o email da mandare."
+        },
+        {
+          "start": 1382.0,
+          "end": 1386.0,
+          "text": "E ci aggiungerà la mail per Marco, per Marte, per Clelia."
+        },
+        {
+          "start": 1386.0,
+          "end": 1387.0,
+          "text": "Con le cose da fare."
+        },
+        {
+          "start": 1387.0,
+          "end": 1388.0,
+          "text": "Guardiamolo in azione."
+        },
+        {
+          "start": 1388.0,
+          "end": 1390.0,
+          "text": "Vedete alcune cose le ha capite in automatico."
+        },
+        {
+          "start": 1390.0,
+          "end": 1392.0,
+          "text": "E ricordatevi che potete sempre andare a lavoro sulla skill."
+        },
+        {
+          "start": 1392.0,
+          "end": 1394.0,
+          "text": "Quindi se non ci piace la apriamo."
+        },
+        {
+          "start": 1394.0,
+          "end": 1396.0,
+          "text": "E diciamo no però non la voglio."
+        },
+        {
+          "start": 1396.0,
+          "end": 1398.0,
+          "text": "Se non voglio la firma con Raph."
+        },
+        {
+          "start": 1398.0,
+          "end": 1400.0,
+          "text": "Se deve firmare Raphael e Guy top."
+        },
+        {
+          "start": 1400.0,
+          "end": 1401.0,
+          "text": "Potete fare quello che volete voi."
+        },
+        {
+          "start": 1401.0,
+          "end": 1402.0,
+          "text": "Eccolo qua."
+        },
+        {
+          "start": 1402.0,
+          "end": 1404.0,
+          "text": "Dovebbe averlo già modificato."
+        },
+        {
+          "start": 1404.0,
+          "end": 1405.0,
+          "text": "Eccolo qua l'email."
+        },
+        {
+          "start": 1405.0,
+          "end": 1406.0,
+          "text": "Ce l'abbiamo bella pronta."
+        },
+        {
+          "start": 1406.0,
+          "end": 1407.0,
+          "text": "Ciao Clelia."
+        },
+        {
+          "start": 1407.0,
+          "end": 1408.0,
+          "text": "Tema di dettagli per le varie clip."
+        },
+        {
+          "start": 1408.0,
+          "end": 1409.0,
+          "text": "Interviste di Gianluca."
+        },
+        {
+          "start": 1409.0,
+          "end": 1411.0,
+          "text": "Deriverà il file sorgente da me."
+        },
+        {
+          "start": 1411.0,
+          "end": 1412.0,
+          "text": "Devi inserire il sottotitolo."
+        },
+        {
+          "start": 1412.0,
+          "end": 1413.0,
+          "text": "Scrivere le captions."
+        },
+        {
+          "start": 1413.0,
+          "end": 1414.0,
+          "text": "Schedularle su Publer."
+        },
+        {
+          "start": 1414.0,
+          "end": 1416.0,
+          "text": "Fammi sapere se hai dubbi."
+        },
+        {
+          "start": 1416.0,
+          "end": 1417.0,
+          "text": "Raph."
+        },
+        {
+          "start": 1417.0,
+          "end": 1419.0,
+          "text": "Cioè capite quando sta roba inizia da usarla."
+        },
+        {
+          "start": 1419.0,
+          "end": 1420.0,
+          "text": "Sui vostri file."
+        },
+        {
+          "start": 1420.0,
+          "end": 1421.0,
+          "text": "Con il vostro team."
+        },
+        {
+          "start": 1421.0,
+          "end": 1422.0,
+          "text": "Sui progetti veri."
+        },
+        {
+          "start": 1422.0,
+          "end": 1425.0,
+          "text": "Quanto può essere integrata nei vostri processi."
+        },
+        {
+          "start": 1425.0,
+          "end": 1426.0,
+          "text": "Ciao Marco."
+        },
+        {
+          "start": 1426.0,
+          "end": 1428.0,
+          "text": "Abbiamo finito i test della landing page del nuovo corso."
+        },
+        {
+          "start": 1428.0,
+          "end": 1429.0,
+          "text": "Ora tocco la grafica."
+        },
+        {
+          "start": 1429.0,
+          "end": 1430.0,
+          "text": "E tempo fino a venerdì 25."
+        },
+        {
+          "start": 1430.0,
+          "end": 1431.0,
+          "text": "Ciao Marte."
+        },
+        {
+          "start": 1431.0,
+          "end": 1433.0,
+          "text": "Ti ricordo che mancano ancora le automazioni."
+        },
+        {
+          "start": 1433.0,
+          "end": 1434.0,
+          "text": "Firmato Raph."
+        },
+        {
+          "start": 1434.0,
+          "end": 1435.0,
+          "text": "E così via."
+        },
+        {
+          "start": 1435.0,
+          "end": 1436.0,
+          "text": "Spettacolare."
+        }
+      ]
+    }
+  ]
+}

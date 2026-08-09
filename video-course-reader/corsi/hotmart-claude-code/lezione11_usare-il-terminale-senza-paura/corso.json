@@ -1,0 +1,849 @@
+{
+  "title": "Usare il terminale senza paura",
+  "sections": [
+    {
+      "keyframe": {
+        "index": 0,
+        "time": 0.0,
+        "timestamp": "00:00:00",
+        "image": "frame_0000.jpg",
+        "reason": "start",
+        "ocr_text": "cisterna ce nomsnice | [fa C © > E Check contents of work. x > proventi > proposte-commeriali % 2026-04-18 Aptadecmd 8 2026-08-14 Valtechmd % 2026-04-16 Solaro md ‘preventivo higipaf - Aphadex + 2026-04-16. NoraVento md Fossa nai 4 2026-04-17 BraGroupimé AT SETTI ss > Vasca preventivo 1904 Brvagroup * appuntiaimd preventivo anno scorso pf ZetaLab Y appunta Ora creola sutura e sposto tutto. % appunti conferenza: marketing riepilogo. md + cosa-posso-taremd CA \"Iisers/raffnete/Deshtop/clade vorkspace” La ndr -p preventivi/a preventivi/B preventivi/i prevetivi/s preventivi/ preventivi/E 8 emaiclent- formale % amante md % proposta-commercile. md % rieplogo.scontii-vasterta ma ant Move and rename al PDFS to abhabetica subtlders ho el pal aparpagiti i preventivi vari, ho bisogno che ti mi faccia una carte pr prevent Bash Crsate proventi fldr with alphabetical suore rerum: 61 © scontrino giagino. png 8 \"Aisrs/aftsete/Dasktop/ claude vorkapaca” Gn “preventivo ubgi.ps “prevent vi/A/A\\piaex.pef® i me “nuova proposta. pale “preventivL/V/Velorech.pot® Gi mv “proposta da mndare.pet* \"pr & ona tool once DI prat pl DI n ‘© scontrino peppe ng rerum 82) Bash Vari fa flsr struct 1 A Abba) aftaete/Desktop/ claude varkspoce/preventiv/® Fatto Eccola struttura finale del carte proventi preventsety wu 1 ES Atheist e pres LL)",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 0.3199999928474426,
+          "end": 6.199999809265137,
+          "text": "Adesso che abbiamo visto anche come lavorare con i file, voglio far vedere un po' di cosine interessanti"
+        },
+        {
+          "start": 6.199999809265137,
+          "end": 9.5,
+          "text": "per muovervi meglio dentro questa interfaccia."
+        },
+        {
+          "start": 9.5,
+          "end": 12.5,
+          "text": "Abbiamo già visto all'inizio come è strutturato VS Code,"
+        },
+        {
+          "start": 12.5,
+          "end": 15.899999618530273,
+          "text": "però voglio far vedere un altro paio di cose che potrebbero essere utili."
+        },
+        {
+          "start": 15.899999618530273,
+          "end": 18.899999618530273,
+          "text": "Ovviamente qua abbiamo tutti i nostri file sulla sinistra."
+        },
+        {
+          "start": 18.899999618530273,
+          "end": 22.299999237060547,
+          "text": "Questa è la sessione nella quale stiamo lavorando."
+        },
+        {
+          "start": 22.299999237060547,
+          "end": 25.299999237060547,
+          "text": "In qualsiasi momento, in questa sessione, possiamo chiuderla."
+        },
+        {
+          "start": 25.299999237060547,
+          "end": 27.5,
+          "text": "Questo è un consiglio che io vi ho sempre dato,"
+        },
+        {
+          "start": 27.5,
+          "end": 32.29999923706055,
+          "text": "anche quando si utilizzano strumenti più semplici come c'è GPT, Gemina, iCloud e così via,"
+        },
+        {
+          "start": 32.29999923706055,
+          "end": 35.099998474121094,
+          "text": "cioè di non portare avanti le chat per troppo tempo,"
+        },
+        {
+          "start": 35.099998474121094,
+          "end": 38.099998474121094,
+          "text": "soprattutto se dentro la stessa chat iniziamo a mischiare gli argomenti."
+        },
+        {
+          "start": 38.099998474121094,
+          "end": 42.099998474121094,
+          "text": "Ovviamente fino ad ora sono degli esempi molto semplici, quindi non succede niente di male."
+        },
+        {
+          "start": 42.099998474121094,
+          "end": 45.599998474121094,
+          "text": "Però, per farne l'utilizzo fatto molto molto bene,"
+        },
+        {
+          "start": 45.599998474121094,
+          "end": 49.29999923706055,
+          "text": "chiudiamo la sessione quando abbiamo finito di lavorare su qualcosa."
+        },
+        {
+          "start": 49.29999923706055,
+          "end": 54.0,
+          "text": "Se vogliamo aprire un'altra, c'è il pulsantino che abbiamo qua sulla sinistra, che vi ricordo,"
+        },
+        {
+          "start": 54.20000076293945,
+          "end": 59.900001525878906,
+          "text": "oppure c'è anche il pulsante sulla destra, in alto, qua sopra, tutte le volte che c'è un file aperto."
+        },
+        {
+          "start": 59.900001525878906,
+          "end": 63.400001525878906,
+          "text": "Per esempio, se adesso chiudo questa sessione qua, guardate, la chiudo un attimo,"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 1,
+        "time": 60.0,
+        "timestamp": "00:01:00",
+        "image": "frame_0001.jpg",
+        "reason": "periodic",
+        "ocr_text": "005 E cuor nonsmiee Tè fo O © > 3 Cickcemeniotmont. XL ini TIZI]. ho get pet sparpagati di preventivi var ho bisogno che tu mì faccia un crtell per raven % appuntamd % sppuntiamd preventivo higipai -— | Nphadex % spunti nova proposta di VeloTech ; henso s5, proposta da mandare pa | SoleMare SEEN vecchi preventivo. pd NordVento È preventivo 1901 BrvaGreup 8 rnali-cbente-fomale ma % emadcente ma Preventivo anno scorso pf ZetaLab % proposta commercial md Ora evo struttura e sposto ttt. ‘ ripiogo.scontii-tasterta ma ‘ scontrino piagino. png \"scontrino ati.png 9 \"qusrs/rattnete/Desktop/claude vorkspce” Li mai -p prevntivi/a preventiv/B preventivi/i preventivi/s preventivi/i preventivi/Z © sconino peppe png Bash Create preventivi fldr with alphabetial subtoiere rerum: 51 ast Move and roname al DFS to aphabeticai subtlders 8 “Asrs/ratfnee/Deshtop/ claude vorksace” Gn “preventivo \\uipl.pd* “preventivi/A/Alphaben.pd® Gi mi “niva propostapdl° “preventivi/v/Velotech.pa* di mi “proposta da nndare.pdt* “pi rerum 2) ant Vai na flor structure 16 A “vdsers/raftaete/oesktop/ claude vorkspace/preventivi/® Fatto Eccola struttra fiale cell carta proventi; preventivi w | CIS ALBA PITTT e rsi",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 63.400001525878906,
+          "end": 69.4000015258789,
+          "text": "qua ovviamente mi scompare il pulsantino, però mi basta cliccare su un file qualsiasi"
+        },
+        {
+          "start": 69.4000015258789,
+          "end": 73.19999694824219,
+          "text": "e mi compare il pulsantino per avviare una sessione di Cloud Code."
+        },
+        {
+          "start": 73.19999694824219,
+          "end": 75.0,
+          "text": "E qua c'è la sessione di Cloud Code."
+        },
+        {
+          "start": 75.0,
+          "end": 81.0,
+          "text": "Dentro VS Code potete strutturarvi come volete voi le sezioni."
+        },
+        {
+          "start": 81.0,
+          "end": 85.5,
+          "text": "Vedete, mi posso dividere per esempio l'interfaccia in due, mi prendo questo e me lo sposto di qua,"
+        },
+        {
+          "start": 85.5,
+          "end": 89.5,
+          "text": "e quindi c'ho il file aperto da un lato e la chat aperta dall'altra."
+        },
+        {
+          "start": 89.5,
+          "end": 94.0,
+          "text": "Oppure posso tenere nello stesso pezzo, ma sono due schede separate."
+        },
+        {
+          "start": 94.0,
+          "end": 96.19999694824219,
+          "text": "Questo in base a come vi piace lavorare."
+        },
+        {
+          "start": 96.19999694824219,
+          "end": 103.19999694824219,
+          "text": "Ve lo mettete uno sopra l'altro, diciamo in orizzontale e in verticale, in base a quello che preferite voi."
+        },
+        {
+          "start": 103.19999694824219,
+          "end": 105.19999694824219,
+          "text": "Altra cosa interessante qual è?"
+        },
+        {
+          "start": 105.19999694824219,
+          "end": 108.19999694824219,
+          "text": "Qua noi abbiamo la chat nella quale stiamo scrivendo."
+        },
+        {
+          "start": 108.19999694824219,
+          "end": 111.69999694824219,
+          "text": "Ma ci avete fatto caso che la chat però ha un po' di pulsantini?"
+        },
+        {
+          "start": 111.69999694824219,
+          "end": 113.69999694824219,
+          "text": "Allora, vediamo cosa sono questi pulsanti."
+        },
+        {
+          "start": 113.69999694824219,
+          "end": 118.19999694824219,
+          "text": "Questo in basso a destra ci dice la modalità nella quale stiamo lavorando."
+        },
+        {
+          "start": 118.19999694824219,
+          "end": 121.19999694824219,
+          "text": "E cioè, qua vi farà tre tipi di modalità."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 2,
+        "time": 120.0,
+        "timestamp": "00:02:00",
+        "image": "frame_0002.jpg",
+        "reason": "periodic",
+        "ocr_text": "D00 cioe wonsnice | [Ea CD E Cinuse code x > proventi di > proposte commerciali 8 appontimd % appunta md % sppuniamd % appunti % appunta ‘8 conferenza markating.replogo md + coss-posso-fare.md 8 emal-clnte formale md amante mi ‘4 proposta-commerciale md .iepogo-scontintrasferta md ‘8 scontrino piggino. png \"scontrino katia ong © sconwino peppe png Type fmodel o pick the right ol or the ob. Asker et 5; rente E tomaia Pin mos Sii in et Etort (Medium) ® © igpuiice 0",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 121.19999694824219,
+          "end": 124.69999694824219,
+          "text": "Chiedi, sempre, quando devi fare una modifica."
+        },
+        {
+          "start": 124.69999694824219,
+          "end": 130.1999969482422,
+          "text": "No, avete visto, posso modificare questo file, posso scrivere questo file, posso cancellare questa cartella e così via."
+        },
+        {
+          "start": 130.1999969482422,
+          "end": 133.1999969482422,
+          "text": "File e modifiche in automatico, ok?"
+        },
+        {
+          "start": 133.1999969482422,
+          "end": 136.1999969482422,
+          "text": "Quindi quando vi sentite abbastanza sicuri da farlo procedere in automatico."
+        },
+        {
+          "start": 136.1999969482422,
+          "end": 139.1999969482422,
+          "text": "E poi c'è questa modalità, modalità pianificazione."
+        },
+        {
+          "start": 139.1999969482422,
+          "end": 142.1999969482422,
+          "text": "Questa è una delle cose più interessanti di Cloud."
+        },
+        {
+          "start": 142.1999969482422,
+          "end": 145.1999969482422,
+          "text": "Cioè Cloud ha anche una modalità pianificazione."
+        },
+        {
+          "start": 145.1999969482422,
+          "end": 148.6999969482422,
+          "text": "Prima di fare le cose, gli potete dire di pianificarle."
+        },
+        {
+          "start": 148.6999969482422,
+          "end": 153.6999969482422,
+          "text": "Quindi fammi un piano, mostrami il piano, io te la provo e tu lavori."
+        },
+        {
+          "start": 153.6999969482422,
+          "end": 159.1999969482422,
+          "text": "Ok? Quindi è una terza strada rispetto a modifica tutto, chiedimi sempre di modificare."
+        },
+        {
+          "start": 159.1999969482422,
+          "end": 164.6999969482422,
+          "text": "Però questa modalità di pianificazione è pensata soprattutto per il codice."
+        },
+        {
+          "start": 164.6999969482422,
+          "end": 169.6999969482422,
+          "text": "E dopo vi faccio vedere un modo con il quale invece ci facciamo una nostra modalità di pianificazione."
+        },
+        {
+          "start": 169.6999969482422,
+          "end": 176.6999969482422,
+          "text": "Pensata non per il codice, ma per chi appunto fa lavori d'ufficio, lavori di intelletto, lavoro creativo e così via."
+        },
+        {
+          "start": 176.6999969482422,
+          "end": 179.6999969482422,
+          "text": "Quindi qua fondamentalmente possiamo scegliere questa modalità."
+        },
+        {
+          "start": 179.6999969482422,
+          "end": 182.6999969482422,
+          "text": "Poi c'è anche l'effort, ma l'effort ve lo faccio vedere perché sta pure di qua."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 3,
+        "time": 180.0,
+        "timestamp": "00:03:00",
+        "image": "frame_0003.jpg",
+        "reason": "periodic",
+        "ocr_text": "000 cvoe momsmice | [a Ea CD E Claude Code x > proventi rasa > proposte-commercili % appunti * appuntzina % sppuniamd % appunti * appuntiime ‘4 conferenza markating:replgo md % cosa-posso-tae.md 8 emal-lenteSormale md 8 maia md ‘4 proposta-commerciale. md . epiogo-scontintrasferta md \"scontrino piagino. png \"scontrino ati.png scontrino peppe prg Type [model o pick the right oo] o the ob Asker et Sine nt agri tr mano Et tomaia Pinmode Sinti nin temete “tori (Medium) . i) S DISSST)",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 182.6999969482422,
+          "end": 186.6999969482422,
+          "text": "Poi abbiamo qua i file caricati nel contesto."
+        },
+        {
+          "start": 186.6999969482422,
+          "end": 190.6999969482422,
+          "text": "Quindi in questo momento, siccome abbiamo aperto il file appunti 1, ve lo ricordate?"
+        },
+        {
+          "start": 190.6999969482422,
+          "end": 193.6999969482422,
+          "text": "Io gli posso dire se questo file lo voglio utilizzare o meno."
+        },
+        {
+          "start": 193.6999969482422,
+          "end": 200.6999969482422,
+          "text": "Quindi ci clicco sopra e gli dico per esempio, vedete qua c'è l'occhio barrato, gli dico non usare questo file."
+        },
+        {
+          "start": 200.6999969482422,
+          "end": 205.6999969482422,
+          "text": "Oppure diciamo lo ha build e gli dico questo file è il file sul quale devi lavorare."
+        },
+        {
+          "start": 205.6999969482422,
+          "end": 210.6999969482422,
+          "text": "Quindi diciamo è quello che in questo momento è il file, ma semplicemente perché ce l'ho selezionato qua."
+        },
+        {
+          "start": 210.6999969482422,
+          "end": 215.6999969482422,
+          "text": "Qua abbiamo il pulsantino più che mi dice fondamentalmente carica un file dal computer, vedete?"
+        },
+        {
+          "start": 215.6999969482422,
+          "end": 221.6999969482422,
+          "text": "Quindi qua ci sono dei file, che ne so, questo è uno degli scontrini dell'esempio di primo."
+        },
+        {
+          "start": 221.6999969482422,
+          "end": 224.6999969482422,
+          "text": "E gli dico semplicemente, che roba è sto file?"
+        },
+        {
+          "start": 224.6999969482422,
+          "end": 233.6999969482422,
+          "text": "Ovviamente questo non è un esempio particolarmente wow, perché è una cosa che facciamo anche con chat gpt diciamo ormai da diverso tempo."
+        },
+        {
+          "start": 233.6999969482422,
+          "end": 237.6999969482422,
+          "text": "Quindi diciamo non è niente di particolare, però per farvi vedere che possiamo caricare i file."
+        },
+        {
+          "start": 237.6999969482422,
+          "end": 242.6999969482422,
+          "text": "Ci dice guarda è uno scontrino fiscale del ristorante al Colosseo, bla bla bla."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 4,
+        "time": 240.0,
+        "timestamp": "00:04:00",
+        "image": "frame_0004.jpg",
+        "reason": "periodic",
+        "ocr_text": "0005 IO cura Baco- x msreironien x > proventi 2 rasi ent union file type % appunti + sppintzima sa ri) Fei % appunti che roba è sto e? % appunta . conferenza-markating:replogo md ®. È uno scontrino fiscal del stria \"Ar Colosseo\", in Via oi Gladiator 5 3 Roma (PIVA 09878543210) % coss-posso-tara.mi Dettaglio dell'ordine (0109/2021, ore 13:24); 8 emal-tente formale md SS i Coni send x Amatriciama | €10,00. pre Se 2a Cacio e Pope _ €18,00 Pine rear teVino Rosso €200 Fremtilogue 2x Acqua Frizanto €600 © scontrino peppe png te [eso Pagato in contanti con 80,00, resto €400. he + DO Depia",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 242.6999969482422,
+          "end": 247.6999969482422,
+          "text": "Quindi diciamo questa la chiudiamo, riapro un attimo una sessione di Cloud Code per farvi vedere."
+        },
+        {
+          "start": 247.6999969482422,
+          "end": 258.70001220703125,
+          "text": "Poi abbiamo la possibilità di prendere file dal contesto e quindi mi dice prendi una cartella o più cartelle o dei file dalla conversazione per metterne nel contesto, vedete?"
+        },
+        {
+          "start": 258.70001220703125,
+          "end": 266.70001220703125,
+          "text": "Quindi qua abbiamo tutte le cose che sono qua sulla sinistra e quindi gli posso dire che io voglio in particolar modo lavorare sul file appunti 4."
+        },
+        {
+          "start": 266.70001220703125,
+          "end": 269.70001220703125,
+          "text": "E qua gli dico che contiene sto file."
+        },
+        {
+          "start": 269.70001220703125,
+          "end": 276.70001220703125,
+          "text": "È un po' come se avessi fatto la stessa cosa caricando un file dal computer."
+        },
+        {
+          "start": 276.70001220703125,
+          "end": 278.70001220703125,
+          "text": "Ovviamente ne posso selezionare anche più di uno."
+        },
+        {
+          "start": 278.70001220703125,
+          "end": 286.70001220703125,
+          "text": "Mi dice guarda il file contiene degli appunti su un panel con queste tre aziende, Nike, Barilla e una banca non specificata."
+        },
+        {
+          "start": 286.70001220703125,
+          "end": 289.70001220703125,
+          "text": "Quindi là diciamo abbiamo caricato un file nel contesto."
+        },
+        {
+          "start": 289.70001220703125,
+          "end": 292.70001220703125,
+          "text": "Poi possiamo dirgli di cercare su internet."
+        },
+        {
+          "start": 292.70001220703125,
+          "end": 302.70001220703125,
+          "text": "Questa è una cosa che fino ad ora non abbiamo visto perché non è servita, ma io posso abilitare browser, browse the web e gli posso fare una ricerca online se dovesse servire."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 5,
+        "time": 300.0,
+        "timestamp": "00:05:00",
+        "image": "frame_0005.jpg",
+        "reason": "periodic",
+        "ocr_text": "D00) IO creme deco > preventivi > proposte-commerciali ® appunti # appunti md % appunti md SER, * appuntiimd Gappuntiaimd! che contiene sto fe? % appuntiimd % conferenza» markating-rieplogo md ‘© Thought foro. * cosa-posso-fare. md ‘11 filo contiene appunti da un panel sui social media con 3 social media manager di brand importanti % emal-lenta formale md omai-cionte md 4 Mk talia — on puntano su ka ma su conversazioni guardano saatagglcondiiiari/comment lungi, el sotto 15 peformano meglio, slo ee foto emazionali niente caroseliintormati) % proposta commerilemd 2. Barlla —UGC funziona dx meglio del contenuti brand, programma ambassador con 200 food creta, TIKT& miglior ROL, Linka sta espodndo per B28 {od 3. Una banca (non specificata) — complance rende oca fi, chiave trovata nell'educazione finanziaria semplice, meme funzionano anch ne finance, target 16 sorprendentemnte giovane (25-34) ieiogo-scontintrsterta md scontrino giagino. png rsa infondo e una tua nota personale: discorso metriche di Nike è interessante e vuol proporlo l team © scontrino peppe png. ebromeri I + DO Dorina",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 302.70001220703125,
+          "end": 311.70001220703125,
+          "text": "E poi c'è questa parte qua che è una parte estremamente interessante, ma forse è meglio farla in un modulo separato."
+        },
+        {
+          "start": 311.70001220703125,
+          "end": 315.70001220703125,
+          "text": "Vediamo anche come si usa la ricerca web, altrimenti ve l'ho detto ma non ve l'ho fatto vedere."
+        },
+        {
+          "start": 315.70001220703125,
+          "end": 322.70001220703125,
+          "text": "Abilito browse the web e poi scrivo il prompt come lo facciamo ormai sui chatbot."
+        },
+        {
+          "start": 322.70001220703125,
+          "end": 330.70001220703125,
+          "text": "Quindi gli posso dire che tempo farà a Londra nella prossima settimana."
+        },
+        {
+          "start": 331.70001220703125,
+          "end": 336.70001220703125,
+          "text": "Ovviamente anche qua esempio molto semplice solo per far vedere che si collega internet e che può fare la ricerca."
+        },
+        {
+          "start": 336.70001220703125,
+          "end": 342.70001220703125,
+          "text": "Poi dopo invece quando inizieremo ad utilizzarlo in modo più avanzato vedremo come la ricerca poi ci aiuta."
+        },
+        {
+          "start": 342.70001220703125,
+          "end": 350.70001220703125,
+          "text": "Perché magari stiamo preparando del materiale per una presentazione, perché magari stiamo preparando una ricerca per dei contenuti che dobbiamo pubblicare online."
+        },
+        {
+          "start": 350.70001220703125,
+          "end": 355.70001220703125,
+          "text": "Perché magari dobbiamo fare, non lo so, stiamo scrivendo un report e così via."
+        },
+        {
+          "start": 355.70001220703125,
+          "end": 361.70001220703125,
+          "text": "In questo caso ha fatto semplicemente una ricerca su quello che abbiamo detto noi, quindi quella sul metro."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 6,
+        "time": 360.0,
+        "timestamp": "00:06:00",
+        "image": "frame_0006.jpg",
+        "reason": "periodic",
+        "ocr_text": "000 cinte orisoace O crcrcma Becco DES > prevent > proposte.commeriali È sppuntitim * sppuntizima ia) % appunta Ebronser: che tempo frà londra na prossima settimana? % appunti * appuntima ® Tnougnt for os % conferenza markating:replgo mi % cosa-posso-fare md Find ee ueà search results for queryi \"previsioni meteo Londra prossia settimana aprile 202° % omai-chente ma a era Links: (CVitle Londra pete in aprile 2026 | Londra meteo 14 giomi*, url\" :\"hEts:/Aetons.coeurope/uniteshingson/londen?pogemonebanontmtori1*, Cite ‘ teplogo-scontrii-trastrta md © scontrino gigino.png È scontrino tipo © scontrino peppe png net peer esulta fr quei \"London vesther forecast next vck April 14-20 2026\" Mob Search previsioni neteo Londra prossin settisana sprite 202 e Web Search Lonsen vester forecast next vek rit 10-20 2026 Links: IE tAL1O\": \"London, London, United Kinpdon Nonthly xenther | Accmesther,\"ri* ad ncceatber. cofano \\ondon/ect2/9pr1\\-ventber/328325) - Oeiberating.. î = + DD sonia",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 361.70001220703125,
+          "end": 365.70001220703125,
+          "text": "E adesso mi darà i risultati nella chat perché noi gli ho detto manco di creare dei file."
+        },
+        {
+          "start": 365.70001220703125,
+          "end": 371.70001220703125,
+          "text": "Quindi questa è una modalità molto tradizionale, passatemi il termine, solo per far vedere che funziona la ricerca online."
+        },
+        {
+          "start": 371.70001220703125,
+          "end": 378.70001220703125,
+          "text": "Ecco tutto qua. Mi chiudo questa finestra qua, me la riapro, cioè me ne apro una nuova."
+        },
+        {
+          "start": 378.70001220703125,
+          "end": 386.70001220703125,
+          "text": "E vi faccio vedere anche questo comandino qua, che è il menu dei comandi, diciamo lo chiama."
+        },
+        {
+          "start": 386.70001220703125,
+          "end": 390.70001220703125,
+          "text": "Allora che cos'è il menu dei comandi? Quando clicco qua sopra si aprono una serie di cose."
+        },
+        {
+          "start": 390.70001220703125,
+          "end": 397.70001220703125,
+          "text": "Questo qua del contesto l'abbiamo già visto, perché è quello che si può fare anche col pulsante più a fianco."
+        },
+        {
+          "start": 397.70001220703125,
+          "end": 401.70001220703125,
+          "text": "Sul modello è interessante perché possiamo cambiare il modello."
+        },
+        {
+          "start": 401.70001220703125,
+          "end": 407.70001220703125,
+          "text": "Ma tu cosa vuoi utilizzare? Haiku, Sonnet oppure vuoi utilizzare Opus?"
+        },
+        {
+          "start": 407.70001220703125,
+          "end": 413.70001220703125,
+          "text": "Quindi c'è quello più semplice, che è più veloce, c'è quello più avanzato, che però è più complesso e così via."
+        },
+        {
+          "start": 413.70001220703125,
+          "end": 416.70001220703125,
+          "text": "Diventa quello che voi state andando a utilizzare, ovviamente."
+        },
+        {
+          "start": 416.70001220703125,
+          "end": 427.70001220703125,
+          "text": "Per delle cose molto veloci potete mettere Haiku, spendete di meno, diciamo vi finiscono prima se state utilizzando le API, ovviamente vi costa di meno e così via."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 7,
+        "time": 420.0,
+        "timestamp": "00:07:00",
+        "image": "frame_0007.jpg",
+        "reason": "periodic",
+        "ocr_text": "000 @ cuoeronsnce Db 19 CO» cose cose x > clude dono, > proven > proposte.commerciali appuntita % appunti md % appunta md % appunti % appunti % conferenza markating:replogo md % cosa-posso-fare md 2. emadlnt-forma md % mao md % proposta commerciale md ‘ tieplogo-scontri-trasterta md \"8 scontrino pigino png © sconrino katia png \"scontrino peppe png Detaut (recommended) \"ORO A cu Mot cal tt col Sonnet Ha Ma. tergo auci ans + epr",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 427.70001220703125,
+          "end": 431.70001220703125,
+          "text": "Per le vie di mezzo mettete Sonnet, altrimenti per le cose avanzate mettete Opus."
+        },
+        {
+          "start": 431.70001220703125,
+          "end": 436.70001220703125,
+          "text": "Qua potete scegliere quale modalità volete. Lasciamo un attimo questa qua di default per il momento."
+        },
+        {
+          "start": 436.70001220703125,
+          "end": 447.70001220703125,
+          "text": "Poi cos'altro? Potete scegliere l'effort, quindi quanto ci deve mettere, quanto si deve impegnare il modello che avete scelto."
+        },
+        {
+          "start": 447.70001220703125,
+          "end": 457.70001220703125,
+          "text": "Anche questo impatta sui consumi, questo semplicemente la spostate come rotellina e la mettete minimo, la mettete medio, la mettete alto, la mettete altissimo."
+        },
+        {
+          "start": 457.70001220703125,
+          "end": 465.70001220703125,
+          "text": "Anche qua dipende da quello che state facendo, non andate a mettere cose alte, a consumare inutilmente l'allowance che vi dà Antropic."
+        },
+        {
+          "start": 465.70001220703125,
+          "end": 474.70001220703125,
+          "text": "Poi abbiamo il thinking mode, quindi se vogliamo che pensa prima di rispondere sulle cose semplici che abbiamo fatto fino ad ora non vi servirà mai."
+        },
+        {
+          "start": 474.70001220703125,
+          "end": 480.70001220703125,
+          "text": "Quindi rinominare un file, leggere un'immagine, guardare un documento PDF e così via."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 8,
+        "time": 480.0,
+        "timestamp": "00:08:00",
+        "image": "frame_0008.jpg",
+        "reason": "periodic",
+        "ocr_text": "Attach flo. Menton fl from the project. Clear conversation Rendi Seitehimodel.. tot (edu) Thinking Account & usage. Toggle ast mode",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 480.70001220703125,
+          "end": 486.70001220703125,
+          "text": "Per queste cosine qua potete usare anche modelli molto economici, molto semplici, molto veloci e non abilitare il pensiero."
+        },
+        {
+          "start": 486.70001220703125,
+          "end": 494.70001220703125,
+          "text": "Sulle cose avanzate invece abilitatelo sempre, quando ci dovete fare cose di lavoro serie, soprattutto se state facendo per esempio del brainstorming,"
+        },
+        {
+          "start": 494.70001220703125,
+          "end": 499.70001220703125,
+          "text": "è fondamentale abilitarlo, vedete proprio la differenza di qualità che vi dà."
+        },
+        {
+          "start": 500.70001220703125,
+          "end": 508.70001220703125,
+          "text": "Poi avete il fast mode, se mettete fast mode ovviamente vi va in questa modalità più veloce, anche più economica."
+        },
+        {
+          "start": 508.70001220703125,
+          "end": 515.7000122070312,
+          "text": "Qua è partito il terminale, ve lo volevo far vedere tra un attimo, però ci ho cliccato sopra e vi ho fatto vedere che si apre il terminale."
+        },
+        {
+          "start": 515.7000122070312,
+          "end": 521.7000122070312,
+          "text": "Lo chiudo adesso, fate finta di nulla, lo chiudo e dopo vi faccio vedere che qua dentro possiamo aprire anche il terminale."
+        },
+        {
+          "start": 521.7000122070312,
+          "end": 529.7000122070312,
+          "text": "Poi abbiamo anche questo qua, account e usage, che ci fa una sorta di riassunto di quanto stiamo consumando in questo momento."
+        },
+        {
+          "start": 529.7000122070312,
+          "end": 536.7000122070312,
+          "text": "Quindi per registrare questo corso, quanto ci sto mettendo, quanto sto consumando di quello settimanale e così via."
+        },
+        {
+          "start": 536.7000122070312,
+          "end": 544.7000122070312,
+          "text": "Questo potete tenere sotto controllo, se magari lo usate tanto per vedere quanto spentete, se vale la pena passare ad un abbonamento più grande,"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 9,
+        "time": 540.0,
+        "timestamp": "00:09:00",
+        "image": "frame_0009.jpg",
+        "reason": "periodic",
+        "ocr_text": "‘Account & Usage account mad Organization",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 544.7000122070312,
+          "end": 547.7000122070312,
+          "text": "se vale la pena passare ad utilizzare le API e così via."
+        },
+        {
+          "start": 548.7000122070312,
+          "end": 556.7000122070312,
+          "text": "E ovviamente quello che vi ho fatto vedere, che già vi ho anticipato perché ci ho cliccato sopra, è che questo qua non è il vero e proprio terminale."
+        },
+        {
+          "start": 556.7000122070312,
+          "end": 564.7000122070312,
+          "text": "Come vi ho detto prima, è una sorta di versione un po' più semplificata del terminal di Cloud, che alla fine è un'interfaccia grafica, no?"
+        },
+        {
+          "start": 564.7000122070312,
+          "end": 571.7000122070312,
+          "text": "Sembra una chat, perciò vi ho detto noi non lo useremo quasi mai dal terminale, lo useremo da una chat, perché stiamo usando la chat di VS Code."
+        },
+        {
+          "start": 571.7000122070312,
+          "end": 578.7000122070312,
+          "text": "Però in realtà noi possiamo da qua dentro stesso anche avere il terminale, sia andando nel menu di VS Code e lanciando un nuovo terminale."
+        },
+        {
+          "start": 578.7000122070312,
+          "end": 580.7000122070312,
+          "text": "Vedete qua si apre proprio un terminale, tutti gli effetti."
+        },
+        {
+          "start": 580.7000122070312,
+          "end": 589.7000122070312,
+          "text": "Questo è identico al terminale che io aprirei così su Mac, per capirci, oppure quello che aprite su Windows."
+        },
+        {
+          "start": 589.7000122070312,
+          "end": 598.7000122070312,
+          "text": "Ma per alcune cose, quando voi siete qua dentro, per alcune funzionalità, se voi continuate a scendere, adesso qua non ve le faccio vedere tutte queste qua, non in questa fase del corso,"
+        },
+        {
+          "start": 598.7000122070312,
+          "end": 609.7000122070312,
+          "text": "ma quando voi, diciamo, avete, volete aprire una di queste opzioni, vi dice che per alcune di esse non le può fare direttamente qua dentro, ok?"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 10,
+        "time": 600.0,
+        "timestamp": "00:10:00",
+        "image": "frame_0010.jpg",
+        "reason": "periodic",
+        "ocr_text": "000 © sovvomene Bra CO - | cidecode x > claude Uncisea > proventi > proposte commerciali appuntita % appunta % appunta % appunta % appunti conferenza markatineplogo mi % coss-posso-aremd % emadclnt-formale md % omaictento md # proposta commerciale md % rieplogo-sconrin-trastrta md \"scontrino pigina png \"© scontrino katia. scontrino peppe png res Toggle ast mode",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 609.7000122070312,
+          "end": 615.7000122070312,
+          "text": "Per esempio i plug-in sì, se voglio installare un plug-in, che vedremo più avanti, lo clicco e mi parte la gestione dei plug-in."
+        },
+        {
+          "start": 615.7000122070312,
+          "end": 623.7000122070312,
+          "text": "Però se voglio fare una cosa un pochino più avanzata, che ne so, la gestione degli agenti, mi dice no, questo per farlo ti lancerò il terminale, ok?"
+        },
+        {
+          "start": 624.7000122070312,
+          "end": 631.7000122070312,
+          "text": "E vedete che c'è anche proprio una voce, semplicemente, che si chiama lanciami il terminale. Io lo clicco e lui mi fa apri cloud nel terminale."
+        },
+        {
+          "start": 631.7000122070312,
+          "end": 642.7000122070312,
+          "text": "Quindi ha aperto in automatico un terminale, ha dato il comando cloud, vedete questo non l'ho dato, io l'ho dato in automatico, e mi ha aperto adesso cloud nel terminale."
+        },
+        {
+          "start": 642.7000122070312,
+          "end": 645.7000122070312,
+          "text": "Vi ricordate? Questa è la stessa identica cosa di fare questo, ok?"
+        },
+        {
+          "start": 645.7000122070312,
+          "end": 653.7000122070312,
+          "text": "Cloud, invio. Ah no, scusatemi, perché sono nella cartella Raffaele, quindi adesso non gli voglio dare il permesso."
+        },
+        {
+          "start": 653.7000122070312,
+          "end": 658.7000122070312,
+          "text": "Però avete capito, no? È la stessa cosa di dare l'accesso, diciamo, tramite terminale."
+        },
+        {
+          "start": 658.7000122070312,
+          "end": 665.7000122070312,
+          "text": "Chiudiamo questo qua. Adesso io qua dentro sono dentro cloud. Sono dentro cloud code, però aperto nel terminale, quindi non sto nella chat qua, vedete?"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 11,
+        "time": 660.0,
+        "timestamp": "00:11:00",
+        "image": "frame_0011.jpg",
+        "reason": "periodic",
+        "ocr_text": "005 O core Bia co- a cudecie Untitied % conferenza markating: riepilogo md # cosa-posso-fara md 8 omadctlnt- formal md pento) A Lai pene Procrnsta tra pro er ji ie \"arena ia e dn © scontrino katia png \"5 scontrino peppe png. GNDETE: + DI Despina Run Jindt to create o CLAUDE.md file with instructions for Claude Ao recent activity Quo 4-6 (an conte) th me. Claut x \"pesktop/elaude vorkspace 50 7 197 sporto",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 665.7000122070312,
+          "end": 675.7000122070312,
+          "text": "Quindi qua gli posso dire in che cartella siamo, perché questo è dentro cloud workspace, è quello che io normalmente avrei scritto qua sopra."
+        },
+        {
+          "start": 675.7000122070312,
+          "end": 684.7000122070312,
+          "text": "Adesso vi faccio vedere, siamo in user Raffaele desktop cloud workspace. Per caso ci sono degli scontrini."
+        },
+        {
+          "start": 684.7000122070312,
+          "end": 690.7000122070312,
+          "text": "Adesso è le stesse cose che stiamo facendo qua, vedete come adesso spaventano un po' di meno?"
+        },
+        {
+          "start": 690.7000122070312,
+          "end": 697.7000122070312,
+          "text": "Perché quando le davamo qua sembrava meno strano. Aspettate, questo me lo alzo un pochino, giusto per farvi vedere."
+        },
+        {
+          "start": 697.7000122070312,
+          "end": 703.7000122070312,
+          "text": "Quando lo diamo nel terminale, il terminale c'ha un po' più di roba, scrive in maniera un po' più verbosa."
+        },
+        {
+          "start": 703.7000122070312,
+          "end": 709.7000122070312,
+          "text": "Dice sì, guarda, ci sono tre immagini, scontrino Gigino, scontrino Katia, scontrino Peppe, poi c'è anche un riepilogo."
+        },
+        {
+          "start": 709.7000122070312,
+          "end": 723.7000122070312,
+          "text": "Io mi dico, dimmi un attimo il riepilogo, quanto sono costate le bibite. Ovviamente sono esempi molto stupidi, solo per farvi vedere che sto usando il terminale."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 12,
+        "time": 720.0,
+        "timestamp": "00:12:00",
+        "image": "frame_0012.jpg",
+        "reason": "periodic",
+        "ocr_text": "5) cine momenice Da fa CO > claude > proventi > proposte commerciali % appuntita % appunta % appuntamd % appuntiima % appuntsma conferenza merkating:replgo md % coss-posso-are md 6 emallnt-formala md % emai-chente mi % proposta commerciale md 8 riopliogo-scontin-trsferta md \"scontrino gigi. png © scontrino ati. rst \"® scontrino peppe png Raffaele Gasto \"Afbesxtoprerause vorkspace 3-10 ehe cartetta stano? Siamo in /Users/ affaele/Desktog/claude vorkapace. 3 per caso ci cono degli scrontrint? Listed 1 directory (etelso t0 expand) SAI CA sono diversi file legati a scontrini: sese: 1 Finpilogo=scantrini.erasterto.n Vuoi che Li legga 0 che faccia qualcosa con questi scontrini? dini un attino nel riepilogo quanto sono costate le bibite? vendering Tipi Rim /terninat-setup to enable convenient terminal integration Like SHIP + Enter for pes line and more",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 723.7000122070312,
+          "end": 730.7000122070312,
+          "text": "Cioè quello che vi voglio dire fondamentalmente, non abbiate paura del terminale, ecco. Questo è un po' il senso di questa cosa che vi sto dicendo."
+        },
+        {
+          "start": 730.7000122070312,
+          "end": 736.7000122070312,
+          "text": "Perché questi sono comandi che noi avremmo dato qua sopra nella chat, adesso li stiamo dando sul terminale, ok?"
+        },
+        {
+          "start": 736.7000122070312,
+          "end": 744.7000122070312,
+          "text": "Che sembra un po' più oscuro, perché è un'interfaccia meno gradevole, me ne rendo conto ovviamente, ma in alcuni casi ci servirà."
+        },
+        {
+          "start": 744.7000122070312,
+          "end": 753.7000122070312,
+          "text": "Adesso lo chiudo, questo era solo un passaggio veloce per dirvi di non spaventarvi, lo chiudo perché tutto il resto continueremo a farlo, diciamo, chiudiamolo qua."
+        },
+        {
+          "start": 753.7000122070312,
+          "end": 761.7000122070312,
+          "text": "Continueremo a farlo da questa interfaccia di Cloud Code, che è una sorta di terminale un pochino semplificato."
+        },
+        {
+          "start": 761.7000122070312,
+          "end": 770.7000122070312,
+          "text": "Se qualche volta servirà aprire il terminale, ve lo dico, per fare questa roba è un po' più avanzata, qua dentro non ce lo fa fare, apriamo un attimo il terminale."
+        }
+      ]
+    }
+  ]
+}

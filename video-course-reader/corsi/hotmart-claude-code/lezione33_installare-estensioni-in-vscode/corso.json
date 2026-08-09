@@ -1,0 +1,570 @@
+{
+  "title": "Installare estensioni in VScode",
+  "sections": [
+    {
+      "keyframe": {
+        "index": 0,
+        "time": 0.0,
+        "timestamp": "00:00:00",
+        "image": "frame_0000.jpg",
+        "reason": "start",
+        "ocr_text": "Ba CO = dk Ciudecode x Untitodi Make a CLAUDE mo fl fr ietruetione Claude il rad very sing me + Descn",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1.0,
+          "end": 7.0,
+          "text": "Il primo livello di potenziamento, di estensione, che andiamo a vedere è quello del nostro VS Code."
+        },
+        {
+          "start": 7.0,
+          "end": 12.0,
+          "text": "Vi ricordate? VS Code è, diciamo, l'app all'interno del quale noi usiamo Cloud Code."
+        },
+        {
+          "start": 12.0,
+          "end": 18.0,
+          "text": "È molto comoda perché ci dà in un solo colpo il terminale, la chat, tutti i nostri file di lato."
+        },
+        {
+          "start": 18.0,
+          "end": 22.0,
+          "text": "Ed essendo poi un'app, è a sua volta personalizzabile."
+        },
+        {
+          "start": 22.0,
+          "end": 26.0,
+          "text": "E come si personalizza? Con quelle che vengono chiamate le estensioni."
+        },
+        {
+          "start": 26.0,
+          "end": 30.0,
+          "text": "Le estensioni si installano da qua. Vedete queste iconcine qua sulla sinistra? Extension."
+        },
+        {
+          "start": 30.0,
+          "end": 36.0,
+          "text": "E tra l'altro noi ne abbiamo già una installata. Cioè c'è questa estensione che si chiama Cloud Code."
+        },
+        {
+          "start": 36.0,
+          "end": 43.0,
+          "text": "Noi siamo in grado di usare Cloud Code qua dentro perché in una delle prime lezioni abbiamo installato questa estensione."
+        },
+        {
+          "start": 43.0,
+          "end": 49.0,
+          "text": "E ci sono migliaia e migliaia di estensioni disponibili gratuitamente."
+        },
+        {
+          "start": 49.0,
+          "end": 52.0,
+          "text": "Vi basta cercarle qua dentro, all'interno del marketplace."
+        },
+        {
+          "start": 52.0,
+          "end": 57.0,
+          "text": "Attenzione a quando installate le estensioni. Assicuratevi che sia una fonte fidata."
+        },
+        {
+          "start": 57.0,
+          "end": 62.0,
+          "text": "Altrimenti, diciamo, è rischioso perché vi state installando qualcosa sul vostro computer di non fidato."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 1,
+        "time": 60.0,
+        "timestamp": "00:01:00",
+        "image": "frame_0001.jpg",
+        "reason": "periodic",
+        "ocr_text": "n) ® Claude Code for VSC... Dem Claude Code for VS Code: Harnos 6 ® vacode-paf | Caria das Display pet fl in VSCOde, romolo? A markdomnine Corn das Marco ing and sie check. vin coon gra Vim emula fo Visun Stud C. + Dosen Make 9 CLAUDE md fl tr inatruetione Claude il rad very single time 000 «06 © 9",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 62.0,
+          "end": 65.0,
+          "text": "Quali sono alcune estensioni che potrebbero esserci utili?"
+        },
+        {
+          "start": 65.0,
+          "end": 69.0,
+          "text": "Ve ne faccio vedere un paio che uso io, solo per farvi vedere come si installano."
+        },
+        {
+          "start": 69.0,
+          "end": 73.0,
+          "text": "E poi in realtà vi lascio, come dire qua, totale libertà."
+        },
+        {
+          "start": 73.0,
+          "end": 77.0,
+          "text": "Cercatevi le estensioni più utili a voi, per il vostro lavoro e le vostre esigenze e installatevele."
+        },
+        {
+          "start": 78.0,
+          "end": 82.0,
+          "text": "La prima che capita sempre, con la quale ci scontriamo, sono i pdf."
+        },
+        {
+          "start": 82.0,
+          "end": 90.0,
+          "text": "Io sono dentro qua, nel mio VS Code. Mi sono caricato nella cartella temporanea un report, per esempio, un report che stavo leggendo."
+        },
+        {
+          "start": 90.0,
+          "end": 94.0,
+          "text": "Questo è un pdf. Che succede se io qua dentro clicco un pdf?"
+        },
+        {
+          "start": 94.0,
+          "end": 103.0,
+          "text": "Sapete perché? Sui file md, quindi diciamo i file markdown, li legge bene perché ovviamente sono i suoi tipi di file."
+        },
+        {
+          "start": 103.0,
+          "end": 109.0,
+          "text": "Ma se io clicco un pdf, guardate che succede. Il pdf ce lo rovina tutto."
+        },
+        {
+          "start": 109.0,
+          "end": 114.0,
+          "text": "Cioè ci fa vedere questa sorta di codice che è quello che c'è dietro il pdf, quindi non lo vediamo."
+        },
+        {
+          "start": 114.0,
+          "end": 120.0,
+          "text": "Allora una prima estensione che io vi consiglio di installare è quella per vedere i pdf dentro il VS Code."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 2,
+        "time": 120.0,
+        "timestamp": "00:02:00",
+        "image": "frame_0002.jpg",
+        "reason": "periodic",
+        "ocr_text": "EDO *D%@ (ONo] + DD sos rpont ione",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 120.0,
+          "end": 125.0,
+          "text": "Quindi andiamo qua, qua diciamo in realtà è tra quelle raccomandate, quindi è una di quelle che installano tutti quanti subito."
+        },
+        {
+          "start": 125.0,
+          "end": 131.0,
+          "text": "Però se non vi fosse comparsa qua, se non avete letto questa cosa da nessuna parte in giro,"
+        },
+        {
+          "start": 131.0,
+          "end": 136.0,
+          "text": "se siete arrivati fino a questo momento e non riuscite a leggere il pdf, la prima cosa è installare questa."
+        },
+        {
+          "start": 136.0,
+          "end": 142.0,
+          "text": "Oppure semplicemente qua dentro andate nella barra di ricerca e cercate VS Code, trattino, pdf, ok?"
+        },
+        {
+          "start": 142.0,
+          "end": 147.0,
+          "text": "E ve la fa vedere. Questa qua è la più famosa, questa è di tomoki1207."
+        },
+        {
+          "start": 147.0,
+          "end": 152.0,
+          "text": "C'ha 11 milioni di installazioni, è un'estensione molto utilizzata, molto seria."
+        },
+        {
+          "start": 152.0,
+          "end": 155.0,
+          "text": "Faccio install, qua mi dice ti fidi di questa persona?"
+        },
+        {
+          "start": 156.0,
+          "end": 163.0,
+          "text": "Installiamola, ripeto lo faccio perché c'ha tantissime recensioni, tantissime installazioni, è molto utilizzata e così via."
+        },
+        {
+          "start": 163.0,
+          "end": 168.0,
+          "text": "Quando ha finito l'installazione, diciamo se cancello un attimo qua, vi faccio vedere."
+        },
+        {
+          "start": 168.0,
+          "end": 174.0,
+          "text": "Quando finisce l'installazione vi dice devi fare, devi riavviarla per farla funzionare, altrimenti non funziona subito."
+        },
+        {
+          "start": 174.0,
+          "end": 183.0,
+          "text": "Quindi noi clicchiamo su Restart Extension e adesso in questo momento il nostro VS Code, il nostro ambiente è in grado di vedere i pdf."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 3,
+        "time": 180.0,
+        "timestamp": "00:03:00",
+        "image": "frame_0003.jpg",
+        "reason": "periodic",
+        "ocr_text": "Claude Code for VSC... 5 ecm Claude Code for VS Code: Harnos Warren C) vicode-pd Display pel file in VSCOde. > necouuENDEO ® markaomnine orta ata Marida ning and sy check. vin ori gra Vi emula fo Visun Stu C. ctu rispose Claude Code Make a CLAUDE md le fr istruetione Cla il rad very single time + DD ainsi mpon 2026 pet BDeo *D@ © ©",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 183.0,
+          "end": 188.0,
+          "text": "Come ce ne accorgiamo, torniamo nei file, clicchiamo qua ed ecco qua."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 4,
+        "time": 187.2,
+        "timestamp": "00:03:07",
+        "image": "frame_0004.jpg",
+        "reason": "scene",
+        "ocr_text": "@ Code Filo Edit. Selection View Go Run Terminal | Window aLndex_raport2028 pat Help X Claude Code Bd e a eos d QI ie cea 5) SI o morkpace di",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 188.0,
+          "end": 191.0,
+          "text": "Abbiamo adesso il nostro pdf che possiamo scrollare."
+        },
+        {
+          "start": 191.0,
+          "end": 194.0,
+          "text": "Avete capito cosa significa che è estendibile all'infinito?"
+        },
+        {
+          "start": 194.0,
+          "end": 202.0,
+          "text": "E questo è solo il primo livello, quello più semplice, quello più banale, sono cose di superficie, tipo la lettura dei file, non è una cosa clamorosa."
+        },
+        {
+          "start": 202.0,
+          "end": 204.0,
+          "text": "Però vi faccio vedere un'altra."
+        },
+        {
+          "start": 204.0,
+          "end": 207.0,
+          "text": "Io per esempio lavoro tanto con questo, avete visto no?"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 5,
+        "time": 204.4,
+        "timestamp": "00:03:24",
+        "image": "frame_0005.jpg",
+        "reason": "scene",
+        "ocr_text": "Don cine mosca Td fa CD E Cln Code x «06 3 Un (IO) > cloni a Make a CLAUDE md fl fr instrutione Claude wil rad every single time. + 1 D as ipetzozesaì",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 207.0,
+          "end": 213.0,
+          "text": "Ho tantissimo questa roba qua, questi schemi che faccio."
+        },
+        {
+          "start": 213.0,
+          "end": 220.0,
+          "text": "Questi schemi si fanno con questo sito gratuito che si chiama Excalidro, che ci fa dei veri e propri file."
+        },
+        {
+          "start": 220.0,
+          "end": 227.0,
+          "text": "Cioè questo per esempio, questo file qua, vedete, è il codice che c'è dietro quella lavagna che vi ho fatto vedere."
+        },
+        {
+          "start": 227.0,
+          "end": 232.0,
+          "text": "Ma ancora una volta non lo riusciamo a vedere esteticamente, o meglio graficamente nel modo corretto."
+        },
+        {
+          "start": 232.0,
+          "end": 235.0,
+          "text": "Perché? Perché stiamo vedendo il codice che c'è dietro, ok?"
+        },
+        {
+          "start": 235.0,
+          "end": 237.0,
+          "text": "Un po' come succedeva con il PDF."
+        },
+        {
+          "start": 237.0,
+          "end": 240.0,
+          "text": "Quindi io personalmente nel mio ambiente cosa mi sono installato?"
+        },
+        {
+          "start": 240.0,
+          "end": 243.0,
+          "text": "L'estensione per vedere i file Excalidro."
+        },
+        {
+          "start": 243.0,
+          "end": 251.0,
+          "text": "Quindi sono andato qua, qua e cerco Excalidro."
+        },
+        {
+          "start": 251.0,
+          "end": 252.0,
+          "text": "Eccolo qua."
+        },
+        {
+          "start": 252.0,
+          "end": 259.0,
+          "text": "E qua abbiamo l'estensione di Excalidro che permette di vedere questi file, graficamente parlando, all'interno di VS Code."
+        },
+        {
+          "start": 260.0,
+          "end": 263.0,
+          "text": "5 Stelline, 468 mila installazioni."
+        },
+        {
+          "start": 263.0,
+          "end": 265.0,
+          "text": "Faccio install."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 6,
+        "time": 264.4,
+        "timestamp": "00:04:24",
+        "image": "frame_0006.jpg",
+        "reason": "periodic",
+        "ocr_text": "vara Excalidraw Teoe + Claude Code pomdtr | < 468,886 | dra (39) ponti Draw schemas in VS Cod using Excaidrow scaltra CO Auto Update. Encalidram Coplot com dee Marketpl Genarata aut agro larketplace cacabiramenme-ile Gi des toe iano (oi [AN Do ya tesi te puotaber ‘pomusi Put 5 yer 00 da “Tha estensi Earl published by pome. Ts is the first lens astenson you stang from th publisher. © pome is ot veri 'Categanee Marksonm inline Exel 2 Ebcalitrame - nima... <a22 ES Apimate your Excaira dia Visual Studio Codo has no control over th behavior fidi party Vita deri entensione,incucing ho ey manage your personal da. Proceed cali you trust the publisher Resources Fia Pesci | © fosti Encatiati see VSCOda oxtension .. Cè IX Re Marion Preview... (0205 Noted 9",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 265.0,
+          "end": 268.0,
+          "text": "Mi dice ancora una volta ti fidi di questa persona, eccetera eccetera."
+        },
+        {
+          "start": 268.0,
+          "end": 269.0,
+          "text": "Faccio installa."
+        },
+        {
+          "start": 269.0,
+          "end": 275.0,
+          "text": "E anche a sto giro la dovrò, diciamo, riavviare per farla funzionare, ok?"
+        },
+        {
+          "start": 275.0,
+          "end": 280.0,
+          "text": "Quindi qua ogni volta che la installate le vedete qua e vi dice che dovete riavviarle."
+        },
+        {
+          "start": 280.0,
+          "end": 282.0,
+          "text": "Come ce ne accorgiamo se sta funzionando?"
+        },
+        {
+          "start": 282.0,
+          "end": 288.0,
+          "text": "Torno per esempio qua, clicco sullo stesso file e adesso questo file lo posso vedere graficamente."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 7,
+        "time": 285.3,
+        "timestamp": "00:04:45",
+        "image": "frame_0007.jpg",
+        "reason": "scene",
+        "ocr_text": "6 Code Fio Edit. Selection View. Go Run Terminal | Window Help mopace di ChaGPT SELE Li Vive nel browser Risposta in hat, devi copirla Scrive diretta Un testo all volta Piufile Output da formattare a mano",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 288.0,
+          "end": 289.0,
+          "text": "Eccolo qua."
+        },
+        {
+          "start": 289.0,
+          "end": 290.0,
+          "text": "Vi ricordate?"
+        },
+        {
+          "start": 290.0,
+          "end": 293.0,
+          "text": "Questo è quello che abbiamo visto proprio all'inizio, nelle primissime lezioni e così via."
+        },
+        {
+          "start": 293.0,
+          "end": 299.0,
+          "text": "Quindi quel file che prima vedevo solo la parte di codice, adesso riesco a guardarlo."
+        },
+        {
+          "start": 299.0,
+          "end": 305.0,
+          "text": "In realtà qua posso anche proprio modificarlo perché mi aggiunge tutte le funzionalità per la modifica e così via."
+        },
+        {
+          "start": 305.0,
+          "end": 307.0,
+          "text": "Stiamo estendendo il nostro VS Code."
+        },
+        {
+          "start": 307.0,
+          "end": 311.0,
+          "text": "Adesso è in grado di fare più cose e significa che possiamo lavorare meglio."
+        },
+        {
+          "start": 311.0,
+          "end": 315.0,
+          "text": "Perché qua dentro posso aprire al volo i file PDF, i file Excalidro, tutto quello che serve a voi."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 8,
+        "time": 315.43,
+        "timestamp": "00:05:15",
+        "image": "frame_0008.jpg",
+        "reason": "scene",
+        "ocr_text": "® a CO = dk Ciudecode x Untited © archivio > ln > conto > riunioni temo © aitkeen 4 alindox_ report 2028 pa > tempinte Make a CLAUDE md le fr instrvtione Claude il rad every single time + DD ailrsec impor 20200at",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 316.0,
+          "end": 320.0,
+          "text": "Ne faccio vedere un altro che è più una cosa simpatica, non è utilissima."
+        },
+        {
+          "start": 320.0,
+          "end": 325.0,
+          "text": "Però io non posso fare a meno di questa estensione, guardo di qua perché ho il nome da quest'altro lato,"
+        },
+        {
+          "start": 325.0,
+          "end": 330.0,
+          "text": "che si chiama VS Code Icons."
+        },
+        {
+          "start": 330.0,
+          "end": 334.0,
+          "text": "Cioè mi sono cambiato l'icone con cui lavora VS Code."
+        },
+        {
+          "start": 334.0,
+          "end": 338.0,
+          "text": "Questo non è che dovete mettervelo per forza, però c'è 23 milioni e 8 di installazioni."
+        },
+        {
+          "start": 338.0,
+          "end": 342.0,
+          "text": "Faccio install e gli do l'ok."
+        },
+        {
+          "start": 343.0,
+          "end": 347.0,
+          "text": "Quando l'abbiamo finito di installare, adesso possiamo vedere,"
+        },
+        {
+          "start": 347.0,
+          "end": 351.0,
+          "text": "vedete qua ci sono le iconcine nuove che ci hanno messo."
+        },
+        {
+          "start": 351.0,
+          "end": 354.0,
+          "text": "Questo lo chiudo, questo qua lo tolgo."
+        },
+        {
+          "start": 354.0,
+          "end": 359.0,
+          "text": "E adesso se torno nei miei file, qua abbiamo tutti i file belli con le icone."
+        },
+        {
+          "start": 359.0,
+          "end": 363.0,
+          "text": "Questa è una fissa mia perché sono abituato a lavorare e voglio vedere le cose bene."
+        },
+        {
+          "start": 363.0,
+          "end": 366.0,
+          "text": "Quindi adesso abbiamo, vedete, l'icona della cartella."
+        },
+        {
+          "start": 366.0,
+          "end": 369.0,
+          "text": "Questa è una cartella nascosta, quindi si vede in questo modo."
+        },
+        {
+          "start": 369.0,
+          "end": 374.0,
+          "text": "Il file di Cloud c'è l'iconcina, i PDF c'erano la loro, gli Excalidro c'erano la loro."
+        },
+        {
+          "start": 374.0,
+          "end": 376.0,
+          "text": "Sono tutte quelle cose che ci permettono di lavorare meglio."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 9,
+        "time": 375.43,
+        "timestamp": "00:06:15",
+        "image": "frame_0009.jpg",
+        "reason": "periodic",
+        "ocr_text": "Ciau Code x Untitod + DD sile ron zena",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 376.0,
+          "end": 381.0,
+          "text": "Con questo primo livello di personalizzazione non è che stiamo facendo delle cose clamorose."
+        },
+        {
+          "start": 381.0,
+          "end": 385.0,
+          "text": "Come abbiamo detto, qua stiamo personalizzando l'ambiente di lavoro."
+        },
+        {
+          "start": 385.0,
+          "end": 389.0,
+          "text": "Ce lo siamo resi un po' più comodo, mettiamola così."
+        },
+        {
+          "start": 389.0,
+          "end": 390.0,
+          "text": "Questo è il primo livello."
+        },
+        {
+          "start": 390.0,
+          "end": 394.0,
+          "text": "Negli altri due invece andiamo a fare delle cose un pochino più serie e un pochino più importanti."
+        }
+      ]
+    }
+  ]
+}

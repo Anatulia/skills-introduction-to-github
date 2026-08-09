@@ -1,0 +1,2259 @@
+{
+  "title": "Creare il proprio workspace",
+  "sections": [
+    {
+      "keyframe": {
+        "index": 0,
+        "time": 0.0,
+        "timestamp": "00:00:00",
+        "image": "frame_0000.jpg",
+        "reason": "start",
+        "ocr_text": "+2 Despina",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 0.3199999928474426,
+          "end": 3.359999895095825,
+          "text": "E ora passiamo a farlo in pratica."
+        },
+        {
+          "start": 3.359999895095825,
+          "end": 7.920000076293945,
+          "text": "Quindi vediamo le cose che abbiamo imparato in termini di concetto, come le portiamo dentro Cloud Code."
+        },
+        {
+          "start": 7.920000076293945,
+          "end": 10.800000190734863,
+          "text": "No, vi ricordate, questo è il nostro ambiente di lavoro."
+        },
+        {
+          "start": 10.800000190734863,
+          "end": 15.800000190734863,
+          "text": "Qua abbiamo anche il workspace incasinatissimo, brutto, sporco."
+        },
+        {
+          "start": 15.800000190734863,
+          "end": 19.959999084472656,
+          "text": "Quindi la prima cosa che facciamo, questa è la cartellina nella quale stiamo lavorando, ve la ricordate?"
+        },
+        {
+          "start": 19.959999084472656,
+          "end": 24.0,
+          "text": "Mi faccio un attimo una cartella su desktop e la chiamo monnets."
+        },
+        {
+          "start": 24.0,
+          "end": 28.559999465942383,
+          "text": "Perché questa roba ci potrebbe servire dopo, non la voglio buttare."
+        },
+        {
+          "start": 28.559999465942383,
+          "end": 34.560001373291016,
+          "text": "Eppiamo tutta questa roba qua e ce la spostiamo dentro monnets in modo tale che svuotiamo il nostro workspace."
+        },
+        {
+          "start": 34.560001373291016,
+          "end": 40.79999923706055,
+          "text": "Quindi in questo momento il workspace è vuoto. Vedete, non c'è assolutamente niente."
+        },
+        {
+          "start": 40.79999923706055,
+          "end": 46.400001525878906,
+          "text": "La creazione del workspace non la facciamo noi, la fa Cloud Code."
+        },
+        {
+          "start": 46.400001525878906,
+          "end": 51.79999923706055,
+          "text": "Ma questo, vedrete, sarà la risposta che vi darò in tanti altri moduli di questo corso."
+        },
+        {
+          "start": 51.79999923706055,
+          "end": 57.0,
+          "text": "Cioè, quando abbiamo delle cose grosse da fare, delle cose importanti da fare, non le facciamo mica noi a mano."
+        },
+        {
+          "start": 57.0,
+          "end": 64.4000015258789,
+          "text": "D'altronde ci stiamo creando questo potente assistente AI che deve semplificarci la vita, che deve aiutarci nel nostro lavoro."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 1,
+        "time": 60.0,
+        "timestamp": "00:01:00",
+        "image": "frame_0001.jpg",
+        "reason": "periodic",
+        "ocr_text": "cine vomsrice | [è fa C © dk Clsecode x > alude Untitiea ka I + DO Depot",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 64.4000015258789,
+          "end": 67.16000366210938,
+          "text": "Ci mancherebbe che metta a favore le cartelline a uno a uno."
+        },
+        {
+          "start": 67.16000366210938,
+          "end": 70.76000213623047,
+          "text": "Quindi gli spieghiamo quello di cui abbiamo bisogno e Cloud lo fa per noi."
+        },
+        {
+          "start": 70.76000213623047,
+          "end": 74.44000244140625,
+          "text": "Vi ricordate, ho detto, con Cloud Code ragioniamo sempre meno sul prompt."
+        },
+        {
+          "start": 74.44000244140625,
+          "end": 78.04000091552734,
+          "text": "Infatti qua non mi metterò a darvi dei prompt che potete copiare e incollare."
+        },
+        {
+          "start": 78.04000091552734,
+          "end": 83.30000305175781,
+          "text": "Lo gestiamo in maniera molto, molto, diciamo, discorsiva."
+        },
+        {
+          "start": 83.30000305175781,
+          "end": 90.69999694824219,
+          "text": "Vi faccio vedere due approcci. Il primo, che è quello, diciamo, come lo farebbe una persona che ha poca esperienza con Cloud Code."
+        },
+        {
+          "start": 90.69999694824219,
+          "end": 95.33999633789062,
+          "text": "Ok, quindi funziona, ci porta a casa il risultato, ma non è il metodo più potente."
+        },
+        {
+          "start": 95.33999633789062,
+          "end": 105.30000305175781,
+          "text": "Allora, la cosa che gli dico qua è, sono un freelance che si occupa di formazione."
+        },
+        {
+          "start": 106.0999984741211,
+          "end": 114.9000015258789,
+          "text": "Devo creare da zero il mio workspace in Cloud Code."
+        },
+        {
+          "start": 114.9000015258789,
+          "end": 121.9000015258789,
+          "text": "Voglio che sia organizzato in base ai clienti con cui lavoro."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 2,
+        "time": 120.0,
+        "timestamp": "00:02:00",
+        "image": "frame_0002.jpg",
+        "reason": "periodic",
+        "ocr_text": "© © I Pucaid iieboard x SE eye ® — eta 000 cioe womsace | (B Ea CD Cig Code x > lu Untitea 50n0 n fresiance che si occupa di formazione, deo creare da ero mo werkspae in ciaudo code, voglio che sa organizzato i base ai i +0 © asc.",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 122.9000015258789,
+          "end": 137.89999389648438,
+          "text": "E poi magari gli aggiungo una cosa extra, tipo, creami altre cartelle extra che pensi possano essermi utili per organizzare i file nel mio workspace."
+        },
+        {
+          "start": 137.89999389648438,
+          "end": 141.89999389648438,
+          "text": "Ok, qua vi ricordate, abbiamo alcune cose che possiamo selezionare."
+        },
+        {
+          "start": 141.89999389648438,
+          "end": 146.89999389648438,
+          "text": "Ask before edits, edit automatically. Per adesso lasciamo ask before edits."
+        },
+        {
+          "start": 146.89999389648438,
+          "end": 149.89999389648438,
+          "text": "Ve l'ho detto, no? Qua se vogliamo dare l'autorizzazione volta per volta oppure no."
+        },
+        {
+          "start": 149.89999389648438,
+          "end": 153.89999389648438,
+          "text": "Qua possiamo scegliere, diciamo, il tipo di modello che stiamo andando a utilizzare."
+        },
+        {
+          "start": 153.89999389648438,
+          "end": 158.89999389648438,
+          "text": "Per una roba del genere non ha senso, diciamo, possiamo usare pure un modello un po' più leggero, mettiamo Sonnet."
+        },
+        {
+          "start": 158.89999389648438,
+          "end": 164.89999389648438,
+          "text": "Mettiamo sempre la modalità thinking abilitata. Io, diciamo, lo lascio sempre ragionare anche su queste cose."
+        },
+        {
+          "start": 164.89999389648438,
+          "end": 168.89999389648438,
+          "text": "Qualcuno dice di no, che per la gestione del workspace non è necessario, io preferisco di sì."
+        },
+        {
+          "start": 168.89999389648438,
+          "end": 173.89999389648438,
+          "text": "E gli alzo anche un pochino l'effort, giusto per sicurezza, ma questi sono dettagli."
+        },
+        {
+          "start": 173.89999389648438,
+          "end": 176.89999389648438,
+          "text": "Ok, vedete che quando cambiamo modello qua ce lo ricorda pure."
+        },
+        {
+          "start": 176.89999389648438,
+          "end": 183.89999389648438,
+          "text": "Gli diamo invio. Adesso Cloud Code quello che farà è analizzerà la mia richiesta."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 3,
+        "time": 180.0,
+        "timestamp": "00:03:00",
+        "image": "frame_0003.jpg",
+        "reason": "periodic",
+        "ocr_text": "RucaidaiWitabonrd XS] Myvdeo® ta 000 csi nomsrice | (è fa C © - Orgonze freelance rain. X asa; Organizefraeanco training Workspace st... 50n0 un reslance che si occupa di formazione, devo crere da ero l mio Workspace in ciau cod, voglio ch sa organizzato in base al centi con cui voro creami altr carte extra che pens possano essermi tl pr organizzare | ne mio workspace + Reti",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 183.89999389648438,
+          "end": 188.89999389648438,
+          "text": "Quindi dedurrà da quello che gli ho scritto quello che potrebbe essere utile."
+        },
+        {
+          "start": 188.89999389648438,
+          "end": 195.89999389648438,
+          "text": "Qua sta andando a leggere il mio profilo in memoria, perché avevamo giustamente il profilo in memoria dai moduli precedenti."
+        },
+        {
+          "start": 195.89999389648438,
+          "end": 202.89999389648438,
+          "text": "E mi dice, guarda, mi autorizzi a creare questa roba qua? Io faccio yes e lui sta creando."
+        },
+        {
+          "start": 202.89999389648438,
+          "end": 205.89999389648438,
+          "text": "Ecco qua. Guardate cosa ha tirato fuori."
+        },
+        {
+          "start": 205.89999389648438,
+          "end": 211.89999389648438,
+          "text": "Amministrazione, archivio, clienti, corse, materiali didattici, proposte commerciali, risorse e riferimenti, template."
+        },
+        {
+          "start": 211.89999389648438,
+          "end": 215.89999389648438,
+          "text": "Cioè in un nanosecondo ha fatto il workspace."
+        },
+        {
+          "start": 215.89999389648438,
+          "end": 219.89999389648438,
+          "text": "Ovviamente il workspace è vuoto adesso, perché non ci sono le cartelle dentro."
+        },
+        {
+          "start": 219.89999389648438,
+          "end": 223.89999389648438,
+          "text": "Però come organizzazione mi dice, allora guarda cosa ho fatto per te."
+        },
+        {
+          "start": 223.89999389648438,
+          "end": 226.89999389648438,
+          "text": "La cartella clienti, dove ho fatto una sottocartella per ogni cliente."
+        },
+        {
+          "start": 227.89999389648438,
+          "end": 235.89999389648438,
+          "text": "Quando vado dentro clienti, qua ci sarà la cartella template clienti, dove dentro ci possiamo mettere pure dei template."
+        },
+        {
+          "start": 235.89999389648438,
+          "end": 239.89999389648438,
+          "text": "Poi mi dice, ogni volta che vuoi ne puoi copiare uno qua dentro."
+        },
+        {
+          "start": 239.89999389648438,
+          "end": 244.89999389648438,
+          "text": "Poi proposte commerciali, quindi qua dentro ci finiranno le proposte commerciali."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 4,
+        "time": 240.0,
+        "timestamp": "00:04:00",
+        "image": "frame_0004.jpg",
+        "reason": "periodic",
+        "ocr_text": "Organiz froeanco training workspaco s0n0 un relance che si occupa di formazione, devo crere da zero mio workapaa in ciaude cod, voglio che sia organizzato 1 base a lenti on cul avro creami air carte extra che pens possano essermi uil per organizzare | lo nel mio workspace (bash complete wita no output) e Gant Verifica tratt conto 19 /usars/ratfaete/mesitop/elause vrispace/* Struttura cresta. Ecco cosa ho fato e perché: Cartelle principali ‘ llen — na sotocartela per ogni cente. Ho Inserto un _teaplate-c}iente che puo copiare ogni vota che ne aggiungi uno nuovo a JM — Gà prevista per tol preventivi i ormato AKICAR-GG Nomen. * colf — Organizza tuo or per argomento tto, Inipendentemente dal lente. Un corso può assera venduto a più cent. materiali. didttiil— Suasa in: * presentazioni / — se e supporti vis © esercizi —attià pratiche per partecipanti dispense) — materia da leur * amministrazione] — Tutto quel che riguarda numer * fattore) * contratti/ © preventivi * templates] — Modo riuizzabii (emal tp, schemi i coso, siuiture di proposta ecc) * risorse-e-ifrimenti — Arco, Ibi, ut, fonti da cu atingi pera formazione * archivio] — Cln! progetti concusi, da tenere ma fori dall vista quotidiana Vil che cri anche qualche fl di partenza al'sterno dell carol, pr asempio un modello di chica ciente 0 un struttura peri cora?",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 244.89999389648438,
+          "end": 250.89999389648438,
+          "text": "E dice, già prevista per i tuoi preventivi, informato, anno, mese, giorno, nome e azienda."
+        },
+        {
+          "start": 250.89999389648438,
+          "end": 255.89999389648438,
+          "text": "Questa cosa qua da dove l'ha presa? L'ha presa dal fatto che si è salvato quella informazione in memoria."
+        },
+        {
+          "start": 255.89999389648438,
+          "end": 259.8999938964844,
+          "text": "Vi ricordate? Quindi sa che io organizzo i preventivi in quel modo e così via."
+        },
+        {
+          "start": 259.8999938964844,
+          "end": 264.8999938964844,
+          "text": "Corsi, organizzi dei tuoi corsi per argomento o titolo indipendentemente dal cliente."
+        },
+        {
+          "start": 264.8999938964844,
+          "end": 266.8999938964844,
+          "text": "Un corso può essere venduto pure a più clienti."
+        },
+        {
+          "start": 266.8999938964844,
+          "end": 270.8999938964844,
+          "text": "Quindi qua ci dice, se tu fai un corso, magari quel corso lo vuoi vendere a più di un cliente."
+        },
+        {
+          "start": 270.8999938964844,
+          "end": 273.8999938964844,
+          "text": "E quindi ti faccio la cartella corsi separata."
+        },
+        {
+          "start": 273.8999938964844,
+          "end": 277.8999938964844,
+          "text": "Poi materiali didattici, vediamo materiali didattici."
+        },
+        {
+          "start": 277.8999938964844,
+          "end": 281.8999938964844,
+          "text": "Qui dentro c'è il fattore sotto cartelle, dispense, esercizi, presentazioni."
+        },
+        {
+          "start": 281.8999938964844,
+          "end": 285.8999938964844,
+          "text": "Ovviamente sono vuote queste cartelle, però vedete, semplicemente gli abbiamo detto che facciamo formazione."
+        },
+        {
+          "start": 285.8999938964844,
+          "end": 288.8999938964844,
+          "text": "Poi template, ci metti i modelli riutilizzabili."
+        },
+        {
+          "start": 288.8999938964844,
+          "end": 290.8999938964844,
+          "text": "Questa è una cartella molto comoda che vi consiglio di creare."
+        },
+        {
+          "start": 290.8999938964844,
+          "end": 293.8999938964844,
+          "text": "E-mail tipo, schemi di corse, strutture di proposte."
+        },
+        {
+          "start": 293.8999938964844,
+          "end": 296.8999938964844,
+          "text": "Quindi se avete dei modelli che poi voi fate tutte le volte, no?"
+        },
+        {
+          "start": 296.8999938964844,
+          "end": 299.8999938964844,
+          "text": "Per esempio dite, ah io faccio sempre il preventivo in questo modo."
+        },
+        {
+          "start": 299.8999938964844,
+          "end": 302.8999938964844,
+          "text": "Quindi parti da quello e poi ci cambi dentro sui dati dell'azienda."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 5,
+        "time": 300.0,
+        "timestamp": "00:05:00",
+        "image": "frame_0005.jpg",
+        "reason": "periodic",
+        "ocr_text": "00° [i + 00 ce oisoace cine womsice | Bf CO > elude > amiminitazone > archivio > clent/templae- ciente 3 cor > materiali Organizefroeanco training workspaco sono un relance che si occupa di formazione, devo creare da ero mio workapae incide code, voglio che sa organizzato in base al lenti on cu avoro croami lr carte extra che pens possano essermi uti pr organizzare | la nel mio workspace (tas complete ita no stout) 19 “/users/ratfaete/Desitop/elause vorispace/* Struttura creata. Ecco cos ho ato e perché: Cartello principali ‘lle — Una sotocartla pe ogni cente. Ho Inserto un _teaplate-eliente che puo copiare ogni vota che ne aggiungi uno nuovo - proposte-commercal — i prevista pr tuoi proventi in formato AXV-GG None endand + corsi — Organizza tuo or per argomento 0 tto, Inipendentemente dl lente. Un corso può essre venduto a più cent. materiali didattici — Sudavisa in: * presentazioni / — se e support vivi © esercizi — atti pratiche per partecipanti > spenze/ — matri a distribuire + amministrazione] — Tutto quelo che riguarda numer * contratti/ © preventivi * templates] — Model riutizzabii (ema tip, schemi i coso, siuiture di propo, ecc) * risorne-e-ifrimenti = Arco, bri link uti, fon da cu atngi era formazione * archivio] — Cln progetti concusi, da tenero ma fori dall vista quotidiana Vil che cri anche qualche fl di partenza alito dell carol, pr esempio un modello di schida ciente 0 ina sutura per | cora?",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 303.8999938964844,
+          "end": 307.8999938964844,
+          "text": "Risorse e riferimenti, se ci vuoi mettere libri, link, articoli, fonti da cui attingere."
+        },
+        {
+          "start": 307.8999938964844,
+          "end": 309.8999938964844,
+          "text": "Eppure questo è molto molto utile."
+        },
+        {
+          "start": 309.8999938964844,
+          "end": 314.8999938964844,
+          "text": "E poi archivio, ci puoi mettere le cose vecchie, così te le togli dai piedi, non li vedi davanti agli occhi."
+        },
+        {
+          "start": 314.8999938964844,
+          "end": 316.8999938964844,
+          "text": "Se a noi ci piace, siamo pronti per lavorare."
+        },
+        {
+          "start": 316.8999938964844,
+          "end": 323.8999938964844,
+          "text": "Ovviamente manca ancora qualcosina, che è il contesto, che è la seconda parte importante, che vedremo tra un attimo."
+        },
+        {
+          "start": 323.8999938964844,
+          "end": 326.8999938964844,
+          "text": "Ma in termini di workspace, noi siamo pronti per lavorare."
+        },
+        {
+          "start": 326.8999938964844,
+          "end": 330.8999938964844,
+          "text": "Perché sappiamo che adesso dentro queste cartelle finiranno delle cose."
+        },
+        {
+          "start": 330.8999938964844,
+          "end": 333.8999938964844,
+          "text": "E lo farà Cloud Code in automatico, non lo faremo noi."
+        },
+        {
+          "start": 334.8999938964844,
+          "end": 338.8999938964844,
+          "text": "Però qua noi potremmo anche già intervenire e dire a Cloud che qualcosa non ci convince."
+        },
+        {
+          "start": 338.8999938964844,
+          "end": 342.8999938964844,
+          "text": "Per esempio qua ci dice, guarda io ho fatto la cartella corsi separata."
+        },
+        {
+          "start": 342.8999938964844,
+          "end": 345.8999938964844,
+          "text": "Perché dice così io organizzo i corsi per argomento o titolo indipendentemente dal cliente."
+        },
+        {
+          "start": 345.8999938964844,
+          "end": 347.8999938964844,
+          "text": "Un corso può essere venduto a più clienti."
+        },
+        {
+          "start": 347.8999938964844,
+          "end": 351.8999938964844,
+          "text": "Magari però noi non facciamo così, cioè non vendiamo corsi online."
+        },
+        {
+          "start": 351.8999938964844,
+          "end": 356.8999938964844,
+          "text": "Noi facciamo formazione specifica su un cliente, non vogliamo la cartella corsi fuori."
+        },
+        {
+          "start": 356.8999938964844,
+          "end": 368.8999938964844,
+          "text": "Quindi io gli dico la cosa dei corsi non mi piace, non faccio corsi generici vendibili a più clienti."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 6,
+        "time": 360.0,
+        "timestamp": "00:06:00",
+        "image": "frame_0006.jpg",
+        "reason": "periodic",
+        "ocr_text": "XE Organiz fresance train. x Organizofroeanco training workspaco sono un reslance che sl occupa di formazione, devo creare da ero mio workspae in ciude cod, voglio ch sa organizzato in base al centi on ui avoro croami air carte extra che pens possano essermi ili per organizzare | nel mio workspace (hash completed vità no tpat) 1 /users/ratfaete/Desitop/elause vorispace/* Struttura creata. Ecco cosa ho ato e perché: Cartello principali ‘lle — Una sotoartla per gni cente. Ho Inserto un _tesplate-eLiente che puo copiare ogni vota che ne aggiungi uno nuovo - proposte-commerclali — i prevista pr iui prevent in formato ANWM-GC Monet ended * corsi — Organizza tuo orsi per argomento too, Inipendentemente dl lente. Un corso può essere venuto a più cent. materiali didattici — Sudcivisa in: * presentazioni / — side supporti vs © esercizi —attià pratiche per partecipanti © dispense) — materiale da ietulre - amministrazione] — Tutto queto che riguarda numeri è fatture) è contratti/ © preventivi + templates] — Model iutlizzabii(emal o, schemi di corso stuture di proposta ecc * risorne-e-ifrimenti — Arco, bri ink ut fon da cul ting era formazione ‘> archvi/ — lenti proget conc, da tenere ma fuor dala vista quticiana Vil che cri anche qualche le di partenza all'interno del carol, pr esempio un modello di scheda ciente 0 un sutura peri corsi? ta cosa del +0",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 368.8999938964844,
+          "end": 374.8999938964844,
+          "text": "Quindi gli possiamo dire semplicemente di togliere la cartella con i corsi."
+        },
+        {
+          "start": 374.8999938964844,
+          "end": 377.8999938964844,
+          "text": "Quindi facciamo togli quella cartella."
+        },
+        {
+          "start": 377.8999938964844,
+          "end": 382.8999938964844,
+          "text": "E poi magari gli diciamo che le proposte commerciali, quindi preventivi, non le vogliamo tenere separate."
+        },
+        {
+          "start": 382.8999938964844,
+          "end": 388.8999938964844,
+          "text": "Perché visto che stiamo ragionando per clienti, noi vogliamo tenere i preventivi dentro la cartella dei clienti."
+        },
+        {
+          "start": 388.8999938964844,
+          "end": 391.8999938964844,
+          "text": "E quindi gli dico inoltre, ah scusate non ho dato invio."
+        },
+        {
+          "start": 391.8999938964844,
+          "end": 395.8999938964844,
+          "text": "Vabbè facciamoci fare questo qua che ci toglierà ovviamente la cartella."
+        },
+        {
+          "start": 395.8999938964844,
+          "end": 406.8999938964844,
+          "text": "Perfetto gli dico inoltre voglio che i preventivi siano nelle relative cartelle dei clienti."
+        },
+        {
+          "start": 407.8999938964844,
+          "end": 410.8999938964844,
+          "text": "Invio."
+        },
+        {
+          "start": 410.8999938964844,
+          "end": 414.8999938964844,
+          "text": "Quindi questa qua con le proposte commerciali non la voglio come una cartella fuori."
+        },
+        {
+          "start": 414.8999938964844,
+          "end": 416.8999938964844,
+          "text": "Perché se no mi incasino."
+        },
+        {
+          "start": 416.8999938964844,
+          "end": 418.8999938964844,
+          "text": "Allora gli do la votarizzo anche qua."
+        },
+        {
+          "start": 418.8999938964844,
+          "end": 420.8999938964844,
+          "text": "Vedete ci ha tolto pure questo."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 7,
+        "time": 420.0,
+        "timestamp": "00:07:00",
+        "image": "frame_0007.jpg",
+        "reason": "periodic",
+        "ocr_text": "6 organize fresance train. x Organizefalance training workspaco st... a cosa del corsi on mi piace, non acco corsi generici veni più cent togli quela cartela (tas completed with no tout) ® tto cera rimossa. ggiomno anche la memoria cas an la ripropongo in futuro. © Read user profit è Edit user protite.na Raffaele non è un programsatore. Usa Claude Code principalsente per Raffaele non è un programsatore, Usa Claude Cose principalsente peri — Attività d'ufficio (enail, documenti, organizzazione) — Attività d'ufficio (emsil, documenti, organizzazione) — Attività creative (brainstorming, scrittura, idee) — AttiVICÀ creative (brainstoraing, scrittura, idee) — Attività intellettuali (ricerca, anslisi, ragionasento) — Attività intellettuali (ricerco, analisi, ragionanento) Preferisce comunicare in italiano. Evitare Linguaggio tecnico/informatico è Preferisce comunicare in italiano. Evitare Linguaggio tecnico/informatico e spiegare te Le cose in nodo cesplice e diretto. cose in nodo senplice e diretto ‘». imoss. | matera specifici i ogni formazione l terr nel carte el cloni notre voglio che | prevent sian nlle relative carte del conti ©. Thought torta = Bash Sposta prevent da amminatrazone sl template ente rt =plsersAafiaele/desktap/clasde vorkspue/aministrezione/ preventivi” Li sale -p */lsers/raffurte/Desatap/cloue varkspoce/elient/_tnplate-Clente/preventivi* (bash completed with no output) + Stenino ce)",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 420.8999938964844,
+          "end": 425.8999938964844,
+          "text": "Tra l'altro, mentre faccio queste cose, lui si va anche a aggiornare delle informazioni."
+        },
+        {
+          "start": 425.8999938964844,
+          "end": 430.8999938964844,
+          "text": "Vedete mi dice, ah ok Raffaele è un formatore freelance, i suoi corsi sono sempre personalizzati."
+        },
+        {
+          "start": 430.8999938964844,
+          "end": 432.8999938964844,
+          "text": "Vedete qua aggiunto anche una cosa rispetto a prima."
+        },
+        {
+          "start": 432.8999938964844,
+          "end": 438.8999938964844,
+          "text": "Siccome gli ho detto questa cosa qua, che non faccio corsi generici da vendere così ma sono solo per ogni cliente."
+        },
+        {
+          "start": 438.8999938964844,
+          "end": 444.8999938964844,
+          "text": "Lui nella memoria di user profile, quindi le informazioni su di me, in automatico si è messo questa roba qua."
+        },
+        {
+          "start": 444.8999938964844,
+          "end": 447.8999938964844,
+          "text": "Questo vedremo, adesso lui lo sta facendo in automatico."
+        },
+        {
+          "start": 447.8999938964844,
+          "end": 452.8999938964844,
+          "text": "Dopo lo faremo in maniera molto strutturata, anche molto più precisa rispetto a quello che sta facendo lui."
+        },
+        {
+          "start": 452.8999938964844,
+          "end": 455.8999938964844,
+          "text": "Perché ovviamente alcune cose le deduce Cloud Code."
+        },
+        {
+          "start": 455.8999938964844,
+          "end": 457.8999938964844,
+          "text": "Mentre noi lavoriamo lui si memorizza cose."
+        },
+        {
+          "start": 457.8999938964844,
+          "end": 459.8999938964844,
+          "text": "Dice ok fammi ricordare questa cosa per la prossima volta."
+        },
+        {
+          "start": 459.8999938964844,
+          "end": 466.8999938964844,
+          "text": "Però poi ci sono momenti nei quali invece noi gli vogliamo dire proprio in maniera precisa che deve fare delle cose per noi."
+        },
+        {
+          "start": 466.8999938964844,
+          "end": 471.8999938964844,
+          "text": "E quindi qua diciamo in teoria noi siamo pronti con il nostro workspace."
+        },
+        {
+          "start": 471.8999938964844,
+          "end": 478.8999938964844,
+          "text": "E questa era la versione diciamo più semplice con la quale la possiamo fare."
+        },
+        {
+          "start": 478.8999938964844,
+          "end": 483.8999938964844,
+          "text": "Vediamo la versione invece quella che preferisco fare io."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 8,
+        "time": 480.0,
+        "timestamp": "00:08:00",
+        "image": "frame_0008.jpg",
+        "reason": "periodic",
+        "ocr_text": "Organizefroeanco training workspaco a cosa del cora on mÌ piace, non faccio cor generi vendi più cileni, togli quell carta (bash completed vito no output) ‘® atto, carla rimossa, Agiomno anche la memoria cos on la riprapongo i futuro è. Rand secprotite;n è un programsatore. Usa Claude Code principalmente per: Raffaele non è un programatore. Usa Claude Code principatsente per: ‘ufficio (emsil, documenti, organizzazione) — Attività d'ufficio (emsil, documenti, organizzazione) — Attività creative (brainstoreim, scrittura, idee) \" ARtIVICÀ crestive (brainstorming, scrittura, idee) — Attività intellettuali (ricerca, analisi, rogionanento) — Attività intellettuali (ricerca, analisi, ragionamento) Preferisce comunicare in italiano. Evitare linguaggio tecnico/informatico e spiegare | Preferisce comnicare in italiano. Evitare Linguaggio teenico/informatico e spiegare le Le cose in nodo semplice e diretto, cose in nodo semplice e ». Rimossa. | matera specifici i ogni formazione tri ela carte el clnte gl rilerimento ha più senso notre voglio che prevent siano nelle relative carte dei centi Than fre en rt MAUsers/atfaele/Desktap/clade verkspace/smministrzione/ preventivi” Li ahaLe <p */tsers/rafante/0esktap/claue varkipac/elient/_tmp late-clente/preventivi* VI (Bash corpleted vita no outpst) ‘Fatta preventivi escono da aministràz ote/ e ora fanno art del template ciente, quindi ogni nuoro cinte avrà già la sua cartella pren. pronta.",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 483.8999938964844,
+          "end": 487.8999938964844,
+          "text": "E non voglio fare nemmeno in un modulo separato, ve lo voglio far vedere nello stesso modo."
+        },
+        {
+          "start": 487.8999938964844,
+          "end": 496.8999938964844,
+          "text": "Allora facciamo così, voglio ricominciare da capo a creare il workspace."
+        },
+        {
+          "start": 496.8999938964844,
+          "end": 501.8999938964844,
+          "text": "Puliscimi tutto."
+        },
+        {
+          "start": 501.8999938964844,
+          "end": 504.8999938964844,
+          "text": "Qua ovviamente avrei potuto fare pure io a mano."
+        },
+        {
+          "start": 504.8999938964844,
+          "end": 509.8999938964844,
+          "text": "Andavo nella cartella qua, piego queste cartelle, le cancellavo fisicamente e così via."
+        },
+        {
+          "start": 510.8999938964844,
+          "end": 517.9000244140625,
+          "text": "Ma voglio far vedere, lo faccio tramite Cloud Code per farvi vedere come è tutto conversazionale."
+        },
+        {
+          "start": 517.9000244140625,
+          "end": 520.9000244140625,
+          "text": "Lavoro proprio sui file, sulle cartelle."
+        },
+        {
+          "start": 520.9000244140625,
+          "end": 524.9000244140625,
+          "text": "Gli diciamo anche questa cosa, anzi facciamo così."
+        },
+        {
+          "start": 524.9000244140625,
+          "end": 530.9000244140625,
+          "text": "Facciamo resetta anche memory e user profile."
+        },
+        {
+          "start": 530.9000244140625,
+          "end": 534.9000244140625,
+          "text": "Che voglio ricominciare da capo."
+        },
+        {
+          "start": 534.9000244140625,
+          "end": 537.9000244140625,
+          "text": "Questo non è il modo pulito per farlo."
+        },
+        {
+          "start": 537.9000244140625,
+          "end": 540.9000244140625,
+          "text": "C'è un modo più pulito per farlo."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 9,
+        "time": 540.0,
+        "timestamp": "00:09:00",
+        "image": "frame_0009.jpg",
+        "reason": "periodic",
+        "ocr_text": "COTTE 000 © cuiorvonsice (Fa CO - de Omponie reiance min. x Rio) Organize freelance training workspaco st... note voglio che prevent siano nl eltiv carte dl centi voglio ricominciare da capo a creare Il workspace, pulscimi tutto ® Thought forze nah Mostra contnutoatuao del orksnaee DI 15 evasers/ratfante/Dshtop/clade vorkspcer® * Queste sono le canile che elimino. Confermami è proesdo. vi e Gant Elimina tuto o catllo del workapeco marti 051) aftante/dshaop/claude vorespoce/seministrazione \\ = f0sera/ aftacle/besrtap/clade verispece/arenivi* \\ (Bash completed with no utpat) ‘Workspace pulito. Da dove vuoi ricominciare? resetta anche memory e user_proti, che voglio icomcire da capo è Wranging.",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 540.9000244140625,
+          "end": 546.9000244140625,
+          "text": "Ai fini di questo esempio lo facciamo perché ovviamente abbiamo delle informazioni che lui si è salvato."
+        },
+        {
+          "start": 546.9000244140625,
+          "end": 551.9000244140625,
+          "text": "Che potrebbe andare a compromettere l'esempio che voglio farvi vedere adesso."
+        },
+        {
+          "start": 551.9000244140625,
+          "end": 555.9000244140625,
+          "text": "Tutto qua, questo ultimo comando potete pure ignorarlo, voi non lo dovete fare."
+        },
+        {
+          "start": 555.9000244140625,
+          "end": 561.9000244140625,
+          "text": "Voglio far vedere che abbiamo fatto un primo approccio alla creazione del workspace."
+        },
+        {
+          "start": 561.9000244140625,
+          "end": 564.9000244140625,
+          "text": "Molto semplice, molto naive."
+        },
+        {
+          "start": 564.9000244140625,
+          "end": 568.9000244140625,
+          "text": "Ed è quello che potrebbe fare una persona con zero esperienze in Cloud Code."
+        },
+        {
+          "start": 568.9000244140625,
+          "end": 572.9000244140625,
+          "text": "Adesso invece vi faccio vedere come lo farei io."
+        },
+        {
+          "start": 572.9000244140625,
+          "end": 577.9000244140625,
+          "text": "Come una persona che ha un po' più di esperienza con Cloud Code come farebbe questa cosa."
+        },
+        {
+          "start": 577.9000244140625,
+          "end": 580.9000244140625,
+          "text": "Anzi qua fatemi aprire una nuova chat, la voglio proprio iniziare da zero."
+        },
+        {
+          "start": 580.9000244140625,
+          "end": 592.9000244140625,
+          "text": "Gli dico, sto creando il mio workspace da zero in Cloud Code."
+        },
+        {
+          "start": 592.9000244140625,
+          "end": 601.9000244140625,
+          "text": "Siamo un'agenzia di marketing che lavora su vari clienti."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 10,
+        "time": 600.0,
+        "timestamp": "00:10:00",
+        "image": "frame_0010.jpg",
+        "reason": "periodic",
+        "ocr_text": "You come to th absolutely right piace!",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 601.9000244140625,
+          "end": 606.9000244140625,
+          "text": "La cosa che facciamo adesso è noi gli diciamo quello che deve fare."
+        },
+        {
+          "start": 606.9000244140625,
+          "end": 611.9000244140625,
+          "text": "Ma gli diciamo di raccogliere da noi le informazioni."
+        },
+        {
+          "start": 611.9000244140625,
+          "end": 618.9000244140625,
+          "text": "Questa è una delle cose diciamo, uno dei cambiamenti più importanti quando iniziate a utilizzare Cloud Code."
+        },
+        {
+          "start": 618.9000244140625,
+          "end": 622.9000244140625,
+          "text": "Avete visto uno dei primi è che smettiamo di scrivere i prompt nel senso classico."
+        },
+        {
+          "start": 622.9000244140625,
+          "end": 626.9000244140625,
+          "text": "Un'altra cosa che farà la differenza è andiamo sempre in modalità domande."
+        },
+        {
+          "start": 626.9000244140625,
+          "end": 631.9000244140625,
+          "text": "Diciamo nella documentazione ufficiale di Cloud, questa cosa la vediamo approfondita."
+        },
+        {
+          "start": 631.9000244140625,
+          "end": 634.9000244140625,
+          "text": "Più avanti la chiamano l'approccio esplora, pianifica, esegui."
+        },
+        {
+          "start": 634.9000244140625,
+          "end": 637.9000244140625,
+          "text": "Esplora, pianifica, esegui."
+        },
+        {
+          "start": 637.9000244140625,
+          "end": 639.9000244140625,
+          "text": "E dopo vedremo bene che cos'è."
+        },
+        {
+          "start": 639.9000244140625,
+          "end": 644.9000244140625,
+          "text": "Ma per farvi capire gli diciamo a Cloud di farci delle domande."
+        },
+        {
+          "start": 645.9000244140625,
+          "end": 649.9000244140625,
+          "text": "Raccoglie da noi le informazioni quando ha tutto chiaro deve partire con il lavoro."
+        },
+        {
+          "start": 649.9000244140625,
+          "end": 654.9000244140625,
+          "text": "Perché magari io adesso mi dimentico di dirgli qualcosa di importante e il workspace non viene come volevo io."
+        },
+        {
+          "start": 654.9000244140625,
+          "end": 658.9000244140625,
+          "text": "Allora la cosa migliore è vedere Cloud di cosa ha bisogno per lavorare e io glielo dico."
+        },
+        {
+          "start": 658.9000244140625,
+          "end": 663.9000244140625,
+          "text": "Quindi adesso gli dico fammi una serie di domande."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 11,
+        "time": 660.0,
+        "timestamp": "00:11:00",
+        "image": "frame_0011.jpg",
+        "reason": "periodic",
+        "ocr_text": "",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 663.9000244140625,
+          "end": 671.9000244140625,
+          "text": "Tutte quelle che ti servono per raccogliere le informazioni necessarie."
+        },
+        {
+          "start": 671.9000244140625,
+          "end": 682.9000244140625,
+          "text": "Per creare una struttura di workspace ben organizzata per il nostro caso specifico."
+        },
+        {
+          "start": 682.9000244140625,
+          "end": 691.9000244140625,
+          "text": "Ok gli dico fammi le domande una alla volta."
+        },
+        {
+          "start": 691.9000244140625,
+          "end": 696.9000244140625,
+          "text": "Questo è importante perché altrimenti ci fa un elenco di 20 domande e diventa complicatissimo scrivere in chat."
+        },
+        {
+          "start": 696.9000244140625,
+          "end": 699.9000244140625,
+          "text": "Quindi dite sempre fammi le domande una alla volta."
+        },
+        {
+          "start": 699.9000244140625,
+          "end": 705.9000244140625,
+          "text": "Appena hai tutto ciò che ti serve."
+        },
+        {
+          "start": 705.9000244140625,
+          "end": 720.9000244140625,
+          "text": "Noi gli facciamo creare le cartelle ma gli diciamo proponimi la struttura di workspace che vuoi creare e aspetta la mia approvazione."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 12,
+        "time": 720.0,
+        "timestamp": "00:12:00",
+        "image": "frame_0012.jpg",
+        "reason": "periodic",
+        "ocr_text": "20 RP reno itaca OECETES O00 ce wosce ta CO > elude de Clause code x Untitied 50 creando mio werkspace da zero in laude code: siamo un'agenzia di arkaing ch avra su vari centi ammi una seri i domande, tutte uelle ch servono, per raccogliere le Informazioni necessarie per creare una strutua i orkspaco ben organizata perl nostro caso specifico ammi o domande una al vota, appena hi tuto cò che ti serve proponi a struttura di workspace ‘he vuo creare e aspetta la mi gi +0 © sci (I",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 720.9000244140625,
+          "end": 727.9000244140625,
+          "text": "Quando vi dicevo in Cloud si usa la modalità esplora pianifica e segui."
+        },
+        {
+          "start": 727.9000244140625,
+          "end": 729.9000244140625,
+          "text": "Intendevo proprio questo."
+        },
+        {
+          "start": 729.9000244140625,
+          "end": 731.9000244140625,
+          "text": "Cambiamo proprio il modo di lavorare."
+        },
+        {
+          "start": 731.9000244140625,
+          "end": 738.9000244140625,
+          "text": "Noi gli diciamo tutte le cose in un solo colpo perché potremmo dimenticarci qualcosa di importante."
+        },
+        {
+          "start": 738.9000244140625,
+          "end": 743.9000244140625,
+          "text": "Ma diciamo a Cloud di intervistarci, di interrogarci, di domandarci."
+        },
+        {
+          "start": 743.9000244140625,
+          "end": 748.9000244140625,
+          "text": "Questo è un cambio importantissimo proprio di approccio su come usate questi strumenti."
+        },
+        {
+          "start": 748.9000244140625,
+          "end": 752.9000244140625,
+          "text": "Quando Cloud ha tutto quello che gli serve e lui lo sa cosa gli serve non noi."
+        },
+        {
+          "start": 752.9000244140625,
+          "end": 756.9000244140625,
+          "text": "Noi lo facciamo lavorare perché sta lavorando sui nostri file, sta lavorando sul nostro computer."
+        },
+        {
+          "start": 756.9000244140625,
+          "end": 758.9000244140625,
+          "text": "Non ve la dimenticate mai questa cosa."
+        },
+        {
+          "start": 758.9000244140625,
+          "end": 760.9000244140625,
+          "text": "Ma gli diciamo fammi vedere cosa stai per fare."
+        },
+        {
+          "start": 760.9000244140625,
+          "end": 762.9000244140625,
+          "text": "Se mi piace te lo approvo."
+        },
+        {
+          "start": 762.9000244140625,
+          "end": 764.9000244140625,
+          "text": "Se non stai a fare una cazzata te lo approvo."
+        },
+        {
+          "start": 764.9000244140625,
+          "end": 766.9000244140625,
+          "text": "Altrimenti lo modifico un pochino."
+        },
+        {
+          "start": 766.9000244140625,
+          "end": 769.9000244140625,
+          "text": "E questo non è nemmeno il modo più ottimizzato di farlo."
+        },
+        {
+          "start": 769.9000244140625,
+          "end": 772.9000244140625,
+          "text": "Più avanti vedremo anche un modo più elegante di fare questa cosa."
+        },
+        {
+          "start": 772.9000244140625,
+          "end": 773.9000244140625,
+          "text": "Ma per adesso diamo invio."
+        },
+        {
+          "start": 773.9000244140625,
+          "end": 777.9000244140625,
+          "text": "Già qua state capendo quanto è potente questo strumento."
+        },
+        {
+          "start": 777.9000244140625,
+          "end": 779.9000244140625,
+          "text": "Allora partiamo dalla base."
+        },
+        {
+          "start": 779.9000244140625,
+          "end": 780.9000244140625,
+          "text": "Quanti clienti gestiti attualmente?"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 13,
+        "time": 780.0,
+        "timestamp": "00:13:00",
+        "image": "frame_0013.jpg",
+        "reason": "periodic",
+        "ocr_text": "1 suono Mico è satupmanetng ager x > clude Setup markating agency workspace stru. st creando mio worksace da zero in laude code ©. Troughtor2s > Partiamo da base. Quanti lenti gestite attualmente, e come sono strutturati? es. ln piccoli con progetti ne-shet, centi grandi con einer mensile, mb del duo, oce)",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 780.9000244140625,
+          "end": 781.9000244140625,
+          "text": "Come sono strutturati?"
+        },
+        {
+          "start": 781.9000244140625,
+          "end": 783.9000244140625,
+          "text": "Clienti piccoli con progetti one shot?"
+        },
+        {
+          "start": 783.9000244140625,
+          "end": 786.9000244140625,
+          "text": "Clienti grandi con cose mensili?"
+        },
+        {
+          "start": 786.9000244140625,
+          "end": 787.9000244140625,
+          "text": "Remix dei due?"
+        },
+        {
+          "start": 787.9000244140625,
+          "end": 788.9000244140625,
+          "text": "Eccetera eccetera."
+        },
+        {
+          "start": 788.9000244140625,
+          "end": 794.9000244140625,
+          "text": "Gli dico abbiamo sempre più clienti in contemporanea."
+        },
+        {
+          "start": 794.9000244140625,
+          "end": 801.9000244140625,
+          "text": "E a volte sono piccoli e a volte più grandi."
+        },
+        {
+          "start": 801.9000244140625,
+          "end": 804.9000244140625,
+          "text": "Io non so perché mi ha fatto questa domanda."
+        },
+        {
+          "start": 804.9000244140625,
+          "end": 807.9000244140625,
+          "text": "Lui la userà perché gli serve per organizzare le cartelle."
+        },
+        {
+          "start": 807.9000244140625,
+          "end": 808.9000244140625,
+          "text": "Quali servizi offrite?"
+        },
+        {
+          "start": 808.9000244140625,
+          "end": 810.9000244140625,
+          "text": "Vedete adesso inizia a lavorare in termini di servizi."
+        },
+        {
+          "start": 810.9000244140625,
+          "end": 811.9000244140625,
+          "text": "Bene."
+        },
+        {
+          "start": 811.9000244140625,
+          "end": 812.9000244140625,
+          "text": "Qua potremmo dire che facciamo."
+        },
+        {
+          "start": 812.9000244140625,
+          "end": 813.9000244140625,
+          "text": "Che ne so."
+        },
+        {
+          "start": 813.9000244140625,
+          "end": 817.9000244140625,
+          "text": "Creazione contenuti video."
+        },
+        {
+          "start": 817.9000244140625,
+          "end": 822.9000244140625,
+          "text": "Creazione contenuti testo."
+        },
+        {
+          "start": 822.9000244140625,
+          "end": 824.9000244140625,
+          "text": "Me li sto inventando."
+        },
+        {
+          "start": 824.9000244140625,
+          "end": 826.9000244140625,
+          "text": "Ovviamente non deve essere per forza così."
+        },
+        {
+          "start": 826.9000244140625,
+          "end": 829.9000244140625,
+          "text": "Campagne social media."
+        },
+        {
+          "start": 829.9000244140625,
+          "end": 831.9000244140625,
+          "text": "Non facciamo, non mettiamo troppe cose."
+        },
+        {
+          "start": 831.9000244140625,
+          "end": 834.9000244140625,
+          "text": "Sennò poi diciamo diventa troppo lungo l'esempio."
+        },
+        {
+          "start": 834.9000244140625,
+          "end": 836.9000244140625,
+          "text": "Però per far vedere che possiamo descrivere le cose che facciamo."
+        },
+        {
+          "start": 836.9000244140625,
+          "end": 838.9000244140625,
+          "text": "Ovviamente io qua sto facendo un esempio."
+        },
+        {
+          "start": 838.9000244140625,
+          "end": 842.9000244140625,
+          "text": "Se voi non siete una web agency fate il vostro di esempio."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 14,
+        "time": 840.0,
+        "timestamp": "00:14:00",
+        "image": "frame_0014.jpg",
+        "reason": "periodic",
+        "ocr_text": "E Setup marketing agency X Setup marketing agency workspace stri. st creando mio workspace a zero in laude code ® Tmoughttorze ® Partiamo dalla base. Quanti lenti gestite attualmente, e come sono strutturati? es. ln piccoli con progetti ne-shot, ceti grandi con retainr mensile, mix dl due, occ.) abbiamo sempr più lenti n contemporanea e a voto son piccoli a ole più grand © Thoughttorie ®. Chiaro. Seconda domanda: Qual servizi oltrito? (ea social media management, SEO, campagne ads, content retin, emali marketing branding, it ob ecc. — elenca puro tutt quello che ate) reazione contnui idee, creazione contea testo, campagne sci! media +0 OST)",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 842.9000244140625,
+          "end": 843.9000244140625,
+          "text": "Ma l'approccio è identico."
+        },
+        {
+          "start": 843.9000244140625,
+          "end": 847.9000244140625,
+          "text": "L'importante è che capite cosa voglio trasmettere come approccio."
+        },
+        {
+          "start": 847.9000244140625,
+          "end": 848.9000244140625,
+          "text": "Contenuti video."
+        },
+        {
+          "start": 848.9000244140625,
+          "end": 849.9000244140625,
+          "text": "Contenuti testo."
+        },
+        {
+          "start": 849.9000244140625,
+          "end": 850.9000244140625,
+          "text": "Campagne social media."
+        },
+        {
+          "start": 850.9000244140625,
+          "end": 852.9000244140625,
+          "text": "Che ne so."
+        },
+        {
+          "start": 852.9000244140625,
+          "end": 859.9000244140625,
+          "text": "Facciamo scatti fotografici professionali."
+        },
+        {
+          "start": 859.9000244140625,
+          "end": 862.9000244140625,
+          "text": "E boh traduzioni."
+        },
+        {
+          "start": 862.9000244140625,
+          "end": 863.9000244140625,
+          "text": "Va bene?"
+        },
+        {
+          "start": 863.9000244140625,
+          "end": 864.9000244140625,
+          "text": "Mi invento questi servizi qua."
+        },
+        {
+          "start": 864.9000244140625,
+          "end": 866.9000244140625,
+          "text": "Un po' strano come agenzia."
+        },
+        {
+          "start": 866.9000244140625,
+          "end": 867.9000244140625,
+          "text": "Però va bene così."
+        },
+        {
+          "start": 867.9000244140625,
+          "end": 868.9000244140625,
+          "text": "Terza domanda."
+        },
+        {
+          "start": 868.9000244140625,
+          "end": 869.9000244140625,
+          "text": "Com'è composto il team?"
+        },
+        {
+          "start": 869.9000244140625,
+          "end": 870.9000244140625,
+          "text": "Quante persone?"
+        },
+        {
+          "start": 870.9000244140625,
+          "end": 871.9000244140625,
+          "text": "Quali ruoli?"
+        },
+        {
+          "start": 871.9000244140625,
+          "end": 872.9000244140625,
+          "text": "Perfetto."
+        },
+        {
+          "start": 872.9000244140625,
+          "end": 873.9000244140625,
+          "text": "Diciamo che non siamo molto grandi."
+        },
+        {
+          "start": 873.9000244140625,
+          "end": 874.9000244140625,
+          "text": "Ok?"
+        },
+        {
+          "start": 874.9000244140625,
+          "end": 876.9000244140625,
+          "text": "Diciamo siamo dieci persone."
+        },
+        {
+          "start": 876.9000244140625,
+          "end": 878.9000244140625,
+          "text": "Facciamo così."
+        },
+        {
+          "start": 878.9000244140625,
+          "end": 880.9000244140625,
+          "text": "Facciamo, qua l'ho detto."
+        },
+        {
+          "start": 880.9000244140625,
+          "end": 882.9000244140625,
+          "text": "Tre sui video."
+        },
+        {
+          "start": 882.9000244140625,
+          "end": 884.9000244140625,
+          "text": "Uno sul testo."
+        },
+        {
+          "start": 884.9000244140625,
+          "end": 888.9000244140625,
+          "text": "Uno sulle foto."
+        },
+        {
+          "start": 888.9000244140625,
+          "end": 892.9000244140625,
+          "text": "Siamo a cinque."
+        },
+        {
+          "start": 892.9000244140625,
+          "end": 896.9000244140625,
+          "text": "Poi diciamo tre social media."
+        },
+        {
+          "start": 896.9000244140625,
+          "end": 898.9000244140625,
+          "text": "Due traduzioni."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 15,
+        "time": 900.0,
+        "timestamp": "00:15:00",
+        "image": "frame_0015.jpg",
+        "reason": "periodic",
+        "ocr_text": "at ereando mio mrkapace da zero in claude code © Troughttorzs ®. Partiamo dll base. Quanti lenti gestite attualmente, o come sono strutturati? es. ln piccoli con progetti ne-she, centi grandi con etainr mensile, mix dl due, occ.) abbiamo sempre pù clnt n contemporanea e a vote sono piccoli a ole più grand ® Thought torte ®. Chiaro. Seconda domanda: Quali servizi ftrit? (es. social media management, SEO, campagne ads, content rain, emi marketing branding, st eb, ecc. — elenca pur uo quelo che fate) creazione contenuti viceo, creazione contenuti testo, campagne socia media, scatti fotografici rotessonali, traduzioni Thought or 08 = ottimo Terza domanda: Com'è composto team? (s. quante persone, con quali vol — copywriter, video editor account manager, ce) amo 10 persone: $ sui video 1 su testo, sulle oto, 3 soci medi, 2 traduzioni + Wa",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 900.0,
+          "end": 906.0,
+          "text": "Anche qua sto inventando e sto semplificando. Voi se volete mettete le cose con più calma, con più dettagli e così via."
+        },
+        {
+          "start": 906.0,
+          "end": 913.0,
+          "text": "O semplicemente gli dite che è irrilevante. Potreste dire no, no, guarda la composizione del team è irrilevante per la creazione del workspace."
+        },
+        {
+          "start": 913.0,
+          "end": 920.0,
+          "text": "Come gestite attualmente i file e progetti? Usate Google Drive, Notion, server locale, cartelle su computer e così via."
+        },
+        {
+          "start": 920.0,
+          "end": 939.0,
+          "text": "Gli posso dire Drive per file e cartelle e poi Trello per gestione progetti."
+        },
+        {
+          "start": 939.0,
+          "end": 946.0,
+          "text": "Aspettiamo e vediamo qual è l'altra domanda. Vedete la differenza che vi dicevo rispetto a prima? Ci sta chiedendo lui le informazioni che ci servono."
+        },
+        {
+          "start": 946.0,
+          "end": 955.0,
+          "text": "Per cosa volete usare Cloud Code specificamente? Generali test per i clienti, automatizzare report, creare script video, gestire brief, fare ricerca, tutto."
+        },
+        {
+          "start": 955.0,
+          "end": 969.0,
+          "text": "Lo inseriremo in qualsiasi attività. Lui sta cercando di dedurre quali sono le cose che ci servono a noi e di conseguenza ci va a fare le cartelle."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 16,
+        "time": 960.0,
+        "timestamp": "00:16:00",
+        "image": "frame_0016.jpg",
+        "reason": "periodic",
+        "ocr_text": "6 Setup marketing agency —. x Setup markatig agency workspaca stru. abbiamo sempre pù lenti in contemporanea e a volto son piccoli a vote pù grandi hcognt fort ®. Chiaro. Seconda domanda: Quali servizi olfrit? (es. social media management, SEO, campagne ads, content retin, emi marketing branding, st ob, ecc. = elenca puro tuto quello che ft) creazione contenuti io, creazione contenuti testo, campagne social media, scatti fotografici roessionali traduzioni =. Thowght for 06 ottimo Terza doman: Com'è composto li team? (es. quant persone, con quali ruoli — copywriter, video edo sccount manager, ce) amo 10 persone: sui video su tsto, sulle oto, 3 social media, 2 traduzioni # ivoght fre ® Perfetto. Quarta domanda: Come gestite attualmente fila e progetti? (6. usate Google Divo, Noto, un server ica, cartello sul computar, qualche project management tool come Asana/Tralo/Ciekyp, ecc) ivo per le cartelle rl pe gestione progetti © Tnovgni or 06 ® Ghiara, Quinta domanda: Per cosa volete usare Claude Code specificamente? (cs. generar esi eri cen, automatizzare ropori, care script pr video, gesti ria, fare ricerche, altro — o un mix tuto?) tutto, lasrremo in quasiasi attività +4",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 970.0,
+          "end": 976.0,
+          "text": "Quindi ci ha chiesto come comunicare con i clienti, email, whatsapp, call, portale."
+        },
+        {
+          "start": 976.0,
+          "end": 998.0,
+          "text": "Settima domanda, come nasce tipicamente un processo? Arriva un brief da un cliente, viene assinato a qualcuno, si produce, diciamo così, ci contattano sul sito o sui social, facciamo una call conoscitiva, mandiamo un preventivo, alla firma si inizia a lavorare."
+        },
+        {
+          "start": 999.0,
+          "end": 1003.0,
+          "text": "Di solito è più complesso di così, ma ai fini dell'esempio semplifichiamo."
+        },
+        {
+          "start": 1003.0,
+          "end": 1018.0,
+          "text": "Qua quello che vi voglio far vedere è il fatto che con Cloud Code ragioniamo insieme, ok? Ecco perché questo è un assistente AI full, che si infila in tutte le attività."
+        },
+        {
+          "start": 1018.0,
+          "end": 1029.0,
+          "text": "In quale lingua lavoriamo? Solo italiano. Perché magari voleva farci delle cartelle per le altre lingue, non lo so. Non sappiamo perché ce l'ha chiesto, vedremo alla fine cosa ci propone."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 17,
+        "time": 1020.0,
+        "timestamp": "00:17:00",
+        "image": "frame_0017.jpg",
+        "reason": "periodic",
+        "ocr_text": "SEI 0 ® rta O00 © cuorvonsnce I Fa CD > Setup martina agency. x Cani Setup marketing agency workspaca stru. amo 10 persone: è sui video, 1 sultsto, sulle foto, 3 social medi, 2 traduzioni Come gestite attualmente file e progetti? (es. usate Google Divo, Noto, un server cal, cartello sul computer, ualch project management tool come Asana/Trale/CekUp, ec) ivo per le crtll, ro par gestione progetti Thought torce ®. Chiaro. Quinta domanda: Per cosa volete usare Claude Code specificamente? (es. generare testi per cen, automatizzare report, cara script per io, gesto brit, ar ricerche, altro — utt inseriremo in quasiasi tività Thought for os ® Sesta domanda Come comunieate coni clienti? (es. emal, YhatsApp, cal, n portale dedicato — e hi è I punto di contatto principal, un account manager 0 ogni specialist parla irettamente col lento?) cat Settima domanda: Come nasce tipicamente un progetto? (es. arriva un brit da lente è ine assegnato a qualcuno si produce siva per approvazione > sl pubblica — c'è un processo standard 0 ogni servizio ha ls lusso?) contattano sul sito 0 sul soci, fcelamo una cal conoscitiva, mandiamo un preventivo, alla fama linizia a avrare e Thovant for 06 ottava domandi: in quali ingue lavorate? (alano sicuramente, male traduzioni ln che direzione vanno — lenti sono prevalentemente alan anch strane?) sol +0 DIS)",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1029.0,
+          "end": 1037.0,
+          "text": "Perché la cosa importante, ricordatevi, è che gli abbiamo detto di mostrarci quella che è la proposta che lui vuole fare di workspace, non di andarla a creare."
+        },
+        {
+          "start": 1037.0,
+          "end": 1044.0,
+          "text": "Perché magari vuole creare 50 cartelle e quando è partito, no, è troppo tardi, invece adesso voglio proprio vederlo."
+        },
+        {
+          "start": 1044.0,
+          "end": 1048.0,
+          "text": "Eccolo qua, guardate che spettacolo. Guardate che spettacolo."
+        },
+        {
+          "start": 1048.0,
+          "end": 1051.0,
+          "text": "Mi ha detto, ecco qua, io ti farei questa struttura."
+        },
+        {
+          "start": 1051.0,
+          "end": 1063.0,
+          "text": "Allora, ignorate per un attimo questa roba qua, ok? Che questa è la cosa più importante di tutti, ma ci sarà un modulo tra poco, è il contesto diciamo sul quale lavoreremo."
+        },
+        {
+          "start": 1063.0,
+          "end": 1070.0,
+          "text": "Guardiamo un attimo le cartelle. Allora lui ti dice, io farei la cartella clienti, torniamo qua, andiamola a vedere."
+        },
+        {
+          "start": 1070.0,
+          "end": 1075.0,
+          "text": "Quindi sta lavorando in questo modo, vedete ha scelto la modalità numero due che io vi facevo vedere."
+        },
+        {
+          "start": 1075.0,
+          "end": 1083.0,
+          "text": "Ti farei la cartella clienti, dentro template, così copi per ogni cliente poi ci metti dentro."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 18,
+        "time": 1080.0,
+        "timestamp": "00:18:00",
+        "image": "frame_0018.jpg",
+        "reason": "periodic",
+        "ocr_text": "© Suorvonsice (Fa CD > Setupmartntng aper ages; Setup marketing agency Workspace stri. solo alano “Struttura Workspace Proposta I Pocwoeini = contesto globale dell'agenzia (sempre. letto a Claude) Ì 1 atene {= tevpiate/ artt e a cotare per gni pv tte |P profatoimi = settore, obiettivi, target, no di voce | I rote.no * decisioni, eedback; storico cosunicazioni i \"= tnomectientel/ © na enrtela per: ani cliente 1 protitosa \"note. servi = dstruzioni e renplate per: coni reparto Von testo,mi rociatina totosna eraduzioni:no tes © dite ALLA emallLeliente. se BrserLprogetto,n i I I I I I Ì Ì po i i I I | ta î I I rey agenzioine = ehi siete, valori; processi interni Come funziona GUAI — Claude legge quest 1 Alanti/{nose)/protito.xd — prima di aver red — ogni rgart ha ie su |",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1083.0,
+          "end": 1091.0,
+          "text": "Sotto c'è la cartella nome cliente, con dentro vedete il profilo del cliente, quindi là ci sta anche la parte di contesto specifico sul cliente."
+        },
+        {
+          "start": 1091.0,
+          "end": 1095.0,
+          "text": "Quindi sto lavorando per il cliente X, perfetto."
+        },
+        {
+          "start": 1095.0,
+          "end": 1099.0,
+          "text": "Che industria è Automotive? Che cos'è B2B o B2C? B2C."
+        },
+        {
+          "start": 1099.0,
+          "end": 1104.0,
+          "text": "Quanto è grosso? Lavora anche all'estero? No, possiamo mettere delle caratteristiche del cliente."
+        },
+        {
+          "start": 1104.0,
+          "end": 1110.0,
+          "text": "Servizi, qua ci sono le istruzioni e i template per ogni reparto, ok?"
+        },
+        {
+          "start": 1110.0,
+          "end": 1114.0,
+          "text": "Template con i documenti riutilizzabili e poi i risorse."
+        },
+        {
+          "start": 1114.0,
+          "end": 1118.0,
+          "text": "Ci sono i valori dell'agenzia, chi siete e così via."
+        },
+        {
+          "start": 1118.0,
+          "end": 1122.0,
+          "text": "Vi ricordate MD? Abbiamo detto non vi spaventate, sono semplicemente dei file di testo, ok?"
+        },
+        {
+          "start": 1122.0,
+          "end": 1127.0,
+          "text": "È il formato che usa Cloud Code, sono dei file di testo alla fine, non ci dobbiamo spaventare."
+        },
+        {
+          "start": 1127.0,
+          "end": 1134.0,
+          "text": "Quindi diciamo i vari file MD poi saranno il contesto che Cloud andrà a utilizzare, ma sul contesto c'è un modulo a parte."
+        },
+        {
+          "start": 1134.0,
+          "end": 1139.0,
+          "text": "Per il momento capiamo le cartelle, quindi clienti, poi dentro c'è la cosa dei clienti e così via."
+        },
+        {
+          "start": 1139.0,
+          "end": 1148.0,
+          "text": "Perfetto, gli dico questa struttura mi piace, crea il workspace."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 19,
+        "time": 1140.0,
+        "timestamp": "00:19:00",
+        "image": "frame_0019.jpg",
+        "reason": "periodic",
+        "ocr_text": "CRETE E Set up marketing agency x Zi Setup marketing agency workspaca stru. so alano cioe = contesto globale dell'agenzia; (sempre letto da Claude) Ì po eten 1 testate) = cartella base da copiare per cont iove cliente |P protito:n = dettore, obiettivi, target, tono di vece | 1 notes — decisioni; eadback, storico comunicazioni I I tnoseccLientel/ = una cartella peri sani cLiente 1 protito:sa = dstruzioni e tenlate per'sani reparto = chi sete; valori, processi interni CUNUOE,nd — Claude leggo questo fe automaticamente ad ogni session. Contiene l contesto completo dell'agenzia, sevizi team el rego di avro Eltanti/ none) profilo. 3 — prima di avorae su un cente ii a Cine i leggero: n secondi ha tutt contest (ton, oblett, target. servizi /a-nd — ogni reprto ha e su struioni specie es format pa script do, lunghezze dl ost social, ce) templates / — prevent, emal brief sempre pronte Si conince questa impostzion, 5 ol sgglingeraimadificae qualcosa prima ch nz a creare e? +",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1148.0,
+          "end": 1153.0,
+          "text": "In realtà dopo voglio fargli fare un'altra cosa, ma la voglio fare quando già il workspace è creato."
+        },
+        {
+          "start": 1153.0,
+          "end": 1156.0,
+          "text": "Così vi faccio vedere come lavoriamo su un workspace già presente."
+        },
+        {
+          "start": 1156.0,
+          "end": 1162.0,
+          "text": "Cioè, così come ha creato la cartella template, che è una cartella di cose extra, documenti riutilizzabili,"
+        },
+        {
+          "start": 1162.0,
+          "end": 1168.0,
+          "text": "in realtà nella modalità precedente, quella semplice, qua autorizziamo a creare le cartelle,"
+        },
+        {
+          "start": 1168.0,
+          "end": 1175.0,
+          "text": "nella versione 1, diciamo, di questo esempio che vi sto facendo vedere,"
+        },
+        {
+          "start": 1175.0,
+          "end": 1179.0,
+          "text": "aveva fatto la cartella, per esempio, dove dentro metterci le risorse, vi ricordate?"
+        },
+        {
+          "start": 1179.0,
+          "end": 1184.0,
+          "text": "Aveva fatto la cartella, l'ha fatta quale cartella risorse?"
+        },
+        {
+          "start": 1184.0,
+          "end": 1186.0,
+          "text": "Ah no, qua la cartella risorse, ma quella dell'agenzia."
+        },
+        {
+          "start": 1186.0,
+          "end": 1191.0,
+          "text": "Io invece voglio metterci una dove possiamo mettere dentro documenti e così via."
+        },
+        {
+          "start": 1191.0,
+          "end": 1197.0,
+          "text": "Allora, qua si è fatta la sua to-do list e qua sta andando a creare, ignorate questa roba qua, ok?"
+        },
+        {
+          "start": 1197.0,
+          "end": 1203.0,
+          "text": "Adesso io devo dirgli di sì, lui mi sta creando tutti i file md che sono fondamentali, sono il contesto,"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 20,
+        "time": 1200.0,
+        "timestamp": "00:20:00",
+        "image": "frame_0020.jpg",
+        "reason": "periodic",
+        "ocr_text": "solo alano TI cotvince questa impostazione, 0 vuol aggngere/madiiae qualcosa prima che nz a creare le? ‘questa srttura mi piace, cea l worspaco ©. Thought fore ®._Creo tto adesso. rima lo carte, pol le uno per uno. nie -p “NUsers/raffaete/Desctop/clae vorkspace/cLent/. template */isrs/ratfaele/Desktop/clavef vorhspace/servi (bad compiere ito no output) Update Todos * crea CLAUDE md Crea clnti template md e note. md Crea fil servizi (eo, testo, social, foto, 1raduzion) Crea tempiats (preventivo, emal bre!) Crea ricorsagenzia mi Wirito clune.ss # Agenzia di narketing = Contesto Grotte Decihering.",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1203.0,
+          "end": 1205.0,
+          "text": "il contesto però lo vediamo tra un attimo."
+        },
+        {
+          "start": 1205.0,
+          "end": 1210.0,
+          "text": "Contesto e workspace vanno a braccetto, ma se non vi ho fatto vedere il workspace non vi posso far vedere il contesto."
+        },
+        {
+          "start": 1210.0,
+          "end": 1218.0,
+          "text": "Qua che lo voglio far vedere è che lui, diciamo, si è fatta la proposta che ci vuole fare,"
+        },
+        {
+          "start": 1218.0,
+          "end": 1223.0,
+          "text": "cioè ci ha mostrato la proposta che ci vuole fare, noi l'autorizziamo, si è fatto una to-do list,"
+        },
+        {
+          "start": 1223.0,
+          "end": 1230.0,
+          "text": "vedete, qua sta proprio, qua vedete che è uno strumento agentico, cioè è proprio un altro mondo rispetto a usare gpt, gemina e così via."
+        },
+        {
+          "start": 1230.0,
+          "end": 1236.0,
+          "text": "Qua, diciamo, lui si è fatta la to-do list, sta andando a lavorare sulla to-do list e lo sta facendo in autonomia,"
+        },
+        {
+          "start": 1236.0,
+          "end": 1238.0,
+          "text": "questo significa che lavora su uno strumento agentico."
+        },
+        {
+          "start": 1238.0,
+          "end": 1246.0,
+          "text": "Tra l'altro, cosa importante, noi in qualsiasi momento possiamo aprire più istanze di Cloud Code e lavorare in parallelo,"
+        },
+        {
+          "start": 1246.0,
+          "end": 1251.0,
+          "text": "proprio perché non sono delle chat, ma è uno strumento agentico."
+        },
+        {
+          "start": 1251.0,
+          "end": 1255.0,
+          "text": "Quindi io qua posso dare un comando mentre lui sta facendo queste cose qua, ok?"
+        },
+        {
+          "start": 1255.0,
+          "end": 1274.0,
+          "text": "Cioè io potrei dirgli qua dentro, che ne so, la cartella clienti, ah no, rinomina le cartelle del workspace in inglese, invio."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 21,
+        "time": 1260.0,
+        "timestamp": "00:21:00",
+        "image": "frame_0021.jpg",
+        "reason": "periodic",
+        "ocr_text": "cune womsrice (è 9 C © - WE setupmarietingagenoy > alude Ur > lenti > risorse > servizi > tempites % ciAUDEmd Make a CLAUDE id fl for Istueions Claude wil rad every anglo time.",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1274.0,
+          "end": 1285.0,
+          "text": "Perché magari non voglio tenere clienti, risorse, servizi, ma voglio tenere clients, services, no, perché templates per esempio ce l'ha messa con la s finale."
+        },
+        {
+          "start": 1285.0,
+          "end": 1292.0,
+          "text": "Le cartelle da rinominare sono clienti, inclients, perfetto, do invio e vedete ce l'ha rinominata."
+        },
+        {
+          "start": 1292.0,
+          "end": 1296.0,
+          "text": "Mentre questo sta ancora creando le cartelle, ok?"
+        },
+        {
+          "start": 1296.0,
+          "end": 1301.0,
+          "text": "Non penso che ci voglia un modulo dedicato solo per far vedere che si possono fare le cose in parallelo,"
+        },
+        {
+          "start": 1301.0,
+          "end": 1304.0,
+          "text": "magari in più moduli lo rifaccio così ve lo ricordate."
+        },
+        {
+          "start": 1304.0,
+          "end": 1312.0,
+          "text": "Cioè io qua posso aprire 4 istanze, 5 istanze di Cloud Code, c'è tanta roba ragazzi."
+        },
+        {
+          "start": 1312.0,
+          "end": 1320.0,
+          "text": "Avete già capito da questo quanto è potente questo strumento e perché non stiamo, diciamo, in una semplice chat."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 22,
+        "time": 1320.0,
+        "timestamp": "00:22:00",
+        "image": "frame_0022.jpg",
+        "reason": "periodic",
+        "ocr_text": "+ ca oiseace Ce ®Doa cioe worse | fa CO 28 Rena worse for. I “+ (cause Code] CLAUDE md x vasi > cile Sw (5 ner ratto > Desktop > lau monaca > 8 CLAUDE md > # Agenzia di Markating Comesto Cobol > lenta ionici n O OT 1 # Agenzia di Marketing — Contesto Gobete ie 15 ee Tesa Cl persone © pitt Dv |tesjii 10 10 | Fotografia | 1 rinomina le cartelle del workspace in inglese. TRE [in 2020 | rroduztoni | 2 22 22. 0 Strumenti 223. - sedoogle Drivesa — archiviazione file e cortelle ZAC 24 - setrltese — gestione progetti € task 25-25, — refmail è colle — comunicazione con 1 clienti + Alen > cliente » » * risorse > resources 37.27 ee Fausso di Lavoro stanare ‘anse di 2020 1. I Cliente ci contatta vio sito 0 social + tenplates rimane mart Già inglese) S SO Dovrò anche ggicnare fermani n CLAUDE md. Procede. di 31 4 Fino contratto 3232 5: Ario lavori v » 3A 36 #0 Come usare questo vorkspoce n SAUSGFS/ TAM {ac le/Deshtop/ claude vrkspace/elienti* */users/raffarle/Desktop/clade v ss 36.36 see Prima di lavorare su un cliente (Bash completed with no output) 37.\" Leggi senpre il file *clienti/[none-cLiente]/profilo.n3° per avere: Leggi sempre 1 tile ‘clienti (none-cliente) /profil0.nd' per avere 38° 33 - settore e contesto Read cUDE.si 3939 - obfettivi 4040 - torget di riferimento it cune.ni #1 41 - tono di voce so Leggi sempre IL file Verlenti/ [none-chiente]/oròtilo1md) per avere: DD re ARI Me EI o rmere o Laggi.semprelALIMile clienti? [none-cl{entel/profst0:nd\": per avere: Rasa gici paraciin si “ 4646 se Per generare documenti standard 4747 Usa i tenplate in ‘tesplates/* cone base. Mako this edit to CLAUDE. nd? ds 40.49. 0 Rogote generati [(( \\ VWwuWuv«o—_«—«—cLrcdcv<vo—=<czszc—-—-»-»e‘ se si al eltente specifico (leggilo 2 Yes, allow al edits this session » sar mou forte Le cart da inominare sono: Ban Rame lla cer to Eng s ano Sì 53 - se mancano Informazioni su un cliente, chiedi prina di proc",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1320.0,
+          "end": 1323.0,
+          "text": "Ovviamente qua adesso mi vuole andare a aggiornare pure i file di contesto,"
+        },
+        {
+          "start": 1323.0,
+          "end": 1328.0,
+          "text": "chiudo questa roba qua per non incasinarvi, diciamo aspettiamo che finisce lui di lavorare qua."
+        },
+        {
+          "start": 1328.0,
+          "end": 1334.0,
+          "text": "Quindi vedete ha fatto le, sta andando avanti nel todo, adesso sta nella cartella template,"
+        },
+        {
+          "start": 1334.0,
+          "end": 1336.0,
+          "text": "deve fare la cartella risorse e poi ha finito."
+        },
+        {
+          "start": 1336.0,
+          "end": 1342.0,
+          "text": "E come vi dicevo noi possiamo lavorarci dentro questo workspace,"
+        },
+        {
+          "start": 1342.0,
+          "end": 1344.0,
+          "text": "continuare a fargli fare delle cose."
+        },
+        {
+          "start": 1344.0,
+          "end": 1348.0,
+          "text": "Per esempio io una cartella che trovo molto comoda è una cartella temp,"
+        },
+        {
+          "start": 1348.0,
+          "end": 1353.0,
+          "text": "dove ci metto i file temporanei per esempio e quindi c'è una roba che non mi voglio conservare,"
+        },
+        {
+          "start": 1353.0,
+          "end": 1357.0,
+          "text": "ma ti devo far vedere una presentazione da un PDF da 50 pagine,"
+        },
+        {
+          "start": 1357.0,
+          "end": 1360.0,
+          "text": "perché su quello poi lo devi utilizzare per fare tu qualcosa,"
+        },
+        {
+          "start": 1360.0,
+          "end": 1362.0,
+          "text": "allora lo metto un attimo nella cartellina temporanea,"
+        },
+        {
+          "start": 1362.0,
+          "end": 1366.0,
+          "text": "lui la legge e poi dopo quel file lo cancello semplicemente."
+        },
+        {
+          "start": 1366.0,
+          "end": 1370.0,
+          "text": "Quindi cosa gli potrei andare a dire?"
+        },
+        {
+          "start": 1370.0,
+          "end": 1380.0,
+          "text": "Gli potrei dire spesso noi utilizziamo, no spesso noi abbiamo materiale esterno,"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 23,
+        "time": 1380.0,
+        "timestamp": "00:23:00",
+        "image": "frame_0023.jpg",
+        "reason": "periodic",
+        "ocr_text": "|@ ciauor womsice DÒ fa C © + Setup marketing agency. x > into Setup marketing agency workspace stri. ‘questa struttura mi piace, cea morkspace e cit Progetto",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1380.0,
+          "end": 1388.0,
+          "text": "che ne so link, articoli, PDF, presentazioni e altro,"
+        },
+        {
+          "start": 1388.0,
+          "end": 1397.0,
+          "text": "che ci serve per diciamo per lavorare sui progetti dei clienti."
+        },
+        {
+          "start": 1397.0,
+          "end": 1409.0,
+          "text": "Ma siccome sono file temporanei non vorrei metterli nelle cartelle dei clienti."
+        },
+        {
+          "start": 1409.0,
+          "end": 1411.0,
+          "text": "Cosa facciamo qua?"
+        },
+        {
+          "start": 1411.0,
+          "end": 1414.0,
+          "text": "Chiediamo a Cloud qual è il modo migliore per organizzare questa cosa."
+        },
+        {
+          "start": 1414.0,
+          "end": 1416.0,
+          "text": "Questo fatelo sempre."
+        },
+        {
+          "start": 1416.0,
+          "end": 1422.0,
+          "text": "Cioè tutte le volte che state andando a lavorare sul vostro workspace e aggiungere cose,"
+        },
+        {
+          "start": 1422.0,
+          "end": 1424.0,
+          "text": "non date per scontato come vi ho detto adesso,"
+        },
+        {
+          "start": 1424.0,
+          "end": 1427.0,
+          "text": "no allora ci vuole la cartella temp come ce l'ha Raffaele Gaito,"
+        },
+        {
+          "start": 1427.0,
+          "end": 1430.0,
+          "text": "no perché magari nel vostro caso per la struttura che avete,"
+        },
+        {
+          "start": 1430.0,
+          "end": 1432.0,
+          "text": "il tipo di lavoro che avete è più adatto a fare un'altra cosa."
+        },
+        {
+          "start": 1432.0,
+          "end": 1434.0,
+          "text": "Quindi io qua gli ho spiegato l'esigenza,"
+        },
+        {
+          "start": 1434.0,
+          "end": 1437.0,
+          "text": "cioè guarda periodicamente guardi questo materiale esterno,"
+        },
+        {
+          "start": 1437.0,
+          "end": 1440.0,
+          "text": "è materiale che magari usiamo per qualche giorno poi lo cancelliamo."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 24,
+        "time": 1440.0,
+        "timestamp": "00:24:00",
+        "image": "frame_0024.jpg",
+        "reason": "periodic",
+        "ocr_text": "ciswoe omerici | [è fa C © - Setupmaretigagency > claudio > cente > sorvicoe > serva > tempites * CLAVDEmI Setup marketing agency Workspace stru. questa struttura mi pico, cea morispace =. Workspace cento. Ecco ieplogo di tutto quelo che è tato generato Î Fr coem 2 contesto: aponzla ten regole otobati i pr eten I renptate/ È protito:so 2 settore, obiettivi, target, tono di voce iaty vii 12 Musso; Fora serapti istruzioni claude testo,na 2 RIDI dI tasto; lunghezze; regole stite © brket fotografico, nosd, destinazioni d'uso eraduziont.nd ‘regole traduzione; sottotitoli, Lingue TTTTT R i tatesy ‘nas Uente. sd ‘75 template enail {JoWlowup, preventivo; mivio; insegna; sotiecito) Drier.progetto:nd 2 brdatconpleto con ampistiche interne FTT I I I i = I I I I I I = I I i I “e vatorii processi oboarding;; tariffario; archiviazione Prossimo passo consigliato: sgiungll primo cento copando € iet/_tenplate/ In cLienti/nase-clUtnte]/ e compl profilo, — da quel momento Claude auà tuto il contesto per avra, spesso nol abbiamo material esterno (ink arco, pdl, prasentazioni ato) che ci serve per lavorare su proget dl cen. ma siccome sono fl temporanei pon vor meter ele carte el centi ì +0 ee)",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1440.0,
+          "end": 1442.0,
+          "text": "Tu che consigli dove lo mettiamo?"
+        },
+        {
+          "start": 1442.0,
+          "end": 1445.0,
+          "text": "Quindi io gli dico proprio questo,"
+        },
+        {
+          "start": 1445.0,
+          "end": 1452.0,
+          "text": "non sono sicuro di come inserire questa parte nel workspace,"
+        },
+        {
+          "start": 1452.0,
+          "end": 1460.0,
+          "text": "se servono nuove cartelle e quali."
+        },
+        {
+          "start": 1460.0,
+          "end": 1470.0,
+          "text": "Qua gli dico proponimi tu alcune alternative organizzative con i pro e i contro"
+        },
+        {
+          "start": 1470.0,
+          "end": 1475.0,
+          "text": "e poi io ti dico quale voglio usare."
+        },
+        {
+          "start": 1475.0,
+          "end": 1478.0,
+          "text": "Di nuovo trattiamo Cloud Code come un assistente,"
+        },
+        {
+          "start": 1478.0,
+          "end": 1480.0,
+          "text": "quindi ci stiamo proprio ragionando."
+        },
+        {
+          "start": 1480.0,
+          "end": 1483.0,
+          "text": "Lui sa qual è la nostra esigenza,"
+        },
+        {
+          "start": 1483.0,
+          "end": 1486.0,
+          "text": "adesso lo sa bene perché si è creato pure il file di contesto diciamo,"
+        },
+        {
+          "start": 1486.0,
+          "end": 1489.0,
+          "text": "è partito ha preso diciamo la tangente."
+        },
+        {
+          "start": 1489.0,
+          "end": 1492.0,
+          "text": "Però io ho questa esigenza,"
+        },
+        {
+          "start": 1492.0,
+          "end": 1496.0,
+          "text": "immaginate che voi state lavorando da un anno dentro questo workspace,"
+        },
+        {
+          "start": 1496.0,
+          "end": 1499.0,
+          "text": "cambia qualcosa e voi dite ah cazzarola,"
+        },
+        {
+          "start": 1499.0,
+          "end": 1502.0,
+          "text": "però un anno fa quando ho fatto il workspace non c'era sta roba,"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 25,
+        "time": 1500.0,
+        "timestamp": "00:25:00",
+        "image": "frame_0025.jpg",
+        "reason": "periodic",
+        "ocr_text": "CISSE: cine orione XK Setup marketing agency — x Setup markating agency workspaca stru. spesso nol abbiamo materiale esterno (ink aricol, pd, presentazioni e ao) che c serve per ivorare su progetti del lent. ma siccome sono fl temporanl non vorrei metti nelle carte del ceti nani È rossicoricarttcoro-connetitori per 1 btenchi-spa-presentazione-2824:potx cLAUDE md ut in post, nessuna sottcartta. Convention di naming: cliente) testa dm Pro: 20 frico, i metti qualcosa in 2 secondi, foce da pure peioiamene Contro: con ani lenti in contemporanea s empl diventa cao; non capisci subito cosa è ancora lle e cosa no Alternativa B— Cartella _context/ da svuotare a ogni sessione seontenty Tirolo d materiali che stat usando adesso) E una carte lnvagn”i i mett solo ciò che serve pera sessione atta, poi svut Pro: sempre pult, nessun accumulo, semplicissima Contro non conserva nulla — se prendi un progetto dopo gioni devi rimettere tutto da spo; non funziona bene e lavori su più lenti contemporanesmente Alternativa C — Cartella _nateriali/ con sottocartelle per cliente natanti 1 rossicsriy | (PP artieoto-eompetitoripsi i _1= Unerifersmento:n Stuttr paalela a liit1/ ma separata, dedicata sol al materiali temporanei. * vino",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1502.0,
+          "end": 1507.0,
+          "text": "mo come faccio a mettere questo senza sputtanare tutto l'ordine delle cartelle?"
+        },
+        {
+          "start": 1507.0,
+          "end": 1508.0,
+          "text": "Lo chiediamo a Cloud,"
+        },
+        {
+          "start": 1508.0,
+          "end": 1511.0,
+          "text": "mi dice allora ecco alcune proposte che ti faccio,"
+        },
+        {
+          "start": 1511.0,
+          "end": 1513.0,
+          "text": "ti fai una cartella inbox,"
+        },
+        {
+          "start": 1513.0,
+          "end": 1517.0,
+          "text": "dove dentro ci metti i file,"
+        },
+        {
+          "start": 1518.0,
+          "end": 1521.0,
+          "text": "quindi diciamo questa è una cartella proprio temporanea,"
+        },
+        {
+          "start": 1521.0,
+          "end": 1522.0,
+          "text": "ci metti due secondi,"
+        },
+        {
+          "start": 1522.0,
+          "end": 1524.0,
+          "text": "la pulisci periodicamente,"
+        },
+        {
+          "start": 1524.0,
+          "end": 1527.0,
+          "text": "oppure fai una cartella contesto,"
+        },
+        {
+          "start": 1527.0,
+          "end": 1530.0,
+          "text": "che la usi solo nelle chat,"
+        },
+        {
+          "start": 1530.0,
+          "end": 1533.0,
+          "text": "quindi la devi svuotare a fine di ogni sessione,"
+        },
+        {
+          "start": 1533.0,
+          "end": 1535.0,
+          "text": "oppure una cartella C,"
+        },
+        {
+          "start": 1535.0,
+          "end": 1537.0,
+          "text": "ti faccio una cartella che si chiama materiali"
+        },
+        {
+          "start": 1537.0,
+          "end": 1540.0,
+          "text": "e dentro ci facciamo le sottocartelle per i vari clienti,"
+        },
+        {
+          "start": 1540.0,
+          "end": 1543.0,
+          "text": "questa diciamo durerebbe un po' più nel tempo,"
+        },
+        {
+          "start": 1543.0,
+          "end": 1548.0,
+          "text": "a parte che questa rischia di essere un po' ridondante con la cartella clienti,"
+        },
+        {
+          "start": 1548.0,
+          "end": 1551.0,
+          "text": "a me personalmente piace questa qua,"
+        },
+        {
+          "start": 1551.0,
+          "end": 1552.0,
+          "text": "è quella che uso io,"
+        },
+        {
+          "start": 1552.0,
+          "end": 1555.0,
+          "text": "quindi dico procedi con la A,"
+        },
+        {
+          "start": 1555.0,
+          "end": 1559.0,
+          "text": "invio e lui va a fare quello che adesso deve fare,"
+        },
+        {
+          "start": 1559.0,
+          "end": 1562.0,
+          "text": "cioè la cartellina inbox che faremo,"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 26,
+        "time": 1560.0,
+        "timestamp": "00:26:00",
+        "image": "frame_0026.jpg",
+        "reason": "periodic",
+        "ocr_text": "Hi Mise nta x + E Setup marketing agency — Setup marketing agency workspace stu. spesso nol abbiamo materiale estmo (ink arcol, pd, presentazioni e ao) che c save per ivorare su progetti del lenta siccome sono fl temporanei non vorrei metti elle carte del centi ©. Thought fore » Ecco tre altematie, da più semplce al più strutturato: Alternativa A — Cartella _inbox/ piatta inox ® | rossiconcariteoto-ctepetitor.pd? = dianchi-spa-presentazione-28 ‘Tutto n un posto, nessuna sotocartel Convention i naming: [cliente] [descrizione] Pro: zo fin, ci mett qualcosa in 2 secon, sce da pulr paioicamente Contro: on tanti lenti in contemporanea i iempl diventa caotica: non capisci subito cosa è ancor tl cosa no Alternativa B— Cartella _context/ da svuotare a ogni sessione Î_ solo 1 materiali che stal usando adesso) È una carta lavagna”: i mett olo ciò che serve pera sessione atta, poi svuo. Pro: sampr pult, nessun accumulo, semplicissima Contro: non conserva nulla — se iprendi n progetto dopo giomi evi rimettere tutto da capo; non funziona bene s aor su pi lenti contemporaneamente Alternativa C — Cartella _materiali/ con sottocartelle per cliente Cestina 1 rossion/",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1562.0,
+          "end": 1564.0,
+          "text": "diciamo che useremo quella temporanea,"
+        },
+        {
+          "start": 1564.0,
+          "end": 1565.0,
+          "text": "ci buttiamo la roba dentro,"
+        },
+        {
+          "start": 1565.0,
+          "end": 1570.0,
+          "text": "il cliente non lo so Tesla ci ha mandato il brief,"
+        },
+        {
+          "start": 1570.0,
+          "end": 1572.0,
+          "text": "lo poggio un attimo dentro questa cartella,"
+        },
+        {
+          "start": 1572.0,
+          "end": 1573.0,
+          "text": "poi dopo lo cancello,"
+        },
+        {
+          "start": 1573.0,
+          "end": 1574.0,
+          "text": "magari il brief no,"
+        },
+        {
+          "start": 1574.0,
+          "end": 1576.0,
+          "text": "perché me lo terrei nella cartella dei clienti,"
+        },
+        {
+          "start": 1576.0,
+          "end": 1578.0,
+          "text": "però diciamo vedete qua ci ha creato la cartella inbox,"
+        },
+        {
+          "start": 1578.0,
+          "end": 1581.0,
+          "text": "tra l'altro è comodo perché ce l'ha messa pure con l'underscore,"
+        },
+        {
+          "start": 1581.0,
+          "end": 1583.0,
+          "text": "quindi si trova pure in alto,"
+        },
+        {
+          "start": 1583.0,
+          "end": 1585.0,
+          "text": "ci fa capire che è una cartella con roba temporanea,"
+        },
+        {
+          "start": 1585.0,
+          "end": 1589.0,
+          "text": "dentro ci ha creato anche il file come usare MD,"
+        },
+        {
+          "start": 1589.0,
+          "end": 1591.0,
+          "text": "e vedete cosa ha fatto in automatico,"
+        },
+        {
+          "start": 1591.0,
+          "end": 1592.0,
+          "text": "questo è un accenno,"
+        },
+        {
+          "start": 1592.0,
+          "end": 1594.0,
+          "text": "poi dopo ci andiamo dopo nel contesto,"
+        },
+        {
+          "start": 1594.0,
+          "end": 1596.0,
+          "text": "qui vanno tutti i materiali esterni,"
+        },
+        {
+          "start": 1596.0,
+          "end": 1599.0,
+          "text": "link, articoli, pdf, presentazioni,"
+        },
+        {
+          "start": 1599.0,
+          "end": 1601.0,
+          "text": "usate come riferimento per i progetti,"
+        },
+        {
+          "start": 1601.0,
+          "end": 1603.0,
+          "text": "non sono file ufficiali dei clienti,"
+        },
+        {
+          "start": 1603.0,
+          "end": 1605.0,
+          "text": "sono supporto di lavoro temporaneo,"
+        },
+        {
+          "start": 1605.0,
+          "end": 1608.0,
+          "text": "si è segnato pure un po' di convenzioni,"
+        },
+        {
+          "start": 1608.0,
+          "end": 1611.0,
+          "text": "tra un attimo vedremo perché questa cosa è potentissima,"
+        },
+        {
+          "start": 1611.0,
+          "end": 1615.0,
+          "text": "ma adesso sapete come creare il vostro workspace,"
+        },
+        {
+          "start": 1615.0,
+          "end": 1617.0,
+          "text": "usate la seconda modalità,"
+        },
+        {
+          "start": 1617.0,
+          "end": 1619.0,
+          "text": "perché è molto più potente della prima,"
+        },
+        {
+          "start": 1619.0,
+          "end": 1621.0,
+          "text": "lavorate con le domande,"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 27,
+        "time": 1620.0,
+        "timestamp": "00:27:00",
+        "image": "frame_0027.jpg",
+        "reason": "periodic",
+        "ocr_text": "# index —Nateriali temporanei di sopperto presentazioni, ec) usati cone riferimento per i progetti. Nn sono file ufficiali del cUnte = sone supporto di lavoro teparane. qui vano tutti A averiati esterni (Link, artico, por, Ora aggiorno GLAIDE.nd per ar sapere a Claude che questa catll esiste e come usar. #8 Come usare questo verkspace DÒ se come usare questo vorispsce fatto. Cosa stato aggiunto: + _inbox/ — cateto crosta all radice del vorispace (stesso velo di Clienti], eriizi/, ecc) + Linbos/cone-usara. nd — spiega la convention di Raming e ricorda quando fare pulizia » TAAiDE,nd aggiornato — Claudio a che ia cartla sito © come itepratara quando lavori La strutura finale de workapace è ora: case vorace” cioe = ino = materiali tenporaneli di supporto += cutentiz E servizi 1 tenotatesy I rdtorse/",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1621.0,
+          "end": 1623.0,
+          "text": "fatevi fare le domande da cloud code,"
+        },
+        {
+          "start": 1623.0,
+          "end": 1626.0,
+          "text": "poi vi fate proporre quella che la struttura gliela ha approvata"
+        },
+        {
+          "start": 1626.0,
+          "end": 1627.0,
+          "text": "e ve la fate creare,"
+        },
+        {
+          "start": 1627.0,
+          "end": 1629.0,
+          "text": "e ricordatevi che potete estenderla all'infinita,"
+        },
+        {
+          "start": 1629.0,
+          "end": 1631.0,
+          "text": "avete visto come ho rinominato tutte le cartelle in un solo colpo,"
+        },
+        {
+          "start": 1631.0,
+          "end": 1634.0,
+          "text": "avete visto come gli ho fatto fare una cartella inbox in un solo colpo,"
+        },
+        {
+          "start": 1634.0,
+          "end": 1635.0,
+          "text": "e così via,"
+        },
+        {
+          "start": 1635.0,
+          "end": 1639.0,
+          "text": "quindi state tranquilli perché è flessibile e adattabile,"
+        },
+        {
+          "start": 1639.0,
+          "end": 1641.0,
+          "text": "ecco questa è la cosa più importante."
+        }
+      ]
+    }
+  ]
+}

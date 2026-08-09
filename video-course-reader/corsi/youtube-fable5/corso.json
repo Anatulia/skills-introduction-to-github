@@ -1,0 +1,3485 @@
+{
+  "title": "Claude Fable 5: Guida COMPLETA (Riccardo Belli Contarini)",
+  "sections": [
+    {
+      "keyframe": {
+        "index": 0,
+        "time": 0.0,
+        "timestamp": "00:00:00",
+        "image": "frame_0000.jpg",
+        "reason": "start",
+        "ocr_text": "",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 0.0,
+          "end": 5.0,
+          "text": "Cloud Fable 5 è il modello più intelligente mai uscito, ma la maggior parte delle persone"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 1,
+        "time": 4.0,
+        "timestamp": "00:00:04",
+        "image": "frame_0001.jpg",
+        "reason": "scene",
+        "ocr_text": "",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 5.0,
+          "end": 10.319999694824219,
+          "text": "lo sta utilizzando in un modo che lì si ritorcerà contro. Si fanno costruire l'80% del loro"
+        },
+        {
+          "start": 10.319999694824219,
+          "end": 15.520000457763672,
+          "text": "progetto da Fable 5 adesso, finché ce l'hanno. Poi, fra qualche giorno, Fable 5 non ci sarà"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 2,
+        "time": 11.84,
+        "timestamp": "00:00:12",
+        "image": "frame_0002.jpg",
+        "reason": "scene",
+        "ocr_text": "",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 15.520000457763672,
+          "end": 20.200000762939453,
+          "text": "più o costerà troppo. E l'ultimo 20% del progetto, che di solito è la parte più difficile,"
+        },
+        {
+          "start": 20.200000762939453,
+          "end": 24.399999618530273,
+          "text": "lo faranno fare a un altro modello, come ad esempio Opus. E ti posso assicurare che chi"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 3,
+        "time": 21.68,
+        "timestamp": "00:00:22",
+        "image": "frame_0003.jpg",
+        "reason": "scene",
+        "ocr_text": "",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 24.399999618530273,
+          "end": 28.15999984741211,
+          "text": "ragiona così farà un bagno di sangue. In questo video voglio farti vedere il modo"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 4,
+        "time": 27.52,
+        "timestamp": "00:00:28",
+        "image": "frame_0004.jpg",
+        "reason": "scene",
+        "ocr_text": "",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 28.15999984741211,
+          "end": 32.880001068115234,
+          "text": "giusto di usare Fable 5, un metodo che sfrutta davvero la sua intelligenza, che si basa"
+        },
+        {
+          "start": 32.880001068115234,
+          "end": 37.52000045776367,
+          "text": "su una guida che ha fatto un ingegnere di Antropic, un ingegnere che lavora proprio"
+        },
+        {
+          "start": 37.52000045776367,
+          "end": 41.599998474121094,
+          "text": "allo sviluppo di Cloud Code. E questo metodo l'ho testato anche io personalmente. E non"
+        },
+        {
+          "start": 41.599998474121094,
+          "end": 46.2400016784668,
+          "text": "parleremo solamente di teoria, ti dirò come applicare tutto nel pratico e andremo a vedere"
+        },
+        {
+          "start": 46.2400016784668,
+          "end": 51.15999984741211,
+          "text": "un mio caso d'uso, ossia rifare tutto quanto il mio sito, che è estremamente complesso"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 5,
+        "time": 48.2,
+        "timestamp": "00:00:48",
+        "image": "frame_0005.jpg",
+        "reason": "scene",
+        "ocr_text": "",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 51.15999984741211,
+          "end": 54.560001373291016,
+          "text": "perché ha un sacco di pagine all'interno. Se è la prima volta che vedi questi video,"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 6,
+        "time": 53.0,
+        "timestamp": "00:00:53",
+        "image": "frame_0006.jpg",
+        "reason": "scene",
+        "ocr_text": "",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 54.560001373291016,
+          "end": 58.400001525878906,
+          "text": "sono un ingegnere informatico e gestisco Martes AI, un'azienda attraverso la quale"
+        },
+        {
+          "start": 58.400001525878906,
+          "end": 61.91999816894531,
+          "text": "aiutiamo le imprese a scalare, implementando l'intelligenza artificiale all'interno"
+        },
+        {
+          "start": 61.91999816894531,
+          "end": 66.68000030517578,
+          "text": "del loro processo. A partire dalla formazione del loro team su strumenti pratici come Cloud"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 7,
+        "time": 65.72,
+        "timestamp": "00:01:06",
+        "image": "frame_0007.jpg",
+        "reason": "scene",
+        "ocr_text": "",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 66.68000030517578,
+          "end": 71.16000366210938,
+          "text": "Code, Cloud Cowork o la costruzione di Second Brain, poi andiamo ad analizzare i loro processi"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 8,
+        "time": 69.8,
+        "timestamp": "00:01:10",
+        "image": "frame_0008.jpg",
+        "reason": "scene",
+        "ocr_text": "",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 71.16000366210938,
+          "end": 76.55999755859375,
+          "text": "per capire dove ha senso integrare le AI all'interno della loro realtà, fino a poi andare a sviluppare"
+        },
+        {
+          "start": 76.55999755859375,
+          "end": 80.4000015258789,
+          "text": "queste soluzioni che troviamo insieme. Abbiamo lavorato ormai con più di 65 aziende,"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 9,
+        "time": 78.72,
+        "timestamp": "00:01:19",
+        "image": "frame_0009.jpg",
+        "reason": "scene",
+        "ocr_text": "",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 80.5999984741211,
+          "end": 85.19999694824219,
+          "text": "abbiamo fatto in produzione più di 75 soluzioni AI e formato dal vivo più di 500 persone."
+        },
+        {
+          "start": 85.19999694824219,
+          "end": 90.08000183105469,
+          "text": "E quello che ti sto dicendo ora su Fable 5 si basa sulla nostra esperienza sia personale"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 10,
+        "time": 85.24,
+        "timestamp": "00:01:25",
+        "image": "frame_0010.jpg",
+        "reason": "scene",
+        "ocr_text": "",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 90.08000183105469,
+          "end": 94.76000213623047,
+          "text": "ma anche sui nostri clienti, dopo aver testato per settimane questo nuovo modello. Detto"
+        },
+        {
+          "start": 94.76000213623047,
+          "end": 99.16000366210938,
+          "text": "ciò, dovete passare subito al video. Ecco qui la guida completa su come utilizzare"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 11,
+        "time": 96.36,
+        "timestamp": "00:01:36",
+        "image": "frame_0011.jpg",
+        "reason": "scene",
+        "ocr_text": "",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 99.16000366210938,
+          "end": 103.44000244140625,
+          "text": "Cloud Fable 5. Abbiamo visto ormai diversi esempi online, che questo è il modello più"
+        },
+        {
+          "start": 103.44000244140625,
+          "end": 107.4000015258789,
+          "text": "potente mai reso pubblico e la cosa più importante è che fra poco non sarà più"
+        },
+        {
+          "start": 107.4000015258789,
+          "end": 111.0,
+          "text": "presente gratuitamente all'interno della tua iscrizione a Antropic, ma diventerà Pay"
+        },
+        {
+          "start": 111.0,
+          "end": 116.5199966430664,
+          "text": "Per Use con l'API. Uguale, costerà un sacco. Cosa è successo con Fable 5? Piccolo recap,"
+        },
+        {
+          "start": 116.5199966430664,
+          "end": 121.4000015258789,
+          "text": "esce il 9 giugno, il 12 giugno lo sappiamo quello che è successo con il governo americano,"
+        },
+        {
+          "start": 121.4000015258789,
+          "end": 127.04000091552734,
+          "text": "quindi Fable 5 viene sospeso, l'1 luglio rilasciano di nuovo Fable 5, il 7 luglio"
+        },
+        {
+          "start": 127.04000091552734,
+          "end": 132.36000061035156,
+          "text": "dovete uscire dall'abbonamento, cioè Pay Per Use con l'API, dopo le proteste Antropic"
+        },
+        {
+          "start": 132.36000061035156,
+          "end": 136.83999633789062,
+          "text": "propaga l'accesso incluso di 5 giorni, 12 luglio, cioè fra 2 giorni, probabilmente"
+        },
+        {
+          "start": 136.83999633789062,
+          "end": 141.1999969482422,
+          "text": "questo video uscirà già il 12 luglio, però Fable passerà Usage Credits, cioè paghiamo"
+        },
+        {
+          "start": 141.1999969482422,
+          "end": 146.32000732421875,
+          "text": "10 dollari per milione di token in input e 50 per milione di token in output. Il prezzo"
+        },
+        {
+          "start": 146.32000732421875,
+          "end": 151.8800048828125,
+          "text": "più alto mai pubblicato da Antropic, lo reintegrerà quando avrà capacità. E quindi il concetto"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 12,
+        "time": 150.72,
+        "timestamp": "00:02:31",
+        "image": "frame_0012.jpg",
+        "reason": "scene",
+        "ocr_text": "",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 151.8800048828125,
+          "end": 156.5800018310547,
+          "text": "è quello di utilizzare questo modello con parsimonia, perché fra poco ce lo staccano"
+        },
+        {
+          "start": 156.5800018310547,
+          "end": 161.0800018310547,
+          "text": "e inizierà a diventare costosissimo. Non lo dico solamente io, lo dicono persone anche"
+        },
+        {
+          "start": 161.0800018310547,
+          "end": 165.44000244140625,
+          "text": "molto più esperte di me, come ad esempio Salvatore Sanfilippo, uno dei migliori informatici"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 13,
+        "time": 161.76,
+        "timestamp": "00:02:42",
+        "image": "frame_0013.jpg",
+        "reason": "scene",
+        "ocr_text": "Cosè successo con / 1/0 >",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 165.44000244140625,
+          "end": 171.8800048828125,
+          "text": "della storia italiana ed europea. Bene, l'errore dell'80-20, questo è il problema che vedo"
+        },
+        {
+          "start": 171.8800048828125,
+          "end": 176.0399932861328,
+          "text": "più spesso quando parlo con le persone che hanno utilizzato Fable 5, cioè che cosa fanno?"
+        },
+        {
+          "start": 176.0399932861328,
+          "end": 181.0,
+          "text": "Costruiscono con Fable finché ce l'hanno, ma costruiranno fino all'80% con Fable, quando"
+        },
+        {
+          "start": 181.0,
+          "end": 186.1999969482422,
+          "text": "Fable 5 tornerà a Pay Per Use, cioè pagare con l'API, la gente ovviamente non vuole"
+        },
+        {
+          "start": 186.1999969482422,
+          "end": 192.0,
+          "text": "pagare così tanto e quindi finirà al 20% con un altro modello, uguale un casino. Cioè"
+        },
+        {
+          "start": 192.0,
+          "end": 197.0399932861328,
+          "text": "tu gli consegni un codice mezzo costruito, l'80% di decisioni fatte con un ragionamento"
+        },
+        {
+          "start": 197.0399932861328,
+          "end": 202.39999389648438,
+          "text": "diverso, fatto da un modello molto più potente quale Fable 5, quindi qual è il problema?"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 14,
+        "time": 201.4,
+        "timestamp": "00:03:21",
+        "image": "frame_0014.jpg",
+        "reason": "scene",
+        "ocr_text": "",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 202.39999389648438,
+          "end": 206.27999877929688,
+          "text": "Che noi andiamo a fare l'80% della nostra applicazione, magari anche le cose un po'"
+        },
+        {
+          "start": 206.27999877929688,
+          "end": 212.9199981689453,
+          "text": "più semplici, non la UI e quant'altro, con Fable 5, quel 20% rimanente andremo ad utilizzare"
+        },
+        {
+          "start": 212.9199981689453,
+          "end": 217.83999633789062,
+          "text": "un altro modello, perché Fable 5 ce lo staccano, nel 90% dei casi quel 20% rimanente è la"
+        },
+        {
+          "start": 217.83999633789062,
+          "end": 222.32000732421875,
+          "text": "parte più difficile della nostra applicazione e quindi si va a sozzare essenzialmente tutto"
+        },
+        {
+          "start": 222.32000732421875,
+          "end": 226.83999633789062,
+          "text": "il codice che ha prodotto Fable, proprio perché è un modello di gran lunga più potente rispetto"
+        },
+        {
+          "start": 226.83999633789062,
+          "end": 234.0399932861328,
+          "text": "a un Opus 4.8. Risultato? Probabilmente tappandoci il naso dovremo poi pagare Pay Per Use a Fable"
+        },
+        {
+          "start": 234.0399932861328,
+          "end": 240.1199951171875,
+          "text": "5, quindi migliaia e migliaia di euro in bollette API. Ma credo che ci sia una strada più intelligente"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 15,
+        "time": 237.76,
+        "timestamp": "00:03:58",
+        "image": "frame_0015.jpg",
+        "reason": "scene",
+        "ocr_text": "",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 240.1199951171875,
+          "end": 244.27999877929688,
+          "text": "che ci ha mostrato un ingegnere che lavora a Antropic. Ora, c'è un cambio di paradigma,"
+        },
+        {
+          "start": 244.27999877929688,
+          "end": 248.8800048828125,
+          "text": "il limite non è più il modello, ma sei tu. Con i modelli deboli sbagliava il modello,"
+        },
+        {
+          "start": 248.8800048828125,
+          "end": 253.0800018310547,
+          "text": "con Fable è talmente intelligente che il collo di bottiglia siamo diventati noi,"
+        },
+        {
+          "start": 253.0800018310547,
+          "end": 257.3599853515625,
+          "text": "cioè quanto bene riusciamo a dirgli che cosa vogliamo. Non è una mia teoria,"
+        },
+        {
+          "start": 257.3599853515625,
+          "end": 262.6400146484375,
+          "text": "questa viene da Tariq, un ingegnere di Antropic, le sue parole tradotte sono che Fable è il primo"
+        },
+        {
+          "start": 262.6400146484375,
+          "end": 267.2799987792969,
+          "text": "modello in cui mi trovo che la qualità del lavoro è limitata dalla mia capacità di chiarire i suoi"
+        },
+        {
+          "start": 267.2799987792969,
+          "end": 272.7200012207031,
+          "text": "unknowns, dove i suoi unknowns sono i buchi tra quello che ho in testa e quello che scriviamo,"
+        },
+        {
+          "start": 272.8399963378906,
+          "end": 278.0799865722656,
+          "text": "cioè noi in testa sappiamo magari quello che vogliamo, ma quanto bene glielo comunichiamo"
+        },
+        {
+          "start": 278.0799865722656,
+          "end": 282.79998779296875,
+          "text": "a Claude. Quindi istruire Claude è un equilibrio delicato, se sei troppo specifico seguirà le tue"
+        },
+        {
+          "start": 282.79998779296875,
+          "end": 287.8800048828125,
+          "text": "istruzioni anche quando cambiare strada sarebbe più giusto. Se sei troppo vago farà scelte e"
+        },
+        {
+          "start": 287.8800048828125,
+          "end": 292.1199951171875,
+          "text": "assunzioni basate sulle best practice del settore, o in base a come è stato allenato il modello,"
+        },
+        {
+          "start": 292.1199951171875,
+          "end": 296.3999938964844,
+          "text": "che magari non c'entrano nulla con il tuo caso e quindi capite che c'è questo equilibrio che"
+        },
+        {
+          "start": 296.3999938964844,
+          "end": 301.6000061035156,
+          "text": "va raggiunto. Ora, prendendo dalla guida di Tariq, che è questo ingegnere di Antropic,"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 16,
+        "time": 297.76,
+        "timestamp": "00:04:58",
+        "image": "frame_0016.jpg",
+        "reason": "periodic",
+        "ocr_text": "I quattro 170/1107725",
+        "description": ""
+      },
+      "transcript": []
+    },
+    {
+      "keyframe": {
+        "index": 17,
+        "time": 301.8,
+        "timestamp": "00:05:02",
+        "image": "frame_0017.jpg",
+        "reason": "scene",
+        "ocr_text": "Finding Your Unknowns Mara",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 301.9599914550781,
+          "end": 308.0400085449219,
+          "text": "se la volete andare a leggere basta che cercate Tariq, che è questo ingegnere che lavora lo"
+        },
+        {
+          "start": 308.0400085449219,
+          "end": 313.8800048828125,
+          "text": "sviluppo europeo di Cloud Code, a Field Guide to Fable. E qua c'è tutta la guida che mi sono"
+        },
+        {
+          "start": 313.8800048828125,
+          "end": 318.6000061035156,
+          "text": "andato a leggere e che ho riassunto essenzialmente nel concetto di questo video. E parla di questi"
+        },
+        {
+          "start": 318.6000061035156,
+          "end": 323.239990234375,
+          "text": "quattro concetti qua che adesso andremo a vedere meglio. I quattro unknowns, lui li chiama,"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 18,
+        "time": 321.28,
+        "timestamp": "00:05:21",
+        "image": "frame_0018.jpg",
+        "reason": "scene",
+        "ocr_text": "I quattro 17:/720725",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 323.239990234375,
+          "end": 331.0799865722656,
+          "text": "cioè sono quattro categorie che sono known-knowns, known-unknowns, unknown-knowns e unknown-unknowns."
+        },
+        {
+          "start": 331.0799865722656,
+          "end": 336.2799987792969,
+          "text": "E no, non è uno sciollilingua, bensì, known-known. Lo so e l'ho scritto, cioè quello che c'è il mio"
+        },
+        {
+          "start": 336.2799987792969,
+          "end": 342.1199951171875,
+          "text": "prompt. Io so che cosa devo realizzare e l'ho scritto. Perfetto. Known-unknowns, cioè c'è un"
+        },
+        {
+          "start": 342.1199951171875,
+          "end": 347.4800109863281,
+          "text": "qualcosa che so che non ho deciso, cioè che ne so, devo fare, devo modificare la hero section del"
+        },
+        {
+          "start": 347.4800109863281,
+          "end": 352.760009765625,
+          "text": "mio sito, non so bene come la faccio, non glielo dico a Cloud, ma sono consapevole che non glielo"
+        },
+        {
+          "start": 352.760009765625,
+          "end": 357.9599914550781,
+          "text": "sto dicendo. Unknown-unknowns sono quelle cose che sono talmente tante ovvie che neanche le scrivo"
+        },
+        {
+          "start": 357.9599914550781,
+          "end": 362.2799987792969,
+          "text": "a Cloud. Magari non sono così ovvie, ma io le ho per scontato. Quindi sono quelle cose che dico, ah vabbè"
+        },
+        {
+          "start": 362.2799987792969,
+          "end": 366.5199890136719,
+          "text": "Cloud, ma questo era ovvio, no? Cioè, questo lo riconosco quando lo vedo. Cloud, grazie, questo era"
+        },
+        {
+          "start": 366.5199890136719,
+          "end": 372.32000732421875,
+          "text": "ovvio. Che vada ad omettere perché per me è un concetto ovvio, oppure per motivo X abbiamo messo."
+        },
+        {
+          "start": 372.32000732421875,
+          "end": 376.6000061035156,
+          "text": "Quindi è così ovvio che magari non lo scriverei mai in qualcosa di questo tipo. E poi ci sono gli"
+        },
+        {
+          "start": 376.6000061035156,
+          "end": 381.79998779296875,
+          "text": "unknown-unknowns, cioè sono qualcosa che nemmeno io so che esiste. Delle cose che io non ho proprio"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 19,
+        "time": 381.28,
+        "timestamp": "00:06:21",
+        "image": "frame_0019.jpg",
+        "reason": "periodic",
+        "ocr_text": "1 quattro 112/7107775",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 381.79998779296875,
+          "end": 387.1199951171875,
+          "text": "considerato e non sono minimamente consapevole. Ad esempio io andrò a rifare il mio sito in questo"
+        },
+        {
+          "start": 387.1199951171875,
+          "end": 392.9200134277344,
+          "text": "video. Il mio sito non è per niente banale, se andate a vedere ci sono centinaia di pagine, quindi non è"
+        },
+        {
+          "start": 392.9200134277344,
+          "end": 398.1199951171875,
+          "text": "banale rifare un sito così complesso da zero. E ad esempio c'è una pipeline automatica che scrive,"
+        },
+        {
+          "start": 398.1199951171875,
+          "end": 402.2799987792969,
+          "text": "che mi va a prendere i miei video, me li ottimizza per la SEO e me li va a mettere sul sito. Attenzione"
+        },
+        {
+          "start": 402.2799987792969,
+          "end": 407.20001220703125,
+          "text": "perché questa è una cosa che magari se gli dico di andare a modificare tutto, magari mi va a eliminare"
+        },
+        {
+          "start": 407.20001220703125,
+          "end": 411.67999267578125,
+          "text": "questa automazione, quindi sono delle cose di cui magari non ho proprio considerato all'inizio."
+        },
+        {
+          "start": 411.67999267578125,
+          "end": 416.4800109863281,
+          "text": "Il pericolo cresce fino all'ultimo, quindi andiamo con pericolo minore, perché l'ho scritto, fino a"
+        },
+        {
+          "start": 416.4800109863281,
+          "end": 423.6400146484375,
+          "text": "pericolo maggiore. Ecco perché non basta un prompt, dobbiamo far scovare, in realtà solo questi tre,"
+        },
+        {
+          "start": 423.6400146484375,
+          "end": 429.44000244140625,
+          "text": "perché qua l'abbiamo scritto, queste cose a Cloud Fable 5. Quindi il modo in cui io utilizzo Fable 5"
+        },
+        {
+          "start": 429.44000244140625,
+          "end": 434.6400146484375,
+          "text": "e come vi consiglio di fare, perché fra poco Fable 5 ritorna a utilizzo di API e una volta che ci"
+        },
+        {
+          "start": 434.6400146484375,
+          "end": 440.44000244140625,
+          "text": "siamo abituati a quella qualità là, sarà difficile tornare indietro, è sfruttare la metodologia di"
+        },
+        {
+          "start": 440.44000244140625,
+          "end": 445.8399963378906,
+          "text": "Tariq, l'ingegnere che lavora ad Anthropic, quindi sfruttarlo per scovare i buchi, quindi per gli"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 20,
+        "time": 441.28,
+        "timestamp": "00:07:21",
+        "image": "frame_0020.jpg",
+        "reason": "periodic",
+        "ocr_text": "Tre mosse per scovare i Michi Qu tintprt pis",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 445.8399963378906,
+          "end": 451.44000244140625,
+          "text": "unknown unknowns, cioè quelle cose di cui io neanche sono consapevole. Blind spot pass, lo chiama Tariq,"
+        },
+        {
+          "start": 451.44000244140625,
+          "end": 458.3999938964844,
+          "text": "se vedete qua ne parla approfonditamente nella sua guida, se volete andarvi a dare una letta."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 21,
+        "time": 451.68,
+        "timestamp": "00:07:32",
+        "image": "frame_0021.jpg",
+        "reason": "scene",
+        "ocr_text": "",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 458.3999938964844,
+          "end": 465.6000061035156,
+          "text": "Vi vogliamo chiedere di trovare quelle cose che non saprei neanche dirti io stesso, quindi leggi"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 22,
+        "time": 459.52,
+        "timestamp": "00:07:40",
+        "image": "frame_0022.jpg",
+        "reason": "scene",
+        "ocr_text": "",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 465.6000061035156,
+          "end": 470.0799865722656,
+          "text": "la codebase e tirami fuori i vincoli nascosti, questo sarà un prompt che noi ci copriremo e"
+        },
+        {
+          "start": 470.0799865722656,
+          "end": 475.2799987792969,
+          "text": "utilizzerò per rifare essenzialmente il mio sito. Devo rifare questo sito, prima di toccare"
+        },
+        {
+          "start": 475.2799987792969,
+          "end": 481.5199890136719,
+          "text": "qualsiasi cosa fammi un blind spot pass sui miei unknown unknowns. Leggi la codebase e"
+        },
+        {
+          "start": 481.5199890136719,
+          "end": 487.79998779296875,
+          "text": "dimmi tutto ciò che rischio di rompere o che sto dando per scontato. Due, fatti intervistare,"
+        },
+        {
+          "start": 487.79998779296875,
+          "end": 492.9200134277344,
+          "text": "cioè per i known unknowns, cioè le cose che so che non gli ho detto, tipo come voglio rifare"
+        },
+        {
+          "start": 492.9200134277344,
+          "end": 498.2799987792969,
+          "text": "la hero section, non lo so, vabbè non glielo dico. Per questa cosa invece di scrivere il prompt"
+        },
+        {
+          "start": 498.2799987792969,
+          "end": 503.760009765625,
+          "text": "perfetto e scrivere ogni cosa, gli facciamo fare le domande, cioè intervistami una domanda alla"
+        },
+        {
+          "start": 503.760009765625,
+          "end": 508.79998779296875,
+          "text": "volta su cosa voglio dal nuovo sito. E no, questo è diverso dalla play mode e da super powers,"
+        },
+        {
+          "start": 508.79998779296875,
+          "end": 514.8800048828125,
+          "text": "vediamo dopo. E per gli unknown knowns, cioè quelle cose che io ti do a scontato, che magari"
+        },
+        {
+          "start": 514.8800048828125,
+          "end": 519.280029296875,
+          "text": "riconosco solamente vedendolo, cioè quella cosa che mi fa dire cavolo Claude questo era scontato"
+        },
+        {
+          "start": 519.280029296875,
+          "end": 523.4400024414062,
+          "text": "no? Perché non l'hai capito? Prima di toccare il sito vero fammi un file html con quattro"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 23,
+        "time": 519.52,
+        "timestamp": "00:08:40",
+        "image": "frame_0023.jpg",
+        "reason": "periodic",
+        "ocr_text": "",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 523.4400024414062,
+          "end": 528.0,
+          "text": "direzioni di design completamente diverse per la home page. Dati finti ma realistici. Voglio"
+        },
+        {
+          "start": 528.0,
+          "end": 534.2000122070312,
+          "text": "prima vedere il layout prima che vai a toccare il mio codice. Non è un piano fatto con play mode,"
+        },
+        {
+          "start": 534.2000122070312,
+          "end": 539.6799926757812,
+          "text": "con super powers. Per chi non lo conosce, super powers è una skill per farci intervistare da"
+        },
+        {
+          "start": 539.6799926757812,
+          "end": 543.239990234375,
+          "text": "Claude per fare il piano perfetto. La play mode e super powers fanno un ottimo piano,"
+        },
+        {
+          "start": 543.239990234375,
+          "end": 549.1599731445312,
+          "text": "ma un piano che parte da quello che hai chiesto. Ti dice come costruire non cosa ti sei dimenticato."
+        },
+        {
+          "start": 549.1599731445312,
+          "end": 555.239990234375,
+          "text": "Quindi in questo metodo noi vogliamo trovare gli unknowns, cioè risponde a che cosa non ti ho detto"
+        },
+        {
+          "start": 555.239990234375,
+          "end": 560.239990234375,
+          "text": "che sia un qualcosa che ancora non ho deciso o che pure era talmente scontato che non te l'ho"
+        },
+        {
+          "start": 560.239990234375,
+          "end": 565.1599731445312,
+          "text": "detto oppure non te l'ho detto perché neanche io lo so. Quindi parte da quello che sai di non"
+        },
+        {
+          "start": 565.1599731445312,
+          "end": 570.239990234375,
+          "text": "sapere, mette in discussione la richiesta, ti dà i buchi della mappa prima di partire. Quindi"
+        },
+        {
+          "start": 570.239990234375,
+          "end": 574.6400146484375,
+          "text": "l'obiettivo è far pensare a Fable. In realtà Fable è anche un termine errato, non vogliamo"
+        },
+        {
+          "start": 574.6400146484375,
+          "end": 579.0800170898438,
+          "text": "fargli pensare. Ma è come se Fable fosse un ingegnere informatico senior che dice a un"
+        },
+        {
+          "start": 579.0800170898438,
+          "end": 585.3200073242188,
+          "text": "ingegnere informatico junior, Opus, ecco esattamente cosa devi fare, a cosa devi stare attento, le cose"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 24,
+        "time": 579.52,
+        "timestamp": "00:09:40",
+        "image": "frame_0024.jpg",
+        "reason": "periodic",
+        "ocr_text": "Fable pensa, gue",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 585.3200073242188,
+          "end": 588.760009765625,
+          "text": "a cui non abbiamo riflettuto e puoi utilizzare un modello di frontiera inclusa nella nostra"
+        },
+        {
+          "start": 588.760009765625,
+          "end": 594.760009765625,
+          "text": "subscription come Opus. Quindi con Fable scoviamo questi unknowns che vi assicuro che non è affatto"
+        },
+        {
+          "start": 594.760009765625,
+          "end": 600.52001953125,
+          "text": "un qualcosa di facile, ci scriviamo un piano e poi volendo possiamo fare una cross review,"
+        },
+        {
+          "start": 600.52001953125,
+          "end": 604.4400024414062,
+          "text": "questa è una cosa che ad esempio diceva San Filippo in un suo ultimo video, cioè farci"
+        },
+        {
+          "start": 604.4400024414062,
+          "end": 611.9600219726562,
+          "text": "controllare il piano da un altro modello oppure far eseguire subito dopo con Opus, solamente quando"
+        },
+        {
+          "start": 611.9600219726562,
+          "end": 617.3200073242188,
+          "text": "abbiamo approvato questo piano e scovato questi unknowns. Bene, andiamo a rifare il mio sito. Chi"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 25,
+        "time": 617.12,
+        "timestamp": "00:10:17",
+        "image": "frame_0025.jpg",
+        "reason": "scene",
+        "ocr_text": "",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 617.3200073242188,
+          "end": 623.8400268554688,
+          "text": "non lo sapesse questo è il mio sito che è pieno pieno pieno di pagine, c'è questa pagina qua dove"
+        },
+        {
+          "start": 623.8400268554688,
+          "end": 630.5599975585938,
+          "text": "io ci entro, ci sono diverse foto che adesso non si caricano perché la mia wifi è pessima, però ci"
+        },
+        {
+          "start": 630.5599975585938,
+          "end": 636.4400024414062,
+          "text": "sono dei loghi animati. Tornando indietro io ho queste altre landing page che sono per i nostri"
+        },
+        {
+          "start": 636.4400024414062,
+          "end": 644.719970703125,
+          "text": "prodotti con dei video, un calcolatore dinamico, insomma è veramente pieno di roba questo sito,"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 26,
+        "time": 638.08,
+        "timestamp": "00:10:38",
+        "image": "frame_0026.jpg",
+        "reason": "scene",
+        "ocr_text": "Probioma La soluzione Risultati",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 644.719970703125,
+          "end": 650.1599731445312,
+          "text": "ci sono i casi studio che è tutta una pagina a parte, dentro ognuno di questi c'è il video"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 27,
+        "time": 649.68,
+        "timestamp": "00:10:50",
+        "image": "frame_0027.jpg",
+        "reason": "scene",
+        "ocr_text": "",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 650.1599731445312,
+          "end": 654.6799926757812,
+          "text": "del caso studio, insomma questo sito è pieno pieno di roba ed è pesantissimo. Bene, andiamo a"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 28,
+        "time": 653.68,
+        "timestamp": "00:10:54",
+        "image": "frame_0028.jpg",
+        "reason": "scene",
+        "ocr_text": "Aria Brcen Procedure dettagliate UERdETZIa: DET reina zioni i accesi. pain",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 654.6799926757812,
+          "end": 659.9600219726562,
+          "text": "modificare tutto quanto il mio sito, nello specifico devo ristrutturare il mio sito, questo è tutto"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 29,
+        "time": 658.72,
+        "timestamp": "00:10:59",
+        "image": "frame_0029.jpg",
+        "reason": "scene",
+        "ocr_text": "",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 659.9600219726562,
+          "end": 665.7999877929688,
+          "text": "quanto il codice del mio sito, che vedete è un sacco di roba e essenzialmente io qua ho fatto un"
+        },
+        {
+          "start": 665.7999877929688,
+          "end": 669.4400024414062,
+          "text": "prompt, un po' mi sono fatto aiutare da Claude, un po' l'ho scritto a mano perché voglio modificare"
+        },
+        {
+          "start": 669.4400024414062,
+          "end": 674.1199951171875,
+          "text": "essenzialmente il mio sito perché devo aggiungere un po' dei nuovi servizi, cioè abbiamo aggiornato"
+        },
+        {
+          "start": 674.1199951171875,
+          "end": 679.0,
+          "text": "tutta la nostra parte di formazione, i nostri prodotti, non è più sviluppo custom ma si chiama"
+        },
+        {
+          "start": 679.0,
+          "end": 684.0999755859375,
+          "text": "engineering as a service, insomma un sacco di roba. Ora, io prima di passargli tutto questo prompt,"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 30,
+        "time": 682.04,
+        "timestamp": "00:11:22",
+        "image": "frame_0030.jpg",
+        "reason": "scene",
+        "ocr_text": "I er",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 684.0999755859375,
+          "end": 689.5599975585938,
+          "text": "devo ristrutturare il sito di Martes bla bla bla, vado a fare un blind spot pass, cioè io mi vado a"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 31,
+        "time": 686.64,
+        "timestamp": "00:11:27",
+        "image": "frame_0031.jpg",
+        "reason": "scene",
+        "ocr_text": "\"Tre mosse per scovare i /o/i",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 689.5599975585938,
+          "end": 694.280029296875,
+          "text": "copiare questo prompt per andare a vedere, prima di toccare qualsiasi cosa, dimmi tutto ciò che"
+        },
+        {
+          "start": 694.280029296875,
+          "end": 699.8400268554688,
+          "text": "rischio di rompere. Quindi prima di fare questo, allora io ho aperto qua il terminale perché mi"
+        },
+        {
+          "start": 699.8400268554688,
+          "end": 705.3200073242188,
+          "text": "piace usarlo da qua quando vado a fare, essenzialmente l'ho detto in miei parecchi video, però io utilizzo"
+        },
+        {
+          "start": 705.3200073242188,
+          "end": 710.0,
+          "text": "cloud da terminale se devo andare a fare lavoro di codice, mentre cloud qui dall'estensione se"
+        },
+        {
+          "start": 710.0,
+          "end": 717.8400268554688,
+          "text": "devo fare lavoro tipo di scrittura di copy, posta, email e cose di questo tipo. Detto ciò, allora io"
+        },
+        {
+          "start": 717.8400268554688,
+          "end": 725.4400024414062,
+          "text": "sono qua per come prima cosa, anzi questo me lo tiro su, questo lo droppo così, faccio mod, come"
+        },
+        {
+          "start": 725.4400024414062,
+          "end": 734.0800170898438,
+          "text": "prima cosa, slash model e vado a mettere opus e vado a mettere fable. Ecco qua, abbiamo fable, io qua"
+        },
+        {
+          "start": 734.0800170898438,
+          "end": 742.2000122070312,
+          "text": "faccio slash fworth, ecco qua, fforth andrò a mettere max, proprio perché quello che voglio fare"
+        },
+        {
+          "start": 742.2000122070312,
+          "end": 749.1599731445312,
+          "text": "specialmente per questa parte qua degli unknowns, cioè cose che se non scopro ora, probabilmente"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 32,
+        "time": 746.64,
+        "timestamp": "00:12:27",
+        "image": "frame_0032.jpg",
+        "reason": "periodic",
+        "ocr_text": "",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 749.1599731445312,
+          "end": 755.8800048828125,
+          "text": "vanno a rompere tutto il sito. Ora, questo è un altro tip, nel frattempo qua vado a pulire, quindi slash clear, una cosa"
+        },
+        {
+          "start": 755.8800048828125,
+          "end": 759.52001953125,
+          "text": "che vi consiglio sempre di fare è che se dovete andare a fare una modifica, prima lavorate il"
+        },
+        {
+          "start": 759.52001953125,
+          "end": 766.5599975585938,
+          "text": "locale e vi consiglio di fare questa cosa qua, cioè cloud io vorrei andare a modificare il mio sito, vorrei però"
+        },
+        {
+          "start": 766.5599975585938,
+          "end": 774.0,
+          "text": "lavorare localmente, quindi per prima cosa andiamo a lavorare su un worktree separato. Essenzialmente"
+        },
+        {
+          "start": 774.0,
+          "end": 779.3599853515625,
+          "text": "quello che andiamo a fare è che invece di modificare il sito, creiamo una copia parallela, lavoriamo su"
+        },
+        {
+          "start": 779.3599853515625,
+          "end": 785.9199829101562,
+          "text": "quella senza rompere il sito, lavoriamo localmente su quella e appena quella è pronta, ritorniamo"
+        },
+        {
+          "start": 785.9199829101562,
+          "end": 792.0399780273438,
+          "text": "la versione quella da mandare qua in produzione. Nel frattempo che qua lui mi crea un worktree, quello"
+        },
+        {
+          "start": 792.0399780273438,
+          "end": 798.760009765625,
+          "text": "che posso fare è creare una nuova sessione e nel frattempo mettere slash usage, così nel frattempo"
+        },
+        {
+          "start": 798.760009765625,
+          "end": 804.0,
+          "text": "andiamo a vedere piano piano quanto stiamo andando a consumare. Quindi salviamoci queste cose, fable"
+        },
+        {
+          "start": 804.0,
+          "end": 813.760009765625,
+          "text": "stiamo a 0, utilizzo weekly 17% e la sessione di CQR 29%. Pronti? Bene, si parte. Allora, ritiriamo"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 33,
+        "time": 806.64,
+        "timestamp": "00:13:27",
+        "image": "frame_0033.jpg",
+        "reason": "periodic",
+        "ocr_text": "account spe",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 813.8400268554688,
+          "end": 819.280029296875,
+          "text": "sul terminale. Da quelle branch partire per il worktree, già lo stavo ridisegnando, quindi"
+        },
+        {
+          "start": 819.280029296875,
+          "end": 824.5999755859375,
+          "text": "essenzialmente io il mio sito principale già stavo ridisegnando con opus, poi adesso è uscito per"
+        },
+        {
+          "start": 824.5999755859375,
+          "end": 830.2000122070312,
+          "text": "fable, voglio ripartire da una copia del sito da quello originale, quindi non voglio fare una copia"
+        },
+        {
+          "start": 830.2000122070312,
+          "end": 834.7999877929688,
+          "text": "della copia dal main. Nel frattempo il Claude qua mi risponde, vi volevo far vedere visivamente"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 34,
+        "time": 832.4,
+        "timestamp": "00:13:52",
+        "image": "frame_0034.jpg",
+        "reason": "scene",
+        "ocr_text": "5 SimpleBackups * SreBadupe si È Git Worktrees: The Most (>) Underappreciatedi Feature di Shore DI Sn",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 834.7999877929688,
+          "end": 840.5599975585938,
+          "text": "questa cosa di worktrees perché è fondamentale, cioè se avete il vostro progetto qui, quando create"
+        },
+        {
+          "start": 840.5599975585938,
+          "end": 846.4400024414062,
+          "text": "un worktree, si crea di solito un worktree per ogni nuova feature, fidatevi, figuriamoci se voglio"
+        },
+        {
+          "start": 846.4400024414062,
+          "end": 850.4000244140625,
+          "text": "fare un redesign del mio sito. E quello che mi ha chiesto è, guarda, a partire dal tuo progetto"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 35,
+        "time": 847.36,
+        "timestamp": "00:14:07",
+        "image": "frame_0035.jpg",
+        "reason": "scene",
+        "ocr_text": "Gil Worktree: Manage Git Workflow pa SimpleBackups 1.920 100 Git Worktrees: The Most | Underappreciated Feature Ci Share",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 850.4000244140625,
+          "end": 856.0399780273438,
+          "text": "vogliamo creare un worktree qua, cioè quindi vogliamo muoverci così, o siccome già avevo creato"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 36,
+        "time": 854.84,
+        "timestamp": "00:14:15",
+        "image": "frame_0036.jpg",
+        "reason": "scene",
+        "ocr_text": "e SimpleBackups Gone e ini Git Worktrees: The Most Pi Underappreciated Feature di Stare",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 856.0399780273438,
+          "end": 860.760009765625,
+          "text": "un worktree vogliamo ribiforcare qua. Gli ho detto no, no, ribiforca dal progetto principale, questo è"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 37,
+        "time": 860.04,
+        "timestamp": "00:14:20",
+        "image": "frame_0037.jpg",
+        "reason": "scene",
+        "ocr_text": "® SimpleBackups Srna recava Mi onsse meri e} fwd",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 860.760009765625,
+          "end": 866.3599853515625,
+          "text": "quello che gli ho detto. Ok, worktree pronto, alla grande. Dimmi pure cosa vuoi modificare del sito."
+        },
+        {
+          "start": 866.3599853515625,
+          "end": 871.8800048828125,
+          "text": "Tornando sulla presentazione mi vado a prendere il blind spot pass, quindi io lo passo qua, questo prompt"
+        },
+        {
+          "start": 871.8800048828125,
+          "end": 877.3200073242188,
+          "text": "lo trovate nel secondo link qui sotto nei commenti, e io lo vado a passare. Quindi, devo rifare questo"
+        },
+        {
+          "start": 877.3200073242188,
+          "end": 883.5999755859375,
+          "text": "sito prima di toccare qualsiasi cosa, fammi un blind spot pass sui miei unknown unknowns. Già, vi dico"
+        },
+        {
+          "start": 883.5999755859375,
+          "end": 890.47998046875,
+          "text": "che utilizzerò max solamente per il blind spot pass, dove max intendo l'effort, l'effort di quanto"
+        },
+        {
+          "start": 890.47998046875,
+          "end": 899.9199829101562,
+          "text": "sta pensando Fable, poi utilizzerò o hi o xhi per questo e questo. E ecco qua, ottimo approccio, lancio un blind spot pass"
+        },
+        {
+          "start": 901.0,
+          "end": 903.0,
+          "text": "Cinque agenti di esplorazione in parallelo."
+        },
+        {
+          "start": 903.0,
+          "end": 906.0,
+          "text": "Si fa un check sul rapporto con Redesign già in corso."
+        },
+        {
+          "start": 906.0,
+          "end": 908.0,
+          "text": "E poi sintetizza la lista dei rischi."
+        },
+        {
+          "start": 908.0,
+          "end": 909.0,
+          "text": "Non toccherà nulla."
+        },
+        {
+          "start": 909.0,
+          "end": 913.0,
+          "text": "Quindi ecco qua che ci appare la nostra lista degli agenti."
+        },
+        {
+          "start": 913.0,
+          "end": 914.0,
+          "text": "Eccoli qua."
+        },
+        {
+          "start": 914.0,
+          "end": 918.0,
+          "text": "Quindi noi abbiamo uno che mi sta esplorando questa parte qua."
+        },
+        {
+          "start": 918.0,
+          "end": 920.0,
+          "text": "Vedete? Questo mi sta esplorando questa parte qua."
+        },
+        {
+          "start": 920.0,
+          "end": 921.0,
+          "text": "Questo questa parte qua."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 38,
+        "time": 920.04,
+        "timestamp": "00:15:20",
+        "image": "frame_0038.jpg",
+        "reason": "periodic",
+        "ocr_text": "i nanna Lotsonean n ne mare i cen",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 921.0,
+          "end": 922.0,
+          "text": "E ce li possiamo aprire."
+        },
+        {
+          "start": 922.0,
+          "end": 925.0,
+          "text": "Poi torno sul main principale."
+        },
+        {
+          "start": 925.0,
+          "end": 930.0,
+          "text": "Quindi vedete possiamo andare a vedere ogni agente che cosa diavolo sta combinando."
+        },
+        {
+          "start": 930.0,
+          "end": 935.0,
+          "text": "E vediamo che sta iniziando a spendere un bel po' di token."
+        },
+        {
+          "start": 935.0,
+          "end": 940.0,
+          "text": "Ovviamente perché tutti questi sott'agenti sono sott'agenti Fable."
+        },
+        {
+          "start": 940.0,
+          "end": 948.0,
+          "text": "Quindi io quello che vi consiglio di fare è sfruttare questi ultimi giorni dove Fable è ancora all'interno della nostra subscription di Antropic."
+        },
+        {
+          "start": 948.0,
+          "end": 951.0,
+          "text": "E fare questa cosa per ogni progetto che volete fare."
+        },
+        {
+          "start": 951.0,
+          "end": 954.0,
+          "text": "Quindi avevate 10 progetti in mente? Bene, fatelo per ogni 10 i progetti."
+        },
+        {
+          "start": 954.0,
+          "end": 958.0,
+          "text": "E poi il resto potete continuare con Opus quando Fable ve lo levano."
+        },
+        {
+          "start": 958.0,
+          "end": 960.0,
+          "text": "Ecco qua che Fable mi ha risposto."
+        },
+        {
+          "start": 960.0,
+          "end": 965.0,
+          "text": "Urgente, a prescindere dal redesign, c'è un tokener table reale commentato su GitHub."
+        },
+        {
+          "start": 965.0,
+          "end": 966.0,
+          "text": "Cavolo."
+        },
+        {
+          "start": 966.0,
+          "end": 967.0,
+          "text": "L'ho rigenerato subito."
+        },
+        {
+          "start": 967.0,
+          "end": 968.0,
+          "text": "Meno male che me l'ha detto."
+        },
+        {
+          "start": 968.0,
+          "end": 971.0,
+          "text": "Poi ci sono due file che esistono solamente sul disco."
+        },
+        {
+          "start": 971.0,
+          "end": 973.0,
+          "text": "Ok, questo le dico di fixarmelo."
+        },
+        {
+          "start": 973.0,
+          "end": 978.0,
+          "text": "Il tuo stesso workflow può pubblicare la partita IVA dei clienti perché il gitignore non copre questo."
+        },
+        {
+          "start": 978.0,
+          "end": 980.0,
+          "text": "Ok, come prima cosa le dico."
+        },
+        {
+          "start": 980.0,
+          "end": 986.0,
+          "text": "Ok, punto 1. Già rigenerato il token."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 39,
+        "time": 980.04,
+        "timestamp": "00:16:20",
+        "image": "frame_0039.jpg",
+        "reason": "periodic",
+        "ocr_text": "te chio ppi osa Done + DA",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 986.0,
+          "end": 989.0,
+          "text": "Controlla che sia tutto ok."
+        },
+        {
+          "start": 989.0,
+          "end": 992.0,
+          "text": "Punto 2 e 3."
+        },
+        {
+          "start": 992.0,
+          "end": 994.0,
+          "text": "Fixa tu per me."
+        },
+        {
+          "start": 994.0,
+          "end": 995.0,
+          "text": "Grazie."
+        },
+        {
+          "start": 995.0,
+          "end": 1003.0,
+          "text": "Anzi, siccome ha già fatto la parte difficile, adesso levo l'effort e ritorno su..."
+        },
+        {
+          "start": 1003.0,
+          "end": 1004.0,
+          "text": "Andiamo con XAI."
+        },
+        {
+          "start": 1004.0,
+          "end": 1006.0,
+          "text": "Qua rincollo e andiamo avanti."
+        },
+        {
+          "start": 1006.0,
+          "end": 1007.0,
+          "text": "E gli dico."
+        },
+        {
+          "start": 1007.0,
+          "end": 1009.0,
+          "text": "L'architettura non è quella che sembra."
+        },
+        {
+          "start": 1009.0,
+          "end": 1012.0,
+          "text": "Il sito live è Astro, non la SPA React."
+        },
+        {
+          "start": 1012.0,
+          "end": 1015.0,
+          "text": "Hai due pipeline deploy attive sullo stesso dominio."
+        },
+        {
+          "start": 1015.0,
+          "end": 1018.0,
+          "text": "Siamo invarianti, forno integrazioni."
+        },
+        {
+          "start": 1018.0,
+          "end": 1020.0,
+          "text": "E qua mi ha trovato tutti i blind spot."
+        },
+        {
+          "start": 1020.0,
+          "end": 1022.0,
+          "text": "Trappole da evitare."
+        },
+        {
+          "start": 1022.0,
+          "end": 1024.0,
+          "text": "Ottimo, tante di queste cose non ci avrei minimamente pensato."
+        },
+        {
+          "start": 1024.0,
+          "end": 1026.0,
+          "text": "Intanto, gli dico questo."
+        },
+        {
+          "start": 1026.0,
+          "end": 1029.0,
+          "text": "Ora lo step numero 2 è quello di farci intervistare."
+        },
+        {
+          "start": 1029.0,
+          "end": 1035.0,
+          "text": "Io ho già il prompt pronto, quindi gli passerò tutto questo prompt e lo varierà un pochettino questo prompt."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 40,
+        "time": 1029.16,
+        "timestamp": "00:17:09",
+        "image": "frame_0040.jpg",
+        "reason": "scene",
+        "ocr_text": "dd 03 tm",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1035.0,
+          "end": 1038.0,
+          "text": "Cioè gli dirò, guarda, questo è tutto quello che voglio fare."
+        },
+        {
+          "start": 1038.0,
+          "end": 1041.0,
+          "text": "Intervistami una cosa alla volta, in base a quello che magari..."
+        },
+        {
+          "start": 1041.0,
+          "end": 1043.0,
+          "text": "Per trovare i known unknowns."
+        },
+        {
+          "start": 1043.0,
+          "end": 1046.0,
+          "text": "Quindi modifico un attimo questo prompt."
+        },
+        {
+          "start": 1046.0,
+          "end": 1050.0,
+          "text": "Dando priorità al domande la cui risposta cambia l'architettura o il design."
+        },
+        {
+          "start": 1050.0,
+          "end": 1053.0,
+          "text": "Quindi vabbè, a questo punto, qua mi prendo questa nota di testo."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 41,
+        "time": 1051.96,
+        "timestamp": "00:17:32",
+        "image": "frame_0041.jpg",
+        "reason": "scene",
+        "ocr_text": "",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1053.0,
+          "end": 1055.0,
+          "text": "E mi incollo qua il prompt."
+        },
+        {
+          "start": 1055.0,
+          "end": 1056.0,
+          "text": "E gli dico."
+        },
+        {
+          "start": 1056.0,
+          "end": 1060.0,
+          "text": "Ti allego qui sotto il prompt per ristrutturare il mio sito."
+        },
+        {
+          "start": 1060.0,
+          "end": 1062.0,
+          "text": "Leggilo attentamente."
+        },
+        {
+          "start": 1062.0,
+          "end": 1070.0,
+          "text": "E poi, se ci sono delle cose che non ti sono chiare, nello specifico io voglio scovare i known unknowns."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 42,
+        "time": 1068.68,
+        "timestamp": "00:17:49",
+        "image": "frame_0042.jpg",
+        "reason": "scene",
+        "ocr_text": "attintervistre oz 03. too",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1070.0,
+          "end": 1075.0,
+          "text": "Allora intervistami una domanda alla volta su cosa voglio dal nuovo sito."
+        },
+        {
+          "start": 1075.0,
+          "end": 1080.0,
+          "text": "Dai priorità alle domande la cui risposta cambia l'architettura o il design."
+        },
+        {
+          "start": 1080.0,
+          "end": 1083.0,
+          "text": "Aspetta la mia risposta prima della prossima."
+        },
+        {
+          "start": 1083.0,
+          "end": 1084.0,
+          "text": "Ok."
+        },
+        {
+          "start": 1084.0,
+          "end": 1086.0,
+          "text": "Qua separo un attimino ed ecco qua."
+        },
+        {
+          "start": 1086.0,
+          "end": 1090.0,
+          "text": "Quindi qua c'è la roba per trovare i known unknowns e qua c'è tutto il prompt che ho fatto io."
+        },
+        {
+          "start": 1090.0,
+          "end": 1091.0,
+          "text": "Molto bene."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 43,
+        "time": 1090.16,
+        "timestamp": "00:18:10",
+        "image": "frame_0043.jpg",
+        "reason": "scene",
+        "ocr_text": "== Sonne 4 DE = Ta F",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1091.0,
+          "end": 1092.0,
+          "text": "Qui ha fatto."
+        },
+        {
+          "start": 1092.0,
+          "end": 1096.0,
+          "text": "Quindi mi prendo il prompt che c'eravamo preparati e lo allego qui in chat."
+        },
+        {
+          "start": 1096.0,
+          "end": 1102.0,
+          "text": "Allora qui ha fatto e invece di mandare prima questo, sapete che ci metto anche questo per trovare gli unknown unknowns."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 44,
+        "time": 1098.28,
+        "timestamp": "00:18:18",
+        "image": "frame_0044.jpg",
+        "reason": "scene",
+        "ocr_text": "",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1102.0,
+          "end": 1106.0,
+          "text": "Cioè che prima di toccare il sito vero mi deve fare un file html."
+        },
+        {
+          "start": 1106.0,
+          "end": 1108.0,
+          "text": "Quindi, prima ci facciamo intervistare."
+        },
+        {
+          "start": 1108.0,
+          "end": 1110.0,
+          "text": "Quindi si va a leggere il prompt che gli ho passato."
+        },
+        {
+          "start": 1110.0,
+          "end": 1111.0,
+          "text": "Ci intervista."
+        },
+        {
+          "start": 1111.0,
+          "end": 1117.0,
+          "text": "E poi, una volta che finisce di intervistarci, si va a prendere questa parte qua."
+        },
+        {
+          "start": 1117.0,
+          "end": 1121.0,
+          "text": "Quindi mi va a fare un file html con le direzioni."
+        },
+        {
+          "start": 1121.0,
+          "end": 1123.0,
+          "text": "Quindi, sapete che facciamo?"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 45,
+        "time": 1121.84,
+        "timestamp": "00:18:42",
+        "image": "frame_0045.jpg",
+        "reason": "scene",
+        "ocr_text": "",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1123.0,
+          "end": 1124.0,
+          "text": "Facciamo."
+        },
+        {
+          "start": 1124.0,
+          "end": 1125.0,
+          "text": "Step 1."
+        },
+        {
+          "start": 1125.0,
+          "end": 1127.0,
+          "text": "Ti allego qui sotto il prompt per ristrutturare il sito."
+        },
+        {
+          "start": 1127.0,
+          "end": 1129.0,
+          "text": "Step 2."
+        },
+        {
+          "start": 1129.0,
+          "end": 1131.0,
+          "text": "Leggi il prompt."
+        },
+        {
+          "start": 1131.0,
+          "end": 1133.0,
+          "text": "Quindi step 3."
+        },
+        {
+          "start": 1133.0,
+          "end": 1134.0,
+          "text": "Eccolo qua."
+        },
+        {
+          "start": 1134.0,
+          "end": 1142.0,
+          "text": "Quando hai finito di intervistarmi, prima di toccare il sito vero fammi un file html con 4 direzioni di design completamente diverse."
+        },
+        {
+          "start": 1142.0,
+          "end": 1146.0,
+          "text": "Non per la home page, ma in questo caso è per il mio sito."
+        },
+        {
+          "start": 1146.0,
+          "end": 1148.0,
+          "text": "Dati finti ma realistici."
+        },
+        {
+          "start": 1148.0,
+          "end": 1152.0,
+          "text": "Voglio reagire al layout prima che tu tocchi il codice."
+        },
+        {
+          "start": 1152.0,
+          "end": 1153.0,
+          "text": "Alla grande."
+        },
+        {
+          "start": 1153.0,
+          "end": 1155.0,
+          "text": "Ci prendiamo questo prompt e ce lo passiamo qua."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 46,
+        "time": 1154.52,
+        "timestamp": "00:19:15",
+        "image": "frame_0046.jpg",
+        "reason": "scene",
+        "ocr_text": "",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1155.0,
+          "end": 1156.0,
+          "text": "Molto bene."
+        },
+        {
+          "start": 1156.0,
+          "end": 1157.0,
+          "text": "Quindi, ricapitolando."
+        },
+        {
+          "start": 1157.0,
+          "end": 1160.0,
+          "text": "Abbiamo trovato prima gli unknown unknowns."
+        },
+        {
+          "start": 1160.0,
+          "end": 1164.0,
+          "text": "Cioè quelle cose che io non avrei scopato."
+        },
+        {
+          "start": 1164.0,
+          "end": 1167.0,
+          "text": "Abbiamo sfruttato Fable per risolvere quelle tre criticità."
+        },
+        {
+          "start": 1167.0,
+          "end": 1173.0,
+          "text": "Non solo abbiamo risolto quelle tre criticità, ma adesso lui sa quella a cui deve stare attento."
+        },
+        {
+          "start": 1173.0,
+          "end": 1174.0,
+          "text": "La parte della SEO."
+        },
+        {
+          "start": 1174.0,
+          "end": 1175.0,
+          "text": "Cosa deve fare."
+        },
+        {
+          "start": 1175.0,
+          "end": 1177.0,
+          "text": "I form e integrazioni."
+        },
+        {
+          "start": 1177.0,
+          "end": 1179.0,
+          "text": "Devi stare attento a determinate cose."
+        },
+        {
+          "start": 1179.0,
+          "end": 1180.0,
+          "text": "E adesso sappiamo quella cosa."
+        },
+        {
+          "start": 1180.0,
+          "end": 1186.0,
+          "text": "Poi quello che vogliamo fare è che ci intervista per trovare i known unknowns."
+        },
+        {
+          "start": 1186.0,
+          "end": 1189.0,
+          "text": "Cioè quelle cose che io veramente scontato che non glielo ho chiesto."
+        },
+        {
+          "start": 1189.0,
+          "end": 1191.0,
+          "text": "In base a questo mega prompt per modificare il sito."
+        },
+        {
+          "start": 1191.0,
+          "end": 1192.0,
+          "text": "Step numero 3."
+        },
+        {
+          "start": 1192.0,
+          "end": 1195.0,
+          "text": "Quando hai finito di intervistarmi, proponimi delle direzioni."
+        },
+        {
+          "start": 1195.0,
+          "end": 1199.0,
+          "text": "In questo modo, quando ho finito di intervistarmi, sappiamo la direzione da prendere."
+        },
+        {
+          "start": 1200.0,
+          "end": 1204.0,
+          "text": "A quel punto abbiamo trovato ogni possibile falla."
+        },
+        {
+          "start": 1204.0,
+          "end": 1206.0,
+          "text": "E possiamo proseguire con Opus."
+        },
+        {
+          "start": 1206.0,
+          "end": 1207.0,
+          "text": "Questo è il concetto."
+        },
+        {
+          "start": 1207.0,
+          "end": 1209.0,
+          "text": "Ed ecco le prime interviste."
+        },
+        {
+          "start": 1209.0,
+          "end": 1213.0,
+          "text": "Quindi, come gestiamo i pilastri rispetto alle pagine esistenti che coprono gli stessi temi."
+        },
+        {
+          "start": 1213.0,
+          "end": 1217.0,
+          "text": "Cioè, quindi url nuovi, andiamo a modificare gli url esistenti."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 47,
+        "time": 1214.52,
+        "timestamp": "00:20:15",
+        "image": "frame_0047.jpg",
+        "reason": "periodic",
+        "ocr_text": "Li pun peri pa icon er a gr tri cai gina pu se in ri tti ie i tc mi lO. did di im die 17",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1217.0,
+          "end": 1219.0,
+          "text": "Lui consiglia url nuovi."
+        },
+        {
+          "start": 1219.0,
+          "end": 1221.0,
+          "text": "Quindi direi con url nuovi."
+        },
+        {
+          "start": 1221.0,
+          "end": 1227.0,
+          "text": "E quindi, stando appunto su un worktree, possiamo lavorare tranquillamente, modificare, eliminare i file."
+        },
+        {
+          "start": 1227.0,
+          "end": 1229.0,
+          "text": "Ok, che relazione c'è tra i tre binari?"
+        },
+        {
+          "start": 1229.0,
+          "end": 1231.0,
+          "text": "Allora, lui parla dei tre binari."
+        },
+        {
+          "start": 1231.0,
+          "end": 1234.0,
+          "text": "Perché noi essenzialmente abbiamo tre binari nel nostro sito."
+        },
+        {
+          "start": 1234.0,
+          "end": 1239.0,
+          "text": "Abbiamo AI adoption, prodotti e engineering as a service."
+        },
+        {
+          "start": 1239.0,
+          "end": 1241.0,
+          "text": "Che sarebbe la nostra parte di sviluppo custom."
+        },
+        {
+          "start": 1241.0,
+          "end": 1243.0,
+          "text": "Quindi, che relazione c'è tra i tre binari?"
+        },
+        {
+          "start": 1243.0,
+          "end": 1248.0,
+          "text": "Scala di maturità, cioè un cliente tipico parte dalla formazione, poi adotta i prodotti."
+        },
+        {
+          "start": 1248.0,
+          "end": 1250.0,
+          "text": "Tre binari paralleli."
+        },
+        {
+          "start": 1250.0,
+          "end": 1254.0,
+          "text": "Ok, io metterei paralleli perché magari uno può entrare e scegliere il prodotto."
+        },
+        {
+          "start": 1254.0,
+          "end": 1258.0,
+          "text": "Può scegliere lo sviluppo custom, la parte di adoption."
+        },
+        {
+          "start": 1258.0,
+          "end": 1261.0,
+          "text": "Sulla parte di engineering as a service, EAS."
+        },
+        {
+          "start": 1261.0,
+          "end": 1265.0,
+          "text": "L'ho chiamata così, tipo SAS, EAS, vabbè."
+        },
+        {
+          "start": 1265.0,
+          "end": 1267.0,
+          "text": "Mostriamo i pacchetti di ore."
+        },
+        {
+          "start": 1267.0,
+          "end": 1269.0,
+          "text": "Con o senza prezzi."
+        },
+        {
+          "start": 1269.0,
+          "end": 1271.0,
+          "text": "Io metterei pacchetti senza prezzi."
+        },
+        {
+          "start": 1271.0,
+          "end": 1275.0,
+          "text": "Cioè essenzialmente, giusto per darvi contesto, il pacchetto di engineering as a service ti compri ore di ingegneria."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 48,
+        "time": 1274.52,
+        "timestamp": "00:21:15",
+        "image": "frame_0048.jpg",
+        "reason": "periodic",
+        "ocr_text": "",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1275.0,
+          "end": 1277.0,
+          "text": "Questo è un po' il concetto."
+        },
+        {
+          "start": 1277.0,
+          "end": 1279.0,
+          "text": "Il questionario è ai readiness assessment."
+        },
+        {
+          "start": 1279.0,
+          "end": 1281.0,
+          "text": "Noi facciamo l'assessment prima delle formazioni."
+        },
+        {
+          "start": 1281.0,
+          "end": 1283.0,
+          "text": "Esiste già come strumento."
+        },
+        {
+          "start": 1283.0,
+          "end": 1284.0,
+          "text": "Si fa dopo la call."
+        },
+        {
+          "start": 1284.0,
+          "end": 1286.0,
+          "text": "Però questo potrebbe essere uno spunto carino."
+        },
+        {
+          "start": 1286.0,
+          "end": 1288.0,
+          "text": "Hm, bravo Fable."
+        },
+        {
+          "start": 1288.0,
+          "end": 1291.0,
+          "text": "Come strutturiamo la navbar, cioè la barra sopra."
+        },
+        {
+          "start": 1291.0,
+          "end": 1293.0,
+          "text": "Navbar sui tre binari."
+        },
+        {
+          "start": 1293.0,
+          "end": 1298.0,
+          "text": "Quindi AI adoption, prodotti, com drop down, con tutti i prodotti, bello."
+        },
+        {
+          "start": 1298.0,
+          "end": 1300.0,
+          "text": "EAS, bellissimo, mi piace."
+        },
+        {
+          "start": 1300.0,
+          "end": 1304.0,
+          "text": "Le nuove pagine, pilastri, EAS, company brain, escono in che lingua?"
+        },
+        {
+          "start": 1304.0,
+          "end": 1305.0,
+          "text": "Solo l'italiano."
+        },
+        {
+          "start": 1305.0,
+          "end": 1310.0,
+          "text": "Già noto una differenza rispetto alle domande che mi fa Superpowers, che sono molto più intelligente e più strutturate, diciamo."
+        },
+        {
+          "start": 1310.0,
+          "end": 1312.0,
+          "text": "Ok, poi questa è un'altra chicca."
+        },
+        {
+          "start": 1312.0,
+          "end": 1316.0,
+          "text": "Anche se è Fable 5, io voglio utilizzare sempre front-end design."
+        },
+        {
+          "start": 1316.0,
+          "end": 1319.0,
+          "text": "Che è una delle skill migliori per generare front-end."
+        },
+        {
+          "start": 1319.0,
+          "end": 1322.0,
+          "text": "Che sia una presentazione o una qualsiasi cosa."
+        },
+        {
+          "start": 1322.0,
+          "end": 1325.0,
+          "text": "Quindi adesso si andrà ad analizzare questa skill."
+        },
+        {
+          "start": 1325.0,
+          "end": 1327.0,
+          "text": "Allora, ecco qua cos'è successo."
+        },
+        {
+          "start": 1327.0,
+          "end": 1330.0,
+          "text": "Siamo arrivati all'ultima fase, dopo che mi ha intervistato."
+        },
+        {
+          "start": 1330.0,
+          "end": 1334.0,
+          "text": "Mi ha fatto in HTML, mi ha proposto diverse direzioni."
+        },
+        {
+          "start": 1334.0,
+          "end": 1335.0,
+          "text": "E adesso andiamo a vedere tutte."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 49,
+        "time": 1334.52,
+        "timestamp": "00:22:15",
+        "image": "frame_0049.jpg",
+        "reason": "periodic",
+        "ocr_text": "A ogni esigenza, il suo binario.",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1335.0,
+          "end": 1336.0,
+          "text": "A, scambi."
+        },
+        {
+          "start": 1336.0,
+          "end": 1337.0,
+          "text": "Molto figa questa."
+        },
+        {
+          "start": 1337.0,
+          "end": 1340.0,
+          "text": "Con queste tre linee che si illuminano."
+        },
+        {
+          "start": 1340.0,
+          "end": 1342.0,
+          "text": "Molto carina."
+        },
+        {
+          "start": 1342.0,
+          "end": 1344.0,
+          "text": "B, trittico."
+        },
+        {
+          "start": 1345.0,
+          "end": 1347.0,
+          "text": "Carino anche questo."
+        },
+        {
+          "start": 1348.0,
+          "end": 1349.0,
+          "text": "Molto carino."
+        },
+        {
+          "start": 1350.0,
+          "end": 1354.0,
+          "text": "Poi c'è questa parte giù."
+        },
+        {
+          "start": 1356.0,
+          "end": 1357.0,
+          "text": "C'è la parte C."
+        },
+        {
+          "start": 1358.0,
+          "end": 1360.0,
+          "text": "No, non mi piace per niente."
+        },
+        {
+          "start": 1361.0,
+          "end": 1362.0,
+          "text": "Vetrina."
+        },
+        {
+          "start": 1362.0,
+          "end": 1364.0,
+          "text": "Che secondo me è il più pulito di tutti."
+        },
+        {
+          "start": 1364.0,
+          "end": 1366.0,
+          "text": "Quindi proprio bello."
+        },
+        {
+          "start": 1366.0,
+          "end": 1367.0,
+          "text": "Mi piace."
+        },
+        {
+          "start": 1368.0,
+          "end": 1369.0,
+          "text": "Con le foto qua carine."
+        },
+        {
+          "start": 1369.0,
+          "end": 1370.0,
+          "text": "Molto carine."
+        },
+        {
+          "start": 1370.0,
+          "end": 1371.0,
+          "text": "Quindi poi, che cosa ho fatto?"
+        },
+        {
+          "start": 1371.0,
+          "end": 1373.0,
+          "text": "Gli ho detto che la D mi piace molto."
+        },
+        {
+          "start": 1373.0,
+          "end": 1375.0,
+          "text": "Mi raccomando la I lo lasciamola così, bla bla bla."
+        },
+        {
+          "start": 1375.0,
+          "end": 1376.0,
+          "text": "Parti."
+        },
+        {
+          "start": 1376.0,
+          "end": 1379.0,
+          "text": "Ovviamente per partire ho sbucciato il modello."
+        },
+        {
+          "start": 1379.0,
+          "end": 1381.0,
+          "text": "Cioè sono andato con Opus."
+        },
+        {
+          "start": 1381.0,
+          "end": 1385.0,
+          "text": "Quindi quello che ho fatto è che abbiamo fatto tutta la parte iniziale con Fable."
+        },
+        {
+          "start": 1385.0,
+          "end": 1386.0,
+          "text": "E poi abbiamo continuato con Opus."
+        },
+        {
+          "start": 1386.0,
+          "end": 1388.0,
+          "text": "L'ho lanciato e ha fatto tutto qua."
+        },
+        {
+          "start": 1388.0,
+          "end": 1390.0,
+          "text": "E il risultato è questa roba qui."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 50,
+        "time": 1388.72,
+        "timestamp": "00:23:09",
+        "image": "frame_0050.jpg",
+        "reason": "scene",
+        "ocr_text": "",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1390.0,
+          "end": 1392.0,
+          "text": "Quindi questo è il sito."
+        },
+        {
+          "start": 1392.0,
+          "end": 1393.0,
+          "text": "Con tre binari."
+        },
+        {
+          "start": 1393.0,
+          "end": 1396.0,
+          "text": "Una scelta con le box che gli avevamo chiesto."
+        },
+        {
+          "start": 1396.0,
+          "end": 1397.0,
+          "text": "Questi numeri qua."
+        },
+        {
+          "start": 1397.0,
+          "end": 1398.0,
+          "text": "Alla grande."
+        },
+        {
+          "start": 1398.0,
+          "end": 1399.0,
+          "text": "E andiamo a vedere uno a uno."
+        },
+        {
+          "start": 1400.0,
+          "end": 1401.0,
+          "text": "Adoption."
+        },
+        {
+          "start": 1401.0,
+          "end": 1402.0,
+          "text": "Con questa scatola qui."
+        },
+        {
+          "start": 1402.0,
+          "end": 1403.0,
+          "text": "Sempre molto carina."
+        },
+        {
+          "start": 1403.0,
+          "end": 1404.0,
+          "text": "Le aziende non adottano le I."
+        },
+        {
+          "start": 1404.0,
+          "end": 1405.0,
+          "text": "Le persone sì."
+        },
+        {
+          "start": 1405.0,
+          "end": 1406.0,
+          "text": "Molto figo."
+        },
+        {
+          "start": 1407.0,
+          "end": 1408.0,
+          "text": "Con le foto qui."
+        },
+        {
+          "start": 1408.0,
+          "end": 1409.0,
+          "text": "Con questo stile."
+        },
+        {
+          "start": 1409.0,
+          "end": 1410.0,
+          "text": "Mi piace."
+        },
+        {
+          "start": 1410.0,
+          "end": 1411.0,
+          "text": "E qui nulla di che."
+        },
+        {
+          "start": 1411.0,
+          "end": 1412.0,
+          "text": "Cioè quello che avevamo detto."
+        },
+        {
+          "start": 1412.0,
+          "end": 1413.0,
+          "text": "Nel senso formazione B2B."
+        },
+        {
+          "start": 1413.0,
+          "end": 1414.0,
+          "text": "Cloud Code Mastermind."
+        },
+        {
+          "start": 1414.0,
+          "end": 1415.0,
+          "text": "Corso di Cloud."
+        },
+        {
+          "start": 1416.0,
+          "end": 1417.0,
+          "text": "Bla bla bla."
+        },
+        {
+          "start": 1417.0,
+          "end": 1418.0,
+          "text": "Non fidarti di noi."
+        },
+        {
+          "start": 1418.0,
+          "end": 1419.0,
+          "text": "Fidati di loro."
+        },
+        {
+          "start": 1419.0,
+          "end": 1420.0,
+          "text": "Con tutte quante le recensioni."
+        },
+        {
+          "start": 1420.0,
+          "end": 1421.0,
+          "text": "Ok."
+        },
+        {
+          "start": 1422.0,
+          "end": 1423.0,
+          "text": "Domande frequenti ha messo."
+        },
+        {
+          "start": 1423.0,
+          "end": 1427.0,
+          "text": "Qua ha messo tutte quante le recensioni di Thrustpilot."
+        },
+        {
+          "start": 1427.0,
+          "end": 1428.0,
+          "text": "Molto carine."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 51,
+        "time": 1427.8,
+        "timestamp": "00:23:48",
+        "image": "frame_0051.jpg",
+        "reason": "scene",
+        "ocr_text": "Domande frequenti i i EC]",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1428.0,
+          "end": 1429.0,
+          "text": "Ok."
+        },
+        {
+          "start": 1429.0,
+          "end": 1430.0,
+          "text": "Se tornassi indietro."
+        },
+        {
+          "start": 1430.0,
+          "end": 1432.0,
+          "text": "Funziona anche il polsante."
+        },
+        {
+          "start": 1432.0,
+          "end": 1433.0,
+          "text": "Andiamo sui prodotti."
+        },
+        {
+          "start": 1433.0,
+          "end": 1434.0,
+          "text": "Prisma."
+        },
+        {
+          "start": 1434.0,
+          "end": 1435.0,
+          "text": "Ambra."
+        },
+        {
+          "start": 1435.0,
+          "end": 1436.0,
+          "text": "Company Brain."
+        },
+        {
+          "start": 1437.0,
+          "end": 1438.0,
+          "text": "Ok."
+        },
+        {
+          "start": 1438.0,
+          "end": 1440.0,
+          "text": "Andiamo sul Company Brain che era la nuova pagina."
+        },
+        {
+          "start": 1440.0,
+          "end": 1441.0,
+          "text": "Ottimo."
+        },
+        {
+          "start": 1441.0,
+          "end": 1442.0,
+          "text": "Ha messo l'animazione che gli dicevo."
+        },
+        {
+          "start": 1442.0,
+          "end": 1443.0,
+          "text": "Molto figo questa pagina."
+        },
+        {
+          "start": 1445.0,
+          "end": 1446.0,
+          "text": "Ok."
+        },
+        {
+          "start": 1446.0,
+          "end": 1447.0,
+          "text": "Qua tutta la parte del Company Brain."
+        },
+        {
+          "start": 1447.0,
+          "end": 1448.0,
+          "text": "Perfetto."
+        },
+        {
+          "start": 1448.0,
+          "end": 1449.0,
+          "text": "Andiamo indietro."
+        },
+        {
+          "start": 1449.0,
+          "end": 1451.0,
+          "text": "Andiamo su Engineering as a Service."
+        },
+        {
+          "start": 1451.0,
+          "end": 1452.0,
+          "text": "Modella preventivo."
+        },
+        {
+          "start": 1452.0,
+          "end": 1454.0,
+          "text": "Nato per il software di 10 anni fa."
+        },
+        {
+          "start": 1454.0,
+          "end": 1455.0,
+          "text": "Ok."
+        },
+        {
+          "start": 1455.0,
+          "end": 1456.0,
+          "text": "Qua magari un pochettino troppo test."
+        },
+        {
+          "start": 1457.0,
+          "end": 1458.0,
+          "text": "Alla grande però."
+        },
+        {
+          "start": 1458.0,
+          "end": 1459.0,
+          "text": "Ha fatto tutto quanto."
+        },
+        {
+          "start": 1459.0,
+          "end": 1461.0,
+          "text": "Funziona tutto alla prima botta."
+        },
+        {
+          "start": 1461.0,
+          "end": 1463.0,
+          "text": "E specialmente mi ha trovato quelle cose."
+        },
+        {
+          "start": 1463.0,
+          "end": 1465.0,
+          "text": "Febo mi ha trovato quelle cose."
+        },
+        {
+          "start": 1465.0,
+          "end": 1466.0,
+          "text": "Gli unknowns unknown."
+        },
+        {
+          "start": 1466.0,
+          "end": 1469.0,
+          "text": "Cioè quelle cose che con un modello come Opus."
+        },
+        {
+          "start": 1469.0,
+          "end": 1471.0,
+          "text": "Rischiavano di rompere il sito."
+        },
+        {
+          "start": 1471.0,
+          "end": 1474.0,
+          "text": "Oppure quelle piccole falle di sicurezza che vediamo prima."
+        },
+        {
+          "start": 1474.0,
+          "end": 1476.0,
+          "text": "Quindi ora io quello che farò."
+        },
+        {
+          "start": 1476.0,
+          "end": 1479.0,
+          "text": "Ovviamente non è perfetto a one shot."
+        },
+        {
+          "start": 1479.0,
+          "end": 1480.0,
+          "text": "Ad esempio."
+        },
+        {
+          "start": 1480.0,
+          "end": 1482.0,
+          "text": "Qui vorrei qualche animazioncino in più."
+        },
+        {
+          "start": 1482.0,
+          "end": 1483.0,
+          "text": "Magari."
+        },
+        {
+          "start": 1483.0,
+          "end": 1485.0,
+          "text": "Queste recensioni tutte verticali."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 52,
+        "time": 1484.76,
+        "timestamp": "00:24:45",
+        "image": "frame_0052.jpg",
+        "reason": "scene",
+        "ocr_text": "",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1485.0,
+          "end": 1486.0,
+          "text": "Poi il resto."
+        },
+        {
+          "start": 1486.0,
+          "end": 1487.0,
+          "text": "Questa pagina in realtà è perfetta."
+        },
+        {
+          "start": 1487.0,
+          "end": 1488.0,
+          "text": "La parte dei prodotti."
+        },
+        {
+          "start": 1488.0,
+          "end": 1489.0,
+          "text": "Questa mi piace."
+        },
+        {
+          "start": 1489.0,
+          "end": 1492.0,
+          "text": "Metterei qui già l'animazione che è presente qui."
+        },
+        {
+          "start": 1492.0,
+          "end": 1495.0,
+          "text": "Anche questa pagina mi sembra che va alla grande."
+        },
+        {
+          "start": 1495.0,
+          "end": 1497.0,
+          "text": "E Engineering as a Service carino."
+        },
+        {
+          "start": 1497.0,
+          "end": 1499.0,
+          "text": "Ci aggiungerei anche qua qualche altra animazione."
+        },
+        {
+          "start": 1499.0,
+          "end": 1501.0,
+          "text": "Qua Casi Studio anche andiamo alla grande."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 53,
+        "time": 1499.24,
+        "timestamp": "00:24:59",
+        "image": "frame_0053.jpg",
+        "reason": "scene",
+        "ocr_text": "",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1501.0,
+          "end": 1503.0,
+          "text": "Il blog andiamo alla grande."
+        },
+        {
+          "start": 1503.0,
+          "end": 1504.0,
+          "text": "E quindi diciamo che."
+        },
+        {
+          "start": 1504.0,
+          "end": 1506.0,
+          "text": "Dopo aver visto questo caso d'uso."
+        },
+        {
+          "start": 1506.0,
+          "end": 1508.0,
+          "text": "Volevo dire anche un'altra cosa."
+        },
+        {
+          "start": 1508.0,
+          "end": 1509.0,
+          "text": "E cioè che."
+        },
+        {
+          "start": 1509.0,
+          "end": 1511.0,
+          "text": "Diffidate di quello che vedete online."
+        },
+        {
+          "start": 1511.0,
+          "end": 1512.0,
+          "text": "Quando dicono."
+        },
+        {
+          "start": 1512.0,
+          "end": 1513.0,
+          "text": "Con un prompt."
+        },
+        {
+          "start": 1513.0,
+          "end": 1515.0,
+          "text": "Ho fatto un sito."
+        },
+        {
+          "start": 1516.0,
+          "end": 1519.0,
+          "text": "O un'applicazione assurda."
+        },
+        {
+          "start": 1519.0,
+          "end": 1520.0,
+          "text": "No."
+        },
+        {
+          "start": 1520.0,
+          "end": 1521.0,
+          "text": "Comunque ricordiamoci."
+        },
+        {
+          "start": 1521.0,
+          "end": 1522.0,
+          "text": "Il modello è super capace."
+        },
+        {
+          "start": 1522.0,
+          "end": 1524.0,
+          "text": "Ma come diceva l'ingegnere di Antropic."
+        },
+        {
+          "start": 1524.0,
+          "end": 1526.0,
+          "text": "Il collo di bottiglia è la persona che c'è qua dietro."
+        },
+        {
+          "start": 1526.0,
+          "end": 1527.0,
+          "text": "Ad esempio."
+        },
+        {
+          "start": 1527.0,
+          "end": 1528.0,
+          "text": "Queste box."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 54,
+        "time": 1527.12,
+        "timestamp": "00:25:27",
+        "image": "frame_0054.jpg",
+        "reason": "scene",
+        "ocr_text": "",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1528.0,
+          "end": 1529.0,
+          "text": "Glielo ho date io."
+        },
+        {
+          "start": 1529.0,
+          "end": 1531.0,
+          "text": "Le ho generate con CiaGPT."
+        },
+        {
+          "start": 1531.0,
+          "end": 1532.0,
+          "text": "Piuttosto che."
+        },
+        {
+          "start": 1532.0,
+          "end": 1535.0,
+          "text": "Comunque gli ho detto di utilizzare la skill front end slides."
+        },
+        {
+          "start": 1535.0,
+          "end": 1537.0,
+          "text": "Scusate front end design."
+        },
+        {
+          "start": 1537.0,
+          "end": 1539.0,
+          "text": "Per generare le presentazioni."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 55,
+        "time": 1538.92,
+        "timestamp": "00:25:39",
+        "image": "frame_0055.jpg",
+        "reason": "scene",
+        "ocr_text": "",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1539.0,
+          "end": 1540.0,
+          "text": "Tutte le."
+        },
+        {
+          "start": 1540.0,
+          "end": 1541.0,
+          "text": "La parte di UI."
+        },
+        {
+          "start": 1541.0,
+          "end": 1542.0,
+          "text": "Evitando."
+        },
+        {
+          "start": 1542.0,
+          "end": 1543.0,
+          "text": "I slope."
+        },
+        {
+          "start": 1543.0,
+          "end": 1544.0,
+          "text": "Quindi io."
+        },
+        {
+          "start": 1544.0,
+          "end": 1545.0,
+          "text": "Non ci credo."
+        },
+        {
+          "start": 1545.0,
+          "end": 1546.0,
+          "text": "Quando vedo le persone."
+        },
+        {
+          "start": 1546.0,
+          "end": 1547.0,
+          "text": "Con un prompt."
+        },
+        {
+          "start": 1547.0,
+          "end": 1548.0,
+          "text": "Costruiscono tutta una cosa."
+        },
+        {
+          "start": 1548.0,
+          "end": 1549.0,
+          "text": "Semplicemente."
+        },
+        {
+          "start": 1549.0,
+          "end": 1550.0,
+          "text": "Abbiamo un modello estremamente capace."
+        },
+        {
+          "start": 1550.0,
+          "end": 1551.0,
+          "text": "Che."
+        },
+        {
+          "start": 1551.0,
+          "end": 1552.0,
+          "text": "Utilizzato con un metodo."
+        },
+        {
+          "start": 1552.0,
+          "end": 1553.0,
+          "text": "Ci velocizza tantissimo."
+        },
+        {
+          "start": 1553.0,
+          "end": 1554.0,
+          "text": "Ma comunque."
+        },
+        {
+          "start": 1554.0,
+          "end": 1555.0,
+          "text": "Da parte nostra."
+        },
+        {
+          "start": 1555.0,
+          "end": 1557.0,
+          "text": "Dobbiamo sapere dare le giuste indicazioni."
+        },
+        {
+          "start": 1557.0,
+          "end": 1558.0,
+          "text": "E dobbiamo sapere sfruttare al massimo."
+        },
+        {
+          "start": 1558.0,
+          "end": 1559.0,
+          "text": "Quindi questo."
+        },
+        {
+          "start": 1559.0,
+          "end": 1560.0,
+          "text": "Era la."
+        },
+        {
+          "start": 1560.0,
+          "end": 1561.0,
+          "text": "Mega parentesi che volevo fare."
+        },
+        {
+          "start": 1561.0,
+          "end": 1562.0,
+          "text": "Bene."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 56,
+        "time": 1561.6,
+        "timestamp": "00:26:02",
+        "image": "frame_0056.jpg",
+        "reason": "scene",
+        "ocr_text": "Iltuo Partner AI a360 Gradi.",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1562.0,
+          "end": 1563.0,
+          "text": "Quindi quello che farò adesso io."
+        },
+        {
+          "start": 1563.0,
+          "end": 1564.0,
+          "text": "È un po di andrivieni."
+        },
+        {
+          "start": 1564.0,
+          "end": 1565.0,
+          "text": "Per."
+        },
+        {
+          "start": 1565.0,
+          "end": 1566.0,
+          "text": "Fixare le ultime cose."
+        },
+        {
+          "start": 1566.0,
+          "end": 1567.0,
+          "text": "Comunque devo dire che."
+        },
+        {
+          "start": 1567.0,
+          "end": 1568.0,
+          "text": "In one shot."
+        },
+        {
+          "start": 1568.0,
+          "end": 1569.0,
+          "text": "È quasi tutto perfetto."
+        },
+        {
+          "start": 1569.0,
+          "end": 1570.0,
+          "text": "Ed è stato un rimodellamento."
+        },
+        {
+          "start": 1570.0,
+          "end": 1571.0,
+          "text": "Di tutto il sito."
+        },
+        {
+          "start": 1571.0,
+          "end": 1572.0,
+          "text": "Adesso si tratta semplicemente."
+        },
+        {
+          "start": 1572.0,
+          "end": 1573.0,
+          "text": "Che ne so."
+        },
+        {
+          "start": 1573.0,
+          "end": 1574.0,
+          "text": "Queste card."
+        },
+        {
+          "start": 1574.0,
+          "end": 1575.0,
+          "text": "Di renderle."
+        },
+        {
+          "start": 1575.0,
+          "end": 1576.0,
+          "text": "Interattive."
+        },
+        {
+          "start": 1576.0,
+          "end": 1577.0,
+          "text": "E qualche animazioncina."
+        },
+        {
+          "start": 1577.0,
+          "end": 1578.0,
+          "text": "Qui là."
+        },
+        {
+          "start": 1578.0,
+          "end": 1579.0,
+          "text": "Quindi mi aspetto."
+        },
+        {
+          "start": 1579.0,
+          "end": 1580.0,
+          "text": "Tre quattro interazioni."
+        },
+        {
+          "start": 1580.0,
+          "end": 1581.0,
+          "text": "Il sito."
+        },
+        {
+          "start": 1581.0,
+          "end": 1582.0,
+          "text": "Poi può andare live."
+        },
+        {
+          "start": 1582.0,
+          "end": 1583.0,
+          "text": "Questo è."
+        },
+        {
+          "start": 1583.0,
+          "end": 1584.0,
+          "text": "Secondo me."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 57,
+        "time": 1583.08,
+        "timestamp": "00:26:23",
+        "image": "frame_0057.jpg",
+        "reason": "scene",
+        "ocr_text": "",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1584.0,
+          "end": 1585.0,
+          "text": "Il modo migliore."
+        },
+        {
+          "start": 1585.0,
+          "end": 1586.0,
+          "text": "Per utilizzare Fable."
+        },
+        {
+          "start": 1586.0,
+          "end": 1587.0,
+          "text": "Specialmente perché adesso."
+        },
+        {
+          "start": 1587.0,
+          "end": 1588.0,
+          "text": "Ce lo leveranno."
+        },
+        {
+          "start": 1588.0,
+          "end": 1589.0,
+          "text": "Quindi."
+        },
+        {
+          "start": 1589.0,
+          "end": 1590.0,
+          "text": "Piccolo recap."
+        },
+        {
+          "start": 1590.0,
+          "end": 1591.0,
+          "text": "Possiamo sfruttare."
+        },
+        {
+          "start": 1591.0,
+          "end": 1592.0,
+          "text": "Fable."
+        },
+        {
+          "start": 1592.0,
+          "end": 1593.0,
+          "text": "Per fare."
+        },
+        {
+          "start": 1593.0,
+          "end": 1594.0,
+          "text": "Molto più di un piano."
+        },
+        {
+          "start": 1594.0,
+          "end": 1595.0,
+          "text": "Cioè ci permette di."
+        },
+        {
+          "start": 1595.0,
+          "end": 1596.0,
+          "text": "Trovare tutte quelle falle."
+        },
+        {
+          "start": 1596.0,
+          "end": 1597.0,
+          "text": "Quelle problematiche."
+        },
+        {
+          "start": 1597.0,
+          "end": 1598.0,
+          "text": "Quelle cose a cui non avevamo pensato."
+        },
+        {
+          "start": 1598.0,
+          "end": 1599.0,
+          "text": "Che avevamo dato per scontato."
+        },
+        {
+          "start": 1599.0,
+          "end": 1600.0,
+          "text": "Per poi."
+        },
+        {
+          "start": 1600.0,
+          "end": 1601.0,
+          "text": "Dare la strada."
+        },
+        {
+          "start": 1601.0,
+          "end": 1602.0,
+          "text": "Completamente spianata."
+        },
+        {
+          "start": 1602.0,
+          "end": 1603.0,
+          "text": "A un modello come Opus."
+        },
+        {
+          "start": 1603.0,
+          "end": 1604.0,
+          "text": "Di frontiera."
+        },
+        {
+          "start": 1604.0,
+          "end": 1605.0,
+          "text": "Quindi."
+        },
+        {
+          "start": 1605.0,
+          "end": 1606.0,
+          "text": "Questo."
+        },
+        {
+          "start": 1606.0,
+          "end": 1607.0,
+          "text": "Era tutto ciò che volevo dirvi."
+        },
+        {
+          "start": 1607.0,
+          "end": 1608.0,
+          "text": "Come al solito."
+        },
+        {
+          "start": 1608.0,
+          "end": 1609.0,
+          "text": "Se sei un'azienda."
+        },
+        {
+          "start": 1609.0,
+          "end": 1610.0,
+          "text": "E vuoi implementare."
+        },
+        {
+          "start": 1610.0,
+          "end": 1611.0,
+          "text": "L'intelligenza artificiale."
+        },
+        {
+          "start": 1611.0,
+          "end": 1612.0,
+          "text": "All'interno della tua realtà."
+        },
+        {
+          "start": 1612.0,
+          "end": 1613.0,
+          "text": "A partire."
+        },
+        {
+          "start": 1613.0,
+          "end": 1614.0,
+          "text": "Dalla formazione del tuo team."
+        },
+        {
+          "start": 1614.0,
+          "end": 1615.0,
+          "text": "Su strumenti pratici."
+        },
+        {
+          "start": 1615.0,
+          "end": 1616.0,
+          "text": "Come."
+        },
+        {
+          "start": 1616.0,
+          "end": 1617.0,
+          "text": "Cloud Code."
+        },
+        {
+          "start": 1617.0,
+          "end": 1618.0,
+          "text": "Cloud Cowork."
+        },
+        {
+          "start": 1618.0,
+          "end": 1619.0,
+          "text": "Costruzione di un second brain."
+        },
+        {
+          "start": 1619.0,
+          "end": 1620.0,
+          "text": "O anche."
+        },
+        {
+          "start": 1620.0,
+          "end": 1621.0,
+          "text": "Di un company brain."
+        },
+        {
+          "start": 1621.0,
+          "end": 1622.0,
+          "text": "Come vediamo qua."
+        },
+        {
+          "start": 1622.0,
+          "end": 1623.0,
+          "text": "Il nostro nuovo prodotto."
+        },
+        {
+          "start": 1626.0,
+          "end": 1627.0,
+          "text": "Dentro la tua realtà."
+        },
+        {
+          "start": 1627.0,
+          "end": 1628.0,
+          "text": "Per poi."
+        },
+        {
+          "start": 1628.0,
+          "end": 1629.0,
+          "text": "Andare a costruire."
+        },
+        {
+          "start": 1629.0,
+          "end": 1630.0,
+          "text": "Queste implementazioni."
+        },
+        {
+          "start": 1630.0,
+          "end": 1631.0,
+          "text": "Che troviamo insieme."
+        },
+        {
+          "start": 1631.0,
+          "end": 1632.0,
+          "text": "Se è la cosa che ti interessa."
+        },
+        {
+          "start": 1632.0,
+          "end": 1633.0,
+          "text": "Trovi qui sotto in descrizione."
+        },
+        {
+          "start": 1633.0,
+          "end": 1634.0,
+          "text": "Il link."
+        },
+        {
+          "start": 1634.0,
+          "end": 1635.0,
+          "text": "Per."
+        },
+        {
+          "start": 1635.0,
+          "end": 1636.0,
+          "text": "Pronotare una breve chiamata."
+        },
+        {
+          "start": 1636.0,
+          "end": 1637.0,
+          "text": "Dove riusciremo a parlare."
+        },
+        {
+          "start": 1637.0,
+          "end": 1638.0,
+          "text": "Del tuo progetto."
+        },
+        {
+          "start": 1638.0,
+          "end": 1639.0,
+          "text": "Questo è tutto."
+        },
+        {
+          "start": 1639.0,
+          "end": 1640.0,
+          "text": "Fatemi sapere qui sotto."
+        },
+        {
+          "start": 1640.0,
+          "end": 1641.0,
+          "text": "Che ne pensate."
+        },
+        {
+          "start": 1641.0,
+          "end": 1642.0,
+          "text": "E se avete usato Fable."
+        },
+        {
+          "start": 1642.0,
+          "end": 1643.0,
+          "text": "E se."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 58,
+        "time": 1643.08,
+        "timestamp": "00:27:23",
+        "image": "frame_0058.jpg",
+        "reason": "periodic",
+        "ocr_text": "",
+        "description": ""
+      },
+      "transcript": []
+    }
+  ]
+}

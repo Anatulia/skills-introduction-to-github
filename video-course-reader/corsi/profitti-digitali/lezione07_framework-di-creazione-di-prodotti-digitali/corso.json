@@ -1,0 +1,2339 @@
+{
+  "title": "Framework di creazione di prodotti digitali",
+  "sections": [
+    {
+      "keyframe": {
+        "index": 0,
+        "time": 0.0,
+        "timestamp": "00:00:00",
+        "image": "frame_0000.jpg",
+        "reason": "start",
+        "ocr_text": "Even: ta. Piotta. Ciconio amami Miti © 007 ric DA",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 0.3199999928474426,
+          "end": 3.559999942779541,
+          "text": "Bentornati nuovamente all'interno di questo corso gratuito sui prodotti"
+        },
+        {
+          "start": 3.559999942779541,
+          "end": 9.0,
+          "text": "digitali. In questa lezione iniziamo a mettere un po' più in pratica i"
+        },
+        {
+          "start": 9.0,
+          "end": 12.479999542236328,
+          "text": "concetti che abbiamo visto nelle precedenti lezioni e iniziamo a creare"
+        },
+        {
+          "start": 12.479999542236328,
+          "end": 15.359999656677246,
+          "text": "la nostra struttura di prodotti digitali. Quindi andremo a creare i prodotti"
+        },
+        {
+          "start": 15.359999656677246,
+          "end": 20.1200008392334,
+          "text": "digitali veri e propri che andremo a vendere all'interno del nostro funnel."
+        },
+        {
+          "start": 20.1200008392334,
+          "end": 24.479999542236328,
+          "text": "Nella scorsa lezione ti avevo parlato della struttura che solitamente io"
+        },
+        {
+          "start": 24.479999542236328,
+          "end": 29.8799991607666,
+          "text": "utilizzo quando creo e vendo prodotti digitali. La struttura che utilizzo di"
+        },
+        {
+          "start": 29.8799991607666,
+          "end": 34.08000183105469,
+          "text": "solito è questa. Più o meno complessa, ragazzi, ci siamo capiti, è questa la"
+        },
+        {
+          "start": 34.08000183105469,
+          "end": 38.63999938964844,
+          "text": "struttura che si utilizza, una struttura a funnel. Tendenzialmente consta di una"
+        },
+        {
+          "start": 38.63999938964844,
+          "end": 42.880001068115234,
+          "text": "landing page con un prodotto iniziale di front-end, chiamato anche prodotto di"
+        },
+        {
+          "start": 42.880001068115234,
+          "end": 47.560001373291016,
+          "text": "front-end, il prodotto che vendiamo all'inizio. Al checkout solitamente si"
+        },
+        {
+          "start": 47.560001373291016,
+          "end": 51.20000076293945,
+          "text": "inseriscono uno o più prodotti digitali che hanno lo scopo di aumentare lo"
+        },
+        {
+          "start": 51.20000076293945,
+          "end": 56.79999923706055,
+          "text": "scontrino medio dell'utente che c'è all'interno della nostra struttura di"
+        },
+        {
+          "start": 56.79999923706055,
+          "end": 60.84000015258789,
+          "text": "funnel stessa. Poi abbiamo degli upsell, dei crosssell, abbiamo dei downsell e poi"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 1,
+        "time": 60.0,
+        "timestamp": "00:01:00",
+        "image": "frame_0001.jpg",
+        "reason": "periodic",
+        "ocr_text": "UPSELL 2 CROSS SELL 2 UPSELL 1 CROSS SELL 1 DOWN SELL 1 TY PAGE",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 60.84000015258789,
+          "end": 65.36000061035156,
+          "text": "infine abbiamo la pagina di ringraziamento. All'interno di questo"
+        },
+        {
+          "start": 65.36000061035156,
+          "end": 71.04000091552734,
+          "text": "corso noi, per brevità di cose, ci occuperemo tendenzialmente del prodotto"
+        },
+        {
+          "start": 71.04000091552734,
+          "end": 75.0,
+          "text": "di front-end che si ritrova all'interno della pagina di vendita e successivamente"
+        },
+        {
+          "start": 75.0,
+          "end": 79.27999877929688,
+          "text": "all'interno del checkout ci occuperemo dell'order bump. Quindi andremo a creare"
+        },
+        {
+          "start": 79.27999877929688,
+          "end": 83.16000366210938,
+          "text": "tendenzialmente due prodotti digitali ma, ragazzi, la struttura che poi si"
+        },
+        {
+          "start": 83.16000366210938,
+          "end": 87.4000015258789,
+          "text": "utilizza è quasi sempre la stessa. Quello che cambia tendenzialmente è la"
+        },
+        {
+          "start": 87.4000015258789,
+          "end": 93.44000244140625,
+          "text": "selezione dei prodotti digitali di upsell o di crosssell attraverso"
+        },
+        {
+          "start": 93.44000244140625,
+          "end": 98.44000244140625,
+          "text": "l'utilizzo di intelligenza artificiale, quindi attraverso l'utilizzo di prompt"
+        },
+        {
+          "start": 98.44000244140625,
+          "end": 103.44000244140625,
+          "text": "più specifici. Io qui, ovviamente per brevità di cose, vi mostrerò alcuni"
+        },
+        {
+          "start": 103.44000244140625,
+          "end": 107.63999938964844,
+          "text": "prompt di esempio che andremo a realizzare live, giusto per farvi"
+        },
+        {
+          "start": 107.63999938964844,
+          "end": 110.83999633789062,
+          "text": "capire anche come si utilizza l'intelligenza artificiale, anzi le"
+        },
+        {
+          "start": 110.83999633789062,
+          "end": 114.87999725341797,
+          "text": "intelligenze artificiali, visto che ad oggi possiamo praticamente sfruttare una"
+        },
+        {
+          "start": 114.87999725341797,
+          "end": 117.76000213623047,
+          "text": "miriade di intelligenze artificiali, molte delle quali gratuite. Ora te ne mostro"
+        },
+        {
+          "start": 117.76000213623047,
+          "end": 122.68000030517578,
+          "text": "qualcuna che ultimamente sta spopolando e che ha fatto grosso scalpore a causa"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 2,
+        "time": 120.0,
+        "timestamp": "00:02:00",
+        "image": "frame_0002.jpg",
+        "reason": "periodic",
+        "ocr_text": "x te] te) di A n ® ® n ino: LANDING ECO PAGE ORDER BUMP © @- i E UPSELL2 CROSS SELL 2 UPSELL1 CROSS SELL 1 DOWN SELL 1 M- +0",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 122.68000030517578,
+          "end": 125.31999969482422,
+          "text": "del fatto che una struttura di intelligenza artificiale è totalmente"
+        },
+        {
+          "start": 125.31999969482422,
+          "end": 130.52000427246094,
+          "text": "open source, quindi si può utilizzare praticamente gratis e tutto il codice"
+        },
+        {
+          "start": 130.52000427246094,
+          "end": 133.83999633789062,
+          "text": "sorgente, la matrice dei pesi e quant'altro, tutti i tecnicismi ovviamente"
+        },
+        {
+          "start": 133.83999633789062,
+          "end": 137.55999755859375,
+          "text": "non te li voglio dire, non voglio entrare nello specifico perché ti annoierebbero"
+        },
+        {
+          "start": 137.55999755859375,
+          "end": 141.1199951171875,
+          "text": "ma è una grossa rivoluzione e appunto è costituita da questa intelligenza"
+        },
+        {
+          "start": 141.1199951171875,
+          "end": 146.55999755859375,
+          "text": "artificiale nuova che si chiama DeepSeek. Quindi come abbiamo detto noi"
+        },
+        {
+          "start": 146.55999755859375,
+          "end": 149.67999267578125,
+          "text": "creeremo il prodotto di frontend con l'intelligenza artificiale e poi"
+        },
+        {
+          "start": 149.67999267578125,
+          "end": 156.16000366210938,
+          "text": "creeremo il prodotto di order bump, quindi il prodotto che l'utente avrà la"
+        },
+        {
+          "start": 156.16000366210938,
+          "end": 161.83999633789062,
+          "text": "possibilità di inserire ulteriormente checkout per acquistare un ulteriore"
+        },
+        {
+          "start": 161.83999633789062,
+          "end": 165.39999389648438,
+          "text": "prodotto complementare al primo e per permetterci di aumentare la transazione"
+        },
+        {
+          "start": 165.9600067138672,
+          "end": 171.1199951171875,
+          "text": "per singolo scontrino. Allora che cosa si fa quando si crea un prodotto digitale?"
+        },
+        {
+          "start": 171.1199951171875,
+          "end": 175.44000244140625,
+          "text": "In realtà che cosa si fa quando si deve vendere un prodotto e creare un prodotto?"
+        },
+        {
+          "start": 175.44000244140625,
+          "end": 180.0800018310547,
+          "text": "La prima cosa che si fa è l'analisi dei problemi di mercato, ne abbiamo già"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 3,
+        "time": 180.0,
+        "timestamp": "00:03:00",
+        "image": "frame_0003.jpg",
+        "reason": "periodic",
+        "ocr_text": "vo: com. ve È pc rai Mc © 007 rio DA",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 180.0800018310547,
+          "end": 184.8800048828125,
+          "text": "discusso quando in realtà abbiamo visto appunto la parte sull'analisi di mercato"
+        },
+        {
+          "start": 184.8800048828125,
+          "end": 189.1199951171875,
+          "text": "se non l'hai vista ti rimando alla parte di questo corso appunto relativa"
+        },
+        {
+          "start": 189.1199951171875,
+          "end": 191.9600067138672,
+          "text": "all'analisi dei problemi di mercato che abbiamo fatto in diversi modi"
+        },
+        {
+          "start": 191.9600067138672,
+          "end": 195.75999450683594,
+          "text": "successivamente andiamo a definire quella che è l'analisi della buyer"
+        },
+        {
+          "start": 195.75999450683594,
+          "end": 200.1199951171875,
+          "text": "persona quindi il modello classico il modello tipo di persona che dovrebbe"
+        },
+        {
+          "start": 200.1199951171875,
+          "end": 203.63999938964844,
+          "text": "acquistare il nostro prodotto che manifesta determinati problemi che sono"
+        },
+        {
+          "start": 203.63999938964844,
+          "end": 207.1999969482422,
+          "text": "relativi all'analisi di mercato che abbiamo fatto poi andremo a definire un"
+        },
+        {
+          "start": 207.1999969482422,
+          "end": 212.0399932861328,
+          "text": "angle comunicativo quindi tendenzialmente andremo a capire in che modo vendere il"
+        },
+        {
+          "start": 212.0399932861328,
+          "end": 216.44000244140625,
+          "text": "nostro prodotto digitale, quali parole andare a scrivere, quale comunicazione"
+        },
+        {
+          "start": 216.44000244140625,
+          "end": 219.72000122070312,
+          "text": "ecco portare all'interno dei nostri materiali di marketing per vendere i"
+        },
+        {
+          "start": 219.9199981689453,
+          "end": 224.39999389648438,
+          "text": "prodotti digitali e successivamente andiamo a fare il brainstorming sui"
+        },
+        {
+          "start": 224.39999389648438,
+          "end": 228.60000610351562,
+          "text": "prodotti digitali quindi vediamo alla fine di questa lezione che cosa"
+        },
+        {
+          "start": 228.60000610351562,
+          "end": 233.8800048828125,
+          "text": "tendenzialmente dobbiamo creare ora partiamo dalla prima parte analisi dei"
+        },
+        {
+          "start": 233.8800048828125,
+          "end": 237.83999633789062,
+          "text": "problemi di mercato e come ti dicevo utilizzeremo l'intelligenza artificiale"
+        },
+        {
+          "start": 237.83999633789062,
+          "end": 240.63999938964844,
+          "text": "in questo caso per fare analisi di mercato"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 4,
+        "time": 240.0,
+        "timestamp": "00:04:00",
+        "image": "frame_0004.jpg",
+        "reason": "periodic",
+        "ocr_text": "MIro © ue i di me ta] ie) di A n ® ® n",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 240.63999938964844,
+          "end": 244.32000732421875,
+          "text": "possiamo utilizzarne due ragazzi possiamo utilizzare il cia gpt io qui ho"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 5,
+        "time": 241.19,
+        "timestamp": "00:04:01",
+        "image": "frame_0005.jpg",
+        "reason": "scene",
+        "ocr_text": "bi on EI vito -coni. tiv: cuen ta vo. cun (vito ta sti faremmiconi son 00 Gra DA € chrcerso In cosa posso essere utile?",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 244.32000732421875,
+          "end": 248.0800018310547,
+          "text": "la versione a pagamento vedete qui attualmente la versione a pagamento cia"
+        },
+        {
+          "start": 248.0800018310547,
+          "end": 252.75999450683594,
+          "text": "gpt 4 o oppure come vi dicevo possiamo utilizzare di psic che è un'intelligenza"
+        },
+        {
+          "start": 252.75999450683594,
+          "end": 255.9600067138672,
+          "text": "artificiale totalmente gratuita tra l'altro vedete praticamente quasi un"
+        },
+        {
+          "start": 255.9600067138672,
+          "end": 262.32000732421875,
+          "text": "clone di cia gpt con il vantaggio ulteriore dell'essere open source quindi"
+        },
+        {
+          "start": 262.32000732421875,
+          "end": 266.0799865722656,
+          "text": "tutto il sorgente che costituisce questa intelligenza artificiale i paper"
+        },
+        {
+          "start": 266.0799865722656,
+          "end": 272.6000061035156,
+          "text": "scientifici la matrice dei pesi le reti neuronali che tendenzialmente regolano"
+        },
+        {
+          "start": 272.6000061035156,
+          "end": 276.79998779296875,
+          "text": "questa intelligenza artificiale tutto il data set di istruzioni è totalmente open"
+        },
+        {
+          "start": 276.79998779296875,
+          "end": 281.8800048828125,
+          "text": "source noi utilizziamo qui cia gpt ma facciamo anche un raffronto con di psic"
+        },
+        {
+          "start": 281.8800048828125,
+          "end": 285.3599853515625,
+          "text": "per capire come funzionano tendenzialmente entrambe le intelligenze"
+        },
+        {
+          "start": 285.3599853515625,
+          "end": 289.1199951171875,
+          "text": "artificiali visto che è nata da poco all'atto almeno della registrazione di"
+        },
+        {
+          "start": 289.1199951171875,
+          "end": 292.9599914550781,
+          "text": "questo video vedremo quali risposte danno e quali sono le risposte che ci"
+        },
+        {
+          "start": 292.9599914550781,
+          "end": 296.67999267578125,
+          "text": "convincono di più quindi come prima cosa andiamo a fare un'analisi dei problemi"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 6,
+        "time": 294.42,
+        "timestamp": "00:04:54",
+        "image": "frame_0006.jpg",
+        "reason": "scene",
+        "ocr_text": "È cimconieatescio ve 33 bona EOio coni. tiv: crn ta vo. cun ia (vita stipite n. nima DA MICO © ves io di ve ta] ie) TR A n ® ® n",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 296.67999267578125,
+          "end": 300.44000244140625,
+          "text": "di mercato come si utilizza l'intelligenza artificiale la prima"
+        },
+        {
+          "start": 300.44000244140625,
+          "end": 306.20001220703125,
+          "text": "cosa che dobbiamo dire è l'obiettivo che vogliamo raggiungere quindi voglio creare"
+        },
+        {
+          "start": 306.20001220703125,
+          "end": 312.0,
+          "text": "dei prodotti digitali diamo anche un esempio della tipologia di prodotti"
+        },
+        {
+          "start": 312.0,
+          "end": 318.760009765625,
+          "text": "digitali che creiamo ad esempio ebook videocorsi checklist da vendere online"
+        },
+        {
+          "start": 318.760009765625,
+          "end": 324.3599853515625,
+          "text": "quindi questo è il nostro scopo ora diciamo che cosa vogliamo fare"
+        },
+        {
+          "start": 324.3599853515625,
+          "end": 330.44000244140625,
+          "text": "analizza il mercato e possiamo anche geolocalizzarlo ad esempio mercato di"
+        },
+        {
+          "start": 330.44000244140625,
+          "end": 343.20001220703125,
+          "text": "usa e proponimi tre nicchie di mercato profittevoli che manifestano un problema"
+        },
+        {
+          "start": 343.20001220703125,
+          "end": 348.6000061035156,
+          "text": "urgente e fortemente specifico ricordate il problema più specifico più urgente"
+        },
+        {
+          "start": 348.6000061035156,
+          "end": 353.0,
+          "text": "più le persone sono disposte a pagarci velocemente specifico quindi analizza il"
+        },
+        {
+          "start": 353.0,
+          "end": 355.760009765625,
+          "text": "mercato usa e proponimi tre nicchie di mercato profittevoli che manifestano un"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 7,
+        "time": 354.42,
+        "timestamp": "00:05:54",
+        "image": "frame_0007.jpg",
+        "reason": "periodic",
+        "ocr_text": "33 Mona EI voci Mitiv:cn ta (vio. cun ia. Mvato-cim ta. Cresci. iamniton ion cOn ra DA © € cricerso In cosa posso essere utile? og cere preti gi (ok io cn ceci) a ener one Ana ero (rato USA proponi nce i mercato ol che mante nel gene oremete speci 0908 (*)",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 355.760009765625,
+          "end": 363.9599914550781,
+          "text": "problema urgente specifico che posso risolvere attraverso prodotti digitali"
+        },
+        {
+          "start": 363.9599914550781,
+          "end": 372.79998779296875,
+          "text": "come quelli che ti ho descritto e che ho intenzione di creare al 100% con la IA"
+        },
+        {
+          "start": 372.79998779296875,
+          "end": 376.8800048828125,
+          "text": "ok quindi diamo un prompt molto ragazzi molto molto semplice ovviamente i"
+        },
+        {
+          "start": 376.8800048828125,
+          "end": 380.0,
+          "text": "prompt più specifici sono quelli che forniscono i miei percorsi a pagamento"
+        },
+        {
+          "start": 380.0,
+          "end": 385.1600036621094,
+          "text": "ma già questo ci permette di capire in che modo noi possiamo praticamente a"
+        },
+        {
+          "start": 385.1600036621094,
+          "end": 389.1199951171875,
+          "text": "costo zero creare dei prodotti digitali analizzando il mercato attraverso"
+        },
+        {
+          "start": 389.1199951171875,
+          "end": 393.1600036621094,
+          "text": "ovviamente l'intelligenza artificiale quindi diamo questo prompt sia su CGPT"
+        },
+        {
+          "start": 393.1600036621094,
+          "end": 398.239990234375,
+          "text": "che su DeepSeek vediamo che che cosa ci danno queste due intelligenze"
+        },
+        {
+          "start": 398.239990234375,
+          "end": 401.6400146484375,
+          "text": "artificiali qui ci dice ok creare prodotti digitali come ebook videocorsi"
+        },
+        {
+          "start": 401.6400146484375,
+          "end": 407.4800109863281,
+          "text": "e checklist utilizzando l'intelligenza artificiale è un'ottima strategia per"
+        },
+        {
+          "start": 407.4800109863281,
+          "end": 412.0799865722656,
+          "text": "risolvere ok per risolvere problemi specifici"
+        },
+        {
+          "start": 412.0799865722656,
+          "end": 415.760009765625,
+          "text": "ecco tre nicchie urgenti per approfondire ulteriormente puoi"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 8,
+        "time": 414.42,
+        "timestamp": "00:06:54",
+        "image": "frame_0008.jpg",
+        "reason": "periodic",
+        "ocr_text": "GP 35 crm 2 n & € cicerso Mlarinnitonzi. ioni @ 00M Qi DA Voir de prodotti ec. do o, che da Ansia i mero (eresto USA) proponi S ice i mercato rotti che mesto un proina gente e Tormento esito che osso soli tro poso diga come au © Cortonerte, cre prot cip come Bos, vo ori cheat uizzndo ligenza tte è lima sale per ace cimici ict direste gi Stunt Ecco e ice on esigenze gni e Bn cente che potest corsie. ns responsa cite Esiste a doman escort per isa te lano neh rh e Satgi el estro rss n ms ce Pu Scopre eco e io cr che latch las, esercizi ichunee e ste i Formazione Suso i strumenti iintliganza ati per pece prese Conan delazione el ma pic morse cacao dltegae sten sa sntaigenza arte ab ao oerzini quote ma peso mancano dle amet cosa. Pu mr ob os quo peo che sigaro come zar soci snoeni i po mig in sini marg size lenti fomndo esempi conci e apicazioi race. Preparazione» emergenze domestic per tamil Lo fig ono sem pù corse l'import screen Gomes come iti ai o szinimpreit. Puc svizgecchi tag, Bo inerme o cos he guisa lea nel crszine i pari di emergenza, i soronivena e state di comieazne cinte la rs Per apro uterormente sù com entre ce i mero peo ecs dat ira. poi conati veguente deo",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 415.760009765625,
+          "end": 420.0799865722656,
+          "text": "consultare il seguente video e qui ci da un esempio di un video youtube questa è"
+        },
+        {
+          "start": 420.0799865722656,
+          "end": 422.8399963378906,
+          "text": "una novità ok quindi gestione dello stress per"
+        },
+        {
+          "start": 422.8399963378906,
+          "end": 425.9599914550781,
+          "text": "professionisti sanitari formazione sull'uso di strumenti intelligenza"
+        },
+        {
+          "start": 425.9599914550781,
+          "end": 431.20001220703125,
+          "text": "artificiale per piccole imprese preparazione a emergenze domestiche per"
+        },
+        {
+          "start": 431.20001220703125,
+          "end": 438.9200134277344,
+          "text": "famiglie ok allora andiamo ad affinare questo prompt dicendo dimmi solamente le"
+        },
+        {
+          "start": 438.9200134277344,
+          "end": 451.3599853515625,
+          "text": "nicchie non mi dare ulteriori info come video youtube ok quindi per par condicio"
+        },
+        {
+          "start": 451.3599853515625,
+          "end": 457.0799865722656,
+          "text": "modifichiamo questo prompt in questo modo per par condicio modifichiamo il"
+        },
+        {
+          "start": 457.0799865722656,
+          "end": 461.6000061035156,
+          "text": "prompt anche su DeepSeek in modo da metterli entrambi in condizione di avere"
+        },
+        {
+          "start": 461.6000061035156,
+          "end": 464.3999938964844,
+          "text": "lo stesso prompt allora gestione dello stress per"
+        },
+        {
+          "start": 464.3999938964844,
+          "end": 467.2799987792969,
+          "text": "professionisti sanitari i professionisti del settore sanitario"
+        },
+        {
+          "start": 467.2799987792969,
+          "end": 471.760009765625,
+          "text": "spesso affrontano elevati livelli di stress e burnout prodotti digitali come"
+        },
+        {
+          "start": 471.760009765625,
+          "end": 474.8399963378906,
+          "text": "ebook videocorsi e checklist focalizzati su tecniche di gestione dello stress"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 9,
+        "time": 474.42,
+        "timestamp": "00:07:54",
+        "image": "frame_0009.jpg",
+        "reason": "periodic",
+        "ocr_text": "GP 33 etnia 220 02 en diona EIvto-coii. Miti: comn ta vo. cuni Mato ta Catino ni. nio 9 000 rea DA © € crucerso Anaza i mero (erat USA) propoini ica i mercato otel che masi un rtl gene e ortemate “pediico che oto alire trverso podi diga come qu @ Cornet, ecco re ict i mesto nl mercato USA che presentano prote specie gent, rito prot ga resti co aio delega ail: 1. Gente dello stress per potest sanita | poessonisi else santa sesso atrata ele eli ci ess e uno. Pot gia comes doc e etc calza s enche digestne dla ss maluness estate i quid A tasse person poscro tte Soup me questo prode uczion nnzara per govni uti o ian peg Sta nti roiano Baget imestivent Cres prodot dti che tran quo rate vo leoni stent era uò siae oa questa cu data Supparto per ita bambini con stud sppendimento | tori bam con Si l'agenda, come ale ADHD, crea as ici per spartire Psucazin el ig. radiali ch inciso gus coni viso e crt 1 srtge cati cche i supporto e ian capond posoo Ire un “vec crea ssd io cosa such e rta 00, Gost tak ben proget possono ali senile i vee",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 474.8399963378906,
+          "end": 477.67999267578125,
+          "text": "mindfulness e strategia di equilibrio tra vita professionale e personale"
+        },
+        {
+          "start": 477.67999267578125,
+          "end": 480.9599914550781,
+          "text": "possono offrire soluzioni mirate a questo problema educazione finanziaria"
+        },
+        {
+          "start": 480.9599914550781,
+          "end": 484.20001220703125,
+          "text": "quindi gestione dello stress per professionisti sanitari è un'ottima"
+        },
+        {
+          "start": 484.20001220703125,
+          "end": 487.6000061035156,
+          "text": "nicchia di mercato perché devo dire che medici e infermiere stanno a contatto"
+        },
+        {
+          "start": 487.6000061035156,
+          "end": 491.9599914550781,
+          "text": "comunque con realtà che sono abbastanza pesanti giorno dopo giorno tendenzialmente"
+        },
+        {
+          "start": 491.9599914550781,
+          "end": 496.0,
+          "text": "aumentano i loro livelli di stress e quindi andare a creare un ebook che non"
+        },
+        {
+          "start": 496.0,
+          "end": 500.9599914550781,
+          "text": "è il classico ebook su come gestire lo stress ma è l'ebook su come gestire lo"
+        },
+        {
+          "start": 500.9599914550781,
+          "end": 506.760009765625,
+          "text": "stress per il medico che trascorre 24 ore su 24 in corsia vedere come una"
+        },
+        {
+          "start": 506.760009765625,
+          "end": 510.67999267578125,
+          "text": "specificità del problema ci permette di addentrarci all'interno di una nicchia"
+        },
+        {
+          "start": 510.67999267578125,
+          "end": 514.7999877929688,
+          "text": "molto specifica e quindi rendere il prodotto molto esclusivo educazione"
+        },
+        {
+          "start": 514.7999877929688,
+          "end": 517.280029296875,
+          "text": "finanziaria per giovani adulti molti giovani adulti negli stati uniti si"
+        },
+        {
+          "start": 517.280029296875,
+          "end": 520.760009765625,
+          "text": "trovano impreparati nella gestione delle finanze personali affrontando debiti"
+        },
+        {
+          "start": 520.760009765625,
+          "end": 524.3200073242188,
+          "text": "studenteschi budgeting investimenti creare prodotti digitali che offrono"
+        },
+        {
+          "start": 524.3200073242188,
+          "end": 527.52001953125,
+          "text": "guide pratiche video lezioni strumenti interattivi può aiutare a colmare"
+        },
+        {
+          "start": 527.52001953125,
+          "end": 530.8800048828125,
+          "text": "questa lacuna educativa e supporto per genitori bambini con disturbi"
+        },
+        {
+          "start": 530.8800048828125,
+          "end": 534.1199951171875,
+          "text": "dell'apprendimento che negli stati uniti in questo momento stanno spopolando"
+        },
+        {
+          "start": 534.1199951171875,
+          "end": 536.8400268554688,
+          "text": "queste nicchie rappresentano segmenti di mercato con esigenze specifiche e"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 10,
+        "time": 534.42,
+        "timestamp": "00:08:54",
+        "image": "frame_0010.jpg",
+        "reason": "periodic",
+        "ocr_text": "DELETE x ecm ecm ensee x [87 Bin ee | 6 > © 55 eten 82ISE AZ: 0 HI bio Eito .coni. tiv: cun ta vio: cun ia Mic ta scitni. Miarenmito ni. nin 00 ra DA E € ciucerso Ansia mesto (resto USA proponi Sci meo rotti maestose gente e fortemente “weo che osso role stiro pos ili come ue het ho deserta cha o tenzone rare | 009 on vostbe oto @ Cornet, cc e ict i mesto nl mercato USA he presentano prote speci 109. ‘li arno pot ga rst con ao delega ica: * Gestone dello stress per protesi santa | oessoniai lst satiro sesso tatoo la Ii i stess e bau Pasti gii cone Boi docs e ecs sz eenche i gestae el sires mgtunss ae ultra a tasso persons possono lle surni mite custa. uezion nnzara er govni ut: o ian peg Sta nti rrano inprpaai ela essre dele core finanze eran affotango cb stugeneshi. Baggtng esimnti rese piso gi che fran qu patch, vo ioni stent rari uò Sao oa questa aci data Supparto per eta bamb con stud ppendiment | torba con SI el'pgensiemano, como i ale PAD cnc o ti pr spartire sua el ig. radiali ch incudono gus coni viso e ect stage ducati, cried supporto irc dspnl possono fre n Sena e n oo wc gros prop possono le sui sie ire",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 536.8400268554688,
+          "end": 541.280029296875,
+          "text": "pressanti dove prodotti digitali ben progettati possono offrire soluzioni"
+        },
+        {
+          "start": 541.280029296875,
+          "end": 545.3200073242188,
+          "text": "efficaci di valore qui abbiamo tra l'altro la fonte che possiamo"
+        },
+        {
+          "start": 545.3200073242188,
+          "end": 550.280029296875,
+          "text": "consultare per capire in che modo l'intelligenza artificiale ha elaborato"
+        },
+        {
+          "start": 550.280029296875,
+          "end": 556.3599853515625,
+          "text": "questa risposta bene di psico è molto più stringente ma ripeto è nata da"
+        },
+        {
+          "start": 556.3599853515625,
+          "end": 559.4400024414062,
+          "text": "pochissimo quindi abbiamo salute mentale gestione lo stesso per professionisti"
+        },
+        {
+          "start": 559.4400024414062,
+          "end": 562.4400024414062,
+          "text": "remote workers quindi persone che lavorano in remoto finanze personali"
+        },
+        {
+          "start": 562.4400024414062,
+          "end": 565.8800048828125,
+          "text": "investimenti per millennial secondo debiti studenteschi transizione"
+        },
+        {
+          "start": 565.8800048828125,
+          "end": 569.0399780273438,
+          "text": "professionale upskilling per over 40 in settore obsoleto devo dire che più o"
+        },
+        {
+          "start": 569.0399780273438,
+          "end": 575.239990234375,
+          "text": "meno le nicchie di mercato sono quasi le stesse qui abbiamo gestione lo stress"
+        },
+        {
+          "start": 575.239990234375,
+          "end": 578.2000122070312,
+          "text": "per professionisti sanitari salute mentale gestione lo stress per"
+        },
+        {
+          "start": 578.2000122070312,
+          "end": 582.0,
+          "text": "professionisti remote work quindi non dobbiamo far altro che andare a"
+        },
+        {
+          "start": 582.0,
+          "end": 587.52001953125,
+          "text": "selezionare un qualsiasi prodotto un qualsiasi una qualsiasi nicchia di"
+        },
+        {
+          "start": 587.52001953125,
+          "end": 590.8400268554688,
+          "text": "mercato che tendenzialmente faccia il caso nostro quindi in questo caso ragazzi"
+        },
+        {
+          "start": 590.8400268554688,
+          "end": 594.47998046875,
+          "text": "utilizziamo questo gestione lo stress per professionisti sanitari che mi"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 11,
+        "time": 594.42,
+        "timestamp": "00:09:54",
+        "image": "frame_0011.jpg",
+        "reason": "periodic",
+        "ocr_text": "Tali x 0 creme tto GP 35 cremano 02 n dio EI vito :coi. io: cn ta. Mv. cun ia (Mv. rencini. laremco ni in iim O0 Qra DA E € ccerso Ansia mero (meresto USA proponi rici mercato otite che mattino un prote gene e otemate Soi he posso soia prodot gi come ue het ho deserta, ch o ezine rese 1 00 coni pete val. i @ - Cortamente, ecco e che i mesto nl mercato USA he presentano prote speci 09. “ciato pot gt resti co ao del'aegeza aria: *. estone dello stress per protesti sanitari | esso else senta sesso ttatana ei ii resse bum. Prati gi come eo io cone hei cazz s tenete i estone do svss.muness estate i quibre A tate persone possono fre suoni me questo ode ucazion nnzara er govni ult: o ian i peg Sta nti ovano morgana eine ele ere nz persa afrotano cb stucentet, Baggtng esimnt rare pon gi che fano ud patch, do ioni stent rari uò siae olor questa aci dt Supparto per guitar bambini con stube sppendiment | oto bam co SI el'pgrendmato, coo la iales PADAD, cercano ici per porte cucazion el ig. Podat iialch inchjno gd cn io e chit stai sat ich i supporto e cre ioni possono ci un be presen sani co cerca spice è reni dv Gost ia ben progetti posano lire selen feci i vee",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 594.47998046875,
+          "end": 599.4000244140625,
+          "text": "sembra abbastanza interessante come nicchia quindi passiamo allo step numero"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 12,
+        "time": 598.15,
+        "timestamp": "00:09:58",
+        "image": "frame_0012.jpg",
+        "reason": "scene",
+        "ocr_text": "008 puis uo= x HO boma Euo:conni Mtio:cun ta. (vio. cu ia. Mitto-cu a. n ario Mt © DOT ri DA MICO © usi io i ne te] te) T A n © ® n",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 599.4000244140625,
+          "end": 602.1199951171875,
+          "text": "2 una volta analizzati i problemi di mercato"
+        },
+        {
+          "start": 602.1199951171875,
+          "end": 607.2000122070312,
+          "text": "andiamo a fare l'analisi della buyer persona quindi il modello tipo di persona"
+        },
+        {
+          "start": 607.2000122070312,
+          "end": 610.0800170898438,
+          "text": "che dovrebbe acquistare il nostro prodotto digitale in questo caso è"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 13,
+        "time": 609.35,
+        "timestamp": "00:10:09",
+        "image": "frame_0013.jpg",
+        "reason": "scene",
+        "ocr_text": "9233 cremano 20 2 e bioni I ito:coi. Mio: cn ta vio: cuni (Qt sometimes Mimi On Gra DA © € cincerso Ansia mero Imeresto USA open Snc i mecto rtterobere mates roiena gente e forerene Soia he posso ore avaro pd gi come el pete pat. i @ _ Cortinete ecco te ich i mesto nl mercato USA che presentano poteri soci 1. “rito poi gt reti co Faso el'aegenza cale: ‘Gente dello stess per protesi santa | esso el sete star sesso tata ai i ess e bos Posti gii como Boi voce ci cozza tenete di estone do svss, mnluness estate i uibre a vate e persone ossro tre sro me è questo pedena ueazion innzara per giovani ui o gang St nti rino @Mnorpaa ea esire de core (naz persa afrontanso cb stugeneshi agg esivnt rese pio dpi che fran ue pratche, o zioni e ment orti può Bia oo qusta aci data Supparto per get bambini con sud sppendimento | er bam con stub aerensmnt, como lio ADHO, cora ric ai per spartire scan el i. rosata ch imcasono gdo coni vile ct stage sci, cncho i upprto sorso poni possoo fre ita renano iii al o spa pui pet o Gratta ben progetti poso ale seni tici ivo",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 610.0800170898438,
+          "end": 612.9600219726562,
+          "text": "abbastanza definito perché poi abbiamo gestione lo stress per professionisti"
+        },
+        {
+          "start": 612.9600219726562,
+          "end": 617.1599731445312,
+          "text": "sanitari ma continuiamo andiamo avanti e chiediamo alle intelligenze artificiali"
+        },
+        {
+          "start": 617.1599731445312,
+          "end": 623.6799926757812,
+          "text": "di delineami ora la buyer persona classica intanto diciamo che nicchia"
+        },
+        {
+          "start": 623.6799926757812,
+          "end": 629.5599975585938,
+          "text": "abbiamo scelto ok ho scelto la nicchia numero 1 delineami ora la buyer persona"
+        },
+        {
+          "start": 629.5599975585938,
+          "end": 633.1599731445312,
+          "text": "classica qui ragazzi io lascio degli spazi perché sono un fissato con il copy"
+        },
+        {
+          "start": 633.1599731445312,
+          "end": 636.760009765625,
+          "text": "ma voi potreste anche scrivere tutto attaccato l'intelligenza artificiale"
+        },
+        {
+          "start": 636.760009765625,
+          "end": 640.2000122070312,
+          "text": "ovviamente capirebbe perfettamente quello che il contesto ma io"
+        },
+        {
+          "start": 640.2000122070312,
+          "end": 643.2000122070312,
+          "text": "solitamente anche per avere un po di ordine all'interno dei prompt che creo"
+        },
+        {
+          "start": 643.2000122070312,
+          "end": 646.719970703125,
+          "text": "lascio qualche spazio quindi diciamo ok ho scelto la nicchia numero 1 e"
+        },
+        {
+          "start": 646.719970703125,
+          "end": 650.47998046875,
+          "text": "l'intelligenza artificiale riesce a risalire allo storico della chat e sa"
+        },
+        {
+          "start": 650.47998046875,
+          "end": 653.9600219726562,
+          "text": "che parliamo della gestione lo stress per professionisti sanitari delineami"
+        },
+        {
+          "start": 653.9600219726562,
+          "end": 663.4400024414062,
+          "text": "ora la buyer persona classica che con più probabilità acquisterà il mio"
+        },
+        {
+          "start": 663.52001953125,
+          "end": 673.2000122070312,
+          "text": "prodotto digitale nel minore tempo possibile in modo da comprendere anche"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 14,
+        "time": 669.35,
+        "timestamp": "00:11:09",
+        "image": "frame_0014.jpg",
+        "reason": "periodic",
+        "ocr_text": "€ > 05 cinte 220 TE RIO mcr Brio: covi. @vero-cui ta I vio:cnm ra. (io: c ta. Mitrcani Poi. Mimmo Menia © 001 rea DA © € ciucerso sente che manifesto bea epr ormone “edo che osso rile treno ps ii come uti OO Cortei ecco tiche i msi nm USA che een problemi pci get, oto poi gal cistica dl'aebgenza rs: ttatano esa Ii stess Bou Posti gia come eci vo cone sezione innzara er giovani ut: oi gian aut peg Sta ati rovano encrpaai aa espne dele pere (nnze persa lrontanso deb tunes. Baggio mesiment Cr id gii che lano ue rate, o eroi e tuoni trai può siae colare questa cun dt Supparto pe ritor bambini con sure ppendimente | eo bam co stub df'asprenimnt, cao ssa 0TADHD, cora risorsa pr partire cucine el gl. redatta inchdono gus coni vo e choc ssaa a tcnche di upon cre dispanib possno fmi un Questo ice merano agonia on sn niche pressanti dv sata ben progetti ooo ir sezioni stese i vare Dein aa ber persona casa che co pù rbabit scqueteò o petto cile ne minato posa 0906",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 673.2000122070312,
+          "end": 681.5999755859375,
+          "text": "l'angle comunicativo che dovrò utilizzare ok anche in questo caso un"
+        },
+        {
+          "start": 681.5999755859375,
+          "end": 687.4400024414062,
+          "text": "pronto molto molto semplice qui abbiamo salute mentale gestione lo stress per"
+        },
+        {
+          "start": 687.4400024414062,
+          "end": 692.0399780273438,
+          "text": "professionisti remote worker andiamo a modificare la nicchia e scriviamo la"
+        },
+        {
+          "start": 692.0399780273438,
+          "end": 697.7999877929688,
+          "text": "stessa nicchia che abbiamo avuto in cgpt e modifichiamo un po il prompt per dire"
+        },
+        {
+          "start": 697.7999877929688,
+          "end": 704.0800170898438,
+          "text": "ok ho scelto la seguente nicchia ok ripeto stiamo facendo un paragone ragazzi"
+        },
+        {
+          "start": 704.0800170898438,
+          "end": 707.7999877929688,
+          "text": "non per forza dovete utilizzare le intelligenze artificiali ma qui visto"
+        },
+        {
+          "start": 707.7999877929688,
+          "end": 711.3599853515625,
+          "text": "che sei in fase di sperimentazione andiamo ad utilizzarle entrambi ok poi"
+        },
+        {
+          "start": 711.3599853515625,
+          "end": 714.6400146484375,
+          "text": "voi utilizzerete quella che ritenete più opportuna non dovete fare questo doppio"
+        },
+        {
+          "start": 714.6400146484375,
+          "end": 717.719970703125,
+          "text": "lavoro quindi ho scelto la seguente nicchia gestione lo stress del"
+        },
+        {
+          "start": 718.5999755859375,
+          "end": 723.5999755859375,
+          "text": "classica clicchiamo qui clicchiamo qui vediamo cgpt che cosa ci da ecco la"
+        },
+        {
+          "start": 723.5999755859375,
+          "end": 727.6799926757812,
+          "text": "buyer persona ideale del tuo prodotto digitale buyer persona dottoressa emily"
+        },
+        {
+          "start": 727.6799926757812,
+          "end": 732.760009765625,
+          "text": "carter 38 anni infermiera ospedaliera stremata profilo demografico 30 40 anni"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 15,
+        "time": 729.35,
+        "timestamp": "00:12:09",
+        "image": "frame_0015.jpg",
+        "reason": "periodic",
+        "ocr_text": "= ===\" GP 35 crm 220 02 di on EI tc. Diotti vo: cut. Qt. sti mete n iso @ cO Qra DA E € crcerso 3. Supporto er ene i bambini con subì dl'apgrendimanto | eni babi on studi aegrandimnt, oo ssa 0 OH, cora risor acc pr suor sua el gl rat ig ch incidono qua coni vio e chit su srt cat cche supporto ir ont possono fre un Queste ce torero saponi meet on esqenze sich e pesto, dre rosati ta ben proget paranoie solurni lese gi ve Giro sco ace Dina a bor persona casa che co pù roabità acstaà mo prodot dig el mir engo posse, modo d comprarne ng commiato ch rà cala bue person ie per to prodot gie desto aa estone deo stess per potessi santa © Buyer Persona: r. Emily Carter, 38 anni = Infermiera/Ospedaliera Stromata picrrg “Genere Breaenteente eine (o on esco) “Professione nem msc. ere santo I 0906",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 732.760009765625,
+          "end": 736.239990234375,
+          "text": "vedere queste ragazze le informazioni interessanti perché mentre un tempo"
+        },
+        {
+          "start": 736.239990234375,
+          "end": 739.4400024414062,
+          "text": "avremmo dovuto spulciare sui gruppi facebook avremmo dovuto utilizzare"
+        },
+        {
+          "start": 739.4400024414062,
+          "end": 744.2000122070312,
+          "text": "strumenti che costano migliaia e migliaia di euro invece in questo modo in modo"
+        },
+        {
+          "start": 744.2000122070312,
+          "end": 748.1199951171875,
+          "text": "totalmente gratuito riusciamo a fare un'analisi di mercato e riusciamo ad"
+        },
+        {
+          "start": 748.1199951171875,
+          "end": 752.1199951171875,
+          "text": "analizzare e ad estrarre la buyer persona in maniera specifica senza"
+        },
+        {
+          "start": 752.1199951171875,
+          "end": 756.1599731445312,
+          "text": "dover per forza utilizzare strumenti che costano migliaia di euro come vi dicevo"
+        },
+        {
+          "start": 756.1599731445312,
+          "end": 759.8800048828125,
+          "text": "da questo punto di vista l'introduzione dell'intelligenza artificiale in"
+        },
+        {
+          "start": 759.8800048828125,
+          "end": 764.0399780273438,
+          "text": "accoppiata a quello che il business di prodotti digitali è un mix alchemico"
+        },
+        {
+          "start": 764.0399780273438,
+          "end": 768.0399780273438,
+          "text": "esplosivo perché ci permette praticamente a costo zero o quasi di"
+        },
+        {
+          "start": 768.0399780273438,
+          "end": 773.1599731445312,
+          "text": "mettere in piedi un business e iniziare a generare profitti totalmente online"
+        },
+        {
+          "start": 773.1599731445312,
+          "end": 776.760009765625,
+          "text": "100% con tutti i vantaggi che abbiamo visto per quanto concerne appunto il"
+        },
+        {
+          "start": 776.760009765625,
+          "end": 781.4400024414062,
+          "text": "business di prodotti digitali quindi qui abbiamo un profilo demografico età 30 45"
+        },
+        {
+          "start": 781.4400024414062,
+          "end": 785.4000244140625,
+          "text": "anni ottimo queste sono informazioni che possiamo inserire ad esempio anche le"
+        },
+        {
+          "start": 785.4000244140625,
+          "end": 788.2000122070312,
+          "text": "nostre campagne pubblicitarie potrebbe essere informazioni che inseriamo le"
+        },
+        {
+          "start": 788.2000122070312,
+          "end": 792.3599853515625,
+          "text": "nostre facebook ads ad esempio ok genere prevalentemente femminile ma non"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 16,
+        "time": 789.35,
+        "timestamp": "00:13:09",
+        "image": "frame_0016.jpg",
+        "reason": "periodic",
+        "ocr_text": "€ > 035 cinmprcmianzea20 020 E bona Evo :consi. Mtv: cun ta (vio. cun ia. vito. ta sevotininni. Mlmmitoni. in sim 00M rea DA © € chucerso Dainese pron casa che co pù prat caste i mo grado gs nd rr ergo posse “oo o comprendere anche ang coma che dr co aber persna ese er tuo prada gie esso la gstione dio stress per protezioni santi © Buyer Persona: D. Emily Carter, 38 anni = Infermiera/Ospedaliera Stremata 4 Profo Demografico: + 0620450 Genere: raletemene eine (o on esco] * Proteine: nerina pesca osso anzio Lungo: Sti ti re urto estar Rodio: 50000 - 120000 armo Stazione fire. Sesso sposto co fi pesto esce Problemi Dir rinipali (al pins: Ans stress cronico Sensazone dn avere n busta po per sè Diiotà blaniare avro e vt persone Esaurimento motivo doi conio cstante cen paziente stazioni ergenza Mancanza di support paco per idolo rss i modo aio lisce Desire Asprzioni rv soluzioni pai voip mosse 0906",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 792.3599853515625,
+          "end": 796.52001953125,
+          "text": "esclusivo professione infermiera medico operatore sanitario luogo stati uniti"
+        },
+        {
+          "start": 796.52001953125,
+          "end": 800.7999877929688,
+          "text": "aree urbane suburbane reddito 50 mila dollari 120 mila dollari l'anno quindi"
+        },
+        {
+          "start": 800.7999877929688,
+          "end": 804.9199829101562,
+          "text": "un buon reddito situazione familiare spesso sposata con figli piccoli o"
+        },
+        {
+          "start": 804.9199829101562,
+          "end": 809.5999755859375,
+          "text": "adolescenti problemi e dolori principali pain point cioè i punti su cui battere"
+        },
+        {
+          "start": 809.5999755859375,
+          "end": 813.719970703125,
+          "text": "che manifestano il problema che vogliamo risolvere con il nostro prodotto digitale"
+        },
+        {
+          "start": 813.719970703125,
+          "end": 817.2000122070312,
+          "text": "burnout estremo quindi turni massacranti poco riposo pressione"
+        },
+        {
+          "start": 817.2000122070312,
+          "end": 821.7999877929688,
+          "text": "costante ansia e stress cronico quindi sensazioni non avere mai abbastanza"
+        },
+        {
+          "start": 821.7999877929688,
+          "end": 826.1599731445312,
+          "text": "tempo per sé difficoltà a bilanciare lavoro e vita personale esaurimento"
+        },
+        {
+          "start": 826.1599731445312,
+          "end": 829.7000122070312,
+          "text": "emotivo dovuto al contatto costante con paziente situazione emergenza così come"
+        },
+        {
+          "start": 829.7000122070312,
+          "end": 833.7000122070312,
+          "text": "dicevo all'inizio di questa nostra piccola discussione mancanza di"
+        },
+        {
+          "start": 833.7000122070312,
+          "end": 836.8200073242188,
+          "text": "supporto pratico per ridurre lo stress in modo pratico ed efficace desideri"
+        },
+        {
+          "start": 836.8200073242188,
+          "end": 840.780029296875,
+          "text": "aspirazioni trovare soluzioni pratiche veloci per ridurre lo stress sentirsi"
+        },
+        {
+          "start": 840.780029296875,
+          "end": 843.8599853515625,
+          "text": "più energica e meno sovraffatta migliorare il sonno e la concentrazione"
+        },
+        {
+          "start": 843.8599853515625,
+          "end": 848.1400146484375,
+          "text": "tornare ad amare il proprio lavoro senza sentirsi esaurita avere strategie"
+        },
+        {
+          "start": 848.1400146484375,
+          "end": 852.8200073242188,
+          "text": "concrete per gestire meglio il tempo e soluzioni dove cerca soluzioni google o"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 17,
+        "time": 849.35,
+        "timestamp": "00:14:09",
+        "image": "frame_0017.jpg",
+        "reason": "periodic",
+        "ocr_text": "GP 35 cremisi 02 rn di oi EI tdci. io: cn ti vo: cont Mv ii. franco ns inse 000 ra DA © € cracerso Professione nem msc. oe santo Rodio: 50000 - 120000 anno Stazione flare Seo sposato co fa colo asceti 3 roblmi o Dolririncipali (Pal pins: Bumowt stremo Ta mast poco sa rosse corto Aia stress rnico Sensazioni o vor ml bbstnz tempo per tico bn oro ita personale fg eno la cncnrzione ivo omar dae prora eo netiso vere tg oct pr ste meg temo le emi - comportamento cit: ove cera aio? og sl med ig, TATO O, ru Fc settore i ona et Sten tace ici gen (i me pci n Bi at? Poco tp ici ln aghe ic conii “Formato prefer? uo et, sco csi ssi",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 852.8200073242188,
+          "end": 856.219970703125,
+          "text": "social media gruppi facebook di settore come vedete analisi di mercato sui"
+        },
+        {
+          "start": 856.219970703125,
+          "end": 859.2999877929688,
+          "text": "classici gruppi facebook cosa cerca strumenti facili e veloci"
+        },
+        {
+          "start": 859.2999877929688,
+          "end": 863.0999755859375,
+          "text": "da implementare checklist esercizi pratici o video brevi barriere l'acquisto"
+        },
+        {
+          "start": 863.0999755859375,
+          "end": 867.0599975585938,
+          "text": "poco tempo scetticismo su soluzioni magiche preferisce consigli da esperti"
+        },
+        {
+          "start": 867.0599975585938,
+          "end": 871.780029296875,
+          "text": "formato preferito guide pratiche video corsi brevi checklist scaricabili"
+        },
+        {
+          "start": 871.780029296875,
+          "end": 874.739990234375,
+          "text": "facciamo dare come dice brevi perché appunto il tempo che hanno a disposizione"
+        },
+        {
+          "start": 874.739990234375,
+          "end": 879.02001953125,
+          "text": "che ha a disposizione questa persona è tendenzialmente poco engol comunicativo"
+        },
+        {
+          "start": 879.02001953125,
+          "end": 882.5,
+          "text": "efficace il tuo lavoro salvare vite ma chi salva te bellissimo scopri strategie"
+        },
+        {
+          "start": 882.5,
+          "end": 885.4600219726562,
+          "text": "pratiche per ridurre lo stress e il burnout in meno di 10 minuti al giorno"
+        },
+        {
+          "start": 885.4600219726562,
+          "end": 888.9000244140625,
+          "text": "smetti di portarti lo stress dell'ospedale a casa tecniche rapide per"
+        },
+        {
+          "start": 888.9000244140625,
+          "end": 892.7000122070312,
+          "text": "ricaricare la mente e corpo senza perdere tempo sei esausta dopo il turno"
+        },
+        {
+          "start": 892.7000122070312,
+          "end": 895.1400146484375,
+          "text": "usa questo semplice metodo per rilassarti e migliorare il tuo sonno"
+        },
+        {
+          "start": 895.1400146484375,
+          "end": 898.8200073242188,
+          "text": "l'approccio vincente sarà pratico rapido orientato ai benefici immediati così"
+        },
+        {
+          "start": 898.8200073242188,
+          "end": 901.3400268554688,
+          "text": "come dicevo"
+        },
+        {
+          "start": 900.0399999991059,
+          "end": 902.539999961853,
+          "text": "Così come ho sempre ripetuto all'interno di questo corso,"
+        },
+        {
+          "start": 902.539999961853,
+          "end": 904.4000000953674,
+          "text": "dato che il tempo è il loro bene più prezioso."
+        },
+        {
+          "start": 904.4000000953674,
+          "end": 907.0,
+          "text": "Ma vediamo DeepSeek invece che soluzione ci dà."
+        },
+        {
+          "start": 907.5,
+          "end": 909.0,
+          "text": "Quindi nome fittizio Laura."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 18,
+        "time": 909.35,
+        "timestamp": "00:15:09",
+        "image": "frame_0018.jpg",
+        "reason": "periodic",
+        "ocr_text": "Mlaremtonui Miei @ 00M Qin DA sismi a br pron casca che cn pù pobabità cur mo posto ge et in temo psi iO compere ano ang comunico ch o tizi SY Eccola buyer persona ica per ist ich Nome Fitz: Laura Di 2835200 Professione: Infermiera o medico (specisimente in reparti ad alt pressione come pronto soccorso, terapia intensiva o oncologia) Genere: Forni (ma potrebbe esser anche maschio, dato che bumout colpisce entrambi ener) Localizzazione: Stati nti aree ubane o suburbane con ospedali fot Livolo istruzione: Laurea superiore (n campo medicofnfermierisio) Redelto: Medi alto (ma spess gravata da debiti studontesch) Problemi © Dolori: Sten eronco vio fu ghi tazioni da preso 0 cano noto. 2 Bum frequent, on ico tc mertimete olii * Sars mk Balance, poco ego er sè ssaa mia gi BD Senso lamento emotion go ser lotto sunzoni ramtche suine. * ein migrare la prora aut mentale, ma co psc toro per ee sun atteso Desideri Bisogni: Solizoniprtieh immediate che postano essre ge et sa rin note 2 Strumenti concreto teche essa, nine o ccp pui m Y",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 909.5,
+          "end": 912.6999998092651,
+          "text": "Vabbè, per il genere Stati Uniti diciamo che non è proprio il top."
+        },
+        {
+          "start": 912.6999998092651,
+          "end": 913.8000001907349,
+          "text": "Laura, ma va bene lo stesso."
+        },
+        {
+          "start": 913.8000001907349,
+          "end": 917.5,
+          "text": "E' da 35 anni, quindi siamo sincronizzati,"
+        },
+        {
+          "start": 917.5,
+          "end": 920.5,
+          "text": "perché qui abbiamo 30-45 anni, qui 35 anni."
+        },
+        {
+          "start": 920.5,
+          "end": 921.7000007629395,
+          "text": "Professione infermiera o medico,"
+        },
+        {
+          "start": 921.7000007629395,
+          "end": 925.2999992370605,
+          "text": "specialmente le parti ad alta pressione pronto soccorso come terapia intensiva,"
+        },
+        {
+          "start": 925.2999992370605,
+          "end": 926.8999996185303,
+          "text": "oncologia o pronto soccorso."
+        },
+        {
+          "start": 926.8999996185303,
+          "end": 928.6000003814697,
+          "text": "Questo mi piace, un'ottima idea."
+        },
+        {
+          "start": 929.2999992370605,
+          "end": 931.1000003814697,
+          "text": "Perché, ragazzi, è un'ottima idea?"
+        },
+        {
+          "start": 931.1000003814697,
+          "end": 935.0999984741211,
+          "text": "Perché possiamo andare poi a specializzare i nostri materiali di marketing,"
+        },
+        {
+          "start": 935.0999984741211,
+          "end": 937.4000015258789,
+          "text": "la nostra landing page, il nostro checkout,"
+        },
+        {
+          "start": 937.4000015258789,
+          "end": 941.0,
+          "text": "facendo specifico riferimento a questa determinata professione."
+        },
+        {
+          "start": 941.0,
+          "end": 944.2999992370605,
+          "text": "Lavori nelle parti di terapia intensiva e non hai più tempo per te stessa?"
+        },
+        {
+          "start": 944.2999992370605,
+          "end": 948.5999984741211,
+          "text": "Questo potrebbe essere un'ottima headline per la nostra landing page."
+        },
+        {
+          "start": 948.5999984741211,
+          "end": 951.0999984741211,
+          "text": "Genere donna, ma potrebbe anche essere maschio,"
+        },
+        {
+          "start": 951.0999984741211,
+          "end": 953.0999984741211,
+          "text": "dato che il burnout colpisce entrambi i generi."
+        },
+        {
+          "start": 953.0999984741211,
+          "end": 955.9000015258789,
+          "text": "Stati Uniti, in area urbana o suburbana con ospedale affollati."
+        },
+        {
+          "start": 955.9000015258789,
+          "end": 958.0999984741211,
+          "text": "Livello di istruzione laurea o superiore."
+        },
+        {
+          "start": 958.0999984741211,
+          "end": 961.5999984741211,
+          "text": "Reddito medio-alto, ma spesso gravata da debiti studenteschi."
+        },
+        {
+          "start": 961.5999984741211,
+          "end": 962.7999992370605,
+          "text": "Problemi o dolori."
+        },
+        {
+          "start": 962.7999992370605,
+          "end": 965.3000030517578,
+          "text": "Stress cronico dovuto a turni lunghi."
+        },
+        {
+          "start": 965.3000030517578,
+          "end": 966.9000015258789,
+          "text": "Situazione ad alta pressione e carico emotivo."
+        },
+        {
+          "start": 966.9000015258789,
+          "end": 967.9000015258789,
+          "text": "Burnout frequente."
+        },
+        {
+          "start": 967.9000015258789,
+          "end": 974.0999984741211,
+          "text": "Scarsa work-life balance, cioè bilanciamento tra vita privata e vita lavorativa,"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 19,
+        "time": 969.35,
+        "timestamp": "00:16:09",
+        "image": "frame_0019.jpg",
+        "reason": "periodic",
+        "ocr_text": "x rs To nN Mlarinmto ni. ini ON Qi DA Professione: Infermiera o medico (spociimente n reparti ad ta prossione come pronto soccorso, eapia intensiva 0 oncologia) Genere: Femmina (ma potrebbe essere anche maschio, dato che lbumout colpisce entrambi oneri) Localizzazione: tati nti. in reo urban o suburbane con ospedali tati Uve istruzione: Laure superiore (n campo medicofnfermierisio) Redelito: Madio-lto (ma spesso gravata d db studenteschi) Problemi e Dolori: Sten cronico dovuto un gh sazio da pressione e caco noto. 2 Bum frequent, oo fico staccare mentite ei. 3. Serna moi Balance, cn poco po pr 6 stess mila h8B 4 Senso tb, optato op or anto tuoni amate slavo * Desidero i igoare a prora auto mentale. ma cn paco teo er ec seu Desideri Bisogni: Solzoni pratiche immediate ha posano sareste ela sa rin eta Strumenti concreti teche i espiazione, ine ocecstper ruizare mese tenga * Contenuti tibi asti su iene slenaliche, o sc bugia mado rest lese coi ri o he pò consu tdi i rp. Supporta moto: rca senso di comun condono dle speranze. Angle comunicativo: mp compren; a tono che dont ica stamane os sa pssndo (e. “50 cosa ignara cado uo 1210 on se asta ameno. 2 Prapmatiemo: nz che tu odo sno ic ur e imesiataent ppc",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 974.0999984741211,
+          "end": 976.9000015258789,
+          "text": "con poco tempo per se stessa, la famiglia o gli hobby."
+        },
+        {
+          "start": 976.9000015258789,
+          "end": 981.0999984741211,
+          "text": "Senso di isolamento emotivo, soprattutto dopo aver affrontato situazioni traumatiche sul lavoro."
+        },
+        {
+          "start": 981.0999984741211,
+          "end": 983.0999984741211,
+          "text": "Desiderio di migliorare la propria salute mentale,"
+        },
+        {
+          "start": 983.0999984741211,
+          "end": 986.4000015258789,
+          "text": "ma con poco tempo per cercare soluzioni efficaci."
+        },
+        {
+          "start": 986.4000015258789,
+          "end": 987.4000015258789,
+          "text": "Desiderio e bisogni."
+        },
+        {
+          "start": 987.4000015258789,
+          "end": 988.4000015258789,
+          "text": "Soluzioni pratiche immediate."
+        },
+        {
+          "start": 988.4000015258789,
+          "end": 991.4000015258789,
+          "text": "Anche qui vedete il ritorno al concetto di praticità, di velocità,"
+        },
+        {
+          "start": 991.4000015258789,
+          "end": 994.9000015258789,
+          "text": "di applicabilità in modo semplice e veloce della soluzione."
+        },
+        {
+          "start": 994.9000015258789,
+          "end": 998.4000015258789,
+          "text": "Strumenti concreti come tecniche di ispirazione, mindfulness o checklist."
+        },
+        {
+          "start": 998.4000015258789,
+          "end": 1002.4000015258789,
+          "text": "Contenuto affidabile basato su evidenze scientifiche, dato il suo background medico."
+        },
+        {
+          "start": 1002.4000015258789,
+          "end": 1003.4000015258789,
+          "text": "Flessibilità."
+        },
+        {
+          "start": 1003.4000015258789,
+          "end": 1007.4000015258789,
+          "text": "Preferisce corsi brevi o ebook che può consumare nel ritaglio del tempo."
+        },
+        {
+          "start": 1007.4000015258789,
+          "end": 1008.9000015258789,
+          "text": "Supporto emotivo."
+        },
+        {
+          "start": 1008.9000015258789,
+          "end": 1011.4000015258789,
+          "text": "Cerco un senso di comunità o di condivisione delle esperienze."
+        },
+        {
+          "start": 1011.4000015258789,
+          "end": 1012.4000015258789,
+          "text": "Angle comunicativo."
+        },
+        {
+          "start": 1012.4000015258789,
+          "end": 1013.4000015258789,
+          "text": "Empatia o comprensione."
+        },
+        {
+          "start": 1013.4000015258789,
+          "end": 1016.4000015258789,
+          "text": "Usa un tono che dimostri di capire esattamente cosa sta passando."
+        },
+        {
+          "start": 1016.4000015258789,
+          "end": 1020.4000015258789,
+          "text": "Esempio, so cosa significa tornare a casa dopo un turno di 12 ore e non riuscire a staccare la mente."
+        },
+        {
+          "start": 1020.4000015258789,
+          "end": 1021.4000015258789,
+          "text": "Ottimo."
+        },
+        {
+          "start": 1021.4000015258789,
+          "end": 1022.4000015258789,
+          "text": "Pragmatismo."
+        },
+        {
+          "start": 1022.4000015258789,
+          "end": 1025.400001525879,
+          "text": "Evidenze che i due prodotti sono facili da usare e immediatamente applicabili."
+        },
+        {
+          "start": 1025.400001525879,
+          "end": 1029.3999938964844,
+          "text": "Esempio, in soli 10 minuti al giorno puoi ridurre lo stress e ritrovare il focus."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 20,
+        "time": 1029.35,
+        "timestamp": "00:17:09",
+        "image": "frame_0020.jpg",
+        "reason": "periodic",
+        "ocr_text": "Mlarinmtonii. Aim ON reina DA 2 Serna ore balance, co poco tempo per stess mia gi hbb Senso lisamento ema, soprat go metro turni macha lio ‘Desidero di igoare a prora auto mante, na co paco trp per cr suoni Desideri Bisogni: Soluzioni pratiche immediate che possano sare stage ela sa rin ee © Sirumenti oneri come ten i respszine, instunese chia cer pizze meglio tronco * Contenuti ati e basati sù evidenze sclntiche, dt so Bca eci Fissi: aerse cos brevi o ok che può corse i ai i tera. » Supprto mio cs senso i comu o convinse Angie comunicativo: mp compren: a tano che dio ar stamane os sa pesto (6. “50 cosa signia time a csa dopo uo 120 na uscir a staccare a mene © Pragmatismo. sdnz che iui rodo sno’ è usare mestamente pica 2080 int ge, pci eo ss are fc\" © Astor satin» cn crt sp bass i ich cche soc adi poesia sant Urgenze si sogno i ge sb per tr bro e. Nan spa che siro come apici ra pr proteggere tua se mene Comunità rsu seno i potenza le ii gii profes senti che tano romano oo icon quest st aura è un persona pragmatica, poco leo ma un arts i migra sa ut i",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1029.3999938964844,
+          "end": 1034.3999938964844,
+          "text": "Sottolinea che i contenuti sono basati su ricerche scientifiche o esperienze reali di professionisti sanitari."
+        },
+        {
+          "start": 1034.3999938964844,
+          "end": 1037.3999938964844,
+          "text": "Ok, quindi empatia anche in questo caso."
+        },
+        {
+          "start": 1037.3999938964844,
+          "end": 1038.3999938964844,
+          "text": "Urgenza."
+        },
+        {
+          "start": 1038.3999938964844,
+          "end": 1040.3999938964844,
+          "text": "Feleva sul bisogno di agire subito per evitare il burnout."
+        },
+        {
+          "start": 1040.3999938964844,
+          "end": 1042.3999938964844,
+          "text": "Non aspettare che lo stress ti consumi."
+        },
+        {
+          "start": 1042.3999938964844,
+          "end": 1044.3999938964844,
+          "text": "Agisci ora per proteggere la tua salute mentale."
+        },
+        {
+          "start": 1044.3999938964844,
+          "end": 1045.3999938964844,
+          "text": "Comunità."
+        },
+        {
+          "start": 1045.3999938964844,
+          "end": 1046.3999938964844,
+          "text": "Crea un senso di appartenenza."
+        },
+        {
+          "start": 1046.3999938964844,
+          "end": 1052.3999938964844,
+          "text": "Unisci le migliaia di professionisti sanitari che già stanno trasformando la loro vita con queste strategie."
+        },
+        {
+          "start": 1052.3999938964844,
+          "end": 1057.3999938964844,
+          "text": "Quindi anche da questo punto di vista devo dire che DeepSeek ci sta dando delle informazioni parecchio interessanti."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 21,
+        "time": 1057.39,
+        "timestamp": "00:17:37",
+        "image": "frame_0021.jpg",
+        "reason": "scene",
+        "ocr_text": "te] te) T A n ® ® n",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1057.3999938964844,
+          "end": 1059.3999938964844,
+          "text": "Quindi abbiamo analizzato il mercato."
+        },
+        {
+          "start": 1059.3999938964844,
+          "end": 1061.3999938964844,
+          "text": "Abbiamo analizzato la per persona."
+        },
+        {
+          "start": 1061.3999938964844,
+          "end": 1064.3999938964844,
+          "text": "Abbiamo visto qual è l'angle comunicativo."
+        },
+        {
+          "start": 1064.3999938964844,
+          "end": 1067.3999938964844,
+          "text": "A questo punto facciamo il brainstorming dei prodotti digitali."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 22,
+        "time": 1067.05,
+        "timestamp": "00:17:47",
+        "image": "frame_0022.jpg",
+        "reason": "scene",
+        "ocr_text": "GP 35 eran 02 070 bio EI toc io: cren ta vio. conta (Ovest stini. farameiton ion 00 Gra DA ® € ciicerso sai ra ben progeta paso ire souioni fee i ve © esca beer persona iene per io poco ii ia aa gestione do stress per protessonist santa @ Buyer Persona: Dr. Emily Carter, 38 anni — Infermiera/Ospedaliera Stremata ‘Proto Demogr: Gitai Genere Praeneene eine (a non esco) Professione near meio, eo sani Redi: $50000- 120090 ario. Stuzioe flare: Spesso sposta co ia piccolo esca a Probim Dori rincipali (Pain pins: Bumout stremo Tui massoni poco cova pressione costine Asa stress cronico san ino vere ms betana teo pes Dico a blnzire ero tape ale Esaurimento emo dro cotto costante con paz stusoni enerpenza 0066 (]",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1067.3999938964844,
+          "end": 1071.3999938964844,
+          "text": "Quindi molto semplicemente diamo questo prompt a CiaGPT."
+        },
+        {
+          "start": 1071.3999938964844,
+          "end": 1090.3999938964844,
+          "text": "Forniscimi ora 10 idee di un prodotto digitale con una bump offer che inserirò a checkout"
+        },
+        {
+          "start": 1090.3999938964844,
+          "end": 1100.3999938964844,
+          "text": "che abbia come scopo velocizzare i risultati del prodotto principale."
+        },
+        {
+          "start": 1100.3999938964844,
+          "end": 1111.3999938964844,
+          "text": "Quindi fornisce 10 idee di un prodotto principale che soddisfino in maniera semplice e veloce i problemi relativi."
+        },
+        {
+          "start": 1111.3999938964844,
+          "end": 1113.3999938964844,
+          "text": "Anzi un singolo problema."
+        },
+        {
+          "start": 1113.3999938964844,
+          "end": 1115.3999938964844,
+          "text": "Quindi un problema specifico."
+        },
+        {
+          "start": 1115.3999938964844,
+          "end": 1118.3999938964844,
+          "text": "Un singolo problema."
+        },
+        {
+          "start": 1118.3999938964844,
+          "end": 1121.3999938964844,
+          "text": "Anzi il singolo problema."
+        },
+        {
+          "start": 1121.3999938964844,
+          "end": 1132.3999938964844,
+          "text": "Il singolo problema più specifico e urgente della buyer persona analizzata."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 23,
+        "time": 1127.05,
+        "timestamp": "00:18:47",
+        "image": "frame_0023.jpg",
+        "reason": "periodic",
+        "ocr_text": "GP 33 cranio 20 02 0 n niona EIvto-cori. iti: comn ta (vio. cuni (Mc Citti reno n im O ra DA ® € cicerso © Desire asprazone rv suoni psiche e loci pr sure ossa Senti nego meno sopratatao grane sono 1a concentrazione soa emare a amare propio voro senz senti so Are ste onere per ese meg tempo eos A Comportamento d'acquisto: Dove crea soluzioni? Gg sca media siga, TT, YosTbel, rupi Facebook i CT] Bat acque? Poco tempo ticino su solai ‘mai prlrc anigi speri Fermato port? Gc ah, icon brevi check sca ® Angle Comunicativo Etficace. tv avro salvare vito, mac av te? Scopi srtgi pai er cure stesse Bara eno i YO minuti ona” \"Simi porai o stress dl'spdi a cass eniche api per icaicare mento oto senza perdere tempo \"Sl sato dopo mo? sa questo seme metodo per rssari migrare tuo sporco icete sapri rapido ento i beelicimmediati to ch po è «00975 eis 100 i prodotto ig (n una Dm ile ce fot aa che ab come Scopo vezzo prince ce sein mera semoice e vence d sp reblema pi speci 09006 (-)",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1132.3999938964844,
+          "end": 1135.3999938964844,
+          "text": "Ok."
+        },
+        {
+          "start": 1135.3999938964844,
+          "end": 1138.3999938964844,
+          "text": "Diamo questo prompt anche su DeepSeek."
+        },
+        {
+          "start": 1138.3999938964844,
+          "end": 1140.3999938964844,
+          "text": "Facciamo partire DeepSeek."
+        },
+        {
+          "start": 1140.3999938964844,
+          "end": 1141.3999938964844,
+          "text": "Facciamo partire CiaGPT."
+        },
+        {
+          "start": 1141.3999938964844,
+          "end": 1143.3999938964844,
+          "text": "Vediamo quello che ci dà."
+        },
+        {
+          "start": 1143.3999938964844,
+          "end": 1147.3999938964844,
+          "text": "Ecco 10 idee di prodotti digitali per risolvere in modo semplice e veloce il problema più urgente"
+        },
+        {
+          "start": 1147.3999938964844,
+          "end": 1150.3999938964844,
+          "text": "della tua buyer persona stress e burnout nei professionisti sanitari."
+        },
+        {
+          "start": 1150.3999938964844,
+          "end": 1153.3999938964844,
+          "text": "Ogni prodotto include una bump offer che accelera i risultati."
+        },
+        {
+          "start": 1153.3999938964844,
+          "end": 1154.3999938964844,
+          "text": "Ebook."
+        },
+        {
+          "start": 1154.3999938964844,
+          "end": 1155.3999938964844,
+          "text": "Stoppa il burnout in 7 giorni."
+        },
+        {
+          "start": 1155.3999938964844,
+          "end": 1157.3999938964844,
+          "text": "Strategie veloci per operatori sanitari."
+        },
+        {
+          "start": 1157.3999938964844,
+          "end": 1158.3999938964844,
+          "text": "Cosa offre?"
+        },
+        {
+          "start": 1158.3999938964844,
+          "end": 1162.3999938964844,
+          "text": "Un metodo pratico e scientificamente provato per ridurre il burnout in 7 giorni"
+        },
+        {
+          "start": 1162.3999938964844,
+          "end": 1164.3999938964844,
+          "text": "con tecniche testate applicabili fin da subito."
+        },
+        {
+          "start": 1164.3999938964844,
+          "end": 1165.3999938964844,
+          "text": "Bump offer."
+        },
+        {
+          "start": 1165.3999938964844,
+          "end": 1166.3999938964844,
+          "text": "Pacchetto."
+        },
+        {
+          "start": 1166.3999938964844,
+          "end": 1167.3999938964844,
+          "text": "Audio."
+        },
+        {
+          "start": 1167.3999938964844,
+          "end": 1168.3999938964844,
+          "text": "Antistress."
+        },
+        {
+          "start": 1168.3999938964844,
+          "end": 1169.3999938964844,
+          "text": "10 Minuti per ricaricarti."
+        },
+        {
+          "start": 1169.3999938964844,
+          "end": 1170.3999938964844,
+          "text": "Minicorso."
+        },
+        {
+          "start": 1170.3999938964844,
+          "end": 1172.3999938964844,
+          "text": "Il metodo 5-5-5."
+        },
+        {
+          "start": 1172.3999938964844,
+          "end": 1174.3999938964844,
+          "text": "Riduci lo stress in 5 minuti al giorno."
+        },
+        {
+          "start": 1174.3999938964844,
+          "end": 1175.3999938964844,
+          "text": "Cosa offre?"
+        },
+        {
+          "start": 1175.3999938964844,
+          "end": 1179.3999938964844,
+          "text": "3 Tecniche rapide per ridurre lo stress in 5 minuti prima, durante e dopo il turno."
+        },
+        {
+          "start": 1179.3999938964844,
+          "end": 1181.3999938964844,
+          "text": "Ecco il metodo 5-5-5."
+        },
+        {
+          "start": 1181.3999938964844,
+          "end": 1182.3999938964844,
+          "text": "Bump offer."
+        },
+        {
+          "start": 1182.3999938964844,
+          "end": 1184.3999938964844,
+          "text": "Schede stampabili per il metodo 5-5-5."
+        },
+        {
+          "start": 1184.3999938964844,
+          "end": 1187.3999938964844,
+          "text": "Quindi checklist tascabile da utilizzare ovunque."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 24,
+        "time": 1187.05,
+        "timestamp": "00:19:47",
+        "image": "frame_0024.jpg",
+        "reason": "periodic",
+        "ocr_text": "GP 35 crm 220 02 0877 E € chucerso Glarona. veni in 9 OM Qin DA Sanitari ‘ Coste: tao rato snteamnte rst peru nin im, co venia estate pg so “ Bmp Of Pacehtto Au Antistress 10 Mu per iaia Fe ao qu con esi risse e resine E Min Video Corso: Il Motodo 5-5-5: Riduci lo Stress 5 Minuti a Giorno\" ‘4 Cont: Tren pe perio sive miu pia, ian po Bump O \"Sch Stampabli per edo 5.5 (Checa asse arse) I Checklist: \"La Routine Perfetta Post-Tumo per Smettere di Sentirti Esaustajo\" ‘ Coste Uno qua engice per ice ion pei iui e recpere svga ‘umor: \"Dyianer era Gestione dello Ses Fanes con einer pe att anti-vso) fl Megitazioni Guidate: “7 Giorni i Rilassamento per Operatori Sanitari\" ‘ Coste: Una eco dimastazoni api phi a poco np > Bump tfr Fa ka: Meitazioni di Meu per Quando Sin Tuo\" I Corso Fiash: \"Come Dormire M ‘lo Dopo un Tuo Stressante\" 0906",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1187.3999938964844,
+          "end": 1188.3999938964844,
+          "text": "Checklist."
+        },
+        {
+          "start": 1188.3999938964844,
+          "end": 1191.3999938964844,
+          "text": "La routine perfetta a posto turno per smettere di sentirti esausta."
+        },
+        {
+          "start": 1191.3999938964844,
+          "end": 1195.3999938964844,
+          "text": "Una guida semplice per disconnettersi dal lavoro in pochi minuti e recuperare energia."
+        },
+        {
+          "start": 1195.3999938964844,
+          "end": 1196.3999938964844,
+          "text": "Bump offer."
+        },
+        {
+          "start": 1196.3999938964844,
+          "end": 1198.3999938964844,
+          "text": "Daily planner per la gestione dello stress."
+        },
+        {
+          "start": 1198.3999938964844,
+          "end": 1201.3999938964844,
+          "text": "Planner digitale con reminder per abitudini antistress."
+        },
+        {
+          "start": 1201.3999938964844,
+          "end": 1202.3999938964844,
+          "text": "Meditazioni guidate."
+        },
+        {
+          "start": 1202.3999938964844,
+          "end": 1205.3999938964844,
+          "text": "7 Giorni di rilassamento per operatori sanitari."
+        },
+        {
+          "start": 1205.3999938964844,
+          "end": 1208.3999938964844,
+          "text": "Una raccolta di meditazioni rapide per chi ha poco tempo."
+        },
+        {
+          "start": 1208.3999938964844,
+          "end": 1209.3999938964844,
+          "text": "Flash relax."
+        },
+        {
+          "start": 1209.3999938964844,
+          "end": 1212.3999938964844,
+          "text": "3 Meditazioni in 3 minuti per quando sei in turno."
+        },
+        {
+          "start": 1212.3999938964844,
+          "end": 1213.3999938964844,
+          "text": "Corso flash."
+        },
+        {
+          "start": 1213.3999938964844,
+          "end": 1215.3999938964844,
+          "text": "Come dormire meglio dopo un turno stressante."
+        },
+        {
+          "start": 1215.3999938964844,
+          "end": 1216.3999938964844,
+          "text": "Bump offer."
+        },
+        {
+          "start": 1216.3999938964844,
+          "end": 1218.3999938964844,
+          "text": "Playlist per il sonno profondo."
+        },
+        {
+          "start": 1218.3999938964844,
+          "end": 1219.3999938964844,
+          "text": "Messaggi antistress."
+        },
+        {
+          "start": 1219.3999938964844,
+          "end": 1221.3999938964844,
+          "text": "Comunicare senza conflitti sul lavoro."
+        },
+        {
+          "start": 1221.3999938964844,
+          "end": 1224.3999938964844,
+          "text": "Quindi modelli di risposta per ridurre tensioni con colleghi e pazienti."
+        },
+        {
+          "start": 1224.3999938964844,
+          "end": 1225.3999938964844,
+          "text": "Minicorso."
+        },
+        {
+          "start": 1225.3999938964844,
+          "end": 1227.3999938964844,
+          "text": "Come gestire conflitti e pazienti."
+        },
+        {
+          "start": 1227.3999938964844,
+          "end": 1228.3999938964844,
+          "text": "Difficili senza stressarti."
+        },
+        {
+          "start": 1228.3999938964844,
+          "end": 1230.3999938964844,
+          "text": "Questa mi piace tanto."
+        },
+        {
+          "start": 1230.3999938964844,
+          "end": 1231.3999938964844,
+          "text": "Ebook."
+        },
+        {
+          "start": 1231.3999938964844,
+          "end": 1232.3999938964844,
+          "text": "Cibo antistress."
+        },
+        {
+          "start": 1232.3999938964844,
+          "end": 1234.3999938964844,
+          "text": "La guida nutrizionale per recuperare energia."
+        },
+        {
+          "start": 1234.3999938964844,
+          "end": 1238.3999938964844,
+          "text": "Vedete come ci sta proponendo diversi ebook basati su diversi angle comunicativi."
+        },
+        {
+          "start": 1238.3999938964844,
+          "end": 1243.3999938964844,
+          "text": "Diversi angle attorno al quale andare a risolvere il problema principale."
+        },
+        {
+          "start": 1243.3999938964844,
+          "end": 1246.3999938964844,
+          "text": "In questo caso è l'angle della nutrizione."
+        },
+        {
+          "start": 1246.3999938964844,
+          "end": 1251.3999938964844,
+          "text": "Piane alimentari e snack per ridurre lo stress e migliorare la concentrazione."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 25,
+        "time": 1247.05,
+        "timestamp": "00:20:47",
+        "image": "frame_0025.jpg",
+        "reason": "periodic",
+        "ocr_text": "ra x cme meammosoeze x 97 Begin peo | GO 5 chicas 0 drone EI to:coi. Bitto: cun ta vio: cuni. vito ta Esci. armonioso 9 000 ra DA E € ccerso {Meditazioni Guidate: “7 Giorni di Rilassamento per Operatori Sanitari\" + Costi: Un eco imastazoni ai parchi a poco lego. mp ora ala: Miani di ui per Quando Seli Tue\" Corso Fiash: \"Come Dormire Meglio Dopo un Tumo Stressante\" ‘Cos tir: Sage o teche por mare ono anche go ti ta ump OM Pigs perl Sonno Protone\" (oi rsu musica risate UO Pack i Template: “Messaggi Ant-Stress - Comunicare Senza Conflitti ul Lavoro” Cosa tire Moi pasta pr iure tini co ceghe pazii mp OM Corso: Como str Cont Bini ii Senza Stress. eBook: \"Cibo Ant-Stress: La Guida Nutrizionale per Recuperare Energia\" 1 Cosa li fi menti snack perire o stress e migra concertazione. Sumo Of “al Prop olce$ iot 1 Muti pr Tui Lung, 1 Journal Digitale: \"Diari dî Defaticamento per Medici e Infermieri” ‘ Coat: Uno sent ut pr sanre rss e migra reslenz tia Rumo Ot \"POF Stampabile cn Domande Cd per iasamento”. 4",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1251.3999938964844,
+          "end": 1252.3999938964844,
+          "text": "Bump offer."
+        },
+        {
+          "start": 1252.3999938964844,
+          "end": 1253.3999938964844,
+          "text": "Meal prep veloce."
+        },
+        {
+          "start": 1253.3999938964844,
+          "end": 1255.3999938964844,
+          "text": "5 Ricette da 10 minuti per turni lunghi."
+        },
+        {
+          "start": 1255.3999938964844,
+          "end": 1258.3999938964844,
+          "text": "Diario di defaticamento per medici e infermieri."
+        },
+        {
+          "start": 1258.3999938964844,
+          "end": 1259.3999938964844,
+          "text": "Audiocorso."
+        },
+        {
+          "start": 1259.3999938964844,
+          "end": 1260.3999938964844,
+          "text": "Masterclass registrata."
+        },
+        {
+          "start": 1261.3999938964844,
+          "end": 1263.3999938964844,
+          "text": "Vediamo invece DeepSeek che cosa ci ha fornito."
+        },
+        {
+          "start": 1263.3999938964844,
+          "end": 1264.3999938964844,
+          "text": "Ebook."
+        },
+        {
+          "start": 1264.3999938964844,
+          "end": 1266.3999938964844,
+          "text": "10 Minuti al giorno per ridurre lo stress."
+        },
+        {
+          "start": 1266.3999938964844,
+          "end": 1268.3999938964844,
+          "text": "Tecniche scientifiche per professionisti sanitari."
+        },
+        {
+          "start": 1268.3999938964844,
+          "end": 1269.3999938964844,
+          "text": "Questo mi piace."
+        },
+        {
+          "start": 1269.3999938964844,
+          "end": 1274.3999938964844,
+          "text": "Checklist stampabile con esercizi di respirazione e mindfulness da usare durante le pause."
+        },
+        {
+          "start": 1274.3999938964844,
+          "end": 1275.3999938964844,
+          "text": "Videocorso breve."
+        },
+        {
+          "start": 1275.3999938964844,
+          "end": 1277.3999938964844,
+          "text": "Mindfulness per infermieri e medici."
+        },
+        {
+          "start": 1277.3999938964844,
+          "end": 1279.3999938964844,
+          "text": "Bump offer audio guida con meditazioni guidate."
+        },
+        {
+          "start": 1279.3999938964844,
+          "end": 1281.3999938964844,
+          "text": "Checklist piano anti-burnout."
+        },
+        {
+          "start": 1281.3999938964844,
+          "end": 1287.3999938964844,
+          "text": "Bump offer template giornaliero per ottimizzare pause rigeneranti durante i turni."
+        },
+        {
+          "start": 1287.3999938964844,
+          "end": 1288.3999938964844,
+          "text": "Guida pratica."
+        },
+        {
+          "start": 1288.3999938964844,
+          "end": 1289.3999938964844,
+          "text": "Guida rapida."
+        },
+        {
+          "start": 1289.3999938964844,
+          "end": 1290.3999938964844,
+          "text": "Sopravvivere ai turni lunghi."
+        },
+        {
+          "start": 1290.3999938964844,
+          "end": 1292.3999938964844,
+          "text": "Strategie immediate per ridurre la fatica mentale."
+        },
+        {
+          "start": 1292.3999938964844,
+          "end": 1293.3999938964844,
+          "text": "Anche questo mi piace."
+        },
+        {
+          "start": 1293.3999938964844,
+          "end": 1297.3999938964844,
+          "text": "Vedete che qui abbiamo un problema specifico che sono i turni lunghi e come evitare di"
+        },
+        {
+          "start": 1297.3999938964844,
+          "end": 1299.3999938964844,
+          "text": "stressarsi durante i turni lunghi."
+        },
+        {
+          "start": 1299.3999938964844,
+          "end": 1300.3999938964844,
+          "text": "Workshop online."
+        },
+        {
+          "start": 1300.3999938964844,
+          "end": 1301.3999938964844,
+          "text": "Audiobook."
+        },
+        {
+          "start": 1301.3999938964844,
+          "end": 1302.3999938964844,
+          "text": "Bump offer."
+        },
+        {
+          "start": 1302.3999938964844,
+          "end": 1303.3999938964844,
+          "text": "Template planner."
+        },
+        {
+          "start": 1303.3999938964844,
+          "end": 1304.3999938964844,
+          "text": "Guida pratica."
+        },
+        {
+          "start": 1304.3999938964844,
+          "end": 1305.3999938964844,
+          "text": "Eccetera eccetera."
+        },
+        {
+          "start": 1305.3999938964844,
+          "end": 1306.3999938964844,
+          "text": "Logica delle bump offer."
+        },
+        {
+          "start": 1306.3999938964844,
+          "end": 1307.3999938964844,
+          "text": "Le bump offer sono low cost o gratuite."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 26,
+        "time": 1307.05,
+        "timestamp": "00:21:47",
+        "image": "frame_0026.jpg",
+        "reason": "periodic",
+        "ocr_text": "ra AO RERINARII > comics [ nion EIvto coi. iv: coen ta vi: cuni vito Crete. Maremoto ni. ion 00 ra DA Guida Rapida: Sogrnvre a TunLungh Stati meda per dure Fa ne Workahp Online: \"estinto Ss n Sl pe: Tei er atene Calma Gump Ott cesso un ro cei pito pr spari condivise i escerenze ‘© Adobe Riassmento Pond per Professi Santi Hadiain Guidare per Damve nei Bum tte: Pit suoni asa igg, nd resta pr ig sono. Template lane “Orniz Ta Stan: Ponner or quae Lx e a Persona Bump Ott Vico tra come usare el oso lisce i MC “renne Respzine per Imi e Ms ir Cama Sa ump Ott: ot onere ospizio a apnea pe. a rata: \"Come Gost le Emergenza Pardr a Cina Stati pr Professionisti Gump Ott Chest er rep estinte ae situazioni 6 ta pressione 10 Sere i Ea 7 imper iure o Stu: Con omar reso Sant Bump Offer: cato e 20% coso manzo i stor oto tr. Logica delle Bump Oer: Loto tfr on wep gti) hrno sco di velcizzar sua dl roseto * Seno fc da consumare mestamente agis, prete per apra n poco to “Arena È var percepito didnt pine e migrano esparenza diete. onesti pur odo diga ch ricono pmi soi tro sini see. artnen uao ls i engagement e sso",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1307.3999938964844,
+          "end": 1309.3999938964844,
+          "text": "Le gratuite anche no."
+        },
+        {
+          "start": 1309.3999938964844,
+          "end": 1310.3999938964844,
+          "text": "Grazie."
+        },
+        {
+          "start": 1310.3999938964844,
+          "end": 1312.3999938964844,
+          "text": "E hanno lo scopo di velocizzare i risultati del prodotto principale."
+        },
+        {
+          "start": 1312.3999938964844,
+          "end": 1314.3999938964844,
+          "text": "Sono facili da consumare e immediatamente applicabili."
+        },
+        {
+          "start": 1314.3999938964844,
+          "end": 1316.3999938964844,
+          "text": "Perfette per una persona con poco tempo come Laura."
+        },
+        {
+          "start": 1316.3999938964844,
+          "end": 1320.3999938964844,
+          "text": "Aumentano il valore percepito del prodotto principale e migliorano l'esperienza dell'utente."
+        },
+        {
+          "start": 1320.3999938964844,
+          "end": 1322.3999938964844,
+          "text": "Quindi io farei una cosa."
+        },
+        {
+          "start": 1322.3999938964844,
+          "end": 1329.3999938964844,
+          "text": "Sceglierei come prodotto principale questo ebook e come bump offer questa checklist."
+        },
+        {
+          "start": 1329.3999938964844,
+          "end": 1332.3999938964844,
+          "text": "Questa volta DeepSeek mi piace."
+        },
+        {
+          "start": 1332.3999938964844,
+          "end": 1333.3999938964844,
+          "text": "Mi piace molto."
+        },
+        {
+          "start": 1333.3999938964844,
+          "end": 1334.3999938964844,
+          "text": "Ok."
+        },
+        {
+          "start": 1334.3999938964844,
+          "end": 1335.3999938964844,
+          "text": "Quindi."
+        },
+        {
+          "start": 1335.3999938964844,
+          "end": 1336.3999938964844,
+          "text": "Ok."
+        },
+        {
+          "start": 1336.3999938964844,
+          "end": 1341.3999938964844,
+          "text": "Ho deciso di creare questi due prodotti digitali."
+        },
+        {
+          "start": 1341.3999938964844,
+          "end": 1344.3999938964844,
+          "text": "Uno è checklist stampabile."
+        },
+        {
+          "start": 1344.3999938964844,
+          "end": 1346.3999938964844,
+          "text": "Quindi diamo questo prompt a CellGPT."
+        },
+        {
+          "start": 1346.3999938964844,
+          "end": 1349.3999938964844,
+          "text": "Diamo questo prompt a DeepSeek."
+        },
+        {
+          "start": 1351.3999938964844,
+          "end": 1353.3999938964844,
+          "text": "Vediamo cosa ci dice CellGPT."
+        },
+        {
+          "start": 1353.3999938964844,
+          "end": 1354.3999938964844,
+          "text": "Ottima scelta."
+        },
+        {
+          "start": 1354.3999938964844,
+          "end": 1356.3999938964844,
+          "text": "Questo è il prodotto perfetto per la tua persona."
+        },
+        {
+          "start": 1356.3999938964844,
+          "end": 1357.3999938964844,
+          "text": "Quale sarà il tuo prossimo passo?"
+        },
+        {
+          "start": 1357.3999938964844,
+          "end": 1364.3999938964844,
+          "text": "Io vi aiuto con la struttura dell'ebook, la checklist della bump offer, il copy della pagina di vendita, email di lancio eccetera eccetera."
+        },
+        {
+          "start": 1364.3999938964844,
+          "end": 1373.3999938964844,
+          "text": "Come vedete anche da questo punto di vista l'intelligenza artificiale ci aiuta step by step in tutto il lancio del nostro prodotto principale."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 27,
+        "time": 1367.05,
+        "timestamp": "00:22:47",
+        "image": "frame_0027.jpg",
+        "reason": "periodic",
+        "ocr_text": "Glare ni ini in 9 OM Qin DA Contenuto dll'eBook nozione Pec o ess cosce cai avente potessi santa cone pico ebano le una grano lenza. Vene Selntiche: Resrzne drammatica Eri eten vci pr iste mus * Come integrare Tecniche Skageimnt per ao ose rac al rutena, 4 Star Success: Tesfpoinz i i otessnisti sont che ha ito o ts on queste eine Bone: ve sont uao mastazon, vis as. e). Bumpotter: Check Stampa: Eseciii Resorazone e Minas por Pie genrnr* contenuto dalla Check: © Supponi per se ui ben asa raro pas 1 Spazio eranpote cone is senta pm dopo i ser Messaggio di Vendita pera Bump Offer: nesta aa ever che una",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 1373.3999938964844,
+          "end": 1381.3999938964844,
+          "text": "DeepSeek è già passato alla realizzazione del titolo dell'ebook con il contenuto cioè la outline e la nostra bump offer."
+        },
+        {
+          "start": 1381.3999938964844,
+          "end": 1387.3999938964844,
+          "text": "Ma questo lo vedremo meglio nella prossima lezione dedicata alla realizzazione dei nostri prodotti digitali veri e propri."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,595 @@
+{
+  "title": "Progettare skill modulari",
+  "sections": [
+    {
+      "keyframe": {
+        "index": 0,
+        "time": 0.0,
+        "timestamp": "00:00:00",
+        "image": "frame_0000.jpg",
+        "reason": "start",
+        "ocr_text": "8 eBo o 0. -.448 9 è erspostre la tl tieni premuto o Ezio) dante i rescinamento oppure usalo strumento dell mano Concatenare le skill Skill 3 (task 3) Skill 1 (task 1)",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 0.0,
+          "end": 8.399999618530273,
+          "text": "Quando lavoriamo con le skill, dobbiamo tenere in mente un concetto molto semplice, ma molto potente,"
+        },
+        {
+          "start": 8.399999618530273,
+          "end": 14.399999618530273,
+          "text": "che vedo sfruttato troppo poco. Cioè il fatto che le skill possono essere concatenate."
+        },
+        {
+          "start": 14.399999618530273,
+          "end": 22.799999237060547,
+          "text": "Noi possiamo chiamare una skill, invocarla. Abbiamo visto, scriviamo slash il nome della skill e la facciamo partire."
+        },
+        {
+          "start": 22.799999237060547,
+          "end": 26.200000762939453,
+          "text": "Quindi Cloud Code parte con l'esecuzione di quello che gli abbiamo chiesto."
+        },
+        {
+          "start": 26.399999618530273,
+          "end": 34.70000076293945,
+          "text": "Abbiamo anche visto che può capire da quello che scriviamo che deve invocare una certa skill, anche se non mettiamo il comando esplicito e la fa partire."
+        },
+        {
+          "start": 34.70000076293945,
+          "end": 41.70000076293945,
+          "text": "E soprattutto questa seconda modalità, il fatto che possiamo scrivere del testo e lui intuisce che a quel testo è collegata una skill,"
+        },
+        {
+          "start": 41.70000076293945,
+          "end": 45.0,
+          "text": "rende molto potente l'idea di concatenare le skill."
+        },
+        {
+          "start": 45.0,
+          "end": 53.900001525878906,
+          "text": "Cosa significa? Noi siamo abituati a vedere la skill come questo blocco, che è questo monolite, dove entra qualcosa, esce qualcosa."
+        },
+        {
+          "start": 53.900001525878906,
+          "end": 62.0,
+          "text": "Quindi piglia in input un documento, un testo, qualcosa dal contesto, qualcosa che abbiamo scritto noi nella chat,"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 1,
+        "time": 60.0,
+        "timestamp": "00:01:00",
+        "image": "frame_0001.jpg",
+        "reason": "periodic",
+        "ocr_text": "e 0MBo oo. 24,80, 4 er spostare tl, en) premuto 0 Ea) dante i trascinamento oppure usalo strumento della mano. Concatenare le skill Skill 3 (task 3) Skill 1 (task 1)",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 62.0,
+          "end": 66.30000305175781,
+          "text": "oppure a volte non piglia niente perché è una skill che lavora in autonomia e ci produce un output."
+        },
+        {
+          "start": 66.30000305175781,
+          "end": 74.0,
+          "text": "Quindi ci scrive qualcosa, ci crea un file, ci crea una serie di file, interviene sul nostro workspace e così via."
+        },
+        {
+          "start": 74.0,
+          "end": 78.19999694824219,
+          "text": "Ecco, ragionate in quest'ottica di poterle concatenare."
+        },
+        {
+          "start": 78.19999694824219,
+          "end": 84.19999694824219,
+          "text": "Cioè quello che diventa l'output della prima skill può diventare l'input della seconda skill."
+        },
+        {
+          "start": 84.19999694824219,
+          "end": 91.30000305175781,
+          "text": "E quello che fa poi la seconda skill, una volta che l'ha elaborato, può diventare l'output della seconda skill,"
+        },
+        {
+          "start": 91.30000305175781,
+          "end": 93.69999694824219,
+          "text": "diventa l'input di una terza skill e così via."
+        },
+        {
+          "start": 93.69999694824219,
+          "end": 99.5,
+          "text": "E quindi produciamo un output finale che ha passato n skill per arrivare a quel risultato."
+        },
+        {
+          "start": 99.5,
+          "end": 107.19999694824219,
+          "text": "Questa roba qua è un'altra di quelle funzionalità che ci permette di estendere il nostro agente, il nostro sistema intelligente che ci stiamo creando,"
+        },
+        {
+          "start": 107.19999694824219,
+          "end": 108.80000305175781,
+          "text": "praticamente all'infinito."
+        },
+        {
+          "start": 108.80000305175781,
+          "end": 115.5,
+          "text": "Perché? Perché possiamo fare questa cosa di mettere più skill una in serie all'altra e far sì che diamo un comando,"
+        },
+        {
+          "start": 115.5,
+          "end": 124.4000015258789,
+          "text": "questa prima skill parte con qualcosa, prende quella roba, la elabora, la passa a una seconda, che la elabora, che la passa a una terza e così via."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 2,
+        "time": 120.0,
+        "timestamp": "00:02:00",
+        "image": "frame_0002.jpg",
+        "reason": "periodic",
+        "ocr_text": "(°) Skill 1 (task 1) eo oo, 8 Treni premuto (Ed) ea doppo ci oppure premi (Tad 3-Tnv15) per modificare punt Concatenare le skill",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 124.4000015258789,
+          "end": 132.5,
+          "text": "Questa cosa ha una diretta conseguenza e cioè dobbiamo iniziare a ragionare in termini di moduli."
+        },
+        {
+          "start": 133.5,
+          "end": 140.39999389648438,
+          "text": "Spesso vedo la tendenza a creare delle skill come questi grossi contenitori che devono fare tante cose."
+        },
+        {
+          "start": 140.39999389648438,
+          "end": 142.89999389648438,
+          "text": "E secondo me quello è l'approccio sbagliato."
+        },
+        {
+          "start": 142.89999389648438,
+          "end": 148.39999389648438,
+          "text": "Io vi consiglio di fare il contrario, di prendere la skill e renderla quanto più minimale possibile,"
+        },
+        {
+          "start": 148.39999389648438,
+          "end": 151.8000030517578,
+          "text": "cioè fargli fare il task minimo che può eseguire."
+        },
+        {
+          "start": 151.8000030517578,
+          "end": 154.0,
+          "text": "Perché? Perché dopo andiamo a sfruttare la concatenazione."
+        },
+        {
+          "start": 154.0,
+          "end": 161.39999389648438,
+          "text": "Ho fatto questo piccolo schenino, diciamo, riassuntivo, dopo vi faccio anche un esempio, che spiega bene la cosa."
+        },
+        {
+          "start": 161.5,
+          "end": 168.8000030517578,
+          "text": "Se voi avete un grosso task ripetitivo, cioè una cosa che vi trovate a fare tutti i giorni, tutte le mattine, tutte le sere, quando finite di lavorare,"
+        },
+        {
+          "start": 168.8000030517578,
+          "end": 179.5,
+          "text": "oppure dopo ogni call, dopo ogni riunione, dopo ogni intervista con un cliente, che ne so, dopo ogni fiera, tutti i venerdì, quello che volete voi,"
+        },
+        {
+          "start": 179.5,
+          "end": 186.5,
+          "text": "avete questo grosso task, avete capito che l'ideale è utilizzare Cloud Code per automatizzarlo o semi-automatizzarlo,"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 3,
+        "time": 180.0,
+        "timestamp": "00:03:00",
+        "image": "frame_0003.jpg",
+        "reason": "periodic",
+        "ocr_text": "Ragionare în moduli inclipendeniti Che avrebbero senso anche da soli) Skill 1 Grosso Task Ripetitivo Skill 3",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 186.60000610351562,
+          "end": 195.60000610351562,
+          "text": "non pensate subito di trasformare il task in una skill unica, ma pensate a come la posso spezzettare."
+        },
+        {
+          "start": 195.60000610351562,
+          "end": 202.3000030517578,
+          "text": "Perciò vi dico qua, ragionate in moduli indipendenti, no? Indipendenti, quella parolina chiave, che avrebbero senso anche da soli."
+        },
+        {
+          "start": 202.3000030517578,
+          "end": 211.3000030517578,
+          "text": "Cioè, se io prendo questa cosa, la scorporo e la faccio in n pezzettini, quindi faccio questi tre pezzettini, questi pezzettini hanno senso anche da soli?"
+        },
+        {
+          "start": 211.3000030517578,
+          "end": 214.0,
+          "text": "Se la risposta è sì, allora quella potrebbe diventare una skill."
+        },
+        {
+          "start": 214.0,
+          "end": 219.0,
+          "text": "Vediamo un esempio, cosa intendo dire. Immaginate che ci sia questo scenario, no?"
+        },
+        {
+          "start": 219.0,
+          "end": 222.0,
+          "text": "Un scenario abbastanza realistico, che magari capita a qualcuno di voi."
+        },
+        {
+          "start": 222.0,
+          "end": 231.0,
+          "text": "Dopo ogni call devo preparare una minuta della riunione, quindi un riassunto, chiamatelo come volete, un documento, un report, della riunione per il mio capo."
+        },
+        {
+          "start": 231.0,
+          "end": 239.0,
+          "text": "Magari si deve tradurre in inglese, per qualche motivo, che ne so, perché abbiamo dei clienti fuori dall'Italia, perché abbiamo due sedi e così via."
+        },
+        {
+          "start": 239.0,
+          "end": 248.0,
+          "text": "E poi la devo esportare magari in un formato particolare, perché non mi va bene il markdown, il mio capo la vuole in html, in pdf, in word, quello che volete voi."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 4,
+        "time": 240.0,
+        "timestamp": "00:04:00",
+        "image": "frame_0004.jpg",
+        "reason": "periodic",
+        "ocr_text": "I) dopo ognì call preparare una minuta della riunione per il mio capo, tradurla în inglese, esportarla în html sul template aziendale e inviarlo via mail Crea Minuta Esporta în template aziendale",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 248.0,
+          "end": 251.0,
+          "text": "Lo devo mettere dentro il template aziendale e poi glielo devo mandare via mail."
+        },
+        {
+          "start": 251.0,
+          "end": 261.0,
+          "text": "Quello che farebbe una persona, diciamo, poco pratica di cloud code, in generale diciamo poco abituata all'idea di ragionare in termini di skill, magari farebbe una skill con tutta questa roba qua dentro."
+        },
+        {
+          "start": 261.0,
+          "end": 268.0,
+          "text": "Si metterebbe lì e con le tecniche che abbiamo visto si scrive questa skill enorme, che magari la skill funziona in questo modo."
+        },
+        {
+          "start": 268.0,
+          "end": 276.0,
+          "text": "Io ti passo la trascrizione completa della riunione, quindi proprio il transcript con il testo, chi ha detto cosa."
+        },
+        {
+          "start": 276.0,
+          "end": 289.0,
+          "text": "Tu traducimelo in inglese, mettimelo dentro il, no, prima fammi la minuta, quindi riassumimelo, mettimelo poi in inglese e poi dopo impostalo dentro un template aziendale."
+        },
+        {
+          "start": 289.0,
+          "end": 295.0,
+          "text": "Quindi farebbe tutto all'interno di una sola skill. Quello che invece vi consiglio io è di ragionare in questo modo."
+        },
+        {
+          "start": 295.0,
+          "end": 298.0,
+          "text": "Vedete questo lavoro che vi dicevo qua? No, spezzettate."
+        },
+        {
+          "start": 298.0,
+          "end": 303.0,
+          "text": "Cioè, creare una minuta è un'attività? Sì, può funzionare pure da solo. Perfetto."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 5,
+        "time": 300.0,
+        "timestamp": "00:05:00",
+        "image": "frame_0005.jpg",
+        "reason": "periodic",
+        "ocr_text": "tI] Es. dopo ogni call preparare una minuta della riunione per il mio capo, tradurla in inglese, esportarla în html sul template aziendale e inviarlo via mail Crea Minuta Esporta în template aziendale",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 303.0,
+          "end": 307.0,
+          "text": "Tradurre in inglese è un task? Sì, allora può funzionare pure da solo."
+        },
+        {
+          "start": 307.0,
+          "end": 310.0,
+          "text": "Esportare un template aziendale ha senso come attività da solo?"
+        },
+        {
+          "start": 310.0,
+          "end": 313.0,
+          "text": "Vi ricordate qua cosa ho scritto? Che avrebbero senso anche da soli."
+        },
+        {
+          "start": 313.0,
+          "end": 320.0,
+          "text": "Se la risposta è sì a queste cose, allora io me li separo. Cosa faccio? Dopo, semplicemente, li faccio lavorare in serie."
+        },
+        {
+          "start": 320.0,
+          "end": 330.0,
+          "text": "Cioè, sfrutto questa grande potenzialità del fatto di poterle concatenare e non mi faccio una skill monoblocco con dentro un casino di roba lunghissima,"
+        },
+        {
+          "start": 330.0,
+          "end": 336.0,
+          "text": "difficile da mantenere nel tempo e così via. Me le faccio piccoline e dopo le concateno."
+        },
+        {
+          "start": 336.0,
+          "end": 342.0,
+          "text": "Dopo, quando ho un task, partirà la skill che crea la minuta, che prende l'output, lo passa alla skill che traduce in inglese,"
+        },
+        {
+          "start": 342.0,
+          "end": 346.0,
+          "text": "che prende l'output e lo passa poi alla skill che crea il template aziendale."
+        },
+        {
+          "start": 346.0,
+          "end": 351.0,
+          "text": "Perché questa cosa è utile? Perché vi faccio vedere, facciamoci un esempio."
+        },
+        {
+          "start": 351.0,
+          "end": 359.0,
+          "text": "Perché una volta che ho la skill di tradurre in inglese, è vero che io come primo utilizzo di questa skill,"
+        },
+        {
+          "start": 359.0,
+          "end": 366.0,
+          "text": "cosa ho fatto qua? Mettiamoci il testo. Voglio tradurre, che ne so, le minute aziendali."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 6,
+        "time": 360.0,
+        "timestamp": "00:06:00",
+        "image": "frame_0006.jpg",
+        "reason": "periodic",
+        "ocr_text": "e 0 Ro, 0, 0, g. -. 2, 4,8, 0, è scalda» CB © © 8 SC",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 366.0,
+          "end": 371.0,
+          "text": "Aspettate che zoom un pochino se non si vede niente, no? Voglio tradurre le minuti aziendali."
+        },
+        {
+          "start": 371.0,
+          "end": 376.0,
+          "text": "Minute delle riunioni. Ok, questi sono un po' più grandi, se non si legge niente."
+        },
+        {
+          "start": 376.0,
+          "end": 379.0,
+          "text": "Uno dice, beh Raff, ma io effettivamente a me serve tradurre le minuti delle riunioni."
+        },
+        {
+          "start": 379.0,
+          "end": 387.0,
+          "text": "Sì, ma se tu ti fai questa skill genetica, magari fra cinque giorni ti rendi conto che tu devi tradurre anche i preventivi."
+        },
+        {
+          "start": 387.0,
+          "end": 396.0,
+          "text": "E quindi non vai a farti un'altra skill. Hai una skill generica abbastanza che semplicemente prende dell'input e poi ti fa dell'output."
+        },
+        {
+          "start": 396.0,
+          "end": 404.0,
+          "text": "Quindi questo lo farebbe per i preventivi. E magari dopo un mese tu ti rendi conto che devi farlo anche per, che ne so, i post-linkedin."
+        },
+        {
+          "start": 404.0,
+          "end": 410.0,
+          "text": "Questi sono tre esempi ovviamente fatti al volo. Oh, mi raccomando, questa cosa io la ripeto sempre."
+        },
+        {
+          "start": 410.0,
+          "end": 414.0,
+          "text": "Qualcuno magari si scoccerà anche di sentirmelo dire, non è che guardate questo esempio e dite,"
+        },
+        {
+          "start": 414.0,
+          "end": 420.0,
+          "text": "vabbò ma io non devo fare traduzioni in inglese perché non mi serve, vabbò ma io non le faccio le minuti delle cose."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 7,
+        "time": 420.0,
+        "timestamp": "00:07:00",
+        "image": "frame_0007.jpg",
+        "reason": "periodic",
+        "ocr_text": "dopo ognì call preparare una minuta della riunione per il mio capo, tradurla în inglese, esportarla în htwl sul template aziendale e inviarlo via mail",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 420.0,
+          "end": 428.0,
+          "text": "Questo vale per tutto. Cioè qua in generale astraete e pensate a un vostro task grosso e fate il lavoro di spezzettamento,"
+        },
+        {
+          "start": 428.0,
+          "end": 433.0,
+          "text": "immaginarlo come piccoli moduli indipendenti, perché? Perché questi moduli poi potrebbero tornare utili altrove."
+        },
+        {
+          "start": 433.0,
+          "end": 439.0,
+          "text": "Che ne so, lo stesso con il template aziendale. Cioè se io mi sono fatto questa skill, no?"
+        },
+        {
+          "start": 439.0,
+          "end": 445.0,
+          "text": "È vero che questa skill nasce, abbiamo detto, perché io la sto utilizzando per le minuti delle riunioni, no?"
+        },
+        {
+          "start": 445.0,
+          "end": 452.0,
+          "text": "Che gli do un testo e me lo metto dentro il template aziendale. Ma se io nel template aziendale ci devo mettere un'altra cosa,"
+        },
+        {
+          "start": 452.0,
+          "end": 461.0,
+          "text": "qua abbiamo detto i preventivi post-linkedin, mettiamo che nel template aziendale ci devo mettere, che ne so, le slide per eventi, ok?"
+        },
+        {
+          "start": 461.0,
+          "end": 466.0,
+          "text": "Perché pure quelle le voglio col template aziendale. Io, stessa cosa, uso la stessa skill che mi sono creato prima."
+        },
+        {
+          "start": 466.0,
+          "end": 472.0,
+          "text": "E così via all'infinito. Cioè il concetto che voglio far passare, che dopo la utilizzo quando scriviamo eccetera, ok?"
+        },
+        {
+          "start": 472.0,
+          "end": 478.0,
+          "text": "Quindi che copriamo tutte le altre casistiche. Quello che voglio far ragionare sul fatto che una volta che ce la siamo creata"
+        },
+        {
+          "start": 478.0,
+          "end": 484.0,
+          "text": "ed una volta che è abbastanza generica, la possiamo sfruttare n volte."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 8,
+        "time": 480.0,
+        "timestamp": "00:08:00",
+        "image": "frame_0008.jpg",
+        "reason": "periodic",
+        "ocr_text": "minute delle riunioni Esporta în slide per eventi template aziendale ecc. Excalidrawe",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 484.0,
+          "end": 497.0,
+          "text": "E soprattutto, ricordate questo, diciamo qua aggiungiamo un altro appunto, questa roba qua è difficile da manutenere nel tempo, ok?"
+        },
+        {
+          "start": 497.0,
+          "end": 506.0,
+          "text": "Significa che fare la manutenzione di una roba del genere è difficile. Perché? Perché è un papiello gigante, dentro magari sono 50 righe, 100 righe,"
+        },
+        {
+          "start": 506.0,
+          "end": 510.0,
+          "text": "dove voi spiegate come deve funzionare la skill, bu bu ba ba, eccetera eccetera."
+        },
+        {
+          "start": 510.0,
+          "end": 516.0,
+          "text": "E se cambiate una piccola cosa, dentro quel marasma è difficile da mantenere, da manutenere."
+        },
+        {
+          "start": 516.0,
+          "end": 521.0,
+          "text": "Invece questa roba qua è facile da manutenere nel tempo. Perché? Perché sono modulari."
+        },
+        {
+          "start": 521.0,
+          "end": 526.0,
+          "text": "Perché magari crea minuta non lo toccate mai, perché magari traduce in inglese non lo toccate mai,"
+        },
+        {
+          "start": 526.0,
+          "end": 534.0,
+          "text": "ma un giorno viene fatta una piccola modifica al template aziendale, allora voi andate lì dentro, in quella singola skill, cambiate la riga 32,"
+        },
+        {
+          "start": 534.0,
+          "end": 540.0,
+          "text": "il logo o il colore del vostro brand e l'avete diciamo aggiornata."
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 9,
+        "time": 540.0,
+        "timestamp": "00:09:00",
+        "image": "frame_0009.jpg",
+        "reason": "periodic",
+        "ocr_text": "Difficile da manutenere nel tempo Es. dopo ogni call reparare una (a della rîunione per il mio capo, tradurla în inglese, esportarla în html sul template aziendale e inviarlo via mail Crea Minuta Esporta în template aziendale Facile da manutenere nel tempo Crea Minuta",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 540.0,
+          "end": 546.0,
+          "text": "Questo vi permette di avere un sistema molto più estendibile, potenzialmente all'infinito,"
+        },
+        {
+          "start": 546.0,
+          "end": 551.0,
+          "text": "molto più facile da mantenere nel tempo e anche più facile da condividere."
+        },
+        {
+          "start": 551.0,
+          "end": 557.0,
+          "text": "Immaginate che questa skill la dovete poi dare a un vostro collaboratore, a un collega, a un cliente, a un dipendente,"
+        },
+        {
+          "start": 557.0,
+          "end": 562.0,
+          "text": "spiegare cosa fa questa skill è un casino, mentre spiegare questa è facilissimo."
+        },
+        {
+          "start": 562.0,
+          "end": 568.0,
+          "text": "Voi gli date la skill e dicete guarda questa è la nostra skill del template aziendale, deve usare questa perché è standard, la utilizziamo tutti quanti."
+        },
+        {
+          "start": 568.0,
+          "end": 573.0,
+          "text": "Quindi se tu usi questa skill viene sempre esportato nel formato corretto del nostro template."
+        },
+        {
+          "start": 573.0,
+          "end": 577.0,
+          "text": "Mi raccomando utilizzate questo approccio quando create le skill da oggi in poi."
+        }
+      ]
+    }
+  ]
+}

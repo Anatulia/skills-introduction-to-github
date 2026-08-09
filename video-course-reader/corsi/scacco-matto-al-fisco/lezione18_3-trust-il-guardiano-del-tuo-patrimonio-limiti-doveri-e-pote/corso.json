@@ -1,0 +1,363 @@
+{
+  "title": "3. Trust: il guardiano del tuo patrimonio (limiti, doveri e poteri)",
+  "sections": [
+    {
+      "keyframe": {
+        "index": 0,
+        "time": 0.0,
+        "timestamp": "00:00:00",
+        "image": "frame_0000.jpg",
+        "reason": "start",
+        "ocr_text": "",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 0.3199999928474426,
+          "end": 9.600000381469727,
+          "text": "Il trust è uno strumento molto complesso ed è utile per una destinazione, cioè è un"
+        },
+        {
+          "start": 9.600000381469727,
+          "end": 15.600000381469727,
+          "text": "patrimonio di destinazione. Gli aspetti operativi del trust possono essere"
+        },
+        {
+          "start": 15.600000381469727,
+          "end": 22.0,
+          "text": "molteplici. Quelli che voglio vedere in questo corso riguardano la pianificazione"
+        },
+        {
+          "start": 22.0,
+          "end": 27.239999771118164,
+          "text": "patrimoniale e la pianificazione successoria."
+        },
+        {
+          "start": 27.959999084472656,
+          "end": 34.560001373291016,
+          "text": "Le finalità di utilizzo del trust possono essere di tre tipi, che siano a"
+        },
+        {
+          "start": 34.560001373291016,
+          "end": 41.36000061035156,
+          "text": "servizio dell'imprenditore, a servizio della società oppure a servizio di un"
+        },
+        {
+          "start": 41.36000061035156,
+          "end": 52.84000015258789,
+          "text": "socio. Se l'imprenditore utilizza il trust, lo può utilizzare per tre finalità."
+        },
+        {
+          "start": 52.84000015258789,
+          "end": 58.880001068115234,
+          "text": "La prima come strumento di separazione della componente personale e familiare"
+        },
+        {
+          "start": 58.880001068115234,
+          "end": 64.23999786376953,
+          "text": "del patrimonio da quella dell'impresa, come una garanzia efficace per il"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 1,
+        "time": 60.0,
+        "timestamp": "00:01:00",
+        "image": "frame_0001.jpg",
+        "reason": "periodic",
+        "ocr_text": "",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 64.23999786376953,
+          "end": 69.44000244140625,
+          "text": "finanziamento bancario e di singoli progetti o di affari o come uno"
+        },
+        {
+          "start": 69.4800033569336,
+          "end": 72.5199966430664,
+          "text": "strumento di realizzo del trapasso generazionale."
+        },
+        {
+          "start": 72.5199966430664,
+          "end": 78.5199966430664,
+          "text": "Se lo utilizza la società può essere uno strumento di garanzia per i prestiti"
+        },
+        {
+          "start": 78.5199966430664,
+          "end": 85.23999786376953,
+          "text": "oppure un veicolo per realizzare delle operazioni finanziarie. Se lo utilizza"
+        },
+        {
+          "start": 85.23999786376953,
+          "end": 89.12000274658203,
+          "text": "il socio può essere uno strumento per gestire delle partecipazioni sociali,"
+        },
+        {
+          "start": 89.12000274658203,
+          "end": 93.83999633789062,
+          "text": "gestisco con un trust le mie partecipazioni in più società, oppure con"
+        },
+        {
+          "start": 93.83999633789062,
+          "end": 99.19999694824219,
+          "text": "un strumento per dare solidità o consolidare patti pari sociali."
+        },
+        {
+          "start": 99.19999694824219,
+          "end": 105.68000030517578,
+          "text": "Siamo in un contesto complesso come struttura giuridica. Nel trust ci sono tre"
+        },
+        {
+          "start": 105.68000030517578,
+          "end": 115.5999984741211,
+          "text": "figure, un disponente, un beneficiario e uno che gestisce. La prima cosa che"
+        },
+        {
+          "start": 115.5999984741211,
+          "end": 119.87999725341797,
+          "text": "dovete pensare quando costituite un trust è che voi vi spossessate dei vostri"
+        },
+        {
+          "start": 119.87999725341797,
+          "end": 124.91999816894531,
+          "text": "beni. Il 90% delle persone a cui dico guarda col trust tu ti spossessi dei"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 2,
+        "time": 120.0,
+        "timestamp": "00:02:00",
+        "image": "frame_0002.jpg",
+        "reason": "periodic",
+        "ocr_text": "",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 124.91999816894531,
+          "end": 133.39999389648438,
+          "text": "tuoi beni, rinunciano al trust. Il trust è uno strumento di natura anglosassone,"
+        },
+        {
+          "start": 133.39999389648438,
+          "end": 140.16000366210938,
+          "text": "non è normato nel codice civile italiano, quindi non è come l'SRL, l'SNC e queste"
+        },
+        {
+          "start": 140.16000366210938,
+          "end": 146.52000427246094,
+          "text": "cose, non è una società, è un qualcosa di diverso dalla società, proprio perché"
+        },
+        {
+          "start": 146.52000427246094,
+          "end": 151.27999877929688,
+          "text": "non è una società, non ha la disciplina delle società di comodo, però è soggetto"
+        },
+        {
+          "start": 151.27999877929688,
+          "end": 157.27999877929688,
+          "text": "ad una forte disciplina antiriciclaggio. Quando voi andate dal notaio per"
+        },
+        {
+          "start": 157.27999877929688,
+          "end": 160.16000366210938,
+          "text": "confluire un immobile in un trust, sappiate che c'è la segnalazione"
+        },
+        {
+          "start": 160.16000366210938,
+          "end": 168.44000244140625,
+          "text": "antiriciclaggio. Devo però dire che se fatto nei tempi, se fatto molto prima che"
+        },
+        {
+          "start": 168.44000244140625,
+          "end": 172.52000427246094,
+          "text": "possono insorgere dei problemi di natura patrimoniale, protegge. Cioè i beni nel"
+        },
+        {
+          "start": 172.52000427246094,
+          "end": 179.8800048828125,
+          "text": "trust difficili a crederli. Tra l'altro si possono mettere anche un primo"
+        },
+        {
+          "start": 179.8800048828125,
+          "end": 186.67999267578125,
+          "text": "beneficiario, un secondo beneficiario, è uno strumento molto interessante e molto"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 3,
+        "time": 180.0,
+        "timestamp": "00:03:00",
+        "image": "frame_0003.jpg",
+        "reason": "periodic",
+        "ocr_text": "",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 186.67999267578125,
+          "end": 195.1999969482422,
+          "text": "dinamico, è anche difficile da spiegare, e consente ad esempio di non disfare un"
+        },
+        {
+          "start": 195.1999969482422,
+          "end": 200.0800018310547,
+          "text": "patrimonio aggregato di singole cose importanti, collezioni, ad esempio dietro"
+        },
+        {
+          "start": 200.1199951171875,
+          "end": 206.44000244140625,
+          "text": "di me c'è, non si vede perché dietro il divano, una collezione di chitarre. Se io"
+        },
+        {
+          "start": 206.44000244140625,
+          "end": 211.8800048828125,
+          "text": "volessi non dividere questa collezione insieme alla collezione di fumetti e"
+        },
+        {
+          "start": 211.8800048828125,
+          "end": 217.0399932861328,
+          "text": "altre cose, potrei creare un trust dove all'interno ci metto un insieme di beni"
+        },
+        {
+          "start": 217.0399932861328,
+          "end": 222.75999450683594,
+          "text": "mobili che possono produrre una rendita solamente se venduti unitamente e fare"
+        },
+        {
+          "start": 222.75999450683594,
+          "end": 229.27999877929688,
+          "text": "un passaggio generazionale dei beni mobili per evitare la loro disgregazione."
+        },
+        {
+          "start": 230.0,
+          "end": 236.67999267578125,
+          "text": "Posso mettere all'interno dei trust degli immobili, se ad esempio"
+        },
+        {
+          "start": 236.67999267578125,
+          "end": 242.47999572753906,
+          "text": "devo ricevere una rendita o dei problemi, allora faccio in modo che l'immobile"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 4,
+        "time": 240.0,
+        "timestamp": "00:04:00",
+        "image": "frame_0004.jpg",
+        "reason": "periodic",
+        "ocr_text": "",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 242.47999572753906,
+          "end": 249.32000732421875,
+          "text": "prima della caduta in successione del mio antenato venga messo all'interno di"
+        },
+        {
+          "start": 249.32000732421875,
+          "end": 254.67999267578125,
+          "text": "un trust dove c'è un beneficiario, proteggo questo immobile."
+        },
+        {
+          "start": 255.67999267578125,
+          "end": 265.55999755859375,
+          "text": "E' uno strumento che può essere utilizzato accanto o in alternativa ai"
+        },
+        {
+          "start": 265.55999755859375,
+          "end": 271.4800109863281,
+          "text": "tradizionali istituti di diritto privato, come ad esempio Patria e Famiglia, Fondo"
+        },
+        {
+          "start": 271.4800109863281,
+          "end": 276.2799987792969,
+          "text": "Patrimoniale o le Holding, che sono gli altri strumenti che vediamo in maniera"
+        },
+        {
+          "start": 276.2799987792969,
+          "end": 284.44000244140625,
+          "text": "anticipata. Può essere costituito anche per testamento, dal punto di vista"
+        },
+        {
+          "start": 284.44000244140625,
+          "end": 292.2799987792969,
+          "text": "dei costi, trasferimento immobiliare costa sempre il 9 per cento, cioè dal punto di"
+        },
+        {
+          "start": 292.2799987792969,
+          "end": 295.8399963378906,
+          "text": "vista dei costi sono gli stessi, non è che cambia, è uno strumento diverso per"
+        },
+        {
+          "start": 295.8399963378906,
+          "end": 302.239990234375,
+          "text": "elasticità e forma e contenuto. Mentre la società, il Fondo Patrimoniale e il"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 5,
+        "time": 300.0,
+        "timestamp": "00:05:00",
+        "image": "frame_0005.jpg",
+        "reason": "periodic",
+        "ocr_text": "",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 302.239990234375,
+          "end": 308.0400085449219,
+          "text": "Patto di Famiglia è limitato il primo a attività di natura commerciale o di"
+        },
+        {
+          "start": 308.0400085449219,
+          "end": 313.4800109863281,
+          "text": "rendita, il Fondo Patrimoniale bisogna essere sposati, il Patto di"
+        },
+        {
+          "start": 313.4800109863281,
+          "end": 317.32000732421875,
+          "text": "Famiglia ci deve essere un'azienda, il Trust ha un contenuto elastico e"
+        },
+        {
+          "start": 317.32000732421875,
+          "end": 322.67999267578125,
+          "text": "variabile, ecco qual è la sua diversità. Quindi se io devo fare un'operazione per"
+        },
+        {
+          "start": 322.67999267578125,
+          "end": 327.32000732421875,
+          "text": "tutelare non un'azienda, non determinate situazioni, non c'è un matrimonio eccetera,"
+        },
+        {
+          "start": 327.32000732421875,
+          "end": 332.9200134277344,
+          "text": "posso avvalermi dell'istituto del Trust. Quindi è uno degli istituti che si"
+        },
+        {
+          "start": 332.9200134277344,
+          "end": 337.0799865722656,
+          "text": "utilizzano per fare la propria pianificazione patrimoniale successore,"
+        },
+        {
+          "start": 337.0799865722656,
+          "end": 343.3599853515625,
+          "text": "dal punto di vista del stretto risparmio fiscale non c'è niente."
+        }
+      ]
+    }
+  ]
+}

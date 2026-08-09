@@ -1,0 +1,348 @@
+{
+  "title": "Prendere confidenza col gestore dei pacchetti [su Windows]",
+  "sections": [
+    {
+      "keyframe": {
+        "index": 0,
+        "time": 0.0,
+        "timestamp": "00:00:00",
+        "image": "frame_0000.jpg",
+        "reason": "start",
+        "ocr_text": "2 ta * DD Bonefto | Fester integmtione Pricing The Package Manager for Windows Modern Software Automation Schedule A Demo | RESSE: Looking for Packages? D n Rf A ù \\ ù",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 0.3199999928474426,
+          "end": 5.400000095367432,
+          "text": "A questo punto uno potrebbe chiedersi, Raph, scusami, io fino a due minuti fa non sapevo"
+        },
+        {
+          "start": 5.400000095367432,
+          "end": 10.399999618530273,
+          "text": "nemmeno che esistessero le app che funzionano nel terminale, non sapevo che esisteva questo"
+        },
+        {
+          "start": 10.399999618530273,
+          "end": 17.719999313354492,
+          "text": "cioccolato per Windows. Come faccio a capire quali sono le potenzialità, diciamo, le direzioni in"
+        },
+        {
+          "start": 17.719999313354492,
+          "end": 23.360000610351562,
+          "text": "cui posso espandere il mio ambiente, il mio agente, il mio cloud code? Secondo me ci sono"
+        },
+        {
+          "start": 23.360000610351562,
+          "end": 28.520000457763672,
+          "text": "vari modi per fare questa cosa. L'ho fatto vedere anche, diciamo, nella lezione equivalente per Mac,"
+        },
+        {
+          "start": 28.760000228881836,
+          "end": 31.959999084472656,
+          "text": "perché il ragionamento è lo stesso, vi faccio solo vedere questa cosa, diciamo,"
+        },
+        {
+          "start": 31.959999084472656,
+          "end": 37.720001220703125,
+          "text": "fatta su Windows, su Chocolate. Allora, la prima cosa, la più facile, è sempre chiediamolo a,"
+        },
+        {
+          "start": 37.720001220703125,
+          "end": 43.84000015258789,
+          "text": "diciamo, a Cloud Code, perché Cloud Code sa di cosa ha bisogno per fare certe cose. E quindi"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 1,
+        "time": 40.37,
+        "timestamp": "00:00:40",
+        "image": "frame_0001.jpg",
+        "reason": "scene",
+        "ocr_text": "Claude Code",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 43.84000015258789,
+          "end": 54.0,
+          "text": "io la cosa che farei qual è? Gli dico, ora che hai Chocolate installato, diciamo che dovete"
+        },
+        {
+          "start": 54.0,
+          "end": 63.959999084472656,
+          "text": "lavorare con i video. Di cosa hai bisogno per lavorare con i video? E quindi ci facciamo"
+        },
+        {
+          "start": 63.959999084472656,
+          "end": 71.87999725341797,
+          "text": "suggerire da Cloud Code che app andiamo a installare per lavorare con i video. Diciamo,"
+        },
+        {
+          "start": 71.87999725341797,
+          "end": 76.04000091552734,
+          "text": "vediamo cosa ci dice. Allora, con Chocolate posso fare varie cose, eccetera, eccetera. Dici,"
+        },
+        {
+          "start": 76.04000091552734,
+          "end": 83.23999786376953,
+          "text": "guarda, le opzioni più comune sono FFmpeg, Handbrake e così via, VLC, eccetera. Per esempio,"
+        },
+        {
+          "start": 83.23999786376953,
+          "end": 88.4800033569336,
+          "text": "io uso tantissimo FFmpeg, che è un programma, diciamo, un piccolo software che si usa dal"
+        },
+        {
+          "start": 88.4800033569336,
+          "end": 94.76000213623047,
+          "text": "terminale, che permette di convertire, tagliare, estrarre audio, cambiare, che ne so, formato,"
+        },
+        {
+          "start": 94.76000213623047,
+          "end": 100.0,
+          "text": "risoluzione, bitrate e così via. Quindi, se io adesso dovessi fare qualcosa con i video,"
+        },
+        {
+          "start": 100.0,
+          "end": 111.55999755859375,
+          "text": "gli direi come si installa FFmpeg. Diciamo, ho messo un F di troppo, perdonatemi. Come"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 2,
+        "time": 100.37,
+        "timestamp": "00:01:40",
+        "image": "frame_0002.jpg",
+        "reason": "periodic",
+        "ocr_text": "Sr edit tropici srt co posso fare pe fap do E cosa posi lare perte ME Set up io ting too. x Set up video editing ik with chcolatey a che hi chocolate stai, iosa hi bisogno pe care con video è Rand ieri ® ottimo, cn Chacalitey stlito adesso possiamo aggungeeacimente gli strumenti ch servono per cr cn deo. Dimmi pa osa vu ae, csi installamo slo essenze e nn nempiamo ì E 1. Frmpeg — i cotlimo izzro” de video (ia di comando, ma lo gesto i) © stare ud, comprimere, cambiare richuone 2 È la base serve quasi sempre, anche ito le quinte i ti programmi 2 Handake — trici rca per conveniane/compressione iù semplice se vi cicare invece ci dmistuzioni ep — scrcar vio ca ou 4 MVTOOINI SL VIE — riprodurre praticamente quali formato video (Ch tipo di fever dei fa o] deo (E taglie Ch, comprimere. cova (cia scared oieml morire, sggongie sota Da dove ariano video e dove devono finire? e. eitazini al leon da ciicare su Vutute, le cricca comerie, ecc) \"prefer programen on finestre e Bottoni 0 tiva bene se gestisco 10 tutto na di comando È; tt tt Agent",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 111.55999755859375,
+          "end": 115.76000213623047,
+          "text": "si installa FFmpeg? Vabbè, l'ha capito, adesso ci darà lui il comando. E a questo punto,"
+        },
+        {
+          "start": 115.76000213623047,
+          "end": 121.55999755859375,
+          "text": "le strade che abbiamo sono due. O prendo il comando, mi apro la mia bella, diciamo,"
+        },
+        {
+          "start": 121.55999755859375,
+          "end": 125.83999633789062,
+          "text": "PowerShell e lo lancio là dentro. Oppure gli dico, tu sei in grado, perché come abbiamo detto,"
+        },
+        {
+          "start": 125.83999633789062,
+          "end": 131.9199981689453,
+          "text": "a volte lui lo sa fare. Qua lo vuole lanciare subito. Controllo prima se è già installato."
+        },
+        {
+          "start": 131.9199981689453,
+          "end": 136.8800048828125,
+          "text": "Vabbè, diciamo, qua non sta facendo l'installazione. Dice, FFmpeg non è installato. Dice,"
+        },
+        {
+          "start": 136.8800048828125,
+          "end": 140.8800048828125,
+          "text": "procedo con l'installazione. Qua no, lo fermiamo. Ma comunque il comando che avrebbe dato era,"
+        },
+        {
+          "start": 140.9199981689453,
+          "end": 146.52000427246094,
+          "text": "vedete, cioco install FFmpeg. Quindi o gli diciamo, dammi le istruzioni, me lo faccio io nel terminale,"
+        },
+        {
+          "start": 146.52000427246094,
+          "end": 151.16000366210938,
+          "text": "o gli lo facciamo installare. Fermiamolo, perché in questo caso non vogliamo installarlo. È da"
+        },
+        {
+          "start": 151.16000366210938,
+          "end": 156.44000244140625,
+          "text": "solo per darvi il concetto. Quindi apro Cloud Code, gli spiego cosa devo fare. Attenzione,"
+        },
+        {
+          "start": 156.44000244140625,
+          "end": 161.52000427246094,
+          "text": "parto dal problema, non dallo strumento, non dalla tecnologia, non dall'app, che è l'errore"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 3,
+        "time": 160.37,
+        "timestamp": "00:02:40",
+        "image": "frame_0003.jpg",
+        "reason": "periodic",
+        "ocr_text": "E Set up video editing took with chocolatey î cosa posso fare per_te pdf renna hs chocolate instlato, i cosa hi bisogno per lavorare coni video. By — scaricare video ca ouTube e centinaia di atri si 4 MEVTOoIIx— geste tacco audi 5. VILC— riprodurre praticamente quali formato video n Per tati meglio, dimm 2, Da dive co | eg È va dev fe? fi eg dl lfono di aire n) ViT le di come 0a i GE è. Con Chocoliey è una sl figa Controllo prima se il installo; pi procedo. a A è RowerShell cui * RowerShell © rareonest (|",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 161.52000427246094,
+          "end": 167.67999267578125,
+          "text": "che fanno tutti. E quindi gli dice, Raph, ma tu hai installato, che ne so, Pandoc prima. No,"
+        },
+        {
+          "start": 167.67999267578125,
+          "end": 172.0,
+          "text": "io come faccio a sapere che mi serve Pandoc? Ma tu non devi sapere se ti serve Pandoc o FFmpeg."
+        },
+        {
+          "start": 172.0,
+          "end": 177.39999389648438,
+          "text": "Tu devi sapere qual è il tuo problema. Voglio tagliare dei video. Lo sai fare, Cloud Code? E"
+        },
+        {
+          "start": 177.39999389648438,
+          "end": 184.27999877929688,
+          "text": "lui ti dirà, sì, ma ho bisogno di FFmpeg. Ho un sacco di file word che devo convertire, che ne so,"
+        },
+        {
+          "start": 184.27999877929688,
+          "end": 189.9600067138672,
+          "text": "100 file word devo convertire velocemente in pdf. Lo sai fare? Sì, installami Pandoc. E così via,"
+        },
+        {
+          "start": 189.9600067138672,
+          "end": 194.67999267578125,
+          "text": "no? E questo è il tipo di rapporto che dovete creare. L'altra strada qual è? La seconda"
+        },
+        {
+          "start": 194.67999267578125,
+          "end": 199.27999877929688,
+          "text": "alternativa. Scegliete voi quella che preferite, anche se vi consiglio sempre di usare quella"
+        },
+        {
+          "start": 199.27999877929688,
+          "end": 205.39999389648438,
+          "text": "dentro Cloud Code. Andate sul sito di Cioccolati, che vi ho messo nelle risorse, diciamo, di questo"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 4,
+        "time": 202.17,
+        "timestamp": "00:03:22",
+        "image": "frame_0004.jpg",
+        "reason": "scene",
+        "ocr_text": "The Package Manager for Windows Modern Software Automation | Schedule A Demo Looking for Packages? T I è i A",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 205.39999389648438,
+          "end": 210.32000732421875,
+          "text": "capitolo. E qua sulla home page c'è questo link che dice, vuoi vedere tutti i vari pacchetti?"
+        },
+        {
+          "start": 210.32000732421875,
+          "end": 216.63999938964844,
+          "text": "Voi ci cliccate sopra e vi apre questa lista infinita. In questo momento, cioè nel momento in"
+        },
+        {
+          "start": 216.63999938964844,
+          "end": 222.9600067138672,
+          "text": "cui sto registrando, ci sono 11.067 Cose che potete installare. Avete capito quanto potete"
+        },
+        {
+          "start": 222.9600067138672,
+          "end": 229.1999969482422,
+          "text": "espandere questo sistema all'infinito? Vedete, già qua si vede per esempio Adobe, Acrobat e così"
+        },
+        {
+          "start": 229.1999969482422,
+          "end": 236.44000244140625,
+          "text": "via. Se io per esempio qua sopra vado e scrivo FFmpeg, che è il pacchettino che abbiamo visto"
+        },
+        {
+          "start": 236.44000244140625,
+          "end": 242.1199951171875,
+          "text": "prima. Adesso qua nella lista, vedete? Qua sotto nella lista ci abbiamo FFmpeg. Ovviamente io qua"
+        },
+        {
+          "start": 242.1199951171875,
+          "end": 246.75999450683594,
+          "text": "posso anche scrivere un'altra cosa. Non è che forse devo conoscere FFmpeg. Potrei dire per esempio"
+        },
+        {
+          "start": 246.75999450683594,
+          "end": 255.75999450683594,
+          "text": "che voi lavorate tanto con, che ne so, i file mp3. Quindi cancello qua e scrivo mp3 e vedo cosa ci"
+        },
+        {
+          "start": 255.75999450683594,
+          "end": 260.760009765625,
+          "text": "sono come alternative. Ok? Do invio e vedo cosa c'è come alternative all'interno. Oppure, che ne so,"
+        },
+        {
+          "start": 260.760009765625,
+          "end": 268.0400085449219,
+          "text": "ancora meglio, invece di mp3 scrivo audio e vedo cosa sono i pacchetti legati all'audio. Me li"
+        }
+      ]
+    },
+    {
+      "keyframe": {
+        "index": 5,
+        "time": 262.17,
+        "timestamp": "00:04:22",
+        "image": "frame_0005.jpg",
+        "reason": "periodic",
+        "ocr_text": "WES W=TE: - 0 x ‘ Gt communiiehocelatezorg/psctagee a © tyta of Chocolatay goodness! Explore cur ivestream events now Main © Community = Doc Giog intatti | @- @ bearfh packages or get suggestions Io) size tagzencivat naboceaiae There are 11067 Stat © Cico view search help and erampie». res EB to 0a ul each sett a suggest beton I Reset Fiters Normat View sugge Software Authors Courses \"= A community Packag ii rogna ui out use ofthe packages On | mpitag 5708 aonionde repository and unrllbiity things Chocolatey! Eam badge rr sof 8; eine 5 ou lam tough Interactive ine 119 mprinstali È tal course BI Sadodercobat mpc-hccisid2 168 (679,988,264 Downi Views printsInand A | mpcihe Tai O ie lee mark russinovich » 4 aviserve gmbh jetbrains I ®Chocolatey2.71 (G78,686,222 Downloads 3 i 100000G8880 = n 2 ©",
+        "description": ""
+      },
+      "transcript": [
+        {
+          "start": 268.0400085449219,
+          "end": 271.3599853515625,
+          "text": "vado a vedere e dico, ah, questo pacchetto fa questa cosa qua. È proprio quello che mi serve a me. Per esempio"
+        },
+        {
+          "start": 271.3599853515625,
+          "end": 276.6000061035156,
+          "text": "questo autoconverter. Magari vi converte tra i formati e così via. Quindi le due strade sono o"
+        },
+        {
+          "start": 276.6000061035156,
+          "end": 282.79998779296875,
+          "text": "aprite CloudCode, chiedete di farvi guidare, quindi nella scelta dell'app da installare e poi"
+        },
+        {
+          "start": 282.79998779296875,
+          "end": 287.67999267578125,
+          "text": "nell'installazione che fate voi o fate fare CloudCode, oppure andate alla fonte, quindi nei pacchetti di"
+        },
+        {
+          "start": 287.67999267578125,
+          "end": 292.4800109863281,
+          "text": "cioccolate e in questo catalogo enorme, tipo vinili, vi mettete a scrollare fino a che non"
+        },
+        {
+          "start": 292.4800109863281,
+          "end": 297.67999267578125,
+          "text": "trovate cose interessanti. Ok? Può sembrare strano all'inizio. Basta prenderci un po' di confidenza,"
+        },
+        {
+          "start": 297.67999267578125,
+          "end": 303.20001220703125,
+          "text": "ma avete capito che potete installare migliaia di cose e quelle sono tutte capacità che state"
+        },
+        {
+          "start": 303.20001220703125,
+          "end": 305.1199951171875,
+          "text": "dando al vostro CloudCode."
+        }
+      ]
+    }
+  ]
+}
