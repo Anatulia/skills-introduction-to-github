@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#16110c"/>
+  <circle cx="256" cy="256" r="150" fill="#4a3623" stroke="#2c2013" stroke-width="8"/>
+  <circle cx="256" cy="256" r="118" fill="#5d4630" opacity="0.6"/>
+  <g>
+    <circle cx="256" cy="86" r="34" fill="#e07a5f"/>
+    <circle cx="403" cy="171" r="34" fill="#81b29a"/>
+    <circle cx="403" cy="341" r="34" fill="#f2cc8f"/>
+    <circle cx="256" cy="426" r="34" fill="#7d9dd1"/>
+    <circle cx="109" cy="341" r="34" fill="#c77dbb"/>
+    <circle cx="109" cy="171" r="34" fill="#6fc2c9"/>
+  </g>
+  <text x="256" y="292" font-family="system-ui, sans-serif" font-size="110" text-anchor="middle">🍷</text>
+</svg>
